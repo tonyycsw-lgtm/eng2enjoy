@@ -6642,6 +6642,8 @@ function resetQuiz() {
 
         function stopCurrentAudio(keepSeq) {
             try { if ('speechSynthesis' in window) window.speechSynthesis.cancel(); } catch (err) {}
+            // 停聆聽廣播稿播放（timer / audio / 波形 / 高亮），保證全局同時只有一個音頻
+            try { if (typeof stopReadingPlayback === 'function') stopReadingPlayback(); } catch (err) {}
             if (!keepSeq) currentParagraphSeq = null;
             if (currentSongAudio) {
                 try { currentSongAudio.pause(); } catch (err) {}
@@ -8011,6 +8013,7 @@ function resetQuiz() {
 
         // 整段播放：本地音頻優先（audioDir + key），失敗改用瀏覽器 TTS 全文
         function playFullLocal() {
+            stopCurrentAudio();
             const script = (LESSON.listening && LESSON.listening.script) || {};
             readerState.segments = buildSegments(script);
             if (!readerState.segments.length) return;
@@ -8042,7 +8045,7 @@ function resetQuiz() {
         // 逐句播放（TTS）
         function playSegmentTTS(idx) {
             if (!readerState.segments.length || idx < 0 || idx >= readerState.segments.length) return;
-            stopReadingPlayback();
+            stopCurrentAudio();
             readerState.playing = true;
             setWaveOn(true);
             updateReaderPlayBtn();
