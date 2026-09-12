@@ -2384,6 +2384,62 @@
                 top: 90px;
             }
         }
+        /* ===== 手機豎屏修復：強制容器收縮，防止佈局 500px 溢出 ===== */
+        @media (max-width: 600px) {
+            .content-area,
+            .sidebar,
+            .tab-container,
+            .top-progress,
+            .unit-panel,
+            .tab-panel {
+                width: 100%;
+                max-width: 100%;
+                min-width: 0;
+            }
+            .content-area {
+                flex: 1 1 0%;
+            }
+            /* 長文字防溢出 */
+            body, p, h1, h2, h3, h4, h5,
+            .tab, .blank-sentence, .blank-item, .quiz-question, .quiz-option,
+            .reader-sentence, .reader-script, .lyrics-container, .song-title,
+            .paragraph-container, .match-item, .drag-item, .fact-opinion-table,
+            .grammar-item, .grammar-rule, .text-type-box, .diary-entry,
+            .listening-para, .speaking-dialog, .sidebar, .unit-content,
+            .top-progress-info, .top-progress-hint {
+                overflow-wrap: break-word;
+            }
+            /* 表格窄屏橫向捲動 */
+            .fact-opinion-table {
+                display: block;
+                overflow-x: auto;
+                white-space: nowrap;
+            }
+            .fact-opinion-table {
+                min-width: 0 !important;
+                width: 100%;
+            }
+        }
+        /* ===== 手機豎屏修復二：填空容器與活動區塊收縮 ===== */
+        @media (max-width: 600px) {
+            .fill-blank-container {
+                grid-template-columns: 1fr;
+            }
+            .activity-section,
+            .listening-section,
+            .quiz-section,
+            .fact-opinion-section,
+            .grammar-section {
+                padding-left: 12px;
+                padding-right: 12px;
+            }
+            .activity-container > div,
+            .tab-content > div,
+            .tab-panel > div {
+                max-width: 100%;
+            }
+        }
+        }
     </style>
 <body>
     <div id="loadError" style="display:none; position:fixed; top:0; left:0; right:0; background:#c0392b; color:#fff; padding:16px 20px; text-align:center; z-index:2000; font-size:1.05rem; line-height:1.5;">
