@@ -1,0 +1,217 @@
+{
+  "meta": {
+    "pageTitleTag": "Unit 5：A kind-hearted doctor（善良的醫生）- 小學四年級英文互動練習（Book 4B）",
+    "headerIcon": "fa-heart-pulse",
+    "title": "小學四年級英文（Book 4B）",
+    "subtitle": "Unit 5：A kind-hearted doctor（善良的醫生）",
+    "storageKey": "p4_ete_book4b_unit5",
+    "totalPractice": 8,
+    "audioDir": "audio/4B/Unit5"
+  },
+  "flashcards": {
+    "pages": 4,
+    "intro": "點擊卡片查看例句，點擊音頻按鈕聆聽發音：",
+    "cards": [
+      {"page": 1, "word": "volunteer", "meaning": "志願者；自願做", "icon": "fa-hands-helping", "audio": "volunteer", "example": "Dr Lee joined a volunteer programme to help the sick and the poor in Cambodia.", "translation": "李醫生參加了一個志願者計劃，去柬埔寨幫助病人和窮人。", "exampleAudio": "volunteer_example", "pairs": [{"en": "volunteer programme", "zh": "志願者計劃"}, {"en": "the sick and the poor", "zh": "病人和窮人"}]},
+      {"page": 1, "word": "itinerary", "meaning": "行程表", "icon": "fa-map", "audio": "itinerary", "example": "An itinerary is a list of activities of an event. It usually includes times and dates.", "translation": "行程表是活動的安排表，通常包括時間和日期。", "exampleAudio": "itinerary_example", "pairs": [{"en": "itinerary", "zh": "行程表"}, {"en": "a list of activities", "zh": "活動安排表"}]},
+      {"page": 1, "word": "arrive", "meaning": "到達", "icon": "fa-plane-arrival", "audio": "arrive", "example": "We arrived in Cambodia and met Dr Smith and Dr Dickens.", "translation": "我們到達柬埔寨，見到了 Smith 醫生和 Dickens 醫生。", "exampleAudio": "arrive_example", "pairs": [{"en": "arrived in Cambodia", "zh": "到達柬埔寨"}]},
+      {"page": 1, "word": "village", "meaning": "村莊", "icon": "fa-house", "audio": "village", "example": "You are going to visit two villages, a hospital and a school.", "translation": "你們將要參觀兩個村莊、一間醫院和一間學校。", "exampleAudio": "village_example", "pairs": [{"en": "visit two villages", "zh": "參觀兩個村莊"}]},
+      {"page": 2, "word": "distribute", "meaning": "分發", "icon": "fa-hand-holding-heart", "audio": "distribute", "example": "We distributed books and stationery to students in a local school.", "translation": "我們把書和文具分發給當地學校的學生。", "exampleAudio": "distribute_example", "pairs": [{"en": "distributed books", "zh": "分發書本"}, {"en": "stationery", "zh": "文具"}]},
+      {"page": 2, "word": "transport", "meaning": "運送", "icon": "fa-truck", "audio": "transport", "example": "We transported some medical supplies to a new hospital in Turi.", "translation": "我們把一些醫療物資運送到 Turi 的新醫院。", "exampleAudio": "transport_example", "pairs": [{"en": "transported", "zh": "運送"}, {"en": "medical supplies", "zh": "醫療物資"}]},
+      {"page": 2, "word": "repair", "meaning": "修理", "icon": "fa-wrench", "audio": "repair", "example": "We helped repair a broken water tank.", "translation": "我們幫忙修理一個破損的水箱。", "exampleAudio": "repair_example", "pairs": [{"en": "repair a broken water tank", "zh": "修理破損的水箱"}]},
+      {"page": 2, "word": "injection", "meaning": "注射；打針", "icon": "fa-syringe", "audio": "injection", "example": "We helped them give the children injections.", "translation": "我們幫他們給孩子們打針。", "exampleAudio": "injection_example", "pairs": [{"en": "give injections", "zh": "打針"}]},
+      {"page": 3, "word": "exhausting", "meaning": "令人筋疲力盡的", "icon": "fa-battery-empty", "audio": "exhausting", "example": "It was a long, exhausting ride.", "translation": "那是一段漫長、令人筋疲力盡的車程。", "exampleAudio": "exhausting_example", "pairs": [{"en": "exhausting", "zh": "令人筋疲力盡的"}]},
+      {"page": 3, "word": "charming", "meaning": "迷人的；可愛的", "icon": "fa-star", "audio": "charming", "example": "The children gave us some charming flowers.", "translation": "孩子們送給我們一些可愛的花。", "exampleAudio": "charming_example", "pairs": [{"en": "charming flowers", "zh": "可愛的花"}]},
+      {"page": 4, "word": "challenging", "meaning": "具挑戰性的", "icon": "fa-mountain", "audio": "challenging", "example": "It was rainy, so it was challenging for the minibus driver.", "translation": "天在下雨，所以對小巴司機來說很具挑戰性。", "exampleAudio": "challenging_example", "pairs": [{"en": "challenging", "zh": "具挑戰性的"}]},
+      {"page": 4, "word": "welcoming", "meaning": "熱情好客的", "icon": "fa-heart", "audio": "welcoming", "example": "The villagers of Shengla are welcoming.", "translation": "勝拉村（Shengla）的村民很熱情好客。", "exampleAudio": "welcoming_example", "pairs": [{"en": "welcoming", "zh": "熱情好客的"}]}
+    ]
+  },
+  "reading": {
+    "title": "A kind-hearted doctor（Dr Lee 的柬埔寨之旅）",
+    "icon": "fa-heart-pulse",
+    "intro": "李醫生參加了志願者計劃，到柬埔寨幫助病人和窮人。閱讀官方行程表和她的博客日記：",
+    "paragraphs": [
+      {"id": "t1", "text": "Dr Lee joined a volunteer programme to help the sick and the poor in Cambodia.<br>6th May 20XX<br>I am going to visit Cambodia for the first time. I will update my blog every day so that you know every detail of the trip. I am going to help some people and make some new friends. I cannot wait for the trip.", "translation": "李醫生參加了一個志願者計劃，到柬埔寨幫助病人和窮人。<br>20XX 年 5 月 6 日<br>我第一次去柬埔寨。我會每天更新博客，讓你們知道旅程的每個細節。我會幫助一些人並結交新朋友。我已經等不及這次旅程了。", "pairs": [{"en": "volunteer programme", "zh": "志願者計劃"}, {"en": "update my blog", "zh": "更新我的博客"}, {"en": "every detail of the trip", "zh": "旅程的每個細節"}, {"en": "I cannot wait for the trip", "zh": "我已經等不及這次旅程"}], "sentences": ["Dr Lee joined a volunteer programme to help the sick and the poor in Cambodia.", "6th May 20XX", "I am going to visit Cambodia for the first time.", "I will update my blog every day so that you know every detail of the trip.", "I am going to help some people and make some new friends.", "I cannot wait for the trip."], "translation_sentences": ["李醫生參加了一個志願者計劃，到柬埔寨幫助病人和窮人。", "20XX 年 5 月 6 日", "我第一次去柬埔寨。", "我會每天更新博客，讓你們知道旅程的每個細節。", "我會幫助一些人並結交新朋友。", "我已經等不及這次旅程了。"]},
+      {"id": "t2", "text": "This is the official itinerary:<br>Itinerary for Southeast Asia Medical Outreach Programme (SAMOP)<br>Dear Volunteers,<br>Thank you for joining the upcoming SAMOP tour on 12th-18th May. Please read the itinerary carefully. You are going to visit two villages, a hospital and a school.<br>See you in Cambodia!<br>Yours sincerely,<br>Dr Jonathan Kim, Trip Leader", "translation": "這是官方行程表：<br>東南亞醫療外展計劃（SAMOP）行程表<br>親愛的志願者們：<br>感謝你們參加 5 月 12 日至 18 日即將來臨的 SAMOP 之旅。請仔細閱讀行程表。你們將要參觀兩個村莊、一間醫院和一間學校。<br>柬埔寨見！<br>此致敬禮，<br>Jonathan Kim 醫生，領隊", "pairs": [{"en": "official itinerary", "zh": "官方行程表"}, {"en": "the upcoming SAMOP tour", "zh": "即將來臨的 SAMOP 之旅"}, {"en": "You are going to visit", "zh": "你們將要參觀"}, {"en": "Trip Leader", "zh": "領隊"}], "sentences": ["This is the official itinerary:", "Itinerary for Southeast Asia Medical Outreach Programme (SAMOP)", "Dear Volunteers,", "Thank you for joining the upcoming SAMOP tour on 12th-18th May.", "Please read the itinerary carefully.", "You are going to visit two villages, a hospital and a school.", "See you in Cambodia!", "Yours sincerely,", "Dr Jonathan Kim, Trip Leader"], "translation_sentences": ["這是官方行程表：", "東南亞醫療外展計劃（SAMOP）行程表", "親愛的志願者們：", "感謝你們參加 5 月 12 日至 18 日即將來臨的 SAMOP 之旅。", "請仔細閱讀行程表。", "你們將要參觀兩個村莊、一間醫院和一間學校。", "柬埔寨見！", "此致敬禮，", "Jonathan Kim 醫生，領隊"]},
+      {"id": "t3", "text": "Day 1: I arrived in Cambodia and met Dr Smith and Dr Dickens, who were also volunteers. We learned some basic Cambodian before we went to bed.<br>Day 2: A minibus picked us up at six forty-five in the morning. It was a long, exhausting ride. We finally arrived in Tani. We started taking care of the sick villagers right away.", "translation": "第 1 天：我抵達柬埔寨，見到了同樣是志願者的 Smith 醫生和 Dickens 醫生。睡前我們學了一些基本柬埔寨語。<br>第 2 天：早上六時四十五分，一輛小巴來接我們。那是一段漫長而令人筋疲力盡的車程。我們終於到達 Tani。我們馬上開始照顧生病的村民。", "pairs": [{"en": "basic Cambodian", "zh": "基本柬埔寨語"}, {"en": "picked us up", "zh": "來接我們"}, {"en": "six forty-five", "zh": "六時四十五分"}, {"en": "exhausting ride", "zh": "令人筋疲力盡的車程"}, {"en": "taking care of the sick villagers", "zh": "照顧生病的村民"}, {"en": "right away", "zh": "馬上"}], "sentences": ["Day 1: I arrived in Cambodia and met Dr Smith and Dr Dickens, who were also volunteers.", "We learned some basic Cambodian before we went to bed.", "Day 2: A minibus picked us up at six forty-five in the morning.", "It was a long, exhausting ride.", "We finally arrived in Tani.", "We started taking care of the sick villagers right away."], "translation_sentences": ["第 1 天：我抵達柬埔寨，見到了同樣是志願者的 Smith 醫生和 Dickens 醫生。", "睡前我們學了一些基本柬埔寨語。", "第 2 天：早上六時四十五分，一輛小巴來接我們。", "那是一段漫長而令人筋疲力盡的車程。", "我們終於到達 Tani。", "我們馬上開始照顧生病的村民。"]},
+      {"id": "t4", "text": "Day 3: We helped repair a broken water tank. Dr Dickens was not only a good doctor but also a talented plumber!<br>Day 4: We left Tani for Turi. It was another long journey. It was rainy, so it was challenging for the minibus driver. It was already ten past eleven at night when we reached Turi.", "translation": "第 3 天：我們幫忙修理一個破損的水箱。Dickens 醫生不僅是位好醫生，還是位有才華的水管工！<br>第 4 天：我們離開 Tani 前往 Turi。又是一段長途旅程。天在下雨，所以對小巴司機來說很具挑戰性。我們到達 Turi 時已是晚上十一時十分。", "pairs": [{"en": "repair a broken water tank", "zh": "修理破損的水箱"}, {"en": "not only ... but also ...", "zh": "不僅…而且…"}, {"en": "a talented plumber", "zh": "有才華的水管工"}, {"en": "left Tani for Turi", "zh": "離開 Tani 前往 Turi"}, {"en": "challenging", "zh": "具挑戰性的"}, {"en": "ten past eleven at night", "zh": "晚上十一時十分"}], "sentences": ["Day 3: We helped repair a broken water tank.", "Dr Dickens was not only a good doctor but also a talented plumber!", "Day 4: We left Tani for Turi.", "It was another long journey.", "It was rainy, so it was challenging for the minibus driver.", "It was already ten past eleven at night when we reached Turi."], "translation_sentences": ["第 3 天：我們幫忙修理一個破損的水箱。", "Dickens 醫生不僅是位好醫生，還是位有才華的水管工！", "第 4 天：我們離開 Tani 前往 Turi。", "又是一段長途旅程。", "天在下雨，所以對小巴司機來說很具挑戰性。", "我們到達 Turi 時已是晚上十一時十分。"]},
+      {"id": "t5", "text": "Day 5: We transported some medical supplies to a new hospital in Turi. There was not enough medicine, so the local doctors were happy to receive the new supplies from us. We helped them give the children injections.<br>Day 6: We distributed books and stationery to students in a local school. The children gave us some charming flowers and performed an amazing dance. In the evening, we had dinner with the village elders.", "translation": "第 5 天：我們把一些醫療物資運送到 Turi 的新醫院。那裡的藥不夠，所以當地醫生很高興收到我們帶來的新物資。我們幫他們給孩子們打針。<br>第 6 天：我們把書和文具分發給當地學校的學生。孩子們送給我們可愛的花，並表演了精彩的舞蹈。晚上，我們和村裡的長輩們共進晚餐。", "pairs": [{"en": "transported some medical supplies", "zh": "運送一些醫療物資"}, {"en": "not enough medicine", "zh": "藥不夠"}, {"en": "give the children injections", "zh": "給孩子們打針"}, {"en": "distributed books and stationery", "zh": "分發書和文具"}, {"en": "charming flowers", "zh": "可愛的花"}, {"en": "performed an amazing dance", "zh": "表演精彩的舞蹈"}, {"en": "village elders", "zh": "村裡的長輩"}], "sentences": ["Day 5: We transported some medical supplies to a new hospital in Turi.", "There was not enough medicine, so the local doctors were happy to receive the new supplies from us.", "We helped them give the children injections.", "Day 6: We distributed books and stationery to students in a local school.", "The children gave us some charming flowers and performed an amazing dance.", "In the evening, we had dinner with the village elders."], "translation_sentences": ["第 5 天：我們把一些醫療物資運送到 Turi 的新醫院。", "那裡的藥不夠，所以當地醫生很高興收到我們帶來的新物資。", "我們幫他們給孩子們打針。", "第 6 天：我們把書和文具分發給當地學校的學生。", "孩子們送給我們可愛的花，並表演了精彩的舞蹈。", "晚上，我們和村裡的長輩們共進晚餐。"]},
+      {"id": "t6", "text": "Day 7: It was my last day in Cambodia today. We visited a wonderful waterfall in the morning! After that, I said goodbye to my new friends and boarded the plane back to Hong Kong.", "translation": "第 7 天：今天是我在柬埔寨的最後一天。早上我們參觀了一個壯麗的瀑布！之後，我和新朋友們道別，登上返回香港的飛機。", "pairs": [{"en": "a wonderful waterfall", "zh": "壯麗的瀑布"}, {"en": "said goodbye to", "zh": "向…道別"}, {"en": "boarded the plane", "zh": "登上飛機"}], "sentences": ["Day 7: It was my last day in Cambodia today.", "We visited a wonderful waterfall in the morning!", "After that, I said goodbye to my new friends and boarded the plane back to Hong Kong."], "translation_sentences": ["第 7 天：今天是我在柬埔寨的最後一天。", "早上我們參觀了一個壯麗的瀑布！", "之後，我和新朋友們道別，登上返回香港的飛機。"]}
+    ]
+  },
+  "sayItRight": {
+    "title": "SAY IT RIGHT (short i /ɪ/)：短音 i",
+    "icon": "fa-microphone-alt",
+    "sentences": [
+      {"id": "s1", "text": "Bill visited the villagers in Timi.", "translation": "比爾拜訪了 Timi 的村民。（Bill / Timi 中的 i 讀短音 /ɪ/）", "pairs": [{"en": "Bill", "zh": "比爾"}, {"en": "Timi", "zh": "Timi（地名）"}]},
+      {"id": "s2", "text": "Gill distributed gifts to the children at the community centre.", "translation": "吉爾在社區中心把禮物分發給孩子們。（Gill / gifts / children 中的 i 讀短音 /ɪ/）", "pairs": [{"en": "Gill", "zh": "吉爾"}, {"en": "distributed gifts", "zh": "分發禮物"}]}
+    ]
+  },
+  "listening": {
+    "title": "聆聽練習：社區中心行程",
+    "icon": "fa-headphones",
+    "description": "孩子們將和李醫生一起參觀社區中心。聆聽電話通話，完成行程表：",
+    "mode": "blank",
+    "script": {
+      "title": "Visit to Good Hope Community Centre（探訪善望社區中心）",
+      "audio": "listening_4b5",
+      "text": "Good morning, Good Hope Community Centre. May I help you? Hello, this is Miss Chan from Smart Primary School. We are going to visit your centre on 12th June. Let me tell you our itinerary. At ten twenty, we will arrive at the centre. Then at eleven thirty-five, we will sing songs and play games with the children. What time is lunch? Lunch is at half past twelve. After lunch, at one twenty, the children are going to paint a wall in the art room. Then at two twenty-five, we are going to give out snacks to the children. At three o'clock, we will watch a performance. Finally, we will leave the community centre at half past three. Thank you, Miss Chan. See you on the twelfth!",
+      "zh": "早上好，善望社區中心。有什麼可以幫到你？<br>你好，我是天才小學的陳小姐。我們將於 6 月 12 日參觀你們的中心。讓我告訴你我們的行程。<br>上午十時二十分，我們到達中心。<br>然後上午十一時三十五分，我們會和孩子們一起唱歌和玩遊戲。<br>午餐是甚麼時間？<br>午餐是十二時三十分。<br>午餐後，下午一時二十分，孩子們會在美術室粉刷一面牆。<br>然後下午二時二十五分，我們會向孩子們派發小吃。<br>下午三時，我們會觀看表演。<br>最後，我們會在下午三時三十分離開社區中心。<br>謝謝你，陳小姐。十二號見！",
+      "segments": [
+        {"en": "Good morning, Good Hope Community Centre. May I help you?", "zh": "早上好，善望社區中心。有什麼可以幫到你？"},
+        {"en": "Hello, this is Miss Chan from Smart Primary School. We are going to visit your centre on 12th June.", "zh": "你好，我是天才小學的陳小姐。我們將於 6 月 12 日參觀你們的中心。"},
+        {"en": "Let me tell you our itinerary. At ten twenty, we will arrive at the centre.", "zh": "讓我告訴你我們的行程。上午十時二十分，我們到達中心。"},
+        {"en": "Then at eleven thirty-five, we will sing songs and play games with the children.", "zh": "然後上午十一時三十五分，我們會和孩子們一起唱歌和玩遊戲。"},
+        {"en": "What time is lunch? Lunch is at half past twelve.", "zh": "午餐是甚麼時間？午餐是十二時三十分。"},
+        {"en": "After lunch, at one twenty, the children are going to paint a wall in the art room.", "zh": "午餐後，下午一時二十分，孩子們會在美術室粉刷一面牆。"},
+        {"en": "Then at two twenty-five, we are going to give out snacks to the children.", "zh": "然後下午二時二十五分，我們會向孩子們派發小吃。"},
+        {"en": "At three o'clock, we will watch a performance.", "zh": "下午三時，我們會觀看表演。"},
+        {"en": "Finally, we will leave the community centre at half past three.", "zh": "最後，我們會在下午三時三十分離開社區中心。"},
+        {"en": "Thank you, Miss Chan. See you on the twelfth!", "zh": "謝謝你，陳小姐。十二號見！"}
+      ]
+    },
+    "questions": [
+      {"id": "l1", "before": "1. 到達時間與地點（arrive at）: ", "after": "", "answer": "good hope community centre", "variations": ["10.20 a.m. good hope community centre", "arrive at good hope community centre"], "explanation": "At ten twenty, we will arrive at the centre（上午十時二十分到達中心）。"},
+      {"id": "l2", "before": "2. 11.35 a.m. 和孩子們（with the children）: ", "after": "", "answer": "play games", "variations": ["sing songs and play games", "songs and games"], "explanation": "At eleven thirty-five, we will sing songs and play games with the children。"},
+      {"id": "l3", "before": "3. 午餐時間（lunch）: ", "after": "", "answer": "half past twelve", "variations": ["12.30", "12:30", "twelve thirty"], "explanation": "Lunch is at half past twelve（十二時三十分）。"},
+      {"id": "l4", "before": "4. 1.20 p.m. 活動（paint）: ", "after": "", "answer": "a wall", "variations": ["paint a wall"], "explanation": "At one twenty, the children are going to paint a wall in the art room。"},
+      {"id": "l5", "before": "5. 2.25 p.m. 派發給孩子們（give out ... to the children）: ", "after": "", "answer": "snacks", "variations": ["some snacks"], "explanation": "At two twenty-five, we are going to give out snacks to the children。"},
+      {"id": "l6", "before": "6. 3.00 p.m. 活動（watch）: ", "after": "", "answer": "a performance", "variations": ["watch a performance"], "explanation": "At three o'clock, we will watch a performance。"},
+      {"id": "l7", "before": "7. 離開時間（leave the community centre）: ", "after": "", "answer": "half past three", "variations": ["3.30", "3:30", "three thirty"], "explanation": "We will leave the community centre at half past three（三時三十分）。"}
+    ]
+  },
+  "textType": {
+    "title": "Text Type: Itineraries（行程表）",
+    "icon": "fa-list-ol",
+    "description": "行程表（itinerary）是活動的安排表，通常包括時間和日期。以下是天才小學探訪孤兒院的行程表：",
+    "model": {
+      "title": "Smart Primary School: Visit to an Orphanage（天才小學：探訪孤兒院）",
+      "parts": ["Organisation（機構）", "Date（日期）", "Time（時間）", "Activity（活動）"],
+      "body": "<strong>Smart Primary School<br>Visit to an Orphanage</strong><br>Date: 21st August 20XX (Saturday)<br>Itinerary<br>9.35 a.m. — meet at school<br>9.40 a.m. — board the school bus<br>10.15 a.m. — arrive at the orphanage<br>10.25 a.m. — tour the orphanage<br>11.25 a.m. — meet the children<br>12.05 p.m. — have lunch with the children<br>1.20 p.m. — watch a movie with the children<br>2.45 p.m. — exchange gifts<br>3.00 p.m. — leave the orphanage",
+      "zh": "<strong>天才小學<br>探訪孤兒院</strong><br>日期：20XX 年 8 月 21 日（星期六）<br>行程表<br>上午 9.35 — 在學校集合<br>上午 9.40 — 登上校巴<br>上午 10.15 — 到達孤兒院<br>上午 10.25 — 參觀孤兒院<br>上午 11.25 — 與孩子們見面<br>中午 12.05 — 與孩子們共進午餐<br>下午 1.20 — 與孩子們看電影<br>下午 2.45 — 交換禮物<br>下午 3.00 — 離開孤兒院",
+      "pairs": [
+        {"en": "orphanage", "zh": "孤兒院"},
+        {"en": "board the school bus", "zh": "登上校巴"},
+        {"en": "tour the orphanage", "zh": "參觀孤兒院"},
+        {"en": "exchange gifts", "zh": "交換禮物"}
+      ],
+      "sentences": ["<strong>Smart Primary School Visit to an Orphanage</strong>", "Date: 21st August 20XX (Saturday)", "Itinerary", "9.35 a.m. — meet at school", "9.40 a.m. — board the school bus", "10.15 a.m. — arrive at the orphanage", "10.25 a.m. — tour the orphanage", "11.25 a.m. — meet the children", "12.05 p.m. — have lunch with the children", "1.20 p.m. — watch a movie with the children", "2.45 p.m. — exchange gifts", "3.00 p.m. — leave the orphanage"],
+      "translation_sentences": ["<strong>天才小學：探訪孤兒院</strong>", "日期：20XX 年 8 月 21 日（星期六）", "行程表", "上午 9.35 — 在學校集合", "上午 9.40 — 登上校巴", "上午 10.15 — 到達孤兒院", "上午 10.25 — 參觀孤兒院", "上午 11.25 — 與孩子們見面", "中午 12.05 — 與孩子們共進午餐", "下午 1.20 — 與孩子們看電影", "下午 2.45 — 交換禮物", "下午 3.00 — 離開孤兒院"]
+    },
+    "questions": [
+      {"id": "q1", "text": "1. What is the last activity before leaving the orphanage?", "answer": "b", "options": [{"key": "a", "text": "a. have lunch（吃午餐）"}, {"key": "b", "text": "b. exchange gifts（交換禮物）"}, {"key": "c", "text": "c. watch a movie（看電影）"}, {"key": "d", "text": "d. tour round the orphanage（參觀孤兒院）"}], "explanation": "行程表最後離開前是 2.45 p.m. exchange gifts（交換禮物），所以選 b。"},
+      {"id": "q2", "text": "2. What are the children going to do (a) at twenty-five to ten? (b) at twenty-five past ten?", "answer": "a", "options": [{"key": "a", "text": "a. (a) board the school bus; (b) arrive at the orphanage"}, {"key": "b", "text": "b. (a) meet at school; (b) board the school bus"}, {"key": "c", "text": "c. (a) arrive at the orphanage; (b) tour the orphanage"}, {"key": "d", "text": "d. (a) tour the orphanage; (b) meet the children"}], "explanation": "twenty-five to ten 是 9.35 a.m.（meet at school 後 9.40 board the bus）；twenty-five past ten 是 10.25（tour the orphanage）。正確組合是 a。"}
+    ]
+  },
+  "grammar": [
+    {"title": "be going to（計劃做…）與時間表達", "examples": [
+      {"en": "You are going to visit two villages, a hospital and a school.", "zh": "你們將要參觀兩個村莊、一間醫院和一間學校。（be going to + 動詞原形表示計劃）", "pairs": [{"en": "are going to visit", "zh": "將要參觀"}]},
+      {"en": "I am going to visit Cambodia for the first time.", "zh": "我第一次去柬埔寨。（be going to 表示計劃）", "pairs": [{"en": "am going to visit", "zh": "將要拜訪"}]},
+      {"en": "A minibus picked us up at six forty-five in the morning.", "zh": "早上六時四十五分，一輛小巴來接我們。（six forty-five = quarter to seven）", "pairs": [{"en": "six forty-five", "zh": "六時四十五分"}, {"en": "quarter to seven", "zh": "七時差一刻"}]},
+      {"en": "It was already ten past eleven at night when we reached Turi.", "zh": "我們到達 Turi 時已是晚上十一時十分。（ten past eleven = eleven ten）", "pairs": [{"en": "ten past eleven", "zh": "十一時十分"}]},
+      {"en": "3.30 = half past three = three thirty. 4.05 = five past four = four oh five. 12.55 = five to one = twelve fifty-five.", "zh": "3.30 = 三時半 = three thirty。4.05 = 四時五分 = four oh five。12.55 = 一時差五分 = twelve fifty-five。（時間的不同說法）", "pairs": [{"en": "half past three", "zh": "三時半"}, {"en": "five past four", "zh": "四時五分"}, {"en": "five to one", "zh": "一時差五分"}]}
+    ]}
+  ],
+  "practice": {
+    "intro": "根據 Unit 5（A kind-hearted doctor）內容完成以下練習題：",
+    "readingComp": {
+      "title": "練習 1：閱讀理解選擇題",
+      "icon": "fa-search",
+      "description": "根據博客與行程表，選擇最佳答案：",
+      "questions": [
+        {"id": "rc1", "text": "1. Which of the following sentences is true about Dr Dickens?", "answer": "a", "options": [{"key": "a", "text": "a. Dr Dickens is good at repairing things.（擅長修理東西）"}, {"key": "b", "text": "b. Dr Dickens is Cambodian.（是柬埔寨人）"}, {"key": "c", "text": "c. Dr Dickens is a man.（是男性）"}, {"key": "d", "text": "d. Dr Dickens met Dr Lee in Hong Kong.（在香港認識李醫生）"}], "explanation": "課文說 Dr Dickens was not only a good doctor but also a talented plumber（既是好醫生又是水管工），所以選 a。"},
+        {"id": "rc2", "text": "2. Read line 23. What does the phrase 'village elders' refer to?", "answer": "d", "options": [{"key": "a", "text": "a. the youngest villagers（最年輕的村民）"}, {"key": "b", "text": "b. the doctors in the village（村裡的醫生）"}, {"key": "c", "text": "c. the teachers in the village（村裡的老師）"}, {"key": "d", "text": "d. the old and respected villagers（年長而受尊敬的村民）"}], "explanation": "elders 指村裡年長而受尊敬的長輩，所以選 d。"},
+        {"id": "rc3", "text": "3. What did Dr Lee NOT do on the second last day of the trip?", "answer": "b", "options": [{"key": "a", "text": "a. visit a school（參觀學校）"}, {"key": "b", "text": "b. visit a hospital（參觀醫院）"}, {"key": "c", "text": "c. watch a performance（觀看表演）"}, {"key": "d", "text": "d. have dinner with the villagers（與村民共進晚餐）"}], "explanation": "倒數第二天是 Day 6：visit a school、watch a performance、dinner with the village elders。hospital 是 Day 5，所以選 b（NOT）。"},
+        {"id": "rc4", "text": "4. What present did Dr Lee get from the villagers?", "answer": "a", "options": [{"key": "a", "text": "a. flowers（花）"}, {"key": "b", "text": "b. books（書）"}, {"key": "c", "text": "c. injections（注射）"}, {"key": "d", "text": "d. medical supplies（醫療物資）"}], "explanation": "課文說 The children gave us some charming flowers，所以選 a（花）。"},
+        {"id": "rc5", "text": "5. When did Dr Lee return to Hong Kong?", "answer": "d", "options": [{"key": "a", "text": "a. 6th May"}, {"key": "b", "text": "b. 12th May"}, {"key": "c", "text": "c. 16th May"}, {"key": "d", "text": "d. 18th May"}], "explanation": "行程是 12th-18th May，Day 7（最後一天）她登上返回香港的飛機，即 18th May，所以選 d。"}
+      ]
+    },
+    "readingQA": {
+      "title": "練習 2：閱讀理解問答題",
+      "icon": "fa-question-circle",
+      "description": "用完整的句子回答下列問題：",
+      "questions": [
+        {"q": "1. On which day did Dr Lee have some free time?（李醫生哪天有空閒時間？）", "a": "She had some free time on Day 7 because she visited a waterfall.", "zh": "第 7 天她有閒暇，因為她參觀了瀑布。", "explanation": "Day 7 的活動是看瀑布（sight-seeing），比較輕鬆，是自由時間。"},
+        {"q": "2. How did Dr Lee feel about going to Cambodia?（李醫生對去柬埔寨感覺如何？）", "a": "She was excited. She said 'I cannot wait for the trip.'", "zh": "她很興奮。她說「我已等不及這次旅程。」", "explanation": "博客開頭說 I cannot wait for the trip，顯示她期待這次旅程。"}
+      ]
+    },
+    "wordBank": {
+      "title": "練習 3：Words to learn 動詞變形填空",
+      "icon": "fa-tags",
+      "description": "用所給動詞的正確形式完成句子（首字母已給）：",
+      "bank": ["distribute", "learn", "transport", "give", "repair", "visit"],
+      "items": [
+        {"prompt": "1. ____ some basic Cambodian（學一些基本柬埔寨語）", "answer": "learn"},
+        {"prompt": "2. ____ the village（參觀村莊）", "answer": "visit"},
+        {"prompt": "3. ____ a water tank（修理水箱）", "answer": "repair"},
+        {"prompt": "4. ____ books（分發書本）", "answer": "distribute"},
+        {"prompt": "5. ____ medicine（運送藥物）", "answer": "transport"},
+        {"prompt": "6. ____ children injections（給孩子打針）", "answer": "give"}
+      ]
+    },
+    "discussion": {
+      "title": "練習 4：Speaking 預約採訪＋Writing 圖片說明",
+      "icon": "fa-users",
+      "description": "孩子們想下星期採訪李醫生，和她的秘書 Miss Chan 預約時間。選出確認的預約時段；再看圖用 -ing 形容詞完成說明：",
+      "questions": [
+        "Ken: Hello, this is Ken speaking. I'd like to interview Dr Lee next week. Is Dr Lee available next Monday, from two o'clock to three thirty in the afternoon?（你好，我是 Ken。我想下星期採訪李醫生。她下星期一下午兩點至三點半有空嗎？）",
+        "Miss Chan: Sorry, she is going to give injections to the elderly at the elderly home from two twenty to four forty-five.（對不起，她兩點二十分至四點四十五分會在長者之家給長者打針。）",
+        "Thursday 11.25 a.m. - 12.55 p.m. is free. Tick the confirmed appointment time: Tuesday 10.10 a.m. - 11.40 a.m. ✓（星期四上午 11.25 至 12.55 有空。確認的預約時段：星期二上午 10.10 至 11.40。）",
+        "The long bus ride to Shengla is exhausting. Look! I am dozing off.（去勝拉的長途巴士車程令人筋疲力盡。看！我在打瞌睡。）",
+        "The villagers of Shengla are welcoming. They are giving us some handmade necklaces.（勝拉的村民很熱情好客。他們送我們一些手工項鏈。）",
+        "The costumes are amazing. They are the most colourful costumes I have ever seen.（服裝令人驚嘆。這是我見過最色彩繽紛的服裝。）",
+        "The trail is challenging. It is very muddy.（小路具挑戰性。它很泥濘。）",
+        "The performance is interesting. They are dancing beautifully.（表演很有趣。他們跳舞跳得很美。）"
+      ]
+    }
+  },
+  "quiz": {
+    "info": "滿分：15分",
+    "maxScore": 15,
+    "sections": [
+      {"type": "choice", "attr": "quiz", "keyPrefix": "", "title": "詞彙題（每題 1 分）", "icon": "fa-check-circle", "questions": [
+        {"id": 1, "text": "1. A ______ is a list of activities of an event.", "options": [{"key": "a", "text": "A. blog"}, {"key": "b", "text": "B. itinerary"}, {"key": "c", "text": "C. letter"}, {"key": "d", "text": "D. poem"}], "answer": "b", "explanation": "行程表（itinerary）是活動安排表，包括時間和日期。"},
+        {"id": 2, "text": "2. We ______ books and stationery to the students.", "options": [{"key": "a", "text": "A. repaired"}, {"key": "b", "text": "B. transported"}, {"key": "c", "text": "C. distributed"}, {"key": "d", "text": "D. boarded"}], "answer": "c", "explanation": "distribute（分發）書和文具。"},
+        {"id": 3, "text": "3. The ride was long and ______.", "options": [{"key": "a", "text": "A. exhausting"}, {"key": "b", "text": "B. welcoming"}, {"key": "c", "text": "C. charming"}, {"key": "d", "text": "D. challenging"}], "answer": "a", "explanation": "漫長而令人筋疲力盡（exhausting）的車程。"},
+        {"id": 4, "text": "4. The children gave us some ______ flowers.", "options": [{"key": "a", "text": "A. exhausting"}, {"key": "b", "text": "B. charming"}, {"key": "c", "text": "C. muddy"}, {"key": "d", "text": "D. broken"}], "answer": "b", "explanation": "可愛的（charming）花。"},
+        {"id": 5, "text": "5. We helped them give the children ______.", "options": [{"key": "a", "text": "A. injections"}, {"key": "b", "text": "B. leaflets"}, {"key": "c", "text": "C. supplies"}, {"key": "d", "text": "D. costumes"}], "answer": "a", "explanation": "給孩子們打針（give injections）。"}
+      ]},
+      {"type": "choice", "attr": "quiz", "keyPrefix": "", "title": "文法題：be going to 與時間（每題 1 分）", "icon": "fa-font", "questions": [
+        {"id": 1, "text": "1. We ______ two villages, a hospital and a school.", "options": [{"key": "a", "text": "A. are going to visit"}, {"key": "b", "text": "B. is going to visit"}, {"key": "c", "text": "C. are visit"}, {"key": "d", "text": "D. going to visit"}], "answer": "a", "explanation": "主語 We 用 are going to visit（將要參觀）。"},
+        {"id": 2, "text": "2. She ______ give injections to the elderly from two twenty to four forty-five.", "options": [{"key": "a", "text": "A. is going"}, {"key": "b", "text": "B. is going to"}, {"key": "c", "text": "C. going to"}, {"key": "d", "text": "D. are going to"}], "answer": "b", "explanation": "She 用 is going to + 動詞原形。"},
+        {"id": 3, "text": "3. 6:45 is ______.", "options": [{"key": "a", "text": "A. six forty-five / quarter to seven"}, {"key": "b", "text": "B. six fifteen / quarter past six"}, {"key": "c", "text": "C. six fifty / ten to seven"}, {"key": "d", "text": "D. seven forty-five"}], "answer": "a", "explanation": "6:45 = six forty-five = quarter to seven（七時差一刻）。"},
+        {"id": 4, "text": "4. 4:05 is ______.", "options": [{"key": "a", "text": "A. five to four"}, {"key": "b", "text": "B. five past four / four oh five"}, {"key": "c", "text": "C. four fifty-five"}, {"key": "d", "text": "D. quarter past four"}], "answer": "b", "explanation": "4:05 = five past four = four oh five（四時五分）。"},
+        {"id": 5, "text": "5. 12:55 is ______.", "options": [{"key": "a", "text": "A. five to one / twelve fifty-five"}, {"key": "b", "text": "B. five past twelve"}, {"key": "c", "text": "C. twelve oh five"}, {"key": "d", "text": "D. quarter to twelve"}], "answer": "a", "explanation": "12:55 = five to one = twelve fifty-five（一時差五分）。"}
+      ]},
+      {"type": "choice", "attr": "quiz", "keyPrefix": "", "title": "閱讀題（每題 1 分）", "icon": "fa-book-open", "questions": [
+        {"id": 1, "text": "1. Why did Dr Lee join the volunteer programme?", "options": [{"key": "a", "text": "A. to visit the waterfall"}, {"key": "b", "text": "B. to help the sick and the poor in Cambodia"}, {"key": "c", "text": "C. to learn Cambodian"}, {"key": "d", "text": "D. to make money"}], "answer": "b", "explanation": "課文開頭：to help the sick and the poor in Cambodia。"},
+        {"id": 2, "text": "2. What time did the minibus pick them up on Day 2?", "options": [{"key": "a", "text": "A. at six forty-five"}, {"key": "b", "text": "B. at ten past eleven"}, {"key": "c", "text": "C. at four o'clock"}, {"key": "d", "text": "D. at half past three"}], "answer": "a", "explanation": "A minibus picked us up at six forty-five in the morning。"},
+        {"id": 3, "text": "3. What did Dr Dickens help repair?", "options": [{"key": "a", "text": "A. a school"}, {"key": "b", "text": "B. a broken water tank"}, {"key": "c", "text": "C. a minibus"}, {"key": "d", "text": "D. a waterfall"}], "answer": "b", "explanation": "We helped repair a broken water tank（破損的水箱）。"},
+        {"id": 4, "text": "4. What did the students receive on Day 6?", "options": [{"key": "a", "text": "A. books and stationery"}, {"key": "b", "text": "B. injections"}, {"key": "c", "text": "C. medical supplies"}, {"key": "d", "text": "D. a movie"}], "answer": "a", "explanation": "We distributed books and stationery to students（分發書和文具）。"},
+        {"id": 5, "text": "5. What did Dr Lee do on the last day in Cambodia?", "options": [{"key": "a", "text": "A. repaired a water tank"}, {"key": "b", "text": "B. visited a waterfall and boarded the plane home"}, {"key": "c", "text": "C. gave injections"}, {"key": "d", "text": "D. had dinner with the village elders"}], "answer": "b", "explanation": "Day 7：We visited a wonderful waterfall ... boarded the plane back to Hong Kong。"}
+      ]}
+    ]
+  },
+  "sidebar": {
+    "learningPoints": {
+      "title": "Unit 5：A kind-hearted doctor（善良的醫生）",
+      "icon": "fa-heart-pulse",
+      "theme": "志願服務與時間表達",
+      "goals": [
+        "能閱讀博客與行程表並理解志願之旅",
+        "能認識行動詞彙（distribute, transport, repair 等）",
+        "能運用 be going to 談論計劃",
+        "能運用不同的時間表達方式",
+        "能聆聽電話通話並完成行程表"
+      ]
+    },
+    "languageFocus": {
+      "sections": [
+        {"title": "1. 行動詞彙：", "items": ["distribute, transport, repair, give, learn, visit", "injection, medical supplies, stationery"]},
+        {"title": "2. -ing 形容詞：", "items": ["exhausting, charming, challenging, welcoming, amazing"]},
+        {"title": "3. 計劃句型：", "items": ["be going to + 動詞原形（You are going to visit ...）"]},
+        {"title": "4. 時間表達：", "items": ["six forty-five = quarter to seven", "ten past eleven = eleven ten"]}
+      ]
+    }
+  }
+}

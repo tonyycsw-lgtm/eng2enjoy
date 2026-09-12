@@ -1,0 +1,218 @@
+{
+  "meta": {
+    "pageTitleTag": "Unit 1：Back to Hong Kong（回到香港）- 小學四年級英文互動練習（Book 4B）",
+    "headerIcon": "fa-home",
+    "title": "小學四年級英文（Book 4B）",
+    "subtitle": "Unit 1：Back to Hong Kong（回到香港）",
+    "storageKey": "p4_ete_book4b_unit1",
+    "totalPractice": 7,
+    "audioDir": "audio/4B/Unit1"
+  },
+  "flashcards": {
+    "pages": 4,
+    "intro": "點擊卡片查看例句，點擊音頻按鈕聆聽發音：",
+    "cards": [
+      {"page": 1, "word": "alarm clock", "meaning": "鬧鐘", "icon": "fa-clock", "audio": "alarm_clock", "example": "Uncle Mark is holding an alarm clock in the shape of a cartoon penguin.", "translation": "馬克叔叔拿著一個卡通企鵝形狀的鬧鐘。", "exampleAudio": "alarm_clock_example", "pairs": [{"en": "alarm clock", "zh": "鬧鐘"}, {"en": "in the shape of", "zh": "以…的形狀"}]},
+      {"page": 1, "word": "blanket", "meaning": "毯子", "icon": "fa-layer-group", "audio": "blanket", "example": "Uncle Mark picks up a blanket and a pillow.", "translation": "馬克叔叔拿起一條毯子和一個枕頭。", "exampleAudio": "blanket_example", "pairs": [{"en": "blanket", "zh": "毯子"}, {"en": "pick up", "zh": "拿起"}]},
+      {"page": 1, "word": "desk lamp", "meaning": "檯燈", "icon": "fa-lightbulb", "audio": "desk_lamp", "example": "'Whose desk lamp is this, Bill?' he asks. 'That's mine,' Bill says.", "translation": "「這是誰的檯燈，比爾？」他問。「那是我的，」比爾說。", "exampleAudio": "desk_lamp_example", "pairs": [{"en": "desk lamp", "zh": "檯燈"}]},
+      {"page": 1, "word": "earrings", "meaning": "耳環", "icon": "fa-ring", "audio": "earrings", "example": "There are some earrings and a necklace in the box.", "translation": "箱子裡有一些耳環和一條項鏈。", "exampleAudio": "earrings_example", "pairs": [{"en": "earrings", "zh": "耳環"}]},
+      {"page": 1, "word": "gloves", "meaning": "手套", "icon": "fa-hand-paper", "audio": "gloves", "example": "We wear gloves on our hands in cold weather.", "translation": "天氣冷的時候我們手上戴手套。", "exampleAudio": "gloves_example", "pairs": [{"en": "gloves", "zh": "手套"}]},
+      {"page": 1, "word": "mattress", "meaning": "床墊", "icon": "fa-bed", "audio": "mattress", "example": "Uncle Mark points to a mattress. 'Whose mattress is this?'", "translation": "馬克叔叔指著一張床墊。「這是誰的床墊？」", "exampleAudio": "mattress_example", "pairs": [{"en": "mattress", "zh": "床墊"}, {"en": "point to", "zh": "指著"}]},
+      {"page": 1, "word": "necklace", "meaning": "項鏈", "icon": "fa-gem", "audio": "necklace", "example": "People wear a necklace around their neck.", "translation": "人們把項鏈戴在脖子上。", "exampleAudio": "necklace_example", "pairs": [{"en": "necklace", "zh": "項鏈"}]},
+      {"page": 1, "word": "pillow", "meaning": "枕頭", "icon": "fa-square", "audio": "pillow", "example": "'Excellent! I need them for a nap,' Uncle Mark yawns.", "translation": "「太好了！我正需要它們來睡個午覺，」馬克叔叔打著哈欠說。", "exampleAudio": "pillow_example", "pairs": [{"en": "pillow", "zh": "枕頭"}, {"en": "for a nap", "zh": "睡午覺"}]},
+      {"page": 1, "word": "suitcase", "meaning": "手提箱", "icon": "fa-suitcase", "audio": "suitcase", "example": "Bill is carrying a suitcase into her room. 'This suitcase is yours, Carol.'", "translation": "比爾正把一個手提箱搬進她的房間。「這個手提箱是你的，卡羅爾。」", "exampleAudio": "suitcase_example", "pairs": [{"en": "suitcase", "zh": "手提箱"}]},
+      {"page": 1, "word": "wallet", "meaning": "錢包", "icon": "fa-wallet", "audio": "wallet", "example": "We keep money and cards in a wallet.", "translation": "我們把錢和卡放在錢包裡。", "exampleAudio": "wallet_example", "pairs": [{"en": "wallet", "zh": "錢包"}]}
+    ]
+  },
+  "reading": {
+    "title": "Back to Hong Kong",
+    "icon": "fa-home",
+    "intro": "黃家正從加拿大搬回香港。馬克叔叔來幫卡羅爾和比爾拆箱。閱讀故事，找出每件物品屬於誰：",
+    "paragraphs": [
+      {"id": "t1", "text": "The Wong family are moving back from Canada to Hong Kong. Mr and Mrs Wong are busy buying new furniture. Uncle Mark comes to their new flat and helps Carol and Bill unpack the boxes.<br>'Welcome back to Hong Kong,' says Uncle Mark. 'We're thrilled that we're back in Hong Kong. It's such an exciting city!' says Carol.", "translation": "黃家正從加拿大搬回香港。黃先生和黃太太忙著買新家具。馬克叔叔來到他們的新公寓，幫卡羅爾和比爾拆箱。<br>「歡迎回到香港，」馬克叔叔說。「我們很高興回到香港。這是一個令人興奮的城市！」卡羅爾說。", "pairs": [{"en": "moving back from Canada", "zh": "從加拿大搬回來"}, {"en": "unpack the boxes", "zh": "拆箱"}, {"en": "such an exciting city", "zh": "如此令人興奮的城市"}], "sentences": ["The Wong family are moving back from Canada to Hong Kong.", "Mr and Mrs Wong are busy buying new furniture.", "Uncle Mark comes to their new flat and helps Carol and Bill unpack the boxes.", "'Welcome back to Hong Kong,' says Uncle Mark.", "'We're thrilled that we're back in Hong Kong.", "It's such an exciting city!' says Carol."], "translation_sentences": ["黃家正從加拿大搬回香港。", "黃先生和黃太太忙著買新家具。", "馬克叔叔來到他們的新公寓，幫卡羅爾和比爾拆箱。", "「歡迎回到香港，」馬克叔叔說。", "「我們很高興回到香港。", "這是一個令人興奮的城市！」卡羅爾說。"]},
+      {"id": "t2", "text": "Bill, Carol and Uncle Mark are unpacking. Uncle Mark is holding an alarm clock in the shape of a cartoon penguin. 'I found this in your room, Bill. I don't think it's yours. Is it Carol's?' 'Yes, it's hers,' Bill says. 'Can you put it in her room, please?'", "translation": "比爾、卡羅爾和馬克叔叔正在拆箱。馬克叔叔拿著一個卡通企鵝形狀的鬧鐘。「我在你的房間裡找到這個，比爾。我覺得它不是你的。是卡羅爾的嗎？」「是的，是她的，」比爾說。「可以請你把它放到她的房間嗎？」", "pairs": [{"en": "in the shape of a cartoon penguin", "zh": "卡通企鵝形狀的"}, {"en": "I don't think it's yours", "zh": "我覺得它不是你的"}, {"en": "put it in her room", "zh": "把它放到她的房間"}], "sentences": ["Bill, Carol and Uncle Mark are unpacking.", "Uncle Mark is holding an alarm clock in the shape of a cartoon penguin.", "'I found this in your room, Bill.", "I don't think it's yours.", "Is it Carol's?'", "'Yes, it's hers,' Bill says.", "'Can you put it in her room, please?'"], "translation_sentences": ["比爾、卡羅爾和馬克叔叔正在拆箱。", "馬克叔叔拿著一個卡通企鵝形狀的鬧鐘。", "「我在你的房間裡找到這個，比爾。", "我覺得它不是你的。", "是卡羅爾的嗎？」", "「是的，是她的，」比爾說。", "「可以請你把它放到她的房間嗎？」"]},
+      {"id": "t3", "text": "Carol is hanging clothes in her wardrobe. Bill is carrying a suitcase into her room. 'This suitcase is yours, Carol.' Bill sees an album. 'Hey! That's from our holiday in California! Look at the theme park! It was awesome!' Just then Uncle Mark comes in. 'Whose desk lamp is this, Bill?' he asks. 'That's mine,' Bill says. 'Please put it in my room.'", "translation": "卡羅爾正在她的衣櫃裡掛衣服。比爾正把一個手提箱搬進她的房間。「這個手提箱是你的，卡羅爾。」比爾看到一本相冊。「嘿！那是我們在加州度假時拍的！看看那個主題公園！太棒了！」就在那時，馬克叔叔走了進來。「這是誰的檯燈，比爾？」他問。「那是我的，」比爾說。「請把它放到我的房間。」", "pairs": [{"en": "hanging clothes in her wardrobe", "zh": "在衣櫃裡掛衣服"}, {"en": "from our holiday in California", "zh": "我們在加州度假時拍的"}, {"en": "Whose desk lamp is this?", "zh": "這是誰的檯燈？"}], "sentences": ["Carol is hanging clothes in her wardrobe.", "Bill is carrying a suitcase into her room.", "'This suitcase is yours, Carol.'", "Bill sees an album.", "'Hey! That's from our holiday in California!", "Look at the theme park!", "It was awesome!'", "Just then Uncle Mark comes in.", "'Whose desk lamp is this, Bill?' he asks.", "'That's mine,' Bill says.", "'Please put it in my room.'"], "translation_sentences": ["卡羅爾正在她的衣櫃裡掛衣服。", "比爾正把一個手提箱搬進她的房間。", "「這個手提箱是你的，卡羅爾。」", "比爾看到一本相冊。", "「嘿！那是我們在加州度假時拍的！", "看看那個主題公園！", "太棒了！」", "就在那時，馬克叔叔走了進來。", "「這是誰的檯燈，比爾？」他問。", "「那是我的，」比爾說。", "「請把它放到我的房間。」"]},
+      {"id": "t4", "text": "Uncle Mark is annoyed. He wonders why the children are looking at a photo album and not putting things away. 'Whose photo album is that?' he asks. 'It's ours,' the children say. 'Well, put it away and do some unpacking!' Uncle Mark says grumpily.", "translation": "馬克叔叔很煩躁。他想知道孩子們為什麼在看相冊而不是把東西收好。「那是誰的相冊？」他問。「是我們的，」孩子們說。「好了，把它收起來，繼續拆箱吧！」馬克叔叔氣沖沖地說。", "pairs": [{"en": "putting things away", "zh": "把東西收好"}, {"en": "put it away", "zh": "把它收起來"}, {"en": "grumpily", "zh": "氣沖沖地"}], "sentences": ["Uncle Mark is annoyed.", "He wonders why the children are looking at a photo album and not putting things away.", "'Whose photo album is that?' he asks.", "'It's ours,' the children say.", "'Well, put it away and do some unpacking!' Uncle Mark says grumpily."], "translation_sentences": ["馬克叔叔很煩躁。", "他想知道孩子們為什麼在看相冊而不是把東西收好。", "「那是誰的相冊？」他問。", "「是我們的，」孩子們說。", "「好了，把它收起來，繼續拆箱吧！」馬克叔叔氣沖沖地說。"]},
+      {"id": "t5", "text": "Uncle Mark points to a mattress. 'Whose mattress is this?' 'I think it's Mum and Dad's,' says Carol. 'That's the big one,' Bill says. 'Yes, it's theirs. Let me help you take it to their room.' 'Thank you, Bill,' Uncle Mark says. 'I'm sorry for grumbling. I'm exhausted.'", "translation": "馬克叔叔指著一張床墊。「這是誰的床墊？」「我想是爸爸媽媽的，」卡羅爾說。「那是大的那張，」比爾說。「是的，是他們的。讓我幫你把它搬到他們的房間。」「謝謝你，比爾，」馬克叔叔說。「對不起，我剛才在抱怨。我太累了。」", "pairs": [{"en": "points to a mattress", "zh": "指著一張床墊"}, {"en": "Mum and Dad's", "zh": "爸爸媽媽的"}, {"en": "take it to their room", "zh": "把它搬到他們的房間"}, {"en": "grumbling", "zh": "抱怨"}], "sentences": ["Uncle Mark points to a mattress.", "'Whose mattress is this?'", "'I think it's Mum and Dad's,' says Carol.", "'That's the big one,' Bill says.", "'Yes, it's theirs.", "Let me help you take it to their room.'", "'Thank you, Bill,' Uncle Mark says.", "'I'm sorry for grumbling.", "I'm exhausted.'"], "translation_sentences": ["馬克叔叔指著一張床墊。", "「這是誰的床墊？」", "「我想是爸爸媽媽的，」卡羅爾說。", "「那是大的那張，」比爾說。", "「是的，是他們的。", "讓我幫你把它搬到他們的房間。」", "「謝謝你，比爾，」馬克叔叔說。", "「對不起，我剛才在抱怨。", "我太累了。」"]},
+      {"id": "t6", "text": "Uncle Mark picks up a blanket and a pillow. 'Are these your dad's?' 'No, they aren't his,' Bill says. 'They're for guests.' 'Excellent! I need them for a nap,' Uncle Mark yawns and goes to the bedroom. 'Let's unpack this box,' Carol says. 'We still have lots of boxes to unpack.'", "translation": "馬克叔叔拿起一條毯子和一個枕頭。「這些是你爸爸的嗎？」「不，不是他的，」比爾說。「它們是給客人用的。」「太好了！我正需要它們來睡個午覺，」馬克叔叔打著哈欠走進臥室。「我們來拆這個箱子吧，」卡羅爾說。「我們還有很多箱子要拆。」", "pairs": [{"en": "They're for guests", "zh": "它們是給客人用的"}, {"en": "I need them for a nap", "zh": "我正需要它們來睡個午覺"}, {"en": "lots of boxes", "zh": "很多箱子"}], "sentences": ["Uncle Mark picks up a blanket and a pillow.", "'Are these your dad's?'", "'No, they aren't his,' Bill says.", "'They're for guests.'", "'Excellent!", "I need them for a nap,' Uncle Mark yawns and goes to the bedroom.", "'Let's unpack this box,' Carol says.", "'We still have lots of boxes to unpack.'"], "translation_sentences": ["馬克叔叔拿起一條毯子和一個枕頭。", "「這些是你爸爸的嗎？」", "「不，不是他的，」比爾說。", "「它們是給客人用的。」", "「太好了！", "我正需要它們來睡個午覺，」馬克叔叔打著哈欠走進臥室。", "「我們來拆這個箱子吧，」卡羅爾說。", "「我們還有很多箱子要拆。」"]}
+    ]
+  },
+  "sayItRight": {
+    "title": "SAY IT RIGHT ('th')：unvoiced th /θ/ vs voiced th /ð/",
+    "icon": "fa-microphone-alt",
+    "sentences": [
+      {"id": "s1", "text": "We will move on Thursday!", "translation": "我們將在星期四搬家！", "pairs": [{"en": "Thursday", "zh": "星期四"}]},
+      {"id": "s2", "text": "Pack all three thermal flasks.", "translation": "把三個保溫瓶都打包。", "pairs": [{"en": "three", "zh": "三個"}, {"en": "thermal flasks", "zh": "保溫瓶"}]},
+      {"id": "s3", "text": "Throw away the old tray.", "translation": "把舊托盤扔掉。", "pairs": [{"en": "throw away", "zh": "扔掉"}]},
+      {"id": "s4", "text": "Hurry up! Moving is no easy task.", "translation": "快點！搬家可不是一件容易的事。", "pairs": [{"en": "no easy task", "zh": "不是容易的事"}]}
+    ]
+  },
+  "listening": {
+    "title": "聆聽練習：最後一個箱子",
+    "icon": "fa-headphones",
+    "description": "還有一個箱子要拆。聆聽 Bill 和 Carol 的對話，完成表格，寫出每件物品屬於誰：",
+    "mode": "blank",
+    "script": {
+      "title": "Unpacking the last box（拆最後一個箱子）",
+      "audio": "listening_4b1",
+      "text": "There is one box left to unpack. Let's open it, Bill! OK! I wonder what's inside. Look! There are some earrings and a necklace. Whose are they? They're Carol's. They're hers. Great. And here's a wallet. Is it Dad's? Yes, it's his. Put it with Dad's things, please. What about this blanket and this pillow? Are they Mum's? The blanket is hers, but the pillow is for guests. And this suitcase? Whose is it? It's Carol's. And this desk lamp is yours, Bill! Hooray! Now everything is unpacked.",
+      "zh": "還剩一個箱子要拆。我們打開它吧，比爾！<br>好的！我好奇裡面有什麼。<br>看！有一些耳環和一條項鏈。它們是誰的？<br>它們是卡羅爾的。是她的。<br>太好了。這裡還有一個錢包。是爸爸的嗎？<br>是的，是他的。請把它放到爸爸的東西那裡。<br>那這條毯子和這個枕頭呢？是媽媽的嗎？<br>毯子是她的，但枕頭是給客人用的。<br>那這個手提箱呢？是誰的？<br>是卡羅爾的。而這盞檯燈是你的，比爾！<br>好耶！現在所有東西都拆好了。",
+      "segments": [
+        {"en": "There is one box left to unpack. Let's open it, Bill!", "zh": "還剩一個箱子要拆。我們打開它吧，比爾！"},
+        {"en": "OK! I wonder what's inside.", "zh": "好的！我好奇裡面有什麼。"},
+        {"en": "Look! There are some earrings and a necklace. Whose are they?", "zh": "看！有一些耳環和一條項鏈。它們是誰的？"},
+        {"en": "They're Carol's. They're hers.", "zh": "它們是卡羅爾的。是她的。"},
+        {"en": "Great. And here's a wallet. Is it Dad's?", "zh": "太好了。這裡還有一個錢包。是爸爸的嗎？"},
+        {"en": "Yes, it's his. Put it with Dad's things, please.", "zh": "是的，是他的。請把它放到爸爸的東西那裡。"},
+        {"en": "What about this blanket and this pillow? Are they Mum's?", "zh": "那這條毯子和這個枕頭呢？是媽媽的嗎？"},
+        {"en": "The blanket is hers, but the pillow is for guests.", "zh": "毯子是她的，但枕頭是給客人用的。"},
+        {"en": "And this suitcase? Whose is it?", "zh": "那這個手提箱呢？是誰的？"},
+        {"en": "It's Carol's. And this desk lamp is yours, Bill!", "zh": "是卡羅爾的。而這盞檯燈是你的，比爾！"},
+        {"en": "Hooray! Now everything is unpacked.", "zh": "好耶！現在所有東西都拆好了。"}
+      ]
+    },
+    "questions": [
+      {"id": "l1", "before": "1. Carol's items（卡羅爾的物品）: ", "after": "", "answer": "earrings, necklace, suitcase", "variations": ["earrings,necklace,suitcase", "earrings necklace and suitcase", "earrings, a necklace and a suitcase"], "explanation": "對話說耳環和項鏈是卡羅爾的，手提箱也是她的。"},
+      {"id": "l2", "before": "2. Bill's item（比爾的物品）: ", "after": "", "answer": "desk lamp", "variations": ["desklamp", "the desk lamp"], "explanation": "對話最後說這盞檯燈是你的，比爾！"},
+      {"id": "l3", "before": "3. Mum's item（媽媽的物品）: ", "after": "", "answer": "blanket", "variations": ["the blanket"], "explanation": "對話說毯子是她的。"},
+      {"id": "l4", "before": "4. Dad's item（爸爸的物品）: ", "after": "", "answer": "wallet", "variations": ["the wallet"], "explanation": "對話說錢包是爸爸的。"}
+    ]
+  },
+  "textType": {
+    "title": "Text Type: Advertisements（廣告）",
+    "icon": "fa-ad",
+    "description": "廣告會介紹產品、服務、活動或工作。一則廣告通常包括名稱（Name）、標語（Slogan）、顧客意見（Customers' comments）和聯絡資料（Contact details）。",
+    "model": {
+      "title": "KOWLOON MOVERS（九龍搬運公司）",
+      "parts": ["Name（名稱）", "Slogan（標語）", "Customers' comments（顧客意見）", "Contact details（聯絡資料）"],
+      "body": "<strong>KOWLOON MOVERS</strong><br>What is yours, we treat like ours!<br>Get a free quote NOW!<br>Tel: 2424 2424<br>E-mail: info@klnmovers.com<br>Website: www.klnmovers.com<br><em>Customers' comments: 'Everything arrived safely and on time. KM is my first choice!' — K.C. Lui, Ho Man Tin</em>",
+      "zh": "<strong>九龍搬運公司</strong><br>你的是我們的，我們視如己物！<br>立即免費報價！<br>電話：2424 2424<br>電郵：info@klnmovers.com<br>網站：www.klnmovers.com<br>顧客意見：「所有東西都安全準時送達。KM 是我的首選！」—— 何文田 K.C. Lui",
+      "pairs": [
+        {"en": "KOWLOON MOVERS", "zh": "九龍搬運公司"},
+        {"en": "What is yours, we treat like ours!", "zh": "你的是我們的，我們視如己物！"},
+        {"en": "Get a free quote NOW!", "zh": "立即免費報價！"},
+        {"en": "Customers' comments", "zh": "顧客意見"}
+      ],
+      "sentences": ["<strong>KOWLOON MOVERS</strong>", "What is yours, we treat like ours!", "Get a free quote NOW!", "Tel: 2424 2424", "E-mail: info@klnmovers.com", "Website: www.klnmovers.com", "Customers' comments: 'Everything arrived safely and on time.", "KM is my first choice!' — K.C. Lui, Ho Man Tin"],
+      "translation_sentences": ["<strong>九龍搬運公司</strong>", "你的是我們的，我們視如己物！", "立即免費報價！", "電話：2424 2424", "電郵：info@klnmovers.com", "網站：www.klnmovers.com", "顧客意見：「所有東西都安全準時送達。", "KM 是我的首選！」—— 何文田 K.C. Lui"]
+    },
+    "questions": [
+      {"id": "q1", "text": "1. What is the advertisement about?", "answer": "d", "options": [{"key": "a", "text": "a. a product（一件產品）"}, {"key": "b", "text": "b. a job（一份工作）"}, {"key": "c", "text": "c. an event（一個活動）"}, {"key": "d", "text": "d. a service（一項服務）"}], "explanation": "廣告介紹九龍搬運公司的搬運服務，所以選 d（一項服務）。"},
+      {"id": "q2", "text": "2. Choose a new slogan for Kowloon Movers.", "answer": "b", "options": [{"key": "a", "text": "a. It's fun and easy."}, {"key": "b", "text": "b. We carry with care.（我們小心搬運。）"}, {"key": "c", "text": "c. Please visit our website www.klnmovers.com."}, {"key": "d", "text": "d. Please call Mr Ho for a free quote."}], "explanation": "搬運公司的標語應強調小心、可靠搬運，所以選 b「We carry with care.」最合適。"}
+    ]
+  },
+  "grammar": [
+    {"title": "Whose ... ? 與物主代詞（mine / yours / his / hers / ours / theirs）", "examples": [
+      {"en": "Whose desk lamp is this, Bill? It's mine.", "zh": "這是誰的檯燈，比爾？是我的。", "pairs": [{"en": "Whose desk lamp is this?", "zh": "這是誰的檯燈？"}, {"en": "It's mine.", "zh": "是我的。"}]},
+      {"en": "Whose alarm clock is this? It's Carol's. Yes, it's hers.", "zh": "這是誰的鬧鐘？是卡羅爾的。是的，是她的。", "pairs": [{"en": "It's Carol's", "zh": "是卡羅爾的"}, {"en": "it's hers", "zh": "是她的"}]},
+      {"en": "Whose photo album is that? It's ours.", "zh": "那是誰的相冊？是我們的。", "pairs": [{"en": "It's ours", "zh": "是我們的"}]},
+      {"en": "Whose mattress is this? It's Mum and Dad's. Yes, it's theirs.", "zh": "這是誰的床墊？是爸爸媽媽的。是的，是他們的。", "pairs": [{"en": "It's Mum and Dad's", "zh": "是爸爸媽媽的"}, {"en": "it's theirs", "zh": "是他們的"}]},
+      {"en": "Are these your dad's? No, they aren't his. They're for guests.", "zh": "這些是你爸爸的嗎？不，不是他的。它們是給客人用的。", "pairs": [{"en": "they aren't his", "zh": "不是他的"}]}
+    ]}
+  ],
+  "practice": {
+    "intro": "根據 Unit 1（Back to Hong Kong）內容完成以下練習題：",
+    "readingComp": {
+      "title": "練習 1：閱讀理解選擇題",
+      "icon": "fa-search",
+      "description": "根據課文內容，選擇最佳答案：",
+      "questions": [
+        {"id": "rc1", "text": "1. Where does the Wong family move back from?", "answer": "b", "options": [{"key": "a", "text": "a. Hong Kong"}, {"key": "b", "text": "b. Canada"}, {"key": "c", "text": "c. California"}, {"key": "d", "text": "d. Cambodia"}], "explanation": "課文說 The Wong family are moving back from Canada to Hong Kong，所以選 b。"},
+        {"id": "rc2", "text": "2. What does Carol's alarm clock look like?", "answer": "c", "options": [{"key": "a", "text": "a. a cartoon dog"}, {"key": "b", "text": "b. a cartoon bear"}, {"key": "c", "text": "c. a cartoon penguin"}, {"key": "d", "text": "d. a cartoon cat"}], "explanation": "課文說 an alarm clock in the shape of a cartoon penguin，所以選 c。"},
+        {"id": "rc3", "text": "3. Whose desk lamp is it?", "answer": "d", "options": [{"key": "a", "text": "a. Carol's"}, {"key": "b", "text": "b. Uncle Mark's"}, {"key": "c", "text": "c. Mum and Dad's"}, {"key": "d", "text": "d. Bill's"}], "explanation": "比爾說 That's mine，檯燈是比爾的，所以選 d。"},
+        {"id": "rc4", "text": "4. Why does Uncle Mark go to the bedroom?", "answer": "a", "options": [{"key": "a", "text": "a. to take a nap"}, {"key": "b", "text": "b. to unpack boxes"}, {"key": "c", "text": "c. to look at the album"}, {"key": "d", "text": "d. to buy furniture"}], "explanation": "課文說 I need them for a nap，馬克叔叔去臥室睡午覺，所以選 a。"},
+        {"id": "rc5", "text": "5. Whose mattress is it?", "answer": "b", "options": [{"key": "a", "text": "a. Bill's"}, {"key": "b", "text": "b. Mum and Dad's"}, {"key": "c", "text": "c. Carol's"}, {"key": "d", "text": "d. the guests'"}], "explanation": "卡羅爾說 I think it's Mum and Dad's，所以選 b。"}
+      ]
+    },
+    "readingQA": {
+      "title": "練習 2：閱讀理解問答題",
+      "icon": "fa-question-circle",
+      "description": "根據課文內容，用完整的句子回答下列問題：",
+      "questions": [
+        {"q": "1. Who does the photo album belong to?", "a": "It belongs to Bill and Carol. It's ours.", "zh": "相冊屬於誰？", "explanation": "課文說 It's ours，相冊屬於孩子們。"},
+        {"q": "2. Why is Uncle Mark annoyed?", "a": "He is annoyed because the children are looking at a photo album and not putting things away.", "zh": "馬克叔叔為什麼很煩躁？", "explanation": "課文說 He wonders why the children are looking at a photo album and not putting things away。"},
+        {"q": "3. What will Bill and Carol do after Uncle Mark goes to the bedroom?", "a": "They will unpack the boxes. They still have lots of boxes to unpack.", "zh": "馬克叔叔去臥室後，比爾和卡羅爾會做什麼？", "explanation": "課文最後說 Let's unpack this box. We still have lots of boxes to unpack。"}
+      ]
+    },
+    "wordBank": {
+      "title": "練習 3：Words to learn 看圖選詞填空",
+      "icon": "fa-tags",
+      "description": "閱讀提示，從詞庫中選出正確的物品名稱：",
+      "bank": ["alarm clock", "blanket", "desk lamp", "earrings", "gloves", "mattress", "necklace", "pillow", "suitcase", "wallet"],
+      "items": [
+        {"prompt": "It wakes me up in the morning.（早上叫醒我）", "answer": "alarm clock"},
+        {"prompt": "We cover ourselves with it in bed.（睡覺時蓋在身上）", "answer": "blanket"},
+        {"prompt": "It gives us light on the desk.（在書桌上給我們光）", "answer": "desk lamp"},
+        {"prompt": "People wear them on their ears.（戴在耳朵上）", "answer": "earrings"},
+        {"prompt": "We wear them on our hands in cold weather.（天冷時戴在手上）", "answer": "gloves"},
+        {"prompt": "We sleep on it in bed.（睡覺時躺在上面）", "answer": "mattress"},
+        {"prompt": "People wear it around their neck.（戴在脖子上）", "answer": "necklace"},
+        {"prompt": "We put our head on it in bed.（睡覺時頭枕在上面）", "answer": "pillow"},
+        {"prompt": "We put our clothes in it for a trip.（旅行時放衣服）", "answer": "suitcase"},
+        {"prompt": "We keep money and cards in it.（放錢和卡）", "answer": "wallet"}
+      ]
+    },
+    "discussion": {
+      "title": "練習 4：Speaking 角色扮演（Whose ... is this?）",
+      "icon": "fa-users",
+      "description": "和同學輪流扮演 Uncle Mark 和 Carol，用 Whose ... is this? 找出地板上的物品屬於誰：",
+      "questions": [
+        "Whose pillow is this? Is it your mum's?（這是誰的枕頭？是你媽媽的嗎？）",
+        "No, it isn't hers. It's mine.（不，不是她的。是我的。）",
+        "Whose photo album is this? Is it Bill's?（這是誰的相冊？是比爾的嗎？）",
+        "Yes, it's his.（是的，是他的。）",
+        "Whose gloves are these? Are they Carol's?（這些是誰的手套？是卡羅爾的嗎？）",
+        "Yes, they're hers.（是的，是她的。）"
+      ]
+    }
+  },
+  "quiz": {
+    "info": "滿分：15分",
+    "maxScore": 15,
+    "sections": [
+      {"type": "choice", "attr": "quiz", "keyPrefix": "", "title": "詞彙題（每題 1 分）", "icon": "fa-check-circle", "questions": [
+        {"id": 1, "text": "1. Which one wakes us up in the morning?", "options": [{"key": "a", "text": "A. a wallet"}, {"key": "b", "text": "B. an alarm clock"}, {"key": "c", "text": "C. a pillow"}, {"key": "d", "text": "D. a blanket"}], "answer": "b", "explanation": "鬧鐘（alarm clock）早上叫我們起床。"},
+        {"id": 2, "text": "2. We keep money and cards in a ______.", "options": [{"key": "a", "text": "A. wallet"}, {"key": "b", "text": "B. suitcase"}, {"key": "c", "text": "C. necklace"}, {"key": "d", "text": "D. glove"}], "answer": "a", "explanation": "錢包（wallet）放錢和卡。"},
+        {"id": 3, "text": "3. Which one do we wear on our hands?", "options": [{"key": "a", "text": "A. earrings"}, {"key": "b", "text": "B. a necklace"}, {"key": "c", "text": "C. gloves"}, {"key": "d", "text": "D. a desk lamp"}], "answer": "c", "explanation": "手套（gloves）戴在手上。"},
+        {"id": 4, "text": "4. We put our clothes in a ______ for a trip.", "options": [{"key": "a", "text": "A. mattress"}, {"key": "b", "text": "B. suitcase"}, {"key": "c", "text": "C. blanket"}, {"key": "d", "text": "D. wallet"}], "answer": "b", "explanation": "旅行時把手提箱（suitcase）裝衣服。"},
+        {"id": 5, "text": "5. Which one do we put our head on in bed?", "options": [{"key": "a", "text": "A. a desk lamp"}, {"key": "b", "text": "B. a mattress"}, {"key": "c", "text": "C. a pillow"}, {"key": "d", "text": "D. earrings"}], "answer": "c", "explanation": "枕頭（pillow）墊頭。"}
+      ]},
+      {"type": "choice", "attr": "quiz", "keyPrefix": "", "title": "文法題：物主代詞（每題 1 分）", "icon": "fa-font", "questions": [
+        {"id": 1, "text": "1. Whose desk lamp is this? — It's ______. It's Bill's.", "options": [{"key": "a", "text": "A. mine"}, {"key": "b", "text": "B. yours"}, {"key": "c", "text": "C. hers"}, {"key": "d", "text": "D. ours"}], "answer": "a", "explanation": "比爾說 That's mine，所以用 mine（我的）。"},
+        {"id": 2, "text": "2. Whose alarm clock is this? — It's Carol's. Yes, it's ______.", "options": [{"key": "a", "text": "A. his"}, {"key": "b", "text": "B. hers"}, {"key": "c", "text": "C. mine"}, {"key": "d", "text": "D. yours"}], "answer": "b", "explanation": "鬧鐘是卡羅爾（她）的，用 hers（她的）。"},
+        {"id": 3, "text": "3. Whose photo album is that? — It's ______. The children say 'It's ours.'", "options": [{"key": "a", "text": "A. mine"}, {"key": "b", "text": "B. theirs"}, {"key": "c", "text": "C. ours"}, {"key": "d", "text": "D. his"}], "answer": "c", "explanation": "孩子們說 It's ours，所以是 ours（我們的）。"},
+        {"id": 4, "text": "4. Whose mattress is this? — It's Mum and Dad's. Yes, it's ______.", "options": [{"key": "a", "text": "A. theirs"}, {"key": "b", "text": "B. hers"}, {"key": "c", "text": "C. yours"}, {"key": "d", "text": "D. mine"}], "answer": "a", "explanation": "床墊是爸爸媽媽（他們）的，用 theirs（他們的）。"},
+        {"id": 5, "text": "5. Are these your dad's? — No, they aren't ______.", "options": [{"key": "a", "text": "A. his"}, {"key": "b", "text": "B. hers"}, {"key": "c", "text": "C. ours"}, {"key": "d", "text": "D. theirs"}], "answer": "a", "explanation": "比爾說 No, they aren't his，所以用 his（他的）。"}
+      ]},
+      {"type": "choice", "attr": "quiz", "keyPrefix": "", "title": "閱讀題（每題 1 分）", "icon": "fa-book-open", "questions": [
+        {"id": 1, "text": "1. Where are the Wongs moving back to?", "options": [{"key": "a", "text": "A. Canada"}, {"key": "b", "text": "B. Hong Kong"}, {"key": "c", "text": "C. California"}, {"key": "d", "text": "D. Cambodia"}], "answer": "b", "explanation": "課文說 moving back from Canada to Hong Kong，所以是搬回香港。"},
+        {"id": 2, "text": "2. Who helps Carol and Bill unpack the boxes?", "options": [{"key": "a", "text": "A. Mr Wong"}, {"key": "b", "text": "B. Mrs Wong"}, {"key": "c", "text": "C. Uncle Mark"}, {"key": "d", "text": "D. the guests"}], "answer": "c", "explanation": "課文說 Uncle Mark comes to their new flat and helps Carol and Bill unpack the boxes。"},
+        {"id": 3, "text": "3. What does 'grumpy' mean?", "options": [{"key": "a", "text": "A. happy and excited"}, {"key": "b", "text": "B. tired and sleepy"}, {"key": "c", "text": "C. bad-tempered and annoyed"}, {"key": "d", "text": "D. hungry and thirsty"}], "answer": "c", "explanation": "Uncle Mark 因孩子們不拆箱而生氣，grumpily 是氣沖沖地（不高興、煩躁）。"},
+        {"id": 4, "text": "4. Who are the blanket and pillow for?", "options": [{"key": "a", "text": "A. Uncle Mark"}, {"key": "b", "text": "B. the guests"}, {"key": "c", "text": "C. Carol"}, {"key": "d", "text": "D. Bill"}], "answer": "b", "explanation": "比爾說 They're for guests，毯子和枕頭是給客人用的。"},
+        {"id": 5, "text": "5. How does Uncle Mark feel at the end of the story?", "options": [{"key": "a", "text": "A. angry"}, {"key": "b", "text": "B. excited"}, {"key": "c", "text": "C. exhausted"}, {"key": "d", "text": "D. bored"}], "answer": "c", "explanation": "馬克叔叔說 I'm exhausted（我太累了），之後去睡午覺。"}
+      ]}
+    ]
+  },
+  "sidebar": {
+    "learningPoints": {
+      "title": "Unit 1：Back to Hong Kong（回到香港）",
+      "icon": "fa-home",
+      "theme": "搬家與物品歸屬",
+      "goals": [
+        "能閱讀搬家故事並理解物品的歸屬",
+        "能認識家居物品詞彙（alarm clock, blanket 等）",
+        "能運用物主代詞 mine / yours / his / hers / ours / theirs",
+        "能聆聽對話並完成表格",
+        "能認識廣告（Advertisement）文體"
+      ]
+    },
+    "languageFocus": {
+      "sections": [
+        {"title": "1. 家居物品詞彙：", "items": ["alarm clock, blanket, desk lamp, earrings, gloves", "mattress, necklace, pillow, suitcase, wallet"]},
+        {"title": "2. 物主代詞（possessive pronouns）：", "items": ["mine, yours, his, hers, ours, theirs"]},
+        {"title": "3. 所有格問句：", "items": ["Whose ... is this? / Whose ... are these?"]},
+        {"title": "4. 形容詞所有格（possessive adjectives）：", "items": ["my, your, his, her, our, their"]}
+      ]
+    }
+  }
+}

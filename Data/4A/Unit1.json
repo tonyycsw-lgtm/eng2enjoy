@@ -1,0 +1,1699 @@
+{
+  "meta": {
+    "pageTitleTag": "Unit 1：Hobbies（我的愛好）- 小學四年級英文互動練習",
+    "headerIcon": "fa-heart",
+    "title": "小學四年級英文",
+    "subtitle": "Unit 1：Hobbies（我的愛好）",
+    "storageKey": "p4_ete_jimmy_unit1_hobbies",
+    "totalPractice": 7,
+    "audioDir": "audio/Unit1"
+  },
+  "flashcards": {
+    "pages": 4,
+    "intro": "點擊卡片查看例句，點擊音頻按鈕聆聽發音：",
+    "cards": [
+      {
+        "page": 1,
+        "word": "sticker album",
+        "meaning": "貼紙簿",
+        "icon": "fa-book",
+        "audio": "sticker_album",
+        "example": "Ray likes collecting stickers of football players in his sticker album.",
+        "translation": "Ray 喜歡在他的貼紙簿裡收集足球員貼紙。",
+        "exampleAudio": "sticker_album_example",
+        "pairs": [
+          {
+            "en": "sticker album",
+            "zh": "貼紙簿"
+          },
+          {
+            "en": "collecting stickers",
+            "zh": "收集貼紙"
+          }
+        ]
+      },
+      {
+        "page": 1,
+        "word": "football player",
+        "meaning": "足球員",
+        "icon": "fa-futbol",
+        "audio": "football_player",
+        "example": "My favourite football player is Jerry Choi.",
+        "translation": "我最喜歡的足球員是 Jerry Choi。",
+        "exampleAudio": "football_player_example",
+        "pairs": [
+          {
+            "en": "football player",
+            "zh": "足球員"
+          },
+          {
+            "en": "favourite",
+            "zh": "最喜歡的"
+          }
+        ]
+      },
+      {
+        "page": 1,
+        "word": "storybook",
+        "meaning": "故事書",
+        "icon": "fa-book-open",
+        "audio": "storybook",
+        "example": "Andy often reads storybooks but he seldom reads comic books.",
+        "translation": "Andy 經常閱讀故事書，但他很少看漫畫書。",
+        "exampleAudio": "storybook_example",
+        "pairs": [
+          {
+            "en": "storybooks",
+            "zh": "故事書"
+          },
+          {
+            "en": "comic books",
+            "zh": "漫畫書"
+          }
+        ]
+      },
+      {
+        "page": 1,
+        "word": "comic book",
+        "meaning": "漫畫書",
+        "icon": "fa-book-reader",
+        "audio": "comic_book",
+        "example": "Andy seldom reads comic books.",
+        "translation": "Andy 很少看漫畫書。",
+        "exampleAudio": "comic_book_example",
+        "pairs": [
+          {
+            "en": "comic books",
+            "zh": "漫畫書"
+          }
+        ]
+      },
+      {
+        "page": 2,
+        "word": "cycling",
+        "meaning": "騎單車",
+        "icon": "fa-bicycle",
+        "audio": "cycling",
+        "example": "Kate likes cycling because she can keep fit.",
+        "translation": "Kate 喜歡騎單車，因為她可以保持健康。",
+        "exampleAudio": "cycling_example",
+        "pairs": [
+          {
+            "en": "cycling",
+            "zh": "騎單車"
+          },
+          {
+            "en": "keep fit",
+            "zh": "保持健康"
+          }
+        ]
+      },
+      {
+        "page": 2,
+        "word": "keep fit",
+        "meaning": "保持健康",
+        "icon": "fa-heartbeat",
+        "audio": "keep_fit",
+        "example": "Cycling helps Kate keep fit.",
+        "translation": "騎單車幫助 Kate 保持健康。",
+        "exampleAudio": "keep_fit_example",
+        "pairs": [
+          {
+            "en": "keep fit",
+            "zh": "保持健康"
+          }
+        ]
+      },
+      {
+        "page": 2,
+        "word": "baseball",
+        "meaning": "棒球",
+        "icon": "fa-baseball-ball",
+        "audio": "baseball",
+        "example": "Mike always plays baseball with his cousins.",
+        "translation": "Mike 總是和他的表兄弟一起打棒球。",
+        "exampleAudio": "baseball_example",
+        "pairs": [
+          {
+            "en": "baseball",
+            "zh": "棒球"
+          },
+          {
+            "en": "cousins",
+            "zh": "表兄弟/表姊妹"
+          }
+        ]
+      },
+      {
+        "page": 2,
+        "word": "spare time",
+        "meaning": "空閒時間",
+        "icon": "fa-clock",
+        "audio": "spare_time",
+        "example": "What do you like doing in your spare time?",
+        "translation": "你在空閒時間喜歡做什麼？",
+        "exampleAudio": "spare_time_example",
+        "pairs": [
+          {
+            "en": "spare time",
+            "zh": "空閒時間"
+          }
+        ]
+      },
+      {
+        "page": 3,
+        "word": "guitar",
+        "meaning": "結他",
+        "icon": "fa-guitar",
+        "audio": "guitar",
+        "example": "Amy likes playing the guitar. Her brother sings along.",
+        "translation": "Amy 喜歡彈結他。她的弟弟跟著唱。",
+        "exampleAudio": "guitar_example",
+        "pairs": [
+          {
+            "en": "guitar",
+            "zh": "結他"
+          },
+          {
+            "en": "sings along",
+            "zh": "跟著唱"
+          }
+        ]
+      },
+      {
+        "page": 3,
+        "word": "key chain",
+        "meaning": "鎖匙扣",
+        "icon": "fa-key",
+        "audio": "key_chain",
+        "example": "Amy makes key chains for her friends.",
+        "translation": "Amy 為她的朋友們做鎖匙扣。",
+        "exampleAudio": "key_chain_example",
+        "pairs": [
+          {
+            "en": "key chains",
+            "zh": "鎖匙扣"
+          },
+          {
+            "en": "making crafts",
+            "zh": "做手工"
+          }
+        ]
+      },
+      {
+        "page": 3,
+        "word": "hobby",
+        "meaning": "嗜好",
+        "icon": "fa-smile",
+        "audio": "hobby",
+        "example": "What's the most popular hobby in our class?",
+        "translation": "我們班最受歡迎的嗜好是什麼？",
+        "exampleAudio": "hobby_example",
+        "pairs": [
+          {
+            "en": "hobby",
+            "zh": "嗜好"
+          },
+          {
+            "en": "popular",
+            "zh": "受歡迎的"
+          }
+        ]
+      },
+      {
+        "page": 4,
+        "word": "collecting stamps",
+        "meaning": "集郵",
+        "icon": "fa-envelope-open-text",
+        "audio": "collecting_stamps",
+        "example": "Jordy loves writing letters and collecting stamps.",
+        "translation": "Jordy 喜歡寫信和集郵。",
+        "exampleAudio": "collecting_stamps_example",
+        "pairs": [
+          {
+            "en": "collecting stamps",
+            "zh": "集郵"
+          },
+          {
+            "en": "writing letters",
+            "zh": "寫信"
+          }
+        ]
+      },
+      {
+        "page": 4,
+        "word": "ice skating",
+        "meaning": "溜冰",
+        "icon": "fa-snowflake",
+        "audio": "ice_skating",
+        "example": "Joe Ng likes playing baseball and ice skating.",
+        "translation": "Joe Ng 喜歡打棒球和溜冰。",
+        "exampleAudio": "ice_skating_example",
+        "pairs": [
+          {
+            "en": "ice skating",
+            "zh": "溜冰"
+          }
+        ]
+      },
+      {
+        "page": 4,
+        "word": "knitting",
+        "meaning": "編織",
+        "icon": "fa-scroll",
+        "audio": "knitting",
+        "example": "Mary Law likes making crafts and knitting.",
+        "translation": "Mary Law 喜歡做手工和編織。",
+        "exampleAudio": "knitting_example",
+        "pairs": [
+          {
+            "en": "knitting",
+            "zh": "編織"
+          }
+        ]
+      },
+      {
+        "page": 4,
+        "word": "playing the flute",
+        "meaning": "吹笛子",
+        "icon": "fa-music",
+        "audio": "playing_the_flute",
+        "example": "Ken Ma likes playing the guitar and playing the flute.",
+        "translation": "Ken Ma 喜歡彈結他和吹笛子。",
+        "exampleAudio": "playing_the_flute_example",
+        "pairs": [
+          {
+            "en": "flute",
+            "zh": "笛子"
+          }
+        ]
+      }
+    ]
+  },
+  "reading": {
+    "title": "Hobbies",
+    "icon": "fa-heart",
+    "intro": "孩子們在上學路上聊天，談論各自的嗜好。閱讀對話並學習愛好相關的表達：",
+    "paragraphs": [
+      {
+        "id": "t1",
+        "audio": "hobbies_para_01",
+        "text": "<strong>The children are chatting on their way to school.</strong>",
+        "translation": "<strong>孩子們在上學的路上聊天。</strong>",
+        "pairs": [
+          {
+            "en": "on their way to school",
+            "zh": "在去學校的路上"
+          }
+        ],
+        "sentences": [
+          "The children are chatting on their way to school."
+        ],
+        "translation_sentences": [
+          "孩子們在上學的路上聊天。"
+        ]
+      },
+      {
+        "id": "t2",
+        "audio": "hobbies_para_02",
+        "text": "\"What book is that, Ray? It looks interesting,\" Amy asks.",
+        "translation": "\"那是什麼書，Ray？看起來很有趣，\" Amy 問。",
+        "pairs": [
+          {
+            "en": "It looks interesting",
+            "zh": "看起來很有趣"
+          }
+        ],
+        "sentences": [
+          "\"What book is that, Ray? It looks interesting,\" Amy asks."
+        ],
+        "translation_sentences": [
+          "「那是什麼書，Ray？看起來很有趣，」Amy 問。"
+        ]
+      },
+      {
+        "id": "t3",
+        "audio": "hobbies_para_03",
+        "text": "\"It's my sticker album. I like collecting stickers of football players,\" Ray says. \"My favourite football player is Jerry Choi. But I don't have his sticker yet!\"",
+        "translation": "\"這是我的貼紙簿。我喜歡收集足球員的貼紙，\" Ray 說。\"我最喜歡的足球員是 Jerry Choi。但我還沒有他的貼紙！\"",
+        "pairs": [
+          {
+            "en": "sticker album",
+            "zh": "貼紙簿"
+          },
+          {
+            "en": "collecting stickers of football players",
+            "zh": "收集足球員的貼紙"
+          },
+          {
+            "en": "favourite football player",
+            "zh": "最喜歡的足球員"
+          }
+        ],
+        "sentences": [
+          "\"It's my sticker album. I like collecting stickers of football players,\" Ray says.",
+          "\"My favourite football player is Jerry Choi. But I don't have his sticker yet!\""
+        ],
+        "translation_sentences": [
+          "「這是我的貼紙簿。我喜歡收集足球員的貼紙，」Ray 說。",
+          "「我最喜歡的足球員是 Jerry Choi。但我還沒有他的貼紙！」"
+        ]
+      },
+      {
+        "id": "t4",
+        "audio": "hobbies_para_04",
+        "text": "\"They look cool! I really like them,\" Andy says. \"My hobby is reading books. I often read storybooks but I seldom read comic books.\"",
+        "translation": "\"它們看起來很酷！我真的很喜歡，\" Andy 說。\"我的嗜好是看書。我經常閱讀故事書，但我很少看漫畫書。\"",
+        "pairs": [
+          {
+            "en": "They look cool",
+            "zh": "它們看起來很酷"
+          },
+          {
+            "en": "I often read storybooks",
+            "zh": "我經常閱讀故事書"
+          },
+          {
+            "en": "I seldom read comic books",
+            "zh": "我很少看漫畫書"
+          }
+        ],
+        "sentences": [
+          "\"They look cool! I really like them,\" Andy says.",
+          "\"My hobby is reading books. I often read storybooks but I seldom read comic books.\""
+        ],
+        "translation_sentences": [
+          "「它們看起來很酷！我真的很喜歡，」Andy 說。",
+          "「我的嗜好是看書。我經常閱讀故事書，但我很少看漫畫書。」"
+        ]
+      },
+      {
+        "id": "t5",
+        "audio": "hobbies_para_05",
+        "text": "\"Reading is boring!\" Kate says. \"I think sports are fun. I like cycling because I can keep fit. I always go cycling at weekends.\"",
+        "translation": "\"閱讀很無聊！\" Kate 說。\"我認為運動很有趣。我喜歡騎單車，因為我可以保持健康。我週末總是騎單車。\"",
+        "pairs": [
+          {
+            "en": "Reading is boring",
+            "zh": "閱讀很無聊"
+          },
+          {
+            "en": "I like cycling",
+            "zh": "我喜歡騎單車"
+          },
+          {
+            "en": "keep fit",
+            "zh": "保持健康"
+          },
+          {
+            "en": "at weekends",
+            "zh": "在週末"
+          }
+        ],
+        "sentences": [
+          "\"Reading is boring!\" Kate says.",
+          "\"I think sports are fun. I like cycling because I can keep fit. I always go cycling at weekends.\""
+        ],
+        "translation_sentences": [
+          "「閱讀很無聊！」Kate 說。",
+          "「我認為運動很有趣。我喜歡騎單車，因為我可以保持健康。我週末總是騎單車。」"
+        ]
+      },
+      {
+        "id": "t6",
+        "audio": "hobbies_para_06",
+        "text": "\"I love sports, too!\" Mike says. \"I like playing baseball. I always play baseball with my cousins. But I never play baseball at school. The school playground is too small.\"",
+        "translation": "\"我也熱愛運動！\" Mike 說。\"我喜歡打棒球。我總是和我的表兄弟一起打棒球。但我從不在學校打棒球，因為學校的操場太小了。\"",
+        "pairs": [
+          {
+            "en": "playing baseball",
+            "zh": "打棒球"
+          },
+          {
+            "en": "play baseball with my cousins",
+            "zh": "和表兄弟一起打棒球"
+          },
+          {
+            "en": "The school playground is too small",
+            "zh": "學校的操場太小了"
+          }
+        ],
+        "sentences": [
+          "\"I love sports, too!\" Mike says.",
+          "\"I like playing baseball. I always play baseball with my cousins. But I never play baseball at school. The school playground is too small.\""
+        ],
+        "translation_sentences": [
+          "「我也熱愛運動！」Mike 說。",
+          "「我喜歡打棒球。我總是和我的表兄弟一起打棒球。但我從不在學校打棒球，因為學校的操場太小了。」"
+        ]
+      },
+      {
+        "id": "t7",
+        "audio": "hobbies_para_07",
+        "text": "\"I like playing the guitar,\" Amy says. \"I sometimes play it at home and my brother sings along. We also like making crafts. We often make crafts together. Look at these key chains. We made them ourselves!\"",
+        "translation": "\"我喜歡彈結他，\" Amy 說。\"我有時在家裡彈，我弟弟跟著唱。我們也喜歡做手工。我們經常一起做手工。看看這些鎖匙扣，是我們自己做的！\"",
+        "pairs": [
+          {
+            "en": "playing the guitar",
+            "zh": "彈結他"
+          },
+          {
+            "en": "making crafts",
+            "zh": "做手工"
+          },
+          {
+            "en": "key chains",
+            "zh": "鎖匙扣"
+          },
+          {
+            "en": "made them ourselves",
+            "zh": "我們自己做的"
+          }
+        ],
+        "sentences": [
+          "\"I like playing the guitar,\" Amy says.",
+          "\"I sometimes play it at home and my brother sings along. We also like making crafts. We often make crafts together. Look at these key chains. We made them ourselves!\""
+        ],
+        "translation_sentences": [
+          "「我喜歡彈結他，」Amy 說。",
+          "「我有時在家裡彈，我弟弟跟著唱。我們也喜歡做手工。我們經常一起做手工。看看這些鎖匙扣，是我們自己做的！」"
+        ]
+      },
+      {
+        "id": "t8",
+        "audio": "hobbies_para_08",
+        "text": "\"So what's the most popular hobby in our class?\" Andy asks. \"I don't know,\" Kate says. \"Let's ask our friends at school!\"",
+        "translation": "\"那麼我們班最受歡迎的嗜好是什麼？\" Andy 問。\"我不知道，\" Kate 說。\"讓我們到學校問問朋友們吧！\"",
+        "pairs": [
+          {
+            "en": "the most popular hobby",
+            "zh": "最受歡迎的嗜好"
+          },
+          {
+            "en": "Let's ask our friends",
+            "zh": "讓我們問問朋友們"
+          }
+        ],
+        "sentences": [
+          "\"So what's the most popular hobby in our class?\" Andy asks.",
+          "\"I don't know,\" Kate says. \"Let's ask our friends at school!\""
+        ],
+        "translation_sentences": [
+          "「那麼我們班最受歡迎的嗜好是什麼？」Andy 問。",
+          "「我不知道，」Kate 說。「讓我們到學校問問朋友們吧！」"
+        ]
+      }
+    ]
+  },
+  "sayItRight": {
+    "title": "SAY IT RIGHT (\"-ing\")",
+    "icon": "fa-microphone-alt",
+    "sentences": [
+      {
+        "id": "sir1",
+        "audio": "say_it_right_1",
+        "text": "Dad likes reading and swimming.",
+        "translation": "爸爸喜歡閱讀和游泳。",
+        "pairs": [
+          {
+            "en": "reading",
+            "zh": "閱讀"
+          },
+          {
+            "en": "swimming",
+            "zh": "游泳"
+          }
+        ]
+      },
+      {
+        "id": "sir2",
+        "audio": "say_it_right_2",
+        "text": "Mum likes cooking and cycling.",
+        "translation": "媽媽喜歡煮飯和騎單車。",
+        "pairs": [
+          {
+            "en": "cooking",
+            "zh": "煮飯"
+          },
+          {
+            "en": "cycling",
+            "zh": "騎單車"
+          }
+        ]
+      },
+      {
+        "id": "sir3",
+        "audio": "say_it_right_3",
+        "text": "My sister likes knitting and dancing.",
+        "translation": "我的姊姊喜歡編織和跳舞。",
+        "pairs": [
+          {
+            "en": "knitting",
+            "zh": "編織"
+          },
+          {
+            "en": "dancing",
+            "zh": "跳舞"
+          }
+        ]
+      },
+      {
+        "id": "sir4",
+        "audio": "say_it_right_4",
+        "text": "I like singing and jogging.",
+        "translation": "我喜歡唱歌和慢跑。",
+        "pairs": [
+          {
+            "en": "singing",
+            "zh": "唱歌"
+          },
+          {
+            "en": "jogging",
+            "zh": "慢跑"
+          }
+        ]
+      }
+    ]
+  },
+  "listening": {
+    "title": "聆聽練習：Kids' Corner 電台節目",
+    "icon": "fa-headphones",
+    "description": "Amy 正在收聽一個電台節目。聆聽節目內容，然後勾選最佳答案：",
+    "mode": "choice",
+    "script": {
+      "title": "Kids' Corner Radio Programme（節目聆聽稿）",
+      "audio": "listening_u1",
+      "text": "Welcome to Kids' Corner! I'm Betty Lam, your host. This is our weekly programme. You can listen to us every week, on Fridays. Today, our special guest is Jordy. Jordy loves writing letters to his pen friends and collecting stamps from all over the world. Now, let's enjoy a song. It's called I'll Never Forget My Pencils. It is about a helpful teacher and an angry boy. The teacher gives the boy some pencils, and the boy doesn't want to forget them! I think the song is really interesting. I hope you like it, too. See you next week!",
+      "segments": [
+        {
+          "en": "Welcome to Kids' Corner!",
+          "zh": "歡迎來到兒童天地！"
+        },
+        {
+          "en": "I'm Betty Lam, your host.",
+          "zh": "我是你們的主持人 Betty Lam。"
+        },
+        {
+          "en": "This is our weekly programme.",
+          "zh": "這是我們的每週節目。"
+        },
+        {
+          "en": "You can listen to us every week, on Fridays.",
+          "zh": "你們每個星期五都可以收聽我們的節目。"
+        },
+        {
+          "en": "Today, our special guest is Jordy.",
+          "zh": "今天，我們的特別嘉賓是 Jordy。"
+        },
+        {
+          "en": "Jordy loves writing letters to his pen friends and collecting stamps from all over the world.",
+          "zh": "Jordy 喜歡寫信給他的筆友，也喜歡收集世界各地的郵票。"
+        },
+        {
+          "en": "Now, let's enjoy a song.",
+          "zh": "現在，讓我們欣賞一首歌曲。"
+        },
+        {
+          "en": "It's called I'll Never Forget My Pencils.",
+          "zh": "這首歌叫《我永遠不會忘記我的鉛筆》。"
+        },
+        {
+          "en": "It is about a helpful teacher and an angry boy.",
+          "zh": "內容是關於一位樂於助人的老師和一個生氣的男孩。"
+        },
+        {
+          "en": "The teacher gives the boy some pencils, and the boy doesn't want to forget them!",
+          "zh": "老師給了男孩一些鉛筆，男孩不想把它們忘記！"
+        },
+        {
+          "en": "I think the song is really interesting.",
+          "zh": "我覺得這首歌真的很有趣。"
+        },
+        {
+          "en": "I hope you like it, too.",
+          "zh": "我也希望你們喜歡。"
+        },
+        {
+          "en": "See you next week!",
+          "zh": "下星期再見！"
+        }
+      ],
+      "zh": "歡迎來到兒童天地！<br>我是你們的主持人 Betty Lam。<br>這是我們的每週節目。<br>你們每個星期五都可以收聽我們的節目。<br>今天，我們的特別嘉賓是 Jordy。<br>Jordy 喜歡寫信給他的筆友，也喜歡收集世界各地的郵票。<br>現在，讓我們欣賞一首歌曲。<br>這首歌叫《我永遠不會忘記我的鉛筆》。<br>內容是關於一位樂於助人的老師和一個生氣的男孩。<br>老師給了男孩一些鉛筆，男孩不想把它們忘記！<br>我覺得這首歌真的很有趣。<br>我也希望你們喜歡。<br>下星期再見！"
+    },
+    "questions": [
+      {
+        "id": "l1",
+        "text": "1. What is the name of the host?",
+        "answer": "a",
+        "options": [
+          {
+            "key": "a",
+            "text": "a. Betty Lam"
+          },
+          {
+            "key": "b",
+            "text": "b. Betty Tam"
+          },
+          {
+            "key": "c",
+            "text": "c. Betty Chan"
+          },
+          {
+            "key": "d",
+            "text": "d. Betty Tang"
+          }
+        ],
+        "explanation": "主持人開場自我介紹：I'm Betty Lam, your host，所以選 a。"
+      },
+      {
+        "id": "l2",
+        "text": "2. Listeners can listen to the radio programme ______.",
+        "answer": "c",
+        "options": [
+          {
+            "key": "a",
+            "text": "a. every day"
+          },
+          {
+            "key": "b",
+            "text": "b. every two days"
+          },
+          {
+            "key": "c",
+            "text": "c. every week"
+          },
+          {
+            "key": "d",
+            "text": "d. every month"
+          }
+        ],
+        "explanation": "主持人說 This is our weekly programme. You can listen to us every week，節目每星期播出一次，所以選 c。"
+      },
+      {
+        "id": "l3",
+        "text": "3. What hobbies does Jordy have?",
+        "answer": "c",
+        "options": [
+          {
+            "key": "a",
+            "text": "a. singing and writing letters"
+          },
+          {
+            "key": "b",
+            "text": "b. going to concerts and writing poems"
+          },
+          {
+            "key": "c",
+            "text": "c. writing letters and collecting stamps"
+          },
+          {
+            "key": "d",
+            "text": "d. collecting stamps and writing poems"
+          }
+        ],
+        "explanation": "節目介紹 Jordy loves writing letters to his pen friends and collecting stamps，他的嗜好是寫信和集郵，所以選 c。"
+      },
+      {
+        "id": "l4",
+        "text": "4. What is the song I'll Never Forget My Pencils about?",
+        "answer": "a",
+        "options": [
+          {
+            "key": "a",
+            "text": "a. a helpful teacher and an angry boy"
+          },
+          {
+            "key": "b",
+            "text": "b. an angry boy and his silly classmate"
+          },
+          {
+            "key": "c",
+            "text": "c. a silly boy and his helpful classmate"
+          },
+          {
+            "key": "d",
+            "text": "d. a helpful boy and his silly classmate"
+          }
+        ],
+        "explanation": "主持人說 It is about a helpful teacher and an angry boy，歌曲講述一位樂於助人的老師和一個生氣的小男孩，所以選 a。"
+      },
+      {
+        "id": "l5",
+        "text": "5. How does Betty feel about the song I'll Never Forget My Pencils?",
+        "answer": "b",
+        "options": [
+          {
+            "key": "a",
+            "text": "a. She thinks the song is boring."
+          },
+          {
+            "key": "b",
+            "text": "b. She thinks the song is interesting."
+          },
+          {
+            "key": "c",
+            "text": "c. She thinks the song is difficult to sing."
+          },
+          {
+            "key": "d",
+            "text": "d. She thinks the song is too long."
+          }
+        ],
+        "explanation": "主持人說 I think the song is really interesting，她覺得這首歌很有趣，所以選 b。"
+      }
+    ]
+  },
+  "textType": {
+    "title": "Text Type: Diary Entries（日記）",
+    "icon": "fa-book",
+    "description": "日記是記錄一天事情的文體。一篇日記通常包括星期、日期、天氣、當天發生的事情以及想法和感受。",
+    "model": {
+      "title": "Ray's Diary（Ray 的日記）",
+      "parts": [
+        {
+          "label": "Day of the Week",
+          "text": "Monday"
+        },
+        {
+          "label": "Date",
+          "text": "2nd September"
+        },
+        {
+          "label": "Weather",
+          "text": "Sunny"
+        },
+        {
+          "label": "What happened",
+          "text": "Grandpa bought Ray some stickers"
+        },
+        {
+          "label": "Thoughts and feelings",
+          "text": "Happy and thankful"
+        }
+      ],
+      "body": "Monday 2nd September<br>Today was the first day of school. After school, I helped Grandpa sweep the floor and dust the cupboard. Then, he took me to a toy shop and bought me some stickers. I finally got a sticker of Jerry Choi! Hurray! Grandpa is so nice to me. I should help him do the chores more often.",
+      "zh": "星期一 9月2日<br>今天是開學的第一天。放學後，我幫爺爺掃地和擦拭碗櫃。然後，他帶我去玩具店，給我買了一些貼紙。我終於拿到了一張 Jerry Choi 的貼紙！太好了！爺爺對我很好。我應該更常幫他做家務。",
+      "pairs": [
+        {
+          "en": "first day of school",
+          "zh": "開學第一天"
+        },
+        {
+          "en": "sweep the floor",
+          "zh": "掃地"
+        },
+        {
+          "en": "dust the cupboard",
+          "zh": "擦拭碗櫃"
+        },
+        {
+          "en": "toy shop",
+          "zh": "玩具店"
+        },
+        {
+          "en": "stickers",
+          "zh": "貼紙"
+        },
+        {
+          "en": "chores",
+          "zh": "家務"
+        },
+        {
+          "en": "Grandpa",
+          "zh": "爺爺"
+        },
+        {
+          "en": "more often",
+          "zh": "更常"
+        }
+      ],
+      "sentences": [
+        "Monday 2nd September",
+        "Today was the first day of school.",
+        "After school, I helped Grandpa sweep the floor and dust the cupboard.",
+        "Then, he took me to a toy shop and bought me some stickers.",
+        "I finally got a sticker of Jerry Choi! Hurray!",
+        "Grandpa is so nice to me.",
+        "I should help him do the chores more often."
+      ],
+      "translation_sentences": [
+        "星期一 9月2日",
+        "今天是開學的第一天。",
+        "放學後，我幫爺爺掃地和擦拭碗櫃。",
+        "然後，他帶我去玩具店，給我買了一些貼紙。",
+        "我終於拿到了一張 Jerry Choi 的貼紙！太好了！",
+        "爺爺對我很好。",
+        "我應該更常幫他做家務。"
+      ]
+    },
+    "questions": [
+      {
+        "id": "tt1",
+        "text": "1. When did Ray write this diary entry?",
+        "answer": "b",
+        "options": [
+          {
+            "key": "a",
+            "text": "a. 1st September"
+          },
+          {
+            "key": "b",
+            "text": "b. 2nd September"
+          },
+          {
+            "key": "c",
+            "text": "c. 1st November"
+          },
+          {
+            "key": "d",
+            "text": "d. 2nd November"
+          }
+        ],
+        "explanation": "日記開頭寫道 Monday 2nd September，Ray 是在 9 月 2 日寫這篇日記的，所以選 b。"
+      },
+      {
+        "id": "tt2",
+        "text": "2. How did Ray feel that day?",
+        "answer": "a",
+        "options": [
+          {
+            "key": "a",
+            "text": "a. happy"
+          },
+          {
+            "key": "b",
+            "text": "b. sad"
+          },
+          {
+            "key": "c",
+            "text": "c. tired"
+          },
+          {
+            "key": "d",
+            "text": "d. hungry"
+          }
+        ],
+        "explanation": "Ray 終於得到 Jerry Choi 的貼紙，說 Hurray!，而且覺得 Grandpa is so nice to me，那天他很開心，所以選 a。"
+      },
+      {
+        "id": "tt3",
+        "text": "3. What happened to Ray that day?",
+        "answer": "d",
+        "options": [
+          {
+            "key": "a",
+            "text": "a. Jerry Choi gave him a sticker."
+          },
+          {
+            "key": "b",
+            "text": "b. He missed the bus to school."
+          },
+          {
+            "key": "c",
+            "text": "c. He was sick."
+          },
+          {
+            "key": "d",
+            "text": "d. Grandpa bought him some stickers."
+          }
+        ],
+        "explanation": "日記說 Grandpa took me to a toy shop and bought me some stickers，爺爺買了一些貼紙給他，所以選 d。"
+      }
+    ]
+  },
+  "grammar": [
+    {
+      "title": "like + -ing (喜歡做…)",
+      "audio": "grammar_like_ing",
+      "examples": [
+        {
+          "en": "I like collecting stickers.",
+          "zh": "我喜歡收集貼紙。",
+          "pairs": [
+            {
+              "en": "like collecting stickers",
+              "zh": "喜歡收集貼紙"
+            }
+          ]
+        },
+        {
+          "en": "She likes playing the guitar.",
+          "zh": "她喜歡彈結他。",
+          "pairs": [
+            {
+              "en": "likes playing the guitar",
+              "zh": "喜歡彈結他"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "play + 樂器（加 the）",
+      "audio": "grammar_play_the",
+      "examples": [
+        {
+          "en": "Amy likes playing the guitar.",
+          "zh": "Amy 喜歡彈結他。",
+          "pairs": [
+            {
+              "en": "playing the guitar",
+              "zh": "彈結他"
+            }
+          ]
+        },
+        {
+          "en": "Ken Ma likes playing the flute.",
+          "zh": "Ken Ma 喜歡吹笛子。",
+          "pairs": [
+            {
+              "en": "playing the flute",
+              "zh": "吹笛子"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "play / go + 運動",
+      "audio": "grammar_play_go",
+      "examples": [
+        {
+          "en": "She plays basketball and goes swimming on Mondays.",
+          "zh": "她每逢星期一打籃球和游泳。",
+          "pairs": [
+            {
+              "en": "plays basketball",
+              "zh": "打籃球"
+            },
+            {
+              "en": "goes swimming",
+              "zh": "游泳"
+            }
+          ]
+        },
+        {
+          "en": "He always goes cycling at weekends.",
+          "zh": "他週末總是騎單車。",
+          "pairs": [
+            {
+              "en": "goes cycling",
+              "zh": "騎單車"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "How often...? (頻率副詞)",
+      "audio": "grammar_how_often",
+      "examples": [
+        {
+          "en": "How often do you go cycling? I always go cycling at weekends.",
+          "zh": "你多久騎一次單車？我週末總是騎單車。",
+          "pairs": [
+            {
+              "en": "How often",
+              "zh": "多久一次"
+            },
+            {
+              "en": "always",
+              "zh": "總是"
+            }
+          ]
+        },
+        {
+          "en": "I often read storybooks but I seldom read comic books.",
+          "zh": "我經常閱讀故事書，但我很少看漫畫書。",
+          "pairs": [
+            {
+              "en": "often",
+              "zh": "經常"
+            },
+            {
+              "en": "seldom",
+              "zh": "很少"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "intro": "根據 Unit 1（Hobbies）內容完成以下練習題：",
+    "readingComp": {
+      "title": "練習 1：閱讀理解選擇題",
+      "icon": "fa-search",
+      "description": "根據課文內容，選擇最佳答案：",
+      "questions": [
+        {
+          "id": "r1",
+          "text": "1. Read line 13: \"They look cool!\" What does the word 'cool' mean?",
+          "answer": "c",
+          "options": [
+            {
+              "key": "a",
+              "text": "a. cold"
+            },
+            {
+              "key": "b",
+              "text": "b. boring"
+            },
+            {
+              "key": "c",
+              "text": "c. nice"
+            },
+            {
+              "key": "d",
+              "text": "d. happy"
+            }
+          ],
+          "explanation": "Andy 看到 Ray 的貼紙後說 They look cool!，這裡 cool 指『很棒、很好看』，即 nice，所以選 c。",
+          "zh": "閱讀第13行：『They look cool!』這裡的 'cool' 是什麼意思？"
+        },
+        {
+          "id": "r2",
+          "text": "2. Why does Kate like cycling?",
+          "answer": "b",
+          "options": [
+            {
+              "key": "a",
+              "text": "a. Cycling is fast."
+            },
+            {
+              "key": "b",
+              "text": "b. Cycling is good for her health."
+            },
+            {
+              "key": "c",
+              "text": "c. Cycling is relaxing."
+            },
+            {
+              "key": "d",
+              "text": "d. Cycling makes Kate happy."
+            }
+          ],
+          "explanation": "Kate 說 I like cycling because I can keep fit，騎單車能讓她保持健康，所以選 b。",
+          "zh": "為什麼 Kate 喜歡騎單車？"
+        },
+        {
+          "id": "r3",
+          "text": "3. What are Amy's hobbies?",
+          "answer": "a",
+          "options": [
+            {
+              "key": "a",
+              "text": "a. playing the guitar and making crafts"
+            },
+            {
+              "key": "b",
+              "text": "b. playing the guitar and singing"
+            },
+            {
+              "key": "c",
+              "text": "c. making crafts and collecting key chains"
+            },
+            {
+              "key": "d",
+              "text": "d. singing and collecting key chains"
+            }
+          ],
+          "explanation": "Amy 說 I like playing the guitar... We also like making crafts，她的嗜好是彈結他和做手工，所以選 a。",
+          "zh": "Amy 的愛好是什麼？"
+        },
+        {
+          "id": "r4",
+          "text": "4. The children are talking about ______.",
+          "answer": "d",
+          "options": [
+            {
+              "key": "a",
+              "text": "a. their school life"
+            },
+            {
+              "key": "b",
+              "text": "b. their favourite toys"
+            },
+            {
+              "key": "c",
+              "text": "c. their families and friends"
+            },
+            {
+              "key": "d",
+              "text": "d. what they like doing in their spare time"
+            }
+          ],
+          "explanation": "孩子們在討論各自在空閒時間喜歡做什麼（collecting stickers、reading、cycling、baseball、guitar 等），所以選 d。",
+          "zh": "孩子們正在談論 ______。"
+        },
+        {
+          "id": "r5",
+          "text": "5. What will Amy and Andy ask their friends?",
+          "answer": "d",
+          "options": [
+            {
+              "key": "a",
+              "text": "a. 'How often do you make crafts?'"
+            },
+            {
+              "key": "b",
+              "text": "b. 'Why do you like making crafts?'"
+            },
+            {
+              "key": "c",
+              "text": "c. 'What are your hobbies?'"
+            },
+            {
+              "key": "d",
+              "text": "d. 'What's the most popular hobby in our class?'"
+            }
+          ],
+          "explanation": "課文結尾 Andy 問 So what's the most popular hobby in our class?，Kate 說 Let's ask our friends at school!，他們打算問同學們最受歡迎的嗜好，所以選 d。",
+          "zh": "Amy 和 Andy 會問他們的朋友什麼？"
+        }
+      ]
+    },
+    "readingQA": {
+      "title": "練習 2：閱讀理解問答題",
+      "icon": "fa-question-circle",
+      "description": "根據課文內容，用完整的句子回答下列問題：",
+      "questions": [
+        {
+          "id": 1,
+          "text": "1. Why does Mike never play baseball at school?",
+          "placeholder": "請輸入答案",
+          "answer": "Because the school playground is too small.",
+          "variations": [
+            "The school playground is too small.",
+            "Because it is too small."
+          ],
+          "explanation": "Mike 說 The school playground is too small，學校的操場太小，所以他從不在學校打棒球。",
+          "zh": "為什麼 Mike 從不在學校打棒球？"
+        },
+        {
+          "id": 2,
+          "text": "2. How often does Kate go cycling?",
+          "placeholder": "請輸入答案",
+          "answer": "She always goes cycling at weekends.",
+          "variations": [
+            "Always.",
+            "She goes cycling at weekends."
+          ],
+          "explanation": "Kate 說 I always go cycling at weekends，她週末總是騎單車。",
+          "zh": "Kate 多久騎一次單車？"
+        }
+      ]
+    },
+    "wordBank": {
+      "title": "練習 3：Hall of Fame 詞庫填空",
+      "icon": "fa-trophy",
+      "description": "從詞庫中選擇正確的詞語，完成 Hall of Fame 名人榜上各人的嗜好：",
+      "bank": [
+        "playing baseball",
+        "ice skating",
+        "collecting stickers",
+        "collecting stamps",
+        "making crafts",
+        "knitting",
+        "playing the guitar",
+        "playing the flute"
+      ],
+      "items": [
+        {
+          "id": "w1",
+          "before": "1. Joe Ng (Athlete of the Year) likes ",
+          "after": ".",
+          "answer": "playing baseball",
+          "explanation": "Hall of Fame 顯示 Joe Ng 是 Athlete of the Year，愛好是 playing baseball（打棒球）。"
+        },
+        {
+          "id": "w2",
+          "before": "2. Joe Ng also likes ",
+          "after": ".",
+          "answer": "ice skating",
+          "explanation": "Hall of Fame 顯示 Joe Ng 的另一個愛好是 ice skating（溜冰）。"
+        },
+        {
+          "id": "w3",
+          "before": "3. Lily Chan (Collector of the Year) likes ",
+          "after": ".",
+          "answer": "collecting stickers",
+          "explanation": "Lily Chan 是 Collector of the Year，愛好是 collecting stickers（收集貼紙）。"
+        },
+        {
+          "id": "w4",
+          "before": "4. Lily Chan also likes ",
+          "after": ".",
+          "answer": "collecting stamps",
+          "explanation": "Lily Chan 的另一個愛好是 collecting stamps（集郵）。"
+        },
+        {
+          "id": "w5",
+          "before": "5. Mary Law (Artist of the Year) likes ",
+          "after": ".",
+          "answer": "making crafts",
+          "explanation": "Mary Law 是 Artist of the Year，愛好是 making crafts（做手工）。"
+        },
+        {
+          "id": "w6",
+          "before": "6. Mary Law also likes ",
+          "after": ".",
+          "answer": "knitting",
+          "explanation": "Mary Law 的另一個愛好是 knitting（編織）。"
+        },
+        {
+          "id": "w7",
+          "before": "7. Ken Ma (Musician of the Year) likes ",
+          "after": ".",
+          "answer": "playing the guitar",
+          "explanation": "Ken Ma 是 Musician of the Year，愛好是 playing the guitar（彈結他）。"
+        },
+        {
+          "id": "w8",
+          "before": "8. Ken Ma also likes ",
+          "after": ".",
+          "answer": "playing the flute",
+          "explanation": "Ken Ma 的另一個愛好是 playing the flute（吹笛子）。"
+        }
+      ]
+    },
+    "frequency": {
+      "title": "練習 4：頻率副詞圖表",
+      "icon": "fa-chart-bar",
+      "description": "Amy 和 Ray 製作了朋友們嗜好的頻率圖表。閱讀圖表，選擇正確的頻率副詞完成句子：",
+      "scale": [
+        "Never (從不)",
+        "Seldom (很少)",
+        "Sometimes (有時)",
+        "Often (經常)",
+        "Always (總是)"
+      ],
+      "bank": [
+        "never",
+        "seldom",
+        "sometimes",
+        "often",
+        "always"
+      ],
+      "items": [
+        {
+          "id": "f1",
+          "before": "1. Paul plays the flute ",
+          "after": ".",
+          "answer": "always",
+          "explanation": "圖表顯示 Paul 在 Playing the flute 一欄勾在 always，而且對話範例也說 He always plays the flute。"
+        },
+        {
+          "id": "f2",
+          "before": "2. Wing plays the flute ",
+          "after": ".",
+          "answer": "sometimes",
+          "explanation": "圖表顯示 Wing 在 Playing the flute 一欄勾在 sometimes。"
+        },
+        {
+          "id": "f3",
+          "before": "3. Paul knits ",
+          "after": ".",
+          "answer": "seldom",
+          "explanation": "圖表顯示 Paul 在 Knitting 一欄勾在 seldom。"
+        },
+        {
+          "id": "f4",
+          "before": "4. Wing knits ",
+          "after": ".",
+          "answer": "often",
+          "explanation": "圖表顯示 Wing 在 Knitting 一欄勾在 often。"
+        },
+        {
+          "id": "f5",
+          "before": "5. Paul collects model cars ",
+          "after": ".",
+          "answer": "always",
+          "explanation": "圖表顯示 Paul 在 Collecting model cars 一欄勾在 always。"
+        },
+        {
+          "id": "f6",
+          "before": "6. Wing collects model cars ",
+          "after": ".",
+          "answer": "seldom",
+          "explanation": "圖表顯示 Wing 在 Collecting model cars 一欄勾在 seldom。"
+        },
+        {
+          "id": "f7",
+          "before": "7. Paul goes ice skating ",
+          "after": ".",
+          "answer": "sometimes",
+          "explanation": "圖表顯示 Paul 在 Ice skating 一欄勾在 sometimes。"
+        },
+        {
+          "id": "f8",
+          "before": "8. Wing goes ice skating ",
+          "after": ".",
+          "answer": "seldom",
+          "explanation": "圖表顯示 Wing 在 Ice skating 一欄勾在 seldom。"
+        }
+      ]
+    },
+    "sentencePattern": {
+      "title": "練習 5：看圖完成句子",
+      "icon": "fa-image",
+      "description": "看看六幅圖畫，用 like + -ing 完成句子，寫出孩子們在空閒時間喜歡做的事：",
+      "items": [
+        {
+          "id": "sentence1",
+          "before": "1. Sam likes ",
+          "after": ".",
+          "placeholder": "例如 playing football",
+          "answer": "playing football",
+          "explanation": "圖①顯示 Sam 在踢足球，所以填 playing football。"
+        },
+        {
+          "id": "sentence2",
+          "before": "2. Pam likes ",
+          "after": ".",
+          "placeholder": "輸入答案",
+          "answer": "playing the piano",
+          "explanation": "圖②顯示 Pam 在彈鋼琴，樂器前要加 the，所以填 playing the piano。"
+        },
+        {
+          "id": "sentence3",
+          "before": "3. Paul likes ",
+          "after": ".",
+          "placeholder": "輸入答案",
+          "answer": "playing badminton",
+          "explanation": "圖③顯示 Paul 在打羽毛球，所以填 playing badminton。"
+        },
+        {
+          "id": "sentence4",
+          "before": "4. Wing likes ",
+          "after": ".",
+          "placeholder": "輸入答案",
+          "answer": "collecting stamps",
+          "explanation": "圖④顯示 Wing 在集郵，所以填 collecting stamps。"
+        },
+        {
+          "id": "sentence5",
+          "before": "5. Ben likes ",
+          "after": ".",
+          "placeholder": "輸入答案",
+          "answer": "reading",
+          "explanation": "圖⑤顯示 Ben 在看書，所以填 reading。"
+        },
+        {
+          "id": "sentence6",
+          "before": "6. Betty likes ",
+          "after": ".",
+          "placeholder": "輸入答案",
+          "answer": "drawing",
+          "explanation": "圖⑥顯示 Betty 在畫畫，所以填 drawing。"
+        }
+      ]
+    },
+    "discussion": {
+      "title": "練習 6：訪問朋友（口語問卷）",
+      "icon": "fa-users",
+      "description": "訪問兩位朋友，問他們關於嗜好的問題，並完成問卷。然後用英文介紹朋友的嗜好：",
+      "questions": [
+        {
+          "id": 1,
+          "text": "1. What do you like doing in your spare time?",
+          "placeholder": "請輸入你的答案",
+          "reference": "<strong>參考答案：</strong> I like playing football. I often play football with my friends after school.<br><strong>中文翻譯：</strong> 我喜歡踢足球。我放學後經常和朋友一起踢足球。"
+        },
+        {
+          "id": 2,
+          "text": "2. How often do you do your favourite hobby?",
+          "placeholder": "請輸入你的答案",
+          "reference": "<strong>參考答案：</strong> I always read storybooks before I go to bed.<br><strong>中文翻譯：</strong> 我睡前總是閱讀故事書。"
+        },
+        {
+          "id": 3,
+          "text": "3. Which hobby do you think is the most popular in our class? Why?",
+          "placeholder": "請輸入你的答案（至少2個理由）",
+          "reference": "<strong>參考答案：</strong> I think cycling is the most popular in our class. First, many of my classmates go cycling at weekends. Second, cycling is good for our health and it is fun.<br><strong>中文翻譯：</strong> 我認為騎單車是我們班最受歡迎的嗜好。首先，很多同學週末都會騎單車。其次，騎單車有益健康而且很有趣。"
+        }
+      ]
+    }
+  },
+  "quiz": {
+    "info": "滿分：15分",
+    "maxScore": 15,
+    "sections": [
+      {
+        "type": "choice",
+        "attr": "quiz",
+        "keyPrefix": "",
+        "title": "文法辨識題（每題 1 分）",
+        "icon": "fa-check-circle",
+        "questions": [
+          {
+            "id": 1,
+            "text": "1. Which sentence is correct?",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. She likes play the guitar."
+              },
+              {
+                "key": "b",
+                "text": "B. She likes playing the guitar."
+              },
+              {
+                "key": "c",
+                "text": "C. She like playing the guitar."
+              },
+              {
+                "key": "d",
+                "text": "D. She likes played the guitar."
+              }
+            ],
+            "answer": "b",
+            "explanation": "like 後面要接動名詞（-ing），而且主語 She 用第三人稱單數 likes，所以正確的是 She likes playing the guitar。"
+          },
+          {
+            "id": 2,
+            "text": "2. We add 'the' before ______.",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. sports"
+              },
+              {
+                "key": "b",
+                "text": "B. musical instruments"
+              },
+              {
+                "key": "c",
+                "text": "C. hobbies"
+              },
+              {
+                "key": "d",
+                "text": "D. school subjects"
+              }
+            ],
+            "answer": "b",
+            "explanation": "樂器（musical instruments）前要加 the，例如 play the guitar、play the flute；運動前不加 the，例如 play basketball。"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "attr": "match",
+        "keyPrefix": "match",
+        "title": "詞彙理解題（每題 1 分）",
+        "icon": "fa-link",
+        "description": "選擇正確答案：",
+        "questions": [
+          {
+            "id": 1,
+            "text": "1. What do you call a book for collecting stickers?",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. storybook"
+              },
+              {
+                "key": "b",
+                "text": "B. sticker album"
+              },
+              {
+                "key": "c",
+                "text": "C. comic book"
+              },
+              {
+                "key": "d",
+                "text": "D. diary"
+              }
+            ],
+            "answer": "b",
+            "explanation": "sticker album 是貼紙簿，專門用來收集貼紙，所以選 B。"
+          },
+          {
+            "id": 2,
+            "text": "2. What does 'keep fit' mean?",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. stay healthy"
+              },
+              {
+                "key": "b",
+                "text": "B. run fast"
+              },
+              {
+                "key": "c",
+                "text": "C. sit still"
+              },
+              {
+                "key": "d",
+                "text": "D. look nice"
+              }
+            ],
+            "answer": "a",
+            "explanation": "keep fit 意思是保持健康（stay healthy），Kate 騎單車就是為了 keep fit，所以選 A。"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "attr": "reading",
+        "keyPrefix": "reading",
+        "title": "閱讀理解選擇題（每題 2 分）",
+        "icon": "fa-book-reader",
+        "questions": [
+          {
+            "id": 1,
+            "text": "1. Who likes collecting stickers of football players?",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. Andy"
+              },
+              {
+                "key": "b",
+                "text": "B. Kate"
+              },
+              {
+                "key": "c",
+                "text": "C. Ray"
+              },
+              {
+                "key": "d",
+                "text": "D. Amy"
+              }
+            ],
+            "answer": "c",
+            "explanation": "Ray 說 I like collecting stickers of football players，所以選 C。"
+          },
+          {
+            "id": 2,
+            "text": "2. Why doesn't Mike play baseball at school?",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. He doesn't like it."
+              },
+              {
+                "key": "b",
+                "text": "B. The playground is too small."
+              },
+              {
+                "key": "c",
+                "text": "C. He has no cousins."
+              },
+              {
+                "key": "d",
+                "text": "D. It is boring."
+              }
+            ],
+            "answer": "b",
+            "explanation": "Mike 說 The school playground is too small，學校操場太小，所以選 B。"
+          }
+        ]
+      },
+      {
+        "type": "blank",
+        "title": "like + -ing 填空題（每題 2 分）",
+        "icon": "fa-edit",
+        "description": "用括號內動詞的正確形式（-ing）填空：",
+        "questions": [
+          {
+            "id": "quizBlank1",
+            "before": "1. Ray likes ",
+            "after": " (collect) stickers.",
+            "answer": "collecting",
+            "explanation": "like 後接動名詞，collect 的 -ing 形式是 collecting，所以填 collecting。"
+          },
+          {
+            "id": "quizBlank2",
+            "before": "2. Amy likes ",
+            "after": " (play) the guitar.",
+            "answer": "playing",
+            "explanation": "like 後接動名詞，play 的 -ing 形式是 playing，所以填 playing。"
+          }
+        ]
+      },
+      {
+        "type": "sentence",
+        "title": "句型運用題（每題 3 分）",
+        "icon": "fa-pen",
+        "prompt": "用 \"How often do you...?\" 問句和一個頻率副詞（never/seldom/sometimes/often/always），寫出關於你嗜好的問答句子：",
+        "id": "sentenceAnswer",
+        "placeholder": "請輸入句子",
+        "answer": "How often do you read? I always read storybooks at bedtime.",
+        "explanation": "示例：How often do you read? I always read storybooks at bedtime.（你多久閱讀一次？我睡前總是閱讀故事書。）只要用 How often 提問並用頻率副詞回答即可。"
+      }
+    ]
+  },
+  "sidebar": {
+    "learningPoints": {
+      "title": "Unit 1：Hobbies（我的愛好）",
+      "icon": "fa-heart",
+      "theme": "嗜好與頻率",
+      "goals": [
+        "學習嗜好相關詞彙",
+        "用 like + -ing 表達嗜好",
+        "使用頻率副詞 never/seldom/sometimes/often/always",
+        "用 How often...? 詢問做事的頻率",
+        "認識日記（Diary Entry）的文體特徵"
+      ]
+    },
+    "languageFocus": {
+      "sections": [
+        {
+          "title": "1. 嗜好詞彙：",
+          "items": [
+            "sticker album, football player, storybook",
+            "cycling, keep fit, baseball, spare time",
+            "guitar, key chains, hobby",
+            "collecting stamps, ice skating, knitting, flute"
+          ]
+        },
+        {
+          "title": "2. like + -ing：",
+          "items": [
+            "I like collecting stickers.",
+            "She likes playing the guitar.",
+            "We like making crafts."
+          ]
+        },
+        {
+          "title": "3. 頻率副詞：",
+          "items": [
+            "never, seldom, sometimes, often, always",
+            "I always go cycling at weekends.",
+            "I seldom read comic books."
+          ]
+        },
+        {
+          "title": "4. 句型結構：",
+          "items": [
+            "How often do you go cycling?",
+            "play + the + 樂器（the guitar）",
+            "play / go + 運動（play basketball / go swimming）"
+          ]
+        }
+      ]
+    }
+  }
+}

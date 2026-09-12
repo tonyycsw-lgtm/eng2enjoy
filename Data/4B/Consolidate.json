@@ -1,0 +1,1057 @@
+{
+  "meta": {
+    "pageTitleTag": "Book 4B Consolidate：Places in the Neighbourhood＋Verb Table（附錄複習）- 小學四年級英文互動練習",
+    "headerIcon": "fa-map-location-dot",
+    "title": "小學四年級英文（Book 4B）",
+    "subtitle": "Consolidate：社區地點＋動詞三態（附錄複習）",
+    "storageKey": "p4_ete_book4b_consolidate",
+    "totalPractice": 6,
+    "audioDir": "audio/4B/Consolidate"
+  },
+  "flashcards": {
+    "pages": 4,
+    "intro": "點擊卡片查看例句，點擊音頻按鈕聆聽發音：",
+    "cards": [
+      {
+        "page": 1,
+        "word": "police station",
+        "meaning": "警察局",
+        "icon": "fa-shield-halved",
+        "audio": "police_station",
+        "example": "The police station is next to the school.",
+        "translation": "警察局在學校旁邊。",
+        "exampleAudio": "police_station_example",
+        "pairs": [
+          {
+            "en": "police station",
+            "zh": "警察局"
+          },
+          {
+            "en": "next to",
+            "zh": "在…旁邊"
+          }
+        ]
+      },
+      {
+        "page": 1,
+        "word": "fire station",
+        "meaning": "消防局",
+        "icon": "fa-fire",
+        "audio": "fire_station",
+        "example": "Fire engines stay at the fire station.",
+        "translation": "消防車停在消防局。",
+        "exampleAudio": "fire_station_example",
+        "pairs": [
+          {
+            "en": "fire station",
+            "zh": "消防局"
+          }
+        ]
+      },
+      {
+        "page": 1,
+        "word": "MTR station",
+        "meaning": "港鐵站",
+        "icon": "fa-train-subway",
+        "audio": "mtr_station",
+        "example": "Could you tell me the way to the MTR station?",
+        "translation": "你能告訴我去港鐵站的路嗎？",
+        "exampleAudio": "mtr_station_example",
+        "pairs": [
+          {
+            "en": "MTR station",
+            "zh": "港鐵站"
+          },
+          {
+            "en": "tell me the way",
+            "zh": "告訴我路"
+          }
+        ]
+      },
+      {
+        "page": 1,
+        "word": "bus terminus",
+        "meaning": "巴士總站",
+        "icon": "fa-bus",
+        "audio": "bus_terminus",
+        "example": "The bus terminus is near the shopping centre.",
+        "translation": "巴士總站在購物中心附近。",
+        "exampleAudio": "bus_terminus_example",
+        "pairs": [
+          {
+            "en": "bus terminus",
+            "zh": "巴士總站"
+          },
+          {
+            "en": "near",
+            "zh": "在…附近"
+          }
+        ]
+      },
+      {
+        "page": 2,
+        "word": "hospital",
+        "meaning": "醫院",
+        "icon": "fa-hospital",
+        "audio": "hospital",
+        "example": "Dr Lee works at the hospital in Turi.",
+        "translation": "李醫生在 Turi 的醫院工作。",
+        "exampleAudio": "hospital_example",
+        "pairs": [
+          {
+            "en": "hospital",
+            "zh": "醫院"
+          }
+        ]
+      },
+      {
+        "page": 2,
+        "word": "post office",
+        "meaning": "郵政局",
+        "icon": "fa-envelope-open-text",
+        "audio": "post_office",
+        "example": "I send letters at the post office.",
+        "translation": "我在郵政局寄信。",
+        "exampleAudio": "post_office_example",
+        "pairs": [
+          {
+            "en": "post office",
+            "zh": "郵政局"
+          }
+        ]
+      },
+      {
+        "page": 2,
+        "word": "library",
+        "meaning": "圖書館",
+        "icon": "fa-book",
+        "audio": "library",
+        "example": "We borrow books from the library.",
+        "translation": "我們從圖書館借書。",
+        "exampleAudio": "library_example",
+        "pairs": [
+          {
+            "en": "library",
+            "zh": "圖書館"
+          },
+          {
+            "en": "borrow books",
+            "zh": "借書"
+          }
+        ]
+      },
+      {
+        "page": 2,
+        "word": "market",
+        "meaning": "街市",
+        "icon": "fa-basket-shopping",
+        "audio": "market",
+        "example": "My mum buys vegetables at the market.",
+        "translation": "我媽媽在街市買蔬菜。",
+        "exampleAudio": "market_example",
+        "pairs": [
+          {
+            "en": "market",
+            "zh": "街市"
+          }
+        ]
+      },
+      {
+        "page": 3,
+        "word": "shopping centre",
+        "meaning": "購物中心",
+        "icon": "fa-store",
+        "audio": "shopping_centre",
+        "example": "The shopping centre opens at ten o'clock.",
+        "translation": "購物中心十點開門。",
+        "exampleAudio": "shopping_centre_example",
+        "pairs": [
+          {
+            "en": "shopping centre",
+            "zh": "購物中心"
+          }
+        ]
+      },
+      {
+        "page": 3,
+        "word": "town hall",
+        "meaning": "大會堂",
+        "icon": "fa-landmark",
+        "audio": "town_hall",
+        "example": "The concert is held at the town hall.",
+        "translation": "音樂會在大會堂舉行。",
+        "exampleAudio": "town_hall_example",
+        "pairs": [
+          {
+            "en": "town hall",
+            "zh": "大會堂"
+          },
+          {
+            "en": "is held",
+            "zh": "舉行"
+          }
+        ]
+      },
+      {
+        "page": 4,
+        "word": "cinema",
+        "meaning": "電影院",
+        "icon": "fa-film",
+        "audio": "cinema",
+        "example": "We watch a movie at the cinema.",
+        "translation": "我們在電影院看電影。",
+        "exampleAudio": "cinema_example",
+        "pairs": [
+          {
+            "en": "cinema",
+            "zh": "電影院"
+          }
+        ]
+      },
+      {
+        "page": 4,
+        "word": "park",
+        "meaning": "公園",
+        "icon": "fa-tree-city",
+        "audio": "park",
+        "example": "There is a lawn in the park.",
+        "translation": "公園裡有一片草坪。",
+        "exampleAudio": "park_example",
+        "pairs": [
+          {
+            "en": "park",
+            "zh": "公園"
+          }
+        ]
+      }
+    ]
+  },
+  "reading": {
+    "title": "Places in the Neighbourhood（社區地點）",
+    "icon": "fa-map-location-dot",
+    "intro": "社區地圖上有各種場所。認識這些地點，學習用方位詞描述它們的位置：",
+    "paragraphs": [
+      {
+        "id": "t1",
+        "text": "This is a map of our neighbourhood. There is a school at the top. Next to the school is a police station, and there is a bus stop in front of it. The fire station is beside the bus stop, and the library is next to the fire station.<br>In the middle of the map, there is a shopping centre. Near the shopping centre, there is a hotel and a market. The MTR station is at the bottom of the map, next to the hospital.",
+        "translation": "這是我們社區的地圖。頂部有一間學校。學校旁邊是警察局，警察局前面有一個巴士站。消防局在巴士站旁邊，圖書館在消防局旁邊。<br>地圖中間有一個購物中心。購物中心附近有一間酒店和一個街市。港鐵站在地圖底部，醫院旁邊。",
+        "pairs": [
+          {
+            "en": "neighbourhood",
+            "zh": "社區"
+          },
+          {
+            "en": "next to",
+            "zh": "在…旁邊"
+          },
+          {
+            "en": "in front of",
+            "zh": "在…前面"
+          },
+          {
+            "en": "beside",
+            "zh": "在…旁邊"
+          },
+          {
+            "en": "near",
+            "zh": "在…附近"
+          },
+          {
+            "en": "at the bottom",
+            "zh": "在底部"
+          }
+        ],
+        "sentences": [
+          "This is a map of our neighbourhood.",
+          "There is a school at the top.",
+          "Next to the school is a police station, and there is a bus stop in front of it.",
+          "The fire station is beside the bus stop, and the library is next to the fire station.",
+          "In the middle of the map, there is a shopping centre.",
+          "Near the shopping centre, there is a hotel and a market.",
+          "The MTR station is at the bottom of the map, next to the hospital."
+        ],
+        "translation_sentences": [
+          "這是我們社區的地圖。",
+          "頂部有一間學校。",
+          "學校旁邊是警察局，警察局前面有一個巴士站。",
+          "消防局在巴士站旁邊，圖書館在消防局旁邊。",
+          "地圖中間有一個購物中心。",
+          "購物中心附近有一間酒店和一個街市。",
+          "港鐵站在地圖底部，醫院旁邊。"
+        ]
+      },
+      {
+        "id": "t2",
+        "text": "There is also a post office, a bank, a cinema and a factory in our neighbourhood. The post office is between the bank and the market. The cinema is opposite the town hall. The factory is near the pier, and the park is next to the factory.<br>Other places on the map include the bus terminus, the housing estate, the hotel and the school. We use these places every day!",
+        "translation": "我們的社區還有一間郵政局、一間銀行、一間電影院和一間工廠。郵政局在銀行和街市之間。電影院在大會堂對面。工廠在碼頭附近，公園在工廠旁邊。<br>地圖上的其他地方包括巴士總站、屋邨、酒店和學校。我們每天都會用到這些地方！",
+        "pairs": [
+          {
+            "en": "between ... and ...",
+            "zh": "在…和…之間"
+          },
+          {
+            "en": "opposite",
+            "zh": "在…對面"
+          },
+          {
+            "en": "the pier",
+            "zh": "碼頭"
+          },
+          {
+            "en": "housing estate",
+            "zh": "屋邨"
+          }
+        ],
+        "sentences": [
+          "There is also a post office, a bank, a cinema and a factory in our neighbourhood.",
+          "The post office is between the bank and the market.",
+          "The cinema is opposite the town hall.",
+          "The factory is near the pier, and the park is next to the factory.",
+          "Other places on the map include the bus terminus, the housing estate, the hotel and the school.",
+          "We use these places every day!"
+        ],
+        "translation_sentences": [
+          "我們的社區還有一間郵政局、一間銀行、一間電影院和一間工廠。",
+          "郵政局在銀行和街市之間。",
+          "電影院在大會堂對面。",
+          "工廠在碼頭附近，公園在工廠旁邊。",
+          "地圖上的其他地方包括巴士總站、屋邨、酒店和學校。",
+          "我們每天都會用到這些地方！"
+        ]
+      }
+    ]
+  },
+  "grammar": [
+    {
+      "title": "動詞三態：Simple Present → Present Continuous → Simple Past",
+      "examples": [
+        {
+          "en": "answer — answering — answered",
+          "zh": "回答（規則動詞：+ed）",
+          "pairs": [
+            {
+              "en": "answer",
+              "zh": "回答"
+            },
+            {
+              "en": "answering",
+              "zh": "正在回答"
+            },
+            {
+              "en": "answered",
+              "zh": "回答了"
+            }
+          ]
+        },
+        {
+          "en": "bring — bringing — brought",
+          "zh": "帶來（不規則：brought）",
+          "pairs": [
+            {
+              "en": "bring",
+              "zh": "帶來"
+            },
+            {
+              "en": "brought",
+              "zh": "帶來了"
+            }
+          ]
+        },
+        {
+          "en": "buy — buying — bought",
+          "zh": "買（不規則：bought）",
+          "pairs": [
+            {
+              "en": "buy",
+              "zh": "買"
+            },
+            {
+              "en": "bought",
+              "zh": "買了"
+            }
+          ]
+        },
+        {
+          "en": "go — going — went",
+          "zh": "去（不規則：went）",
+          "pairs": [
+            {
+              "en": "go",
+              "zh": "去"
+            },
+            {
+              "en": "went",
+              "zh": "去了"
+            }
+          ]
+        },
+        {
+          "en": "get — getting — got",
+          "zh": "得到（現在分詞雙寫 t）",
+          "pairs": [
+            {
+              "en": "get",
+              "zh": "得到"
+            },
+            {
+              "en": "getting",
+              "zh": "正在得到"
+            },
+            {
+              "en": "got",
+              "zh": "得到了"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "intro": "根據附錄（Places in the Neighbourhood 與 Verb Table）完成以下練習題：",
+    "readingComp": {
+      "title": "練習 1：地點選擇題",
+      "icon": "fa-search",
+      "description": "根據地圖描述，選擇最佳答案：",
+      "questions": [
+        {
+          "id": "rc1",
+          "text": "1. Where is the police station?",
+          "answer": "b",
+          "options": [
+            {
+              "key": "a",
+              "text": "a. next to the MTR station"
+            },
+            {
+              "key": "b",
+              "text": "b. next to the school"
+            },
+            {
+              "key": "c",
+              "text": "c. opposite the cinema"
+            },
+            {
+              "key": "d",
+              "text": "d. near the pier"
+            }
+          ],
+          "explanation": "地圖說 Next to the school is a police station，所以選 b。"
+        },
+        {
+          "id": "rc2",
+          "text": "2. Where is the post office?",
+          "answer": "c",
+          "options": [
+            {
+              "key": "a",
+              "text": "a. next to the fire station"
+            },
+            {
+              "key": "b",
+              "text": "b. opposite the town hall"
+            },
+            {
+              "key": "c",
+              "text": "c. between the bank and the market"
+            },
+            {
+              "key": "d",
+              "text": "d. near the pier"
+            }
+          ],
+          "explanation": "The post office is between the bank and the market（銀行和街市之間）。"
+        },
+        {
+          "id": "rc3",
+          "text": "3. Which place is opposite the town hall?",
+          "answer": "a",
+          "options": [
+            {
+              "key": "a",
+              "text": "a. the cinema"
+            },
+            {
+              "key": "b",
+              "text": "b. the hotel"
+            },
+            {
+              "key": "c",
+              "text": "c. the school"
+            },
+            {
+              "key": "d",
+              "text": "d. the bank"
+            }
+          ],
+          "explanation": "The cinema is opposite the town hall（電影院在大會堂對面）。"
+        },
+        {
+          "id": "rc4",
+          "text": "4. Where can we borrow books?",
+          "answer": "d",
+          "options": [
+            {
+              "key": "a",
+              "text": "a. at the market"
+            },
+            {
+              "key": "b",
+              "text": "b. at the post office"
+            },
+            {
+              "key": "c",
+              "text": "c. at the bus terminus"
+            },
+            {
+              "key": "d",
+              "text": "d. at the library"
+            }
+          ],
+          "explanation": "我們在圖書館（library）借書。"
+        },
+        {
+          "id": "rc5",
+          "text": "5. Where do fire engines stay?",
+          "answer": "b",
+          "options": [
+            {
+              "key": "a",
+              "text": "a. at the police station"
+            },
+            {
+              "key": "b",
+              "text": "b. at the fire station"
+            },
+            {
+              "key": "c",
+              "text": "c. at the bus terminus"
+            },
+            {
+              "key": "d",
+              "text": "d. at the MTR station"
+            }
+          ],
+          "explanation": "消防車停在消防局（fire station）。"
+        }
+      ]
+    },
+    "readingQA": {
+      "title": "練習 2：地點問答題",
+      "icon": "fa-question-circle",
+      "description": "用完整的句子回答下列問題：",
+      "questions": [
+        {
+          "q": "1. Which places are near the shopping centre?（購物中心附近有甚麼？）",
+          "a": "A hotel and a market are near the shopping centre.",
+          "zh": "購物中心附近有一間酒店和一個街市。",
+          "explanation": "地圖說 Near the shopping centre, there is a hotel and a market。"
+        },
+        {
+          "q": "2. Where is the MTR station?（港鐵站在哪裡？）",
+          "a": "It is at the bottom of the map, next to the hospital.",
+          "zh": "它在地圖底部，醫院旁邊。",
+          "explanation": "The MTR station is at the bottom of the map, next to the hospital。"
+        },
+        {
+          "q": "3. Where is the park?（公園在哪裡？）",
+          "a": "It is next to the factory, near the pier.",
+          "zh": "它在工廠旁邊，碼頭附近。",
+          "explanation": "The factory is near the pier, and the park is next to the factory。"
+        }
+      ]
+    },
+    "wordBank": {
+      "title": "練習 3：動詞三態填空",
+      "icon": "fa-tags",
+      "description": "寫出動詞的正確形式（Simple Present / Present Continuous / Simple Past）：",
+      "bank": [
+        "arrived",
+        "distributed",
+        "getting",
+        "went",
+        "met",
+        "repaired",
+        "said",
+        "swimming"
+      ],
+      "items": [
+        {
+          "prompt": "arrive → arriving → ______（到達）",
+          "answer": "arrived"
+        },
+        {
+          "prompt": "distribute → distributing → ______（分發）",
+          "answer": "distributed"
+        },
+        {
+          "prompt": "get → ______ → got（得到）",
+          "answer": "getting"
+        },
+        {
+          "prompt": "go → going → ______（去）",
+          "answer": "went"
+        },
+        {
+          "prompt": "meet → meeting → ______（見面）",
+          "answer": "met"
+        },
+        {
+          "prompt": "repair → repairing → ______（修理）",
+          "answer": "repaired"
+        },
+        {
+          "prompt": "say → saying → ______（說）",
+          "answer": "said"
+        },
+        {
+          "prompt": "swim → ______ → swam（游泳）",
+          "answer": "swimming"
+        }
+      ]
+    },
+    "discussion": {
+      "title": "練習 4：Speaking 問路與指路",
+      "icon": "fa-users",
+      "description": "和同學練習問路和指路，用地圖上的地點：",
+      "questions": [
+        "Could you tell me the way to the MTR station? Sure. Walk across the footbridge.（你能告訴我去港鐵站的路嗎？當然。走過行人天橋。）",
+        "Where's the sports centre? Go straight ahead. Turn right and walk across the road.（運動中心在哪裡？一直往前走。右轉並走過馬路。）",
+        "How can we get to the shopping centre? Walk along this street and turn left at the bank.（我們怎樣去購物中心？沿這條街走，在銀行左轉。）",
+        "Excuse me, where is the library? It's next to the fire station.（對不起，圖書館在哪裡？它在消防局旁邊。）"
+      ]
+    }
+  },
+  "quiz": {
+    "info": "滿分：15分",
+    "maxScore": 15,
+    "sections": [
+      {
+        "type": "choice",
+        "attr": "quiz",
+        "keyPrefix": "",
+        "title": "詞彙題：社區地點（每題 1 分）",
+        "icon": "fa-check-circle",
+        "questions": [
+          {
+            "id": 1,
+            "text": "1. We borrow books from the ______.",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. library"
+              },
+              {
+                "key": "b",
+                "text": "B. cinema"
+              },
+              {
+                "key": "c",
+                "text": "C. market"
+              },
+              {
+                "key": "d",
+                "text": "D. bank"
+              }
+            ],
+            "answer": "a",
+            "explanation": "圖書館（library）借書。"
+          },
+          {
+            "id": 2,
+            "text": "2. We catch the MTR at the ______.",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. bus terminus"
+              },
+              {
+                "key": "b",
+                "text": "B. MTR station"
+              },
+              {
+                "key": "c",
+                "text": "C. police station"
+              },
+              {
+                "key": "d",
+                "text": "D. town hall"
+              }
+            ],
+            "answer": "b",
+            "explanation": "港鐵站（MTR station）乘港鐵。"
+          },
+          {
+            "id": 3,
+            "text": "3. We watch a movie at the ______.",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. cinema"
+              },
+              {
+                "key": "b",
+                "text": "B. factory"
+              },
+              {
+                "key": "c",
+                "text": "C. hotel"
+              },
+              {
+                "key": "d",
+                "text": "D. library"
+              }
+            ],
+            "answer": "a",
+            "explanation": "電影院（cinema）看電影。"
+          },
+          {
+            "id": 4,
+            "text": "4. We buy vegetables at the ______.",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. fire station"
+              },
+              {
+                "key": "b",
+                "text": "B. market"
+              },
+              {
+                "key": "c",
+                "text": "C. post office"
+              },
+              {
+                "key": "d",
+                "text": "D. school"
+              }
+            ],
+            "answer": "b",
+            "explanation": "街市（market）買蔬菜。"
+          },
+          {
+            "id": 5,
+            "text": "5. We send letters at the ______.",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. post office"
+              },
+              {
+                "key": "b",
+                "text": "B. bank"
+              },
+              {
+                "key": "c",
+                "text": "C. pier"
+              },
+              {
+                "key": "d",
+                "text": "D. bus stop"
+              }
+            ],
+            "answer": "a",
+            "explanation": "郵政局（post office）寄信。"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "attr": "quiz",
+        "keyPrefix": "",
+        "title": "文法題：動詞三態（每題 1 分）",
+        "icon": "fa-font",
+        "questions": [
+          {
+            "id": 1,
+            "text": "1. go → going → ______",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. goed"
+              },
+              {
+                "key": "b",
+                "text": "B. went"
+              },
+              {
+                "key": "c",
+                "text": "C. gone"
+              },
+              {
+                "key": "d",
+                "text": "D. going"
+              }
+            ],
+            "answer": "b",
+            "explanation": "go 的過去式是 went（不規則）。"
+          },
+          {
+            "id": 2,
+            "text": "2. buy → buying → ______",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. buyed"
+              },
+              {
+                "key": "b",
+                "text": "B. bought"
+              },
+              {
+                "key": "c",
+                "text": "C. buying"
+              },
+              {
+                "key": "d",
+                "text": "D. brought"
+              }
+            ],
+            "answer": "b",
+            "explanation": "buy 的過去式是 bought。"
+          },
+          {
+            "id": 3,
+            "text": "3. bring → ______ → brought",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. bringed"
+              },
+              {
+                "key": "b",
+                "text": "B. bringing"
+              },
+              {
+                "key": "c",
+                "text": "C. brings"
+              },
+              {
+                "key": "d",
+                "text": "D. bring"
+              }
+            ],
+            "answer": "b",
+            "explanation": "bring 的現在分詞是 bringing。"
+          },
+          {
+            "id": 4,
+            "text": "4. get → getting → ______",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. getted"
+              },
+              {
+                "key": "b",
+                "text": "B. got"
+              },
+              {
+                "key": "c",
+                "text": "C. gotten"
+              },
+              {
+                "key": "d",
+                "text": "D. gets"
+              }
+            ],
+            "answer": "b",
+            "explanation": "get 的過去式是 got。"
+          },
+          {
+            "id": 5,
+            "text": "5. say → saying → ______",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. sayed"
+              },
+              {
+                "key": "b",
+                "text": "B. said"
+              },
+              {
+                "key": "c",
+                "text": "C. saying"
+              },
+              {
+                "key": "d",
+                "text": "D. says"
+              }
+            ],
+            "answer": "b",
+            "explanation": "say 的過去式是 said。"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "attr": "quiz",
+        "keyPrefix": "",
+        "title": "方位與理解題（每題 1 分）",
+        "icon": "fa-book-open",
+        "questions": [
+          {
+            "id": 1,
+            "text": "1. The post office is ______ the bank and the market.",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. next to"
+              },
+              {
+                "key": "b",
+                "text": "B. opposite"
+              },
+              {
+                "key": "c",
+                "text": "C. between"
+              },
+              {
+                "key": "d",
+                "text": "D. in front of"
+              }
+            ],
+            "answer": "c",
+            "explanation": "between A and B（在 A 和 B 之間）。"
+          },
+          {
+            "id": 2,
+            "text": "2. The cinema is ______ the town hall.",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. opposite"
+              },
+              {
+                "key": "b",
+                "text": "B. between"
+              },
+              {
+                "key": "c",
+                "text": "C. in"
+              },
+              {
+                "key": "d",
+                "text": "D. at"
+              }
+            ],
+            "answer": "a",
+            "explanation": "opposite（在對面）。"
+          },
+          {
+            "id": 3,
+            "text": "3. The MTR station is next to the ______.",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. hospital"
+              },
+              {
+                "key": "b",
+                "text": "B. school"
+              },
+              {
+                "key": "c",
+                "text": "C. pier"
+              },
+              {
+                "key": "d",
+                "text": "D. factory"
+              }
+            ],
+            "answer": "a",
+            "explanation": "港鐵站在醫院（hospital）旁邊。"
+          },
+          {
+            "id": 4,
+            "text": "4. The park is next to the ______.",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. library"
+              },
+              {
+                "key": "b",
+                "text": "B. factory"
+              },
+              {
+                "key": "c",
+                "text": "C. cinema"
+              },
+              {
+                "key": "d",
+                "text": "D. hotel"
+              }
+            ],
+            "answer": "b",
+            "explanation": "公園在工廠（factory）旁邊。"
+          },
+          {
+            "id": 5,
+            "text": "5. Which verb table form is correct?",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. arrive — arriving — arrived"
+              },
+              {
+                "key": "b",
+                "text": "B. arrive — arrived — arriving"
+              },
+              {
+                "key": "c",
+                "text": "C. arrive — arrives — arrived"
+              },
+              {
+                "key": "d",
+                "text": "D. arrive — arriving — arrive"
+              }
+            ],
+            "answer": "a",
+            "explanation": "規則動詞：arrive → arriving → arrived。"
+          }
+        ]
+      }
+    ]
+  },
+  "sidebar": {
+    "learningPoints": {
+      "title": "Book 4B Consolidate（附錄複習）",
+      "icon": "fa-map-location-dot",
+      "theme": "社區地點與動詞三態",
+      "goals": [
+        "能認識社區場所詞彙（library, market 等 19 個）",
+        "能運用方位詞描述位置（next to, between, opposite）",
+        "能掌握動詞三態變化（規則與不規則）",
+        "能問路和指路（Could you tell me the way...?）"
+      ]
+    },
+    "languageFocus": {
+      "sections": [
+        {
+          "title": "1. 社區地點：",
+          "items": [
+            "pier, housing estate, school, police station, bus stop",
+            "fire station, library, bus terminus, MTR station, hospital",
+            "post office, bank, market, shopping centre, hotel",
+            "town hall, cinema, factory, park"
+          ]
+        },
+        {
+          "title": "2. 方位詞：",
+          "items": [
+            "next to（旁邊）, in front of（前面）, near（附近）",
+            "between ... and ...（之間）, opposite（對面）"
+          ]
+        },
+        {
+          "title": "3. 動詞三態：",
+          "items": [
+            "規則：+ed（answer-answered）",
+            "不規則：go-went, buy-bought, bring-brought, say-said"
+          ]
+        }
+      ]
+    }
+  }
+}

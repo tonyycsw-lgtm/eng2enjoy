@@ -1,0 +1,1612 @@
+{
+  "meta": {
+    "pageTitleTag": "Unit 3：People who protect nature（保護大自然的人）- 小學四年級英文互動練習（Book 4B）",
+    "headerIcon": "fa-tree",
+    "title": "小學四年級英文（Book 4B）",
+    "subtitle": "Unit 3：People who protect nature（保護大自然的人）（與 Unit 2 同課）",
+    "storageKey": "p4_ete_book4b_unit3",
+    "totalPractice": 8,
+    "audioDir": "audio/4B/Unit3"
+  },
+  "flashcards": {
+    "pages": 4,
+    "intro": "點擊卡片查看例句，點擊音頻按鈕聆聽發音：",
+    "cards": [
+      {
+        "page": 1,
+        "word": "animal scientist",
+        "meaning": "動物科學家",
+        "icon": "fa-paw",
+        "audio": "animal_scientist",
+        "example": "Carl is an animal scientist. He studies wild animals like squirrels, deer and bats.",
+        "translation": "卡爾是動物科學家。他研究松鼠、鹿和蝙蝠等野生動物。",
+        "exampleAudio": "animal_scientist_example",
+        "pairs": [
+          {
+            "en": "animal scientist",
+            "zh": "動物科學家"
+          },
+          {
+            "en": "wild animals",
+            "zh": "野生動物"
+          }
+        ]
+      },
+      {
+        "page": 1,
+        "word": "ocean scientist",
+        "meaning": "海洋科學家",
+        "icon": "fa-water",
+        "audio": "ocean_scientist",
+        "example": "Bonnie is an ocean scientist. She studies sea life such as dolphins and jellyfish.",
+        "translation": "邦妮是海洋科學家。她研究海豚和水母等海洋生物。",
+        "exampleAudio": "ocean_scientist_example",
+        "pairs": [
+          {
+            "en": "ocean scientist",
+            "zh": "海洋科學家"
+          },
+          {
+            "en": "sea life",
+            "zh": "海洋生物"
+          }
+        ]
+      },
+      {
+        "page": 1,
+        "word": "eco-tour guide",
+        "meaning": "生態導遊",
+        "icon": "fa-binoculars",
+        "audio": "eco_tour_guide",
+        "example": "Kat is an eco-tour guide. She organises tours in Mai Po Nature Reserve.",
+        "translation": "凱特是生態導遊。她在米埔自然保護區組織觀光團。",
+        "exampleAudio": "eco_tour_guide_example",
+        "pairs": [
+          {
+            "en": "eco-tour guide",
+            "zh": "生態導遊"
+          },
+          {
+            "en": "Nature Reserve",
+            "zh": "自然保護區"
+          }
+        ]
+      },
+      {
+        "page": 1,
+        "word": "plant scientist",
+        "meaning": "植物科學家",
+        "icon": "fa-leaf",
+        "audio": "plant_scientist",
+        "example": "Edward is a plant scientist. He takes care of plants that are in bad shape.",
+        "translation": "愛德華是植物科學家。他照顧狀況不佳的植物。",
+        "exampleAudio": "plant_scientist_example",
+        "pairs": [
+          {
+            "en": "plant scientist",
+            "zh": "植物科學家"
+          },
+          {
+            "en": "in bad shape",
+            "zh": "狀況不佳"
+          }
+        ]
+      },
+      {
+        "page": 2,
+        "word": "reporter",
+        "meaning": "記者",
+        "icon": "fa-newspaper",
+        "audio": "reporter",
+        "example": "A reporter writes news for a newspaper or a TV station.",
+        "translation": "記者為報紙或電視台寫新聞。",
+        "exampleAudio": "reporter_example",
+        "pairs": [
+          {
+            "en": "reporter",
+            "zh": "記者"
+          }
+        ]
+      },
+      {
+        "page": 2,
+        "word": "astronaut",
+        "meaning": "太空人",
+        "icon": "fa-rocket",
+        "audio": "astronaut",
+        "example": "An astronaut goes into space in a rocket.",
+        "translation": "太空人乘坐火箭進入太空。",
+        "exampleAudio": "astronaut_example",
+        "pairs": [
+          {
+            "en": "astronaut",
+            "zh": "太空人"
+          },
+          {
+            "en": "go into space",
+            "zh": "進入太空"
+          }
+        ]
+      },
+      {
+        "page": 2,
+        "word": "lifeguard",
+        "meaning": "救生員",
+        "icon": "fa-life-ring",
+        "audio": "lifeguard",
+        "example": "A lifeguard watches swimmers at the beach or the swimming pool.",
+        "translation": "救生員在海灘或泳池看守游泳的人。",
+        "exampleAudio": "lifeguard_example",
+        "pairs": [
+          {
+            "en": "lifeguard",
+            "zh": "救生員"
+          }
+        ]
+      },
+      {
+        "page": 2,
+        "word": "web designer",
+        "meaning": "網頁設計師",
+        "icon": "fa-laptop-code",
+        "audio": "web_designer",
+        "example": "A web designer designs and builds websites.",
+        "translation": "網頁設計師設計和建立網站。",
+        "exampleAudio": "web_designer_example",
+        "pairs": [
+          {
+            "en": "web designer",
+            "zh": "網頁設計師"
+          }
+        ]
+      },
+      {
+        "page": 3,
+        "word": "artist",
+        "meaning": "藝術家",
+        "icon": "fa-palette",
+        "audio": "artist",
+        "example": "An artist is good at painting.",
+        "translation": "藝術家擅長繪畫。",
+        "exampleAudio": "artist_example",
+        "pairs": [
+          {
+            "en": "artist",
+            "zh": "藝術家"
+          },
+          {
+            "en": "be good at",
+            "zh": "擅長"
+          }
+        ]
+      },
+      {
+        "page": 3,
+        "word": "dentist",
+        "meaning": "牙醫",
+        "icon": "fa-tooth",
+        "audio": "dentist",
+        "example": "A dentist treats people's teeth.",
+        "translation": "牙醫治療人們的牙齒。",
+        "exampleAudio": "dentist_example",
+        "pairs": [
+          {
+            "en": "dentist",
+            "zh": "牙醫"
+          },
+          {
+            "en": "treat people's teeth",
+            "zh": "治療牙齒"
+          }
+        ]
+      },
+      {
+        "page": 4,
+        "word": "attentively",
+        "meaning": "專注地",
+        "icon": "fa-eye",
+        "audio": "attentively",
+        "example": "Students who want to be plant scientists need to observe plants attentively.",
+        "translation": "想成為植物科學家的學生需要專注地觀察植物。",
+        "exampleAudio": "attentively_example",
+        "pairs": [
+          {
+            "en": "attentively",
+            "zh": "專注地"
+          },
+          {
+            "en": "observe",
+            "zh": "觀察"
+          }
+        ]
+      },
+      {
+        "page": 4,
+        "word": "creatively",
+        "meaning": "有創意地",
+        "icon": "fa-lightbulb",
+        "audio": "creatively",
+        "example": "I need to plan the tours creatively so that they're interesting.",
+        "translation": "我需要有創意地規劃行程，使它有趣。",
+        "exampleAudio": "creatively_example",
+        "pairs": [
+          {
+            "en": "creatively",
+            "zh": "有創意地"
+          },
+          {
+            "en": "so that",
+            "zh": "以便"
+          }
+        ]
+      },
+      {
+        "page": 4,
+        "word": "patiently",
+        "meaning": "耐心地",
+        "icon": "fa-hourglass-half",
+        "audio": "patiently",
+        "example": "He trains dolphins patiently.",
+        "translation": "他耐心地訓練海豚。",
+        "exampleAudio": "patiently_example",
+        "pairs": [
+          {
+            "en": "patiently",
+            "zh": "耐心地"
+          }
+        ]
+      },
+      {
+        "page": 4,
+        "word": "skilfully",
+        "meaning": "熟練地",
+        "icon": "fa-hands",
+        "audio": "skilfully",
+        "example": "Edward handles plants skilfully to make sure the flowers and leaves stay on.",
+        "translation": "愛德華熟練地處理植物，確保花朵和葉子不掉落。",
+        "exampleAudio": "skilfully_example",
+        "pairs": [
+          {
+            "en": "skilfully",
+            "zh": "熟練地"
+          },
+          {
+            "en": "handle",
+            "zh": "處理"
+          }
+        ]
+      }
+    ]
+  },
+  "reading": {
+    "title": "People who protect nature",
+    "icon": "fa-tree",
+    "intro": "孩子們在香港青年科學博覽會。一位記者採訪四位嘉賓，他們都有保護大自然的工作。閱讀採訪，認識各種環保職業：",
+    "paragraphs": [
+      {
+        "id": "t1",
+        "text": "The children are at the Hong Kong Youth Science Fair. An interviewer is interviewing four people: Carl Lee, Bonnie Yeung, Kat Choi and Edward Wu.<br>D: We have four guests with us today and they'll tell us about their extraordinary jobs. Can you introduce yourselves?<br>C: Hello. My name is Carl Lee. I'm an animal scientist.<br>B: My name is Bonnie Yeung. I'm an ocean scientist.<br>K: My name is Kat Choi. I'm an eco-tour guide.<br>E: Hi. My name is Edward Wu. I'm a plant scientist.",
+        "translation": "孩子們在香港青年科學博覽會。一位記者正在採訪四個人：Carl Lee、Bonnie Yeung、Kat Choi 和 Edward Wu。<br>記者：今天我們請來四位嘉賓，他們會告訴我們他們非凡的工作。你們可以自我介紹嗎？<br>卡爾：你好。我叫 Carl Lee。我是動物科學家。<br>邦妮：我叫 Bonnie Yeung。我是海洋科學家。<br>凱特：我叫 Kat Choi。我是生態導遊。<br>愛德華：嗨。我叫 Edward Wu。我是植物科學家。",
+        "pairs": [
+          {
+            "en": "extraordinary jobs",
+            "zh": "非凡的工作"
+          },
+          {
+            "en": "introduce yourselves",
+            "zh": "自我介紹"
+          }
+        ],
+        "sentences": [
+          "The children are at the Hong Kong Youth Science Fair.",
+          "An interviewer is interviewing four people: Carl Lee, Bonnie Yeung, Kat Choi and Edward Wu.",
+          "D: We have four guests with us today and they'll tell us about their extraordinary jobs.",
+          "Can you introduce yourselves?",
+          "C: Hello.",
+          "My name is Carl Lee.",
+          "I'm an animal scientist.",
+          "B: My name is Bonnie Yeung.",
+          "I'm an ocean scientist.",
+          "K: My name is Kat Choi.",
+          "I'm an eco-tour guide.",
+          "E: Hi.",
+          "My name is Edward Wu.",
+          "I'm a plant scientist."
+        ],
+        "translation_sentences": [
+          "孩子們在香港青年科學博覽會。",
+          "一位記者正在採訪四個人：Carl Lee、Bonnie Yeung、Kat Choi 和 Edward Wu。",
+          "記者：今天我們請來四位嘉賓，他們會告訴我們他們非凡的工作。",
+          "你們可以自我介紹嗎？",
+          "卡爾：你好。",
+          "我叫 Carl Lee。",
+          "我是動物科學家。",
+          "邦妮：我叫 Bonnie Yeung。",
+          "我是海洋科學家。",
+          "凱特：我叫 Kat Choi。",
+          "我是生態導遊。",
+          "愛德華：嗨。",
+          "我叫 Edward Wu。",
+          "我是植物科學家。"
+        ]
+      },
+      {
+        "id": "t2",
+        "text": "D: These are all quite unusual jobs. Carl, could you tell us what you do at work?<br>C: Sure. I study wild animals, like squirrels, deer and bats. The living environment for many animals is getting worse because of pollution. I keep track of the animals to make sure they're healthy.",
+        "translation": "記者：這些都是很不尋常的工作。Carl，你能告訴我們你工作時做什麼嗎？<br>卡爾：當然。我研究野生動物，例如松鼠、鹿和蝙蝠。由於污染，很多動物的生活環境越來越差。我會追蹤牠們，確保牠們健康。",
+        "pairs": [
+          {
+            "en": "unusual jobs",
+            "zh": "不尋常的工作"
+          },
+          {
+            "en": "study wild animals",
+            "zh": "研究野生動物"
+          },
+          {
+            "en": "getting worse because of pollution",
+            "zh": "因污染而越來越差"
+          },
+          {
+            "en": "keep track of",
+            "zh": "追蹤"
+          }
+        ],
+        "sentences": [
+          "D: These are all quite unusual jobs.",
+          "Carl, could you tell us what you do at work?",
+          "C: Sure.",
+          "I study wild animals, like squirrels, deer and bats.",
+          "The living environment for many animals is getting worse because of pollution.",
+          "I keep track of the animals to make sure they're healthy."
+        ],
+        "translation_sentences": [
+          "記者：這些都是很不尋常的工作。",
+          "Carl，你能告訴我們你工作時做什麼嗎？",
+          "卡爾：當然。",
+          "我研究野生動物，例如松鼠、鹿和蝙蝠。",
+          "由於污染，很多動物的生活環境越來越差。",
+          "我會追蹤牠們，確保牠們健康。"
+        ]
+      },
+      {
+        "id": "t3",
+        "text": "D: What about you, Bonnie?<br>B: I study sea life such as dolphins and jellyfish. I also tag and measure sharks so I know where they go and how much they grow.<br>D: Sharks! That sounds scary.<br>B: Yes, it does. I need to swim cautiously around them and other sea animals that may pose a danger to me and my colleagues.",
+        "translation": "記者：那你呢，Bonnie？<br>邦妮：我研究海豚和水母等海洋生物。我還會給鯊魚裝上標籤並測量牠們，這樣我就知道牠們去哪兒、長多大。<br>記者：鯊魚！聽起來很可怕。<br>邦妮：是啊。我需要謹慎地在牠們和其他可能對我和同事構成危險的海洋動物周圍游泳。",
+        "pairs": [
+          {
+            "en": "tag and measure sharks",
+            "zh": "給鯊魚裝標籤並測量"
+          },
+          {
+            "en": "That sounds scary",
+            "zh": "聽起來很可怕"
+          },
+          {
+            "en": "swim cautiously",
+            "zh": "謹慎地游泳"
+          },
+          {
+            "en": "pose a danger",
+            "zh": "構成危險"
+          }
+        ],
+        "sentences": [
+          "D: What about you, Bonnie?",
+          "B: I study sea life such as dolphins and jellyfish.",
+          "I also tag and measure sharks so I know where they go and how much they grow.",
+          "D: Sharks!",
+          "That sounds scary.",
+          "B: Yes, it does.",
+          "I need to swim cautiously around them and other sea animals that may pose a danger to me and my colleagues."
+        ],
+        "translation_sentences": [
+          "記者：那你呢，Bonnie？",
+          "邦妮：我研究海豚和水母等海洋生物。",
+          "我還會給鯊魚裝上標籤並測量牠們，這樣我就知道牠們去哪兒、長多大。",
+          "記者：鯊魚！",
+          "聽起來很可怕。",
+          "邦妮：是啊。",
+          "我需要謹慎地在牠們和其他可能對我和同事構成危險的海洋動物周圍游泳。"
+        ]
+      },
+      {
+        "id": "t4",
+        "text": "D: And what do you do, Edward?<br>E: Unlike Carl and Bonnie, I study plants. I take care of plants that are in bad shape. Sometimes I replant them in richer soil.<br>D: How do you replant plants?<br>E: I need to handle them skilfully to make sure the flowers and leaves stay on the plants.",
+        "translation": "記者：那你做什麼，Edward？<br>愛德華：和 Carl、Bonnie 不同，我研究植物。我照顧狀況不佳的植物。有時我會把它們重新種到更肥沃的土壤裡。<br>記者：你怎麼重新種植植物？<br>愛德華：我需要熟練地處理牠們，確保花朵和葉子留在植物上。",
+        "pairs": [
+          {
+            "en": "in bad shape",
+            "zh": "狀況不佳"
+          },
+          {
+            "en": "replant them in richer soil",
+            "zh": "重新種到更肥沃的土壤"
+          },
+          {
+            "en": "handle them skilfully",
+            "zh": "熟練地處理它們"
+          }
+        ],
+        "sentences": [
+          "D: And what do you do, Edward?",
+          "E: Unlike Carl and Bonnie, I study plants.",
+          "I take care of plants that are in bad shape.",
+          "Sometimes I replant them in richer soil.",
+          "D: How do you replant plants?",
+          "E: I need to handle them skilfully to make sure the flowers and leaves stay on the plants."
+        ],
+        "translation_sentences": [
+          "記者：那你做什麼，Edward？",
+          "愛德華：和 Carl、Bonnie 不同，我研究植物。",
+          "我照顧狀況不佳的植物。",
+          "有時我會把它們重新種到更肥沃的土壤裡。",
+          "記者：你怎麼重新種植植物？",
+          "愛德華：我需要熟練地處理牠們，確保花朵和葉子留在植物上。"
+        ]
+      },
+      {
+        "id": "t5",
+        "text": "D: What do you do as an eco-tour guide, Kat?<br>K: I organise tours and show people different kinds of birds in Mai Po Nature Reserve.<br>D: Is it a tough job?<br>K: Sometimes it is! I need to plan the tours creatively so that they're interesting.",
+        "translation": "記者：作為生態導遊，你做什麼，Kat？<br>凱特：我組織觀光團，帶人們在米埔自然保護區觀看不同種類的鳥。<br>記者：這是個辛苦的工作嗎？<br>凱特：有時是！我需要有創意地規劃行程，使它有趣。",
+        "pairs": [
+          {
+            "en": "organise tours",
+            "zh": "組織觀光團"
+          },
+          {
+            "en": "Mai Po Nature Reserve",
+            "zh": "米埔自然保護區"
+          },
+          {
+            "en": "a tough job",
+            "zh": "辛苦的工作"
+          },
+          {
+            "en": "plan the tours creatively",
+            "zh": "有創意地規劃行程"
+          }
+        ],
+        "sentences": [
+          "D: What do you do as an eco-tour guide, Kat?",
+          "K: I organise tours and show people different kinds of birds in Mai Po Nature Reserve.",
+          "D: Is it a tough job?",
+          "K: Sometimes it is!",
+          "I need to plan the tours creatively so that they're interesting."
+        ],
+        "translation_sentences": [
+          "記者：作為生態導遊，你做什麼，Kat？",
+          "凱特：我組織觀光團，帶人們在米埔自然保護區觀看不同種類的鳥。",
+          "記者：這是個辛苦的工作嗎？",
+          "凱特：有時是！",
+          "我需要有創意地規劃行程，使它有趣。"
+        ]
+      },
+      {
+        "id": "t6",
+        "text": "D: Many students want to have jobs like yours when they grow up. What advice would all of you give them?<br>C: Students who want to be animal scientists need to be brave because some animals are dangerous to be around.<br>B: To be an ocean scientist, you need to be good at swimming and diving.<br>K: If you want to be an eco-tour guide, you need to listen patiently and speak confidently and clearly when you answer the visitors' questions.<br>E: Students who want to be plant scientists need to observe plants attentively.<br>D: Thank you for your time and your valuable information.",
+        "translation": "記者：很多學生長大後想從事你們這樣的工作。你們會給他們甚麼建議？<br>卡爾：想成為動物科學家的學生需要勇敢，因為有些動物在身邊是危險的。<br>邦妮：要成為海洋科學家，你需要擅長游泳和潛水。<br>凱特：如果你想成為生態導遊，回答遊客問題時需要耐心地聽、自信而清楚地說。<br>愛德華：想成為植物科學家的學生需要專注地觀察植物。<br>記者：謝謝你們的時間和寶貴的資訊。",
+        "pairs": [
+          {
+            "en": "when they grow up",
+            "zh": "長大後"
+          },
+          {
+            "en": "be brave",
+            "zh": "勇敢"
+          },
+          {
+            "en": "be good at swimming and diving",
+            "zh": "擅長游泳和潛水"
+          },
+          {
+            "en": "listen patiently",
+            "zh": "耐心地聽"
+          },
+          {
+            "en": "speak confidently and clearly",
+            "zh": "自信而清楚地說"
+          },
+          {
+            "en": "observe plants attentively",
+            "zh": "專注地觀察植物"
+          },
+          {
+            "en": "valuable information",
+            "zh": "寶貴的資訊"
+          }
+        ],
+        "sentences": [
+          "D: Many students want to have jobs like yours when they grow up.",
+          "What advice would all of you give them?",
+          "C: Students who want to be animal scientists need to be brave because some animals are dangerous to be around.",
+          "B: To be an ocean scientist, you need to be good at swimming and diving.",
+          "K: If you want to be an eco-tour guide, you need to listen patiently and speak confidently and clearly when you answer the visitors' questions.",
+          "E: Students who want to be plant scientists need to observe plants attentively.",
+          "D: Thank you for your time and your valuable information."
+        ],
+        "translation_sentences": [
+          "記者：很多學生長大後想從事你們這樣的工作。",
+          "你們會給他們甚麼建議？",
+          "卡爾：想成為動物科學家的學生需要勇敢，因為有些動物在身邊是危險的。",
+          "邦妮：要成為海洋科學家，你需要擅長游泳和潛水。",
+          "凱特：如果你想成為生態導遊，回答遊客問題時需要耐心地聽、自信而清楚地說。",
+          "愛德華：想成為植物科學家的學生需要專注地觀察植物。",
+          "記者：謝謝你們的時間和寶貴的資訊。"
+        ]
+      }
+    ]
+  },
+  "sayItRight": {
+    "title": "SAY IT RIGHT ('-ly')：副詞的讀音",
+    "icon": "fa-microphone-alt",
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "To be a good eco-tour guide, you must speak clearly and listen carefully.",
+        "translation": "要做一個好的生態導遊，你必須說得清楚、聽得仔細。",
+        "pairs": [
+          {
+            "en": "clearly",
+            "zh": "清楚地"
+          },
+          {
+            "en": "carefully",
+            "zh": "仔細地"
+          }
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "To be a good student, you must do homework neatly and talk politely.",
+        "translation": "要做一個好學生，你必須整齊地做功課、有禮貌地說話。",
+        "pairs": [
+          {
+            "en": "neatly",
+            "zh": "整齊地"
+          },
+          {
+            "en": "politely",
+            "zh": "有禮貌地"
+          }
+        ]
+      }
+    ]
+  },
+  "listening": {
+    "title": "聆聽練習：科學博覽會的攤位",
+    "icon": "fa-headphones",
+    "description": "Tim 在香港青年科學博覽會和 Miss Tsui 交談。聆聽對話，選出最佳答案：",
+    "mode": "choice",
+    "script": {
+      "title": "Tim and Miss Tsui（Tim 與 Miss Tsui）",
+      "audio": "listening_4b2",
+      "text": "Excuse me, Miss Tsui. What information can I get from your booth? We have leaflets about different kinds of birds in Hong Kong. Great! What activities does your club organise? We organise nature tours and talks for children and families. What do you need to do your job well? I need to be very careful when I work with animals and visitors. You are very sociable, aren't you? Yes, I love talking to visitors and answering their questions. What else do you do? I guide people around the reserve and plan tours. Making sure visitors follow the rules is the guard's job! Ha ha! I think you need to be patient and confident. I want to be an eco-tour guide too!",
+      "zh": "對不起，Miss Tsui。我可以從你的攤位獲得甚麼資訊？<br>我們有介紹香港不同種類鳥類的傳單。<br>太好了！你們俱樂部組織甚麼活動？<br>我們為兒童和家庭組織自然觀光和講座。<br>做好你的工作需要甚麼？<br>和動物及遊客一起工作時我需要非常小心。<br>你非常善於交際，對吧？<br>是的，我喜歡和遊客交談並回答他們的問題。<br>你還做甚麼？<br>我帶人們在保護區觀光並規劃行程。確保遊客遵守規則那是守衛的工作！<br>哈哈！我想你需要耐心和自信。我也想成為生態導遊！",
+      "segments": [
+        {
+          "en": "Excuse me, Miss Tsui. What information can I get from your booth?",
+          "zh": "對不起，Miss Tsui。我可以從你的攤位獲得甚麼資訊？"
+        },
+        {
+          "en": "We have leaflets about different kinds of birds in Hong Kong.",
+          "zh": "我們有介紹香港不同種類鳥類的傳單。"
+        },
+        {
+          "en": "Great! What activities does your club organise?",
+          "zh": "太好了！你們俱樂部組織甚麼活動？"
+        },
+        {
+          "en": "We organise nature tours and talks for children and families.",
+          "zh": "我們為兒童和家庭組織自然觀光和講座。"
+        },
+        {
+          "en": "What do you need to do your job well?",
+          "zh": "做好你的工作需要甚麼？"
+        },
+        {
+          "en": "I need to be very careful when I work with animals and visitors.",
+          "zh": "和動物及遊客一起工作時我需要非常小心。"
+        },
+        {
+          "en": "You are very sociable, aren't you?",
+          "zh": "你非常善於交際，對吧？"
+        },
+        {
+          "en": "Yes, I love talking to visitors and answering their questions.",
+          "zh": "是的，我喜歡和遊客交談並回答他們的問題。"
+        },
+        {
+          "en": "What else do you do?",
+          "zh": "你還做甚麼？"
+        },
+        {
+          "en": "I guide people around the reserve and plan tours. Making sure visitors follow the rules is the guard's job!",
+          "zh": "我帶人們在保護區觀光並規劃行程。確保遊客遵守規則那是守衛的工作！"
+        },
+        {
+          "en": "Ha ha! I think you need to be patient and confident. I want to be an eco-tour guide too!",
+          "zh": "哈哈！我想你需要耐心和自信。我也想成為生態導遊！"
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": "l1",
+        "text": "1. What kind of information will Tim get from the booth? Information about ____.",
+        "answer": "c",
+        "options": [
+          {
+            "key": "a",
+            "text": "a. boats（船）"
+          },
+          {
+            "key": "b",
+            "text": "b. watches（手錶）"
+          },
+          {
+            "key": "c",
+            "text": "c. birds（鳥類）"
+          },
+          {
+            "key": "d",
+            "text": "d. cups（杯子）"
+          }
+        ],
+        "explanation": "Miss Tsui 說 We have leaflets about different kinds of birds，所以選 c（鳥類）。"
+      },
+      {
+        "id": "l2",
+        "text": "2. What kinds of activities does the club organise?",
+        "answer": "a",
+        "options": [
+          {
+            "key": "a",
+            "text": "a. tours（觀光）"
+          },
+          {
+            "key": "b",
+            "text": "b. games（遊戲）"
+          },
+          {
+            "key": "c",
+            "text": "c. visits to the club（參觀俱樂部）"
+          },
+          {
+            "key": "d",
+            "text": "d. cooking lessons（烹飪課）"
+          }
+        ],
+        "explanation": "Miss Tsui 說 We organise nature tours and talks（觀光和講座）。課本為多選題（tours＋talks），此處選最合適的 a。"
+      },
+      {
+        "id": "l3",
+        "text": "3. To do her job well, Miss Tsui needs to be ____.",
+        "answer": "c",
+        "options": [
+          {
+            "key": "a",
+            "text": "a. hard-working（勤奮）"
+          },
+          {
+            "key": "b",
+            "text": "b. fit（健康）"
+          },
+          {
+            "key": "c",
+            "text": "c. careful（小心）"
+          },
+          {
+            "key": "d",
+            "text": "d. creative（有創意）"
+          }
+        ],
+        "explanation": "Miss Tsui 說 I need to be very careful when I work with animals and visitors，所以選 c（小心）。"
+      },
+      {
+        "id": "l4",
+        "text": "4. Miss Tsui also needs to be sociable. What does she do?",
+        "answer": "b",
+        "options": [
+          {
+            "key": "a",
+            "text": "a. She feeds the animals.（她餵動物）"
+          },
+          {
+            "key": "b",
+            "text": "b. She talks to visitors and answers their questions.（她和遊客交談並回答問題）"
+          },
+          {
+            "key": "c",
+            "text": "c. She cleans the booth.（她打掃攤位）"
+          },
+          {
+            "key": "d",
+            "text": "d. She writes leaflets.（她寫傳單）"
+          }
+        ],
+        "explanation": "Miss Tsui 說 I love talking to visitors and answering their questions，所以選 b。"
+      },
+      {
+        "id": "l5",
+        "text": "5. What is NOT part of Miss Tsui's job?",
+        "answer": "c",
+        "options": [
+          {
+            "key": "a",
+            "text": "a. guiding people（帶人觀光）"
+          },
+          {
+            "key": "b",
+            "text": "b. planning and organising tours（規劃和組織行程）"
+          },
+          {
+            "key": "c",
+            "text": "c. making sure visitors follow the rules（確保遊客遵守規則）"
+          },
+          {
+            "key": "d",
+            "text": "d. answering visitors' questions（回答遊客問題）"
+          }
+        ],
+        "explanation": "Miss Tsui 說 Making sure visitors follow the rules is the guard's job，所以選 c（那是守衛的工作）。"
+      },
+      {
+        "id": "l6",
+        "text": "6. How will you describe Tim?",
+        "answer": "d",
+        "options": [
+          {
+            "key": "a",
+            "text": "a. strong（強壯）"
+          },
+          {
+            "key": "b",
+            "text": "b. lazy（懶惰）"
+          },
+          {
+            "key": "c",
+            "text": "c. shy（害羞）"
+          },
+          {
+            "key": "d",
+            "text": "d. confident（自信）"
+          }
+        ],
+        "explanation": "Tim 說 I think you need to be patient and confident. I want to be an eco-tour guide too，他自己也表現出自信。課本為多選題（patient＋confident），此處選最合適的 d。"
+      }
+    ]
+  },
+  "textType": {
+    "title": "Text Type: Jokes（笑話）",
+    "icon": "fa-laugh",
+    "description": "笑話可以是故事、對話或句子。笑話讀起來很有趣，令人發笑。笑話的最後一行是笑點（punchline），是令人意想不到、引人發笑的部分。",
+    "model": {
+      "title": "Funny Jokes（有趣的笑話）",
+      "parts": [
+        "Punchline（笑點）",
+        "Dialogue（對話）",
+        "Story（故事）"
+      ],
+      "body": "1. Q: What does Mrs Duck say when she buys a lipstick?<br>A: Put it on my bill, please.<br><br>2. Father Whale: What are your grades, son?<br>Little Whale: Under water, Dad.<br>Father Whale: Under water? What do you mean?<br>Little Whale: They're below C level.<br><br>3. Q: Why do cows have bells?<br>A: Because their horns don't work.<br><br>4. A monkey goes to see Dr Owl.<br>Monkey: Doctor, please help me! Look, when I touch my tummy, it hurts. When I touch my chest, it hurts. When I touch my leg, it hurts. What's wrong with me?<br>Dr Owl: Hmm ... I think you have a broken finger.",
+      "zh": "1. 問：鴨太太買口紅時會說甚麼？<br>答：請把它記在我的帳單上。（bill 雙關：帳單／鴨嘴）<br><br>2. 鯨魚爸爸：兒子，你的成績如何？<br>小鯨魚：在水下面，爸爸。<br>鯨魚爸爸：在水下面？甚麼意思？<br>小鯨魚：它們都在 C 水平以下。（C level 音似 sea level）<br><br>3. 問：牛為甚麼掛鈴鐺？<br>答：因為牠們的角不響。（horn 雙關：角／喇叭）<br><br>4. 一隻猴子去看貓頭鷹醫生。<br>猴子：醫生，請幫幫我！你看，我摸肚子，它疼。我摸胸口，它疼。我摸腿，它疼。我怎麼了？<br>貓頭鷹醫生：嗯……我想你的手指斷了。",
+      "pairs": [
+        {
+          "en": "punchline",
+          "zh": "笑點"
+        },
+        {
+          "en": "Put it on my bill, please.",
+          "zh": "請把它記在我的帳單上。"
+        },
+        {
+          "en": "They're below C level.",
+          "zh": "它們都在 C 水平以下。"
+        },
+        {
+          "en": "their horns don't work",
+          "zh": "牠們的角不響"
+        },
+        {
+          "en": "a broken finger",
+          "zh": "手指斷了"
+        }
+      ],
+      "sentences": [
+        "1. Q: What does Mrs Duck say when she buys a lipstick?",
+        "A: Put it on my bill, please.",
+        "2. Father Whale: What are your grades, son?",
+        "Little Whale: Under water, Dad.",
+        "Father Whale: Under water? What do you mean?",
+        "Little Whale: They're below C level.",
+        "3. Q: Why do cows have bells?",
+        "A: Because their horns don't work.",
+        "4. A monkey goes to see Dr Owl.",
+        "Monkey: Doctor, please help me!",
+        "Look, when I touch my tummy, it hurts.",
+        "When I touch my chest, it hurts.",
+        "When I touch my leg, it hurts.",
+        "What's wrong with me?",
+        "Dr Owl: Hmm ... I think you have a broken finger."
+      ],
+      "translation_sentences": [
+        "1. 問：鴨太太買口紅時會說甚麼？",
+        "答：請把它記在我的帳單上。（bill 雙關：帳單／鴨嘴）",
+        "2. 鯨魚爸爸：兒子，你的成績如何？",
+        "小鯨魚：在水下面，爸爸。",
+        "鯨魚爸爸：在水下面？甚麼意思？",
+        "小鯨魚：它們都在 C 水平以下。（C level 音似 sea level）",
+        "3. 問：牛為甚麼掛鈴鐺？",
+        "答：因為牠們的角不響。（horn 雙關：角／喇叭）",
+        "4. 一隻猴子去看貓頭鷹醫生。",
+        "猴子：醫生，請幫幫我！",
+        "你看，我摸肚子，它疼。",
+        "我摸胸口，它疼。",
+        "我摸腿，它疼。",
+        "我怎麼了？",
+        "貓頭鷹醫生：嗯……我想你的手指斷了。"
+      ]
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "text": "1. Read the jokes again. Which of the following sentences is a punchline?",
+        "answer": "a",
+        "options": [
+          {
+            "key": "a",
+            "text": "a. Under water, Dad."
+          },
+          {
+            "key": "b",
+            "text": "b. What's wrong with me?"
+          },
+          {
+            "key": "c",
+            "text": "c. Why do cows have bells?"
+          },
+          {
+            "key": "d",
+            "text": "d. Put it on my bill, please."
+          }
+        ],
+        "explanation": "笑點是笑話最後一句出乎意料的部分。「Under water, Dad.」是小鯨魚回答的雙關句（C level ~ sea level），是笑點。d 也是笑點，但課本答案以 a 為準。"
+      },
+      {
+        "id": "q2",
+        "text": "2. Why is joke 2 funny?",
+        "answer": "c",
+        "options": [
+          {
+            "key": "a",
+            "text": "a. Little Whale's grades are poor.（小鯨魚成績差）"
+          },
+          {
+            "key": "b",
+            "text": "b. Father Whale is angry.（鯨魚爸爸生氣）"
+          },
+          {
+            "key": "c",
+            "text": "c. 'C level' sounds the same as 'sea level'.（C level 聽起來像 sea level）"
+          },
+          {
+            "key": "d",
+            "text": "d. Little Whale's test papers are wet.（小鯨魚的試卷濕了）"
+          }
+        ],
+        "explanation": "小鯨魚把 below C level（低於 C 級）說成在水下（below sea level），利用 C level 與 sea level 同音製造笑點，所以選 c。"
+      }
+    ]
+  },
+  "grammar": [
+    {
+      "title": "副詞（adverbs）：形容詞 + -ly 變成副詞，用來描述動作",
+      "examples": [
+        {
+          "en": "He shouts loudly.",
+          "zh": "他大聲喊叫。（loud + -ly = loudly）",
+          "pairs": [
+            {
+              "en": "shouts loudly",
+              "zh": "大聲喊叫"
+            }
+          ]
+        },
+        {
+          "en": "She eats quickly.",
+          "zh": "她吃得很快。（quick + -ly = quickly）",
+          "pairs": [
+            {
+              "en": "eats quickly",
+              "zh": "吃得很快"
+            }
+          ]
+        },
+        {
+          "en": "I need to plan the tours creatively.",
+          "zh": "我需要有創意地規劃行程。（creative → creatively）",
+          "pairs": [
+            {
+              "en": "plan the tours creatively",
+              "zh": "有創意地規劃行程"
+            }
+          ]
+        },
+        {
+          "en": "Edward handles plants skilfully.",
+          "zh": "Edward 熟練地處理植物。（skilful → skilfully）",
+          "pairs": [
+            {
+              "en": "handles plants skilfully",
+              "zh": "熟練地處理植物"
+            }
+          ]
+        },
+        {
+          "en": "We must speak clearly and listen carefully.",
+          "zh": "我們必須說得清楚、聽得仔細。（clear → clearly, careful → carefully）",
+          "pairs": [
+            {
+              "en": "speak clearly",
+              "zh": "說得清楚"
+            },
+            {
+              "en": "listen carefully",
+              "zh": "聽得仔細"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "intro": "根據 Unit 2（People who protect nature）內容完成以下練習題：",
+    "readingComp": {
+      "title": "練習 1：閱讀理解選擇題",
+      "icon": "fa-search",
+      "description": "根據採訪內容，選擇最佳答案：",
+      "questions": [
+        {
+          "id": "rc1",
+          "text": "1. What does Carl do at work?",
+          "answer": "b",
+          "options": [
+            {
+              "key": "a",
+              "text": "a. He feeds animals.（他餵動物）"
+            },
+            {
+              "key": "b",
+              "text": "b. He studies animals.（他研究動物）"
+            },
+            {
+              "key": "c",
+              "text": "c. He protects animals.（他保護動物）"
+            },
+            {
+              "key": "d",
+              "text": "d. He gives medicine to animals.（他給動物吃藥）"
+            }
+          ],
+          "explanation": "Carl 說 I study wild animals，所以選 b（研究動物）。"
+        },
+        {
+          "id": "rc2",
+          "text": "2. Animal scientists like Carl are NOT ____ animals.",
+          "answer": "c",
+          "options": [
+            {
+              "key": "a",
+              "text": "a. fond of（喜愛）"
+            },
+            {
+              "key": "b",
+              "text": "b. interested in（對…感興趣）"
+            },
+            {
+              "key": "c",
+              "text": "c. afraid of（害怕）"
+            },
+            {
+              "key": "d",
+              "text": "d. familiar with（熟悉）"
+            }
+          ],
+          "explanation": "課文說動物科學家需要 be brave（勇敢），不是害怕動物，所以選 c（害怕）。"
+        },
+        {
+          "id": "rc3",
+          "text": "3. Why must Bonnie be cautious?",
+          "answer": "a",
+          "options": [
+            {
+              "key": "a",
+              "text": "a. Some animals can be dangerous.（有些動物可能危險）"
+            },
+            {
+              "key": "b",
+              "text": "b. Some animals grow quickly.（有些動物長得快）"
+            },
+            {
+              "key": "c",
+              "text": "c. Bonnie is not good at swimming.（Bonnie 不擅長游泳）"
+            },
+            {
+              "key": "d",
+              "text": "d. Diving is a difficult job.（潛水是困難的工作）"
+            }
+          ],
+          "explanation": "Bonnie 說 sea animals may pose a danger to me and my colleagues，所以選 a（有些動物可能危險）。"
+        },
+        {
+          "id": "rc4",
+          "text": "4. Why does Edward replant plants?",
+          "answer": "d",
+          "options": [
+            {
+              "key": "a",
+              "text": "a. It is Edward's hobby.（這是 Edward 的嗜好）"
+            },
+            {
+              "key": "b",
+              "text": "b. The plants are dangerous for hikers.（植物對遠足者危險）"
+            },
+            {
+              "key": "c",
+              "text": "c. The old place has too few plants.（舊地方植物太少）"
+            },
+            {
+              "key": "d",
+              "text": "d. The new place is more suitable for the plants.（新地方更適合植物）"
+            }
+          ],
+          "explanation": "課文說 I replant them in richer soil（重新種到更肥沃的土壤），新土壤更適合植物，所以選 d。"
+        },
+        {
+          "id": "rc5",
+          "text": "5. What does Kat do in Mai Po Nature Reserve?",
+          "answer": "c",
+          "options": [
+            {
+              "key": "a",
+              "text": "a. She goes hiking.（她遠足）"
+            },
+            {
+              "key": "b",
+              "text": "b. She feeds and looks after the birds.（她餵鳥、照顧鳥）"
+            },
+            {
+              "key": "c",
+              "text": "c. She tells visitors about different kinds of birds.（她向遊客介紹不同種類的鳥）"
+            },
+            {
+              "key": "d",
+              "text": "d. She finds safer homes for the birds.（她為鳥找更安全的家）"
+            }
+          ],
+          "explanation": "課文說 I show people different kinds of birds in Mai Po Nature Reserve，所以選 c。"
+        }
+      ]
+    },
+    "readingQA": {
+      "title": "練習 2：閱讀理解問答題",
+      "icon": "fa-question-circle",
+      "description": "用完整的句子回答下列問題：",
+      "questions": [
+        {
+          "q": "1. Among the four jobs in the interview, which job do you like best? Why?（採訪中的四份工作，你最喜歡哪一份？為甚麼？）",
+          "a": "I like the eco-tour guide best because I love birds and being outdoors.",
+          "zh": "我最喜歡生態導遊，因為我愛鳥類和戶外活動。",
+          "explanation": "這是開放題，說出你喜歡的工作並說明理由即可。例：I like the ocean scientist best because I love swimming and the sea."
+        },
+        {
+          "q": "2. What advice do the four guests give to students?（四位嘉賓給學生甚麼建議？）",
+          "a": "They need to be brave, good at swimming and diving, patient, confident and attentive.",
+          "zh": "他們需要勇敢、擅長游泳和潛水、有耐心、自信和專注。",
+          "explanation": "課文總結：animal scientists 要 brave、ocean scientists 要擅長游泳潛水、eco-tour guides 要 patient/confident、plant scientists 要 attentive。"
+        }
+      ]
+    },
+    "wordBank": {
+      "title": "練習 3：Words to learn 看圖選詞填空",
+      "icon": "fa-tags",
+      "description": "閱讀提示，從詞庫中選出正確的職業名稱（看圖提示以文字描述代替）：",
+      "bank": [
+        "artist",
+        "astronaut",
+        "dentist",
+        "eco-tour guide",
+        "lifeguard",
+        "reporter",
+        "scientist",
+        "web designer"
+      ],
+      "items": [
+        {
+          "prompt": "He writes news for a newspaper or a TV station.（為報紙或電視台寫新聞）",
+          "answer": "reporter"
+        },
+        {
+          "prompt": "She goes into space in a rocket.（乘坐火箭進入太空）",
+          "answer": "astronaut"
+        },
+        {
+          "prompt": "He watches swimmers at the beach.（在海灘看守游泳的人）",
+          "answer": "lifeguard"
+        },
+        {
+          "prompt": "She designs and builds websites.（設計和建立網站）",
+          "answer": "web designer"
+        },
+        {
+          "prompt": "He paints beautiful pictures.（畫美麗的圖畫）",
+          "answer": "artist"
+        },
+        {
+          "prompt": "She treats people's teeth.（治療人們的牙齒）",
+          "answer": "dentist"
+        },
+        {
+          "prompt": "He shows people different kinds of birds.（帶人們觀看不同種類的鳥）",
+          "answer": "eco-tour guide"
+        },
+        {
+          "prompt": "She studies wild animals or plants.（研究野生動物或植物）",
+          "answer": "scientist"
+        }
+      ]
+    },
+    "discussion": {
+      "title": "練習 4：Speaking 說一說＋Grammar 副詞轉換",
+      "icon": "fa-users",
+      "description": "和同學互相描述職業與猜謎；再把形容詞變成副詞：",
+      "questions": [
+        "What does Joe do? He is a dolphin trainer. He trains dolphins patiently.（Joe 做甚麼？他是海豚訓練員。他耐心地訓練海豚。）",
+        "Ray needs to be brave and know about space. What does he want to be? He wants to be an astronaut.（Ray 要勇敢、懂太空。他想成為甚麼？他想成為太空人。）",
+        "Amy is creative and good at designing web pages. She wants to be a web designer.（Amy 有創意、擅長設計網頁。她想成為網頁設計師。）",
+        "Andy is patient and treats people's teeth. He wants to be a dentist.（Andy 有耐心、治療牙齒。他想成為牙醫。）",
+        "Ben is strong and good at swimming. He wants to be a lifeguard.（Ben 強壯、擅長游泳。他想成為救生員。）",
+        "Kate is artistic and good at painting. She wants to be an artist.（Kate 有藝術天分、擅長繪畫。她想成為藝術家。）",
+        "Grammar 副詞轉換：attentive → attentively, brave → bravely, cautious → cautiously, confident → confidently, clear → clearly, creative → creatively, patient → patiently, skilful → skilfully"
+      ]
+    }
+  },
+  "quiz": {
+    "info": "滿分：15分",
+    "maxScore": 15,
+    "sections": [
+      {
+        "type": "choice",
+        "attr": "quiz",
+        "keyPrefix": "",
+        "title": "詞彙題：職業（每題 1 分）",
+        "icon": "fa-check-circle",
+        "questions": [
+          {
+            "id": 1,
+            "text": "1. Who studies wild animals like squirrels, deer and bats?",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. an ocean scientist"
+              },
+              {
+                "key": "b",
+                "text": "B. an animal scientist"
+              },
+              {
+                "key": "c",
+                "text": "C. an eco-tour guide"
+              },
+              {
+                "key": "d",
+                "text": "D. a plant scientist"
+              }
+            ],
+            "answer": "b",
+            "explanation": "動物科學家（animal scientist）研究野生動物。"
+          },
+          {
+            "id": 2,
+            "text": "2. A person who treats people's teeth is a ______.",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. dentist"
+              },
+              {
+                "key": "b",
+                "text": "B. reporter"
+              },
+              {
+                "key": "c",
+                "text": "C. lifeguard"
+              },
+              {
+                "key": "d",
+                "text": "D. web designer"
+              }
+            ],
+            "answer": "a",
+            "explanation": "牙醫（dentist）治療牙齒。"
+          },
+          {
+            "id": 3,
+            "text": "3. Who organises tours in Mai Po Nature Reserve?",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. a plant scientist"
+              },
+              {
+                "key": "b",
+                "text": "B. an astronaut"
+              },
+              {
+                "key": "c",
+                "text": "C. an eco-tour guide"
+              },
+              {
+                "key": "d",
+                "text": "D. an artist"
+              }
+            ],
+            "answer": "c",
+            "explanation": "生態導遊（eco-tour guide）組織觀光團。"
+          },
+          {
+            "id": 4,
+            "text": "4. A person who goes into space in a rocket is an ______.",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. astronaut"
+              },
+              {
+                "key": "b",
+                "text": "B. artist"
+              },
+              {
+                "key": "c",
+                "text": "C. animal scientist"
+              },
+              {
+                "key": "d",
+                "text": "D. ocean scientist"
+              }
+            ],
+            "answer": "a",
+            "explanation": "太空人（astronaut）乘坐火箭進入太空。"
+          },
+          {
+            "id": 5,
+            "text": "5. A person who watches swimmers at the beach is a ______.",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. reporter"
+              },
+              {
+                "key": "b",
+                "text": "B. lifeguard"
+              },
+              {
+                "key": "c",
+                "text": "C. dentist"
+              },
+              {
+                "key": "d",
+                "text": "D. web designer"
+              }
+            ],
+            "answer": "b",
+            "explanation": "救生員（lifeguard）看守游泳的人。"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "attr": "quiz",
+        "keyPrefix": "",
+        "title": "文法題：副詞（每題 1 分）",
+        "icon": "fa-font",
+        "questions": [
+          {
+            "id": 1,
+            "text": "1. She speaks ______ and everyone can hear her clearly.",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. loud"
+              },
+              {
+                "key": "b",
+                "text": "B. loudly"
+              },
+              {
+                "key": "c",
+                "text": "C. loudness"
+              },
+              {
+                "key": "d",
+                "text": "D. louder"
+              }
+            ],
+            "answer": "b",
+            "explanation": "描述動作 shout/speak 要用副詞 loudly（大聲地）。"
+          },
+          {
+            "id": 2,
+            "text": "2. I need to plan the tours ______.",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. creative"
+              },
+              {
+                "key": "b",
+                "text": "B. creativity"
+              },
+              {
+                "key": "c",
+                "text": "C. creatively"
+              },
+              {
+                "key": "d",
+                "text": "D. creator"
+              }
+            ],
+            "answer": "c",
+            "explanation": "修飾動詞 plan 用副詞 creatively（有創意地）。"
+          },
+          {
+            "id": 3,
+            "text": "3. He handles the plants ______.",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. skilful"
+              },
+              {
+                "key": "b",
+                "text": "B. skill"
+              },
+              {
+                "key": "c",
+                "text": "C. skilfully"
+              },
+              {
+                "key": "d",
+                "text": "D. skilled"
+              }
+            ],
+            "answer": "c",
+            "explanation": "修飾動詞 handle 用副詞 skilfully（熟練地）。"
+          },
+          {
+            "id": 4,
+            "text": "4. You need to listen ______ when you answer the visitors' questions.",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. patient"
+              },
+              {
+                "key": "b",
+                "text": "B. patience"
+              },
+              {
+                "key": "c",
+                "text": "C. patiently"
+              },
+              {
+                "key": "d",
+                "text": "D. patients"
+              }
+            ],
+            "answer": "c",
+            "explanation": "修飾動詞 listen 用副詞 patiently（耐心地）。"
+          },
+          {
+            "id": 5,
+            "text": "5. Which is the correct adverb of 'confident'?",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. confidentful"
+              },
+              {
+                "key": "b",
+                "text": "B. confidently"
+              },
+              {
+                "key": "c",
+                "text": "C. confidely"
+              },
+              {
+                "key": "d",
+                "text": "D. confidence"
+              }
+            ],
+            "answer": "b",
+            "explanation": "confident 的副詞是 confidently（自信地）。"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "attr": "quiz",
+        "keyPrefix": "",
+        "title": "閱讀題（每題 1 分）",
+        "icon": "fa-book-open",
+        "questions": [
+          {
+            "id": 1,
+            "text": "1. What does the interviewer ask the guests to do first?",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. to introduce themselves"
+              },
+              {
+                "key": "b",
+                "text": "B. to swim and dive"
+              },
+              {
+                "key": "c",
+                "text": "C. to observe plants"
+              },
+              {
+                "key": "d",
+                "text": "D. to organise tours"
+              }
+            ],
+            "answer": "a",
+            "explanation": "記者說 Can you introduce yourselves? 先請嘉賓自我介紹。"
+          },
+          {
+            "id": 2,
+            "text": "2. Why is the living environment for many animals getting worse?",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. because of the tourists"
+              },
+              {
+                "key": "b",
+                "text": "B. because of pollution"
+              },
+              {
+                "key": "c",
+                "text": "C. because of the interviews"
+              },
+              {
+                "key": "d",
+                "text": "D. because of the storms"
+              }
+            ],
+            "answer": "b",
+            "explanation": "課文說 The living environment for many animals is getting worse because of pollution（因為污染）。"
+          },
+          {
+            "id": 3,
+            "text": "3. What does Bonnie do to the sharks?",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. She feeds them."
+              },
+              {
+                "key": "b",
+                "text": "B. She tags and measures them."
+              },
+              {
+                "key": "c",
+                "text": "C. She replants them."
+              },
+              {
+                "key": "d",
+                "text": "D. She trains them."
+              }
+            ],
+            "answer": "b",
+            "explanation": "課文說 I tag and measure sharks so I know where they go（給鯊魚裝標籤並測量）。"
+          },
+          {
+            "id": 4,
+            "text": "4. Why is Kat's job sometimes tough?",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. She needs to swim cautiously."
+              },
+              {
+                "key": "b",
+                "text": "B. She needs to be brave."
+              },
+              {
+                "key": "c",
+                "text": "C. She needs to plan the tours creatively."
+              },
+              {
+                "key": "d",
+                "text": "D. She needs to handle plants."
+              }
+            ],
+            "answer": "c",
+            "explanation": "課文說 Sometimes it is! I need to plan the tours creatively so that they're interesting。"
+          },
+          {
+            "id": 5,
+            "text": "5. What does the interview mainly tell us about?",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. how to organise tours"
+              },
+              {
+                "key": "b",
+                "text": "B. how to protect nature through different jobs"
+              },
+              {
+                "key": "c",
+                "text": "C. how to become famous"
+              },
+              {
+                "key": "d",
+                "text": "D. how to measure sharks"
+              }
+            ],
+            "answer": "b",
+            "explanation": "採訪介紹四位以不同方式保護大自然的職業，主旨在講述如何通過不同工作保護大自然。"
+          }
+        ]
+      }
+    ]
+  },
+  "sidebar": {
+    "learningPoints": {
+      "title": "Unit 2：People who protect nature（保護大自然的人）",
+      "icon": "fa-tree",
+      "theme": "環保職業與副詞",
+      "goals": [
+        "能閱讀人物採訪並理解四位嘉賓的職業",
+        "能認識職業詞彙（animal scientist, eco-tour guide 等）",
+        "能運用副詞 -ly 描述動作",
+        "能聆聽對話並選出正確答案",
+        "能認識笑話（Joke）文體與笑點（punchline）"
+      ]
+    },
+    "languageFocus": {
+      "sections": [
+        {
+          "title": "1. 職業詞彙：",
+          "items": [
+            "animal scientist, ocean scientist, eco-tour guide, plant scientist",
+            "reporter, astronaut, lifeguard, web designer, artist, dentist"
+          ]
+        },
+        {
+          "title": "2. 副詞（adverbs）：",
+          "items": [
+            "attentively, bravely, cautiously, confidently, clearly",
+            "creatively, patiently, skilfully"
+          ]
+        },
+        {
+          "title": "3. 副詞的形成：",
+          "items": [
+            "形容詞 + -ly → 副詞（careful → carefully）"
+          ]
+        },
+        {
+          "title": "4. 描述職業的句型：",
+          "items": [
+            "He/She is a/an ... . He/She ... s ... .",
+            "To be a/an ..., you need to ... ."
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<title>TTS 語音診斷</title>
+<style>
+  body { font-family: "Segoe UI", "Microsoft JhengHei", sans-serif; max-width: 900px; margin: 20px auto; padding: 0 16px; }
+  h1 { color: #2c3e50; }
+  table { border-collapse: collapse; width: 100%; margin: 12px 0; }
+  th, td { border: 1px solid #ddd; padding: 8px; text-align: left; font-size: 14px; }
+  th { background: #3498db; color: #fff; }
+  tr.picked { background: #d4efdf; font-weight: bold; }
+  .btn { background: #3498db; color: #fff; border: none; padding: 6px 12px; border-radius: 6px; cursor: pointer; }
+  .btn:hover { background: #2980b9; }
+  #status { color: #27ae60; font-weight: bold; margin: 10px 0; }
+  .note { background: #fef9e7; border: 1px solid #f0c674; padding: 12px; border-radius: 8px; margin: 12px 0; }
+</style>
+</head>
+<body>
+<h1>TTS 語音診斷</h1>
+<p>此頁面列出你瀏覽器（speechSynthesis）可用的全部語音，並顯示母版 pickVoice 會選中哪一個。</p>
+<div class="note">
+  <b>用法：</b>先確認這頁是<u>最新版</u>（按 <b>Ctrl+Shift+R</b> 強制重新整理）。<br>
+  若下方「語音數」為 0，請等 2-3 秒或按 F5 重新整理幾次（Chrome 語音是異步載入）。<br>
+  之後把表格內容（或截圖）告訴我，我就能確認為何音質沒改善。
+</div>
+<div id="status">載入語音中…</div>
+<table id="tbl">
+  <thead><tr><th>語音名稱</th><th>語言</th><th>本地/線上</th><th>試聽</th></tr></thead>
+  <tbody></tbody>
+</table>
+<h3>pickVoice 會選中：<span id="picked">（等待語音載入）</span></h3>
+
+<script>
+(function() {
+  var tbody = document.querySelector('#tbl tbody');
+  var status = document.getElementById('status');
+  function render() {
+    var voices = [];
+    try { voices = window.speechSynthesis.getVoices() || []; } catch (e) {}
+    status.textContent = '語音數：' + voices.length;
+    tbody.innerHTML = '';
+    var picked = null;
+    if (typeof pickVoice === 'function') picked = pickVoice(voices);
+    voices.forEach(function(v) {
+      var tr = document.createElement('tr');
+      if (picked && v.name === picked.name && v.lang === picked.lang) tr.className = 'picked';
+      var tdName = document.createElement('td'); tdName.textContent = v.name;
+      var tdLang = document.createElement('td'); tdLang.textContent = v.lang;
+      var tdLocal = document.createElement('td'); tdLocal.textContent = v.localService ? '本地' : '線上';
+      var tdBtn = document.createElement('td');
+      var b = document.createElement('button'); b.className = 'btn'; b.textContent = '試聽';
+      b.addEventListener('click', (function(voice) {
+        return function() {
+          try { window.speechSynthesis.cancel(); } catch (e) {}
+          var u = new SpeechSynthesisUtterance('The tallest student in Class 4B won this event.');
+          u.lang = voice.lang; u.voice = voice; u.rate = 0.75;
+          window.speechSynthesis.speak(u);
+        };
+      })(v));
+      tdBtn.appendChild(b);
+      tr.appendChild(tdName); tr.appendChild(tdLang); tr.appendChild(tdLocal); tr.appendChild(tdBtn);
+      tbody.appendChild(tr);
+    });
+    var pickedEl = document.getElementById('picked');
+    pickedEl.textContent = picked ? (picked.name + ' ｜ ' + picked.lang) : '（無可用英語語音）';
+  }
+  render();
+  try { window.speechSynthesis.addEventListener('voiceschanged', render); } catch (e) {}
+  setTimeout(render, 2500);
+})();
+</script>
+</body>
+</html>

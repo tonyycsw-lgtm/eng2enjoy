@@ -1,0 +1,218 @@
+{
+  "meta": {
+    "pageTitleTag": "Unit 4：Be good to our Earth（善待地球）- 小學四年級英文互動練習（Book 4B）",
+    "headerIcon": "fa-recycle",
+    "title": "小學四年級英文（Book 4B）",
+    "subtitle": "Unit 4：Be good to our Earth（善待地球）",
+    "storageKey": "p4_ete_book4b_unit4",
+    "totalPractice": 8,
+    "audioDir": "audio/4B/Unit4"
+  },
+  "flashcards": {
+    "pages": 4,
+    "intro": "點擊卡片查看例句，點擊音頻按鈕聆聽發音：",
+    "cards": [
+      {"page": 1, "word": "reduce", "meaning": "減少", "icon": "fa-arrow-down", "audio": "reduce", "example": "We can reduce rubbish by buying less junk.", "translation": "我們可以少買垃圾食品來減少垃圾。", "exampleAudio": "reduce_example", "pairs": [{"en": "reduce", "zh": "減少"}, {"en": "buy less junk", "zh": "少買垃圾食品"}]},
+      {"page": 1, "word": "reuse", "meaning": "再利用", "icon": "fa-rotate-left", "audio": "reuse", "example": "We can reuse glass jars and old toys.", "translation": "我們可以重複使用玻璃罐和舊玩具。", "exampleAudio": "reuse_example", "pairs": [{"en": "reuse", "zh": "再利用"}, {"en": "glass jars", "zh": "玻璃罐"}]},
+      {"page": 1, "word": "recycle", "meaning": "回收", "icon": "fa-recycle", "audio": "recycle", "example": "We can recycle newspapers, plastic bottles and soft drink cans.", "translation": "我們可以回收報紙、塑料瓶和軟飲罐。", "exampleAudio": "recycle_example", "pairs": [{"en": "recycle", "zh": "回收"}, {"en": "soft drink cans", "zh": "軟飲罐"}]},
+      {"page": 1, "word": "rubbish", "meaning": "垃圾", "icon": "fa-trash", "audio": "rubbish", "example": "There is too much rubbish in the playground.", "translation": "操場上的垃圾太多了。", "exampleAudio": "rubbish_example", "pairs": [{"en": "rubbish", "zh": "垃圾"}, {"en": "too much", "zh": "太多（不可數）"}]},
+      {"page": 2, "word": "plastic bottles", "meaning": "塑料瓶", "icon": "fa-bottle-water", "audio": "plastic_bottles", "example": "There are too many plastic bottles in the playground.", "translation": "操場上的塑料瓶太多了。", "exampleAudio": "plastic_bottles_example", "pairs": [{"en": "plastic bottles", "zh": "塑料瓶"}, {"en": "too many", "zh": "太多（可數）"}]},
+      {"page": 2, "word": "plastic bags", "meaning": "塑料袋", "icon": "fa-shopping-bag", "audio": "plastic_bags", "example": "Buy less junk and use fewer plastic bags.", "translation": "少買垃圾食品，少用塑料袋。", "exampleAudio": "plastic_bags_example", "pairs": [{"en": "plastic bags", "zh": "塑料袋"}, {"en": "fewer", "zh": "較少的（可數）"}]},
+      {"page": 2, "word": "waste paper", "meaning": "廢紙", "icon": "fa-file", "audio": "waste_paper", "example": "The blue recycling bin is for waste paper.", "translation": "藍色回收箱是用來放廢紙的。", "exampleAudio": "waste_paper_example", "pairs": [{"en": "waste paper", "zh": "廢紙"}, {"en": "recycling bin", "zh": "回收箱"}]},
+      {"page": 2, "word": "foam boxes", "meaning": "發泡膠盒", "icon": "fa-box", "audio": "foam_boxes", "example": "We ought to recycle foam boxes and plastic bottles.", "translation": "我們應該回收發泡膠盒和塑料瓶。", "exampleAudio": "foam_boxes_example", "pairs": [{"en": "foam boxes", "zh": "發泡膠盒"}, {"en": "ought to", "zh": "應該"}]},
+      {"page": 3, "word": "electricity", "meaning": "電力", "icon": "fa-bolt", "audio": "electricity", "example": "Mr Yu uses too much electricity.", "translation": "余先生用了太多電力。", "exampleAudio": "electricity_example", "pairs": [{"en": "electricity", "zh": "電力"}, {"en": "uses too much", "zh": "用了太多（不可數）"}]},
+      {"page": 3, "word": "leaflets", "meaning": "傳單", "icon": "fa-scroll", "audio": "leaflets", "example": "Don't print too many leaflets.", "translation": "不要印太多傳單。", "exampleAudio": "leaflets_example", "pairs": [{"en": "leaflets", "zh": "傳單"}, {"en": "Don't print", "zh": "不要印"}]},
+      {"page": 4, "word": "environment", "meaning": "環境", "icon": "fa-globe", "audio": "environment", "example": "Keep the environment clean. Make each day fresh and green.", "translation": "保持環境清潔。讓每一天清新翠綠。", "exampleAudio": "environment_example", "pairs": [{"en": "environment", "zh": "環境"}, {"en": "fresh and green", "zh": "清新翠綠"}]},
+      {"page": 4, "word": "rubbish bin", "meaning": "垃圾桶", "icon": "fa-trash-can", "audio": "rubbish_bin", "example": "The students need to put the plastic bottles in the brown bin.", "translation": "學生們需要把塑料瓶放進棕色回收箱。", "exampleAudio": "rubbish_bin_example", "pairs": [{"en": "brown bin", "zh": "棕色回收箱"}, {"en": "make good use of", "zh": "善用"}]}
+    ]
+  },
+  "reading": {
+    "title": "BE GOOD TO OUR EARTH（善待地球）",
+    "icon": "fa-recycle",
+    "intro": "孩子們正在讀一首關於保護環境的詩。詩歌運用三個 R 原則：Reduce（減少）、Reuse（再利用）、Recycle（回收）：",
+    "paragraphs": [
+      {"id": "t1", "text": "BE GOOD TO OUR EARTH<br>Be good to our Earth.<br>She was here long before our birth.<br>Let's show her we care<br>About the air we share.", "translation": "善待地球<br>善待我們的地球。<br>她早在我們出生前就在這裡。<br>讓我們向她表示我們在乎<br>我們共享的空氣。", "pairs": [{"en": "Be good to our Earth", "zh": "善待我們的地球"}, {"en": "long before our birth", "zh": "早在我們出生前"}, {"en": "the air we share", "zh": "我們共享的空氣"}], "sentences": ["BE GOOD TO OUR EARTH", "Be good to our Earth.", "She was here long before our birth.", "Let's show her we care", "About the air we share."], "translation_sentences": ["善待地球", "善待我們的地球。", "她早在我們出生前就在這裡。", "讓我們向她表示我們在乎", "我們共享的空氣。"]},
+      {"id": "t2", "text": "The three Rs is the way.<br>Let's start recycling things today.<br>Reuse the things we can.<br>Reducing rubbish is an 'A+' plan.", "translation": "三個 R 就是方法。<br>讓我們今天就開始回收東西。<br>重複使用我們能重用的東西。<br>減少垃圾是一個「A+」計劃。", "pairs": [{"en": "The three Rs", "zh": "三個 R 原則"}, {"en": "recycling things", "zh": "回收東西"}, {"en": "Reducing rubbish", "zh": "減少垃圾"}], "sentences": ["The three Rs is the way.", "Let's start recycling things today.", "Reuse the things we can.", "Reducing rubbish is an 'A+' plan."], "translation_sentences": ["三個 R 就是方法。", "讓我們今天就開始回收東西。", "重複使用我們能重用的東西。", "減少垃圾是一個「A+」計劃。"]},
+      {"id": "t3", "text": "Help save our good old planet.<br>Don't print too many leaflets.<br>Recycle newspapers and mags.<br>Buy less junk and use fewer plastic bags.", "translation": "幫助拯救我們美好的古老星球。<br>不要印太多傳單。<br>回收報紙和雜誌。<br>少買垃圾食品，少用塑料袋。", "pairs": [{"en": "save our good old planet", "zh": "拯救我們美好的古老星球"}, {"en": "Don't print too many leaflets", "zh": "不要印太多傳單"}, {"en": "Recycle newspapers and mags", "zh": "回收報紙和雜誌"}, {"en": "Buy less junk", "zh": "少買垃圾食品"}, {"en": "use fewer plastic bags", "zh": "少用塑料袋"}], "sentences": ["Help save our good old planet.", "Don't print too many leaflets.", "Recycle newspapers and mags.", "Buy less junk and use fewer plastic bags."], "translation_sentences": ["幫助拯救我們美好的古老星球。", "不要印太多傳單。", "回收報紙和雜誌。", "少買垃圾食品，少用塑料袋。"]},
+      {"id": "t4", "text": "Be good to our Earth.<br>She was here long before our birth.<br>It is worth making a fuss,<br>As the future starts with all of us.", "translation": "善待我們的地球。<br>她早在我們出生前就在這裡。<br>值得大聲疾呼，<br>因為未來從我們所有人開始。", "pairs": [{"en": "worth making a fuss", "zh": "值得大聲疾呼"}, {"en": "the future starts with all of us", "zh": "未來從我們所有人開始"}], "sentences": ["Be good to our Earth.", "She was here long before our birth.", "It is worth making a fuss,", "As the future starts with all of us."], "translation_sentences": ["善待我們的地球。", "她早在我們出生前就在這裡。", "值得大聲疾呼，", "因為未來從我們所有人開始。"]},
+      {"id": "t5", "text": "Stop chopping trees down,<br>And grow more trees in our town.<br>Animals and trees are humans' friends.<br>Save them from a hopeless end.", "translation": "停止砍伐樹木，<br>在我們的小鎮種更多樹。<br>動物和樹木是人類的朋友。<br>把牠們從絕望的結局中拯救出來。", "pairs": [{"en": "chopping trees down", "zh": "砍伐樹木"}, {"en": "grow more trees", "zh": "種更多樹"}, {"en": "humans' friends", "zh": "人類的朋友"}, {"en": "a hopeless end", "zh": "絕望的結局"}], "sentences": ["Stop chopping trees down,", "And grow more trees in our town.", "Animals and trees are humans' friends.", "Save them from a hopeless end."], "translation_sentences": ["停止砍伐樹木，", "在我們的小鎮種更多樹。", "動物和樹木是人類的朋友。", "把牠們從絕望的結局中拯救出來。"]},
+      {"id": "t6", "text": "We ought to clean up rivers and lakes,<br>And do whatever it may take.<br>Keep the environment clean.<br>Make each day fresh and green.", "translation": "我們應該清理河流和湖泊，<br>並盡一切所能。<br>保持環境清潔。<br>讓每一天清新翠綠。", "pairs": [{"en": "clean up rivers and lakes", "zh": "清理河流和湖泊"}, {"en": "do whatever it may take", "zh": "盡一切所能"}, {"en": "fresh and green", "zh": "清新翠綠"}], "sentences": ["We ought to clean up rivers and lakes,", "And do whatever it may take.", "Keep the environment clean.", "Make each day fresh and green."], "translation_sentences": ["我們應該清理河流和湖泊，", "並盡一切所能。", "保持環境清潔。", "讓每一天清新翠綠。"]}
+    ]
+  },
+  "sayItRight": {
+    "title": "SAY IT RIGHT ('the')：元音前的 'the' 讀 /ði/",
+    "icon": "fa-microphone-alt",
+    "sentences": [
+      {"id": "s1", "text": "We need to be good to the Earth.", "translation": "我們需要善待地球。（the Earth 中 the 讀 /ði/）", "pairs": [{"en": "the Earth", "zh": "地球"}]},
+      {"id": "s2", "text": "Let's make the environment friendly to the animals on land and in the ocean.", "translation": "讓我們讓環境對陸地和海洋的動物友善。（the environment / the animals / the ocean 中 the 都讀 /ði/）", "pairs": [{"en": "the environment", "zh": "環境"}, {"en": "the animals", "zh": "動物"}, {"en": "the ocean", "zh": "海洋"}]}
+    ]
+  },
+  "listening": {
+    "title": "聆聽練習：Ultra Recycling Bin（超級回收箱）",
+    "icon": "fa-headphones",
+    "description": "Mr Yu 在 Green Star School 任教。回收公司的職員向他介紹一個新的回收箱。聆聽並完成宣傳單張：",
+    "mode": "blank",
+    "script": {
+      "title": "The Ultra Recycling Bin（超級回收箱）",
+      "audio": "listening_4b4",
+      "text": "Good morning, Mr Yu. I'm from Ultra Recycling Bin Limited. Let me tell you about our new recycling bin. It has three parts: a red part, a blue part and a green part. You ought to put cans and aluminium foil into the red part. You ought to put paper and cardboard into the blue part. And you ought to put glass bottles into the green part. Each part has a clear label, so students can use it easily. If you want to know more, please call us at two zero zero one, three zero zero one.",
+      "zh": "早上好，余老師。我來自超級回收箱有限公司。讓我向你介紹我們的新回收箱。<br>它有三個部分：紅色部分、藍色部分和綠色部分。<br>你應該把罐子和鋁箔放進紅色部分。<br>你應該把紙和紙板放進藍色部分。<br>你應該把玻璃瓶放進綠色部分。<br>每個部分都有清晰的標籤，學生可以輕鬆使用。<br>如果你想了解更多，請致電 2001 3001 給我們。",
+      "segments": [
+        {"en": "Good morning, Mr Yu. I'm from Ultra Recycling Bin Limited.", "zh": "早上好，余老師。我來自超級回收箱有限公司。"},
+        {"en": "Let me tell you about our new recycling bin.", "zh": "讓我向你介紹我們的新回收箱。"},
+        {"en": "It has three parts: a red part, a blue part and a green part.", "zh": "它有三個部分：紅色部分、藍色部分和綠色部分。"},
+        {"en": "You ought to put cans and aluminium foil into the red part.", "zh": "你應該把罐子和鋁箔放進紅色部分。"},
+        {"en": "You ought to put paper and cardboard into the blue part.", "zh": "你應該把紙和紙板放進藍色部分。"},
+        {"en": "And you ought to put glass bottles into the green part.", "zh": "你應該把玻璃瓶放進綠色部分。"},
+        {"en": "Each part has a clear label, so students can use it easily.", "zh": "每個部分都有清晰的標籤，學生可以輕鬆使用。"},
+        {"en": "If you want to know more, please call us at two zero zero one, three zero zero one.", "zh": "如果你想了解更多，請致電 2001 3001 給我們。"}
+      ]
+    },
+    "questions": [
+      {"id": "l1", "before": "1. 回收箱的名稱（name of the bin）: ", "after": "", "answer": "ultra recycling bin", "variations": ["ultra", "the ultra recycling bin"], "explanation": "職員說 I'm from Ultra Recycling Bin Limited，介紹的新回收箱叫 Ultra Recycling Bin。"},
+      {"id": "l2", "before": "2. 紅色部分放（red part）: ", "after": "", "answer": "cans", "variations": ["cans and aluminium foil", "aluminium foil"], "explanation": "You ought to put cans and aluminium foil into the red part."},
+      {"id": "l3", "before": "3. 紅色部分還放（red part too）: ", "after": "", "answer": "aluminium foil", "variations": ["foil", "aluminum foil"], "explanation": "紅色部分放罐子和鋁箔（cans and aluminium foil）。"},
+      {"id": "l4", "before": "4. 藍色部分放（blue part）: ", "after": "", "answer": "paper", "variations": ["paper and cardboard", "cardboard"], "explanation": "You ought to put paper and cardboard into the blue part."},
+      {"id": "l5", "before": "5. 藍色部分還放（blue part too）: ", "after": "", "answer": "cardboard", "variations": ["cardboard boxes"], "explanation": "藍色部分放紙和紙板（paper and cardboard）。"},
+      {"id": "l6", "before": "6. 綠色部分放（green part）: ", "after": "", "answer": "glass bottles", "variations": ["bottles"], "explanation": "You ought to put glass bottles into the green part."}
+    ]
+  },
+  "textType": {
+    "title": "Text Type: Brochures（宣傳冊）",
+    "icon": "fa-book",
+    "description": "宣傳冊（brochure）是折疊的傳單，附有圖片和產品或服務的描述。閱讀超級回收箱的宣傳冊：",
+    "model": {
+      "title": "Ultra Recycling Bin（超級回收箱）",
+      "parts": ["Title of brochure（宣傳冊標題）", "Picture（圖片）", "Description（描述）", "Contact details（聯絡資料）"],
+      "body": "<strong>Ultra Recycling Bin</strong><br>Three parts. Three colours. One green future.<br>The red part is for cans and aluminium foil.<br>The blue part is for paper and cardboard.<br>The green part is for glass bottles.<br><em>Ultra Recycling Bin Limited<br>Tel: 2001 3001<br>E-mail: info@ultrabin.com</em>",
+      "zh": "<strong>超級回收箱</strong><br>三個部分。三種顏色。一個綠色未來。<br>紅色部分放罐子和鋁箔。<br>藍色部分放紙和紙板。<br>綠色部分放玻璃瓶。<br><em>超級回收箱有限公司<br>電話：2001 3001<br>電郵：info@ultrabin.com</em>",
+      "pairs": [
+        {"en": "Ultra Recycling Bin", "zh": "超級回收箱"},
+        {"en": "One green future", "zh": "一個綠色未來"},
+        {"en": "cans and aluminium foil", "zh": "罐子和鋁箔"},
+        {"en": "paper and cardboard", "zh": "紙和紙板"},
+        {"en": "glass bottles", "zh": "玻璃瓶"}
+      ],
+      "sentences": ["<strong>Ultra Recycling Bin</strong>", "Three parts.", "Three colours.", "One green future.", "The red part is for cans and aluminium foil.", "The blue part is for paper and cardboard.", "The green part is for glass bottles.", "Ultra Recycling Bin Limited", "Tel: 2001 3001", "E-mail: info@ultrabin.com"],
+      "translation_sentences": ["<strong>超級回收箱</strong>", "三個部分。", "三種顏色。", "一個綠色未來。", "紅色部分放罐子和鋁箔。", "藍色部分放紙和紙板。", "綠色部分放玻璃瓶。", "超級回收箱有限公司", "電話：2001 3001", "電郵：info@ultrabin.com"]
+    },
+    "questions": [
+      {"id": "q1", "text": "1. Which sentence about the brochure is true?", "answer": "b", "options": [{"key": "a", "text": "a. It is like a story.（它像一個故事）"}, {"key": "b", "text": "b. It shows facts about a product.（它展示產品的資料）"}, {"key": "c", "text": "c. It has rhyming words.（它有押韻的字）"}, {"key": "d", "text": "d. It shows us the way to a place.（它為我們指路）"}], "explanation": "宣傳冊（brochure）是展示產品或服務資料的摺頁傳單，所以選 b。"},
+      {"id": "q2", "text": "2. You can find out more about the Ultra Recycling Bin by ____.", "answer": "b", "options": [{"key": "a", "text": "a. calling Mr Brad Ko"}, {"key": "b", "text": "b. calling 2001 3001"}, {"key": "c", "text": "c. writing an e-mail to Kowloon Recycling Company"}, {"key": "d", "text": "d. writing to the government"}], "explanation": "宣傳冊列出聯絡資料 Tel: 2001 3001，所以選 b（致電 2001 3001）。"}
+    ]
+  },
+  "grammar": [
+    {"title": "too many / too much / fewer / less 與 ought to", "examples": [
+      {"en": "We throw away too many plastic bags. We ought to use fewer plastic bags.", "zh": "我們扔掉太多塑料袋。我們應該少用塑料袋。（plastic bags 可數 → too many / fewer）", "pairs": [{"en": "too many plastic bags", "zh": "太多塑料袋"}, {"en": "use fewer plastic bags", "zh": "少用塑料袋"}]},
+      {"en": "We use too much paper. We ought to use less paper.", "zh": "我們用太多紙。我們應該少用紙。（paper 不可數 → too much / less）", "pairs": [{"en": "too much paper", "zh": "太多紙"}, {"en": "use less paper", "zh": "少用紙"}]},
+      {"en": "Don't print too many leaflets. Recycle newspapers instead.", "zh": "不要印太多傳單。改為回收報紙。（leaflets 可數 → too many）", "pairs": [{"en": "print too many leaflets", "zh": "印太多傳單"}]},
+      {"en": "We ought to clean up rivers and lakes.", "zh": "我們應該清理河流和湖泊。（ought to 表示應該做）", "pairs": [{"en": "ought to clean up", "zh": "應該清理"}]},
+      {"en": "Mrs Yu ought to buy fewer clothes. She ought to donate her old clothes to people in need.", "zh": "余太太應該少買衣服。她應該把舊衣服捐給有需要的人。（clothes 可數 → fewer）", "pairs": [{"en": "buy fewer clothes", "zh": "少買衣服"}, {"en": "donate her old clothes", "zh": "捐贈舊衣服"}, {"en": "people in need", "zh": "有需要的人"}]}
+    ]}
+  ],
+  "practice": {
+    "intro": "根據 Unit 4（Be good to our Earth）內容完成以下練習題：",
+    "readingComp": {
+      "title": "練習 1：閱讀理解判斷與選擇",
+      "icon": "fa-search",
+      "description": "根據詩歌內容，判斷對錯（T 正確 / X 錯誤）：",
+      "questions": [
+        {"id": "rc1", "text": "1. It is good for the Earth if we produce less rubbish.", "answer": "a", "options": [{"key": "a", "text": "a. T（正確）"}, {"key": "b", "text": "b. X（錯誤）"}], "explanation": "詩歌說 Reducing rubbish is an 'A+' plan，減少垃圾對地球有益，所以是 T。"},
+        {"id": "rc2", "text": "2. 'Reduce' means to turn rubbish into new things.", "answer": "b", "options": [{"key": "a", "text": "a. T（正確）"}, {"key": "b", "text": "b. X（錯誤）"}], "explanation": "把垃圾變成新東西是 Recycle（回收）的意思；Reduce 是減少，所以是 X。"},
+        {"id": "rc3", "text": "3. We can recycle old newspapers.", "answer": "a", "options": [{"key": "a", "text": "a. T（正確）"}, {"key": "b", "text": "b. X（錯誤）"}], "explanation": "詩歌說 Recycle newspapers and mags，所以是 T。"},
+        {"id": "rc4", "text": "4. Printing leaflets is a way to use less paper.", "answer": "b", "options": [{"key": "a", "text": "a. T（正確）"}, {"key": "b", "text": "b. X（錯誤）"}], "explanation": "詩歌說 Don't print too many leaflets，印傳單會用更多紙，所以是 X。"},
+        {"id": "rc5", "text": "5. Which word means 'trash' in the poem?", "answer": "c", "options": [{"key": "a", "text": "a. fuss（大驚小怪）"}, {"key": "b", "text": "b. junk（垃圾食品／雜物）"}, {"key": "c", "text": "c. rubbish（垃圾）"}, {"key": "d", "text": "d. leaflets（傳單）"}], "explanation": "trash 就是 rubbish（垃圾）。junk 指無用雜物／垃圾食品，但詩中 trash 對應 rubbish。"}
+      ]
+    },
+    "readingQA": {
+      "title": "練習 2：閱讀理解問答題",
+      "icon": "fa-question-circle",
+      "description": "用完整的句子回答下列問題：",
+      "questions": [
+        {"q": "1. What are the three Rs?（三個 R 是甚麼？）", "a": "They are Reduce, Reuse and Recycle.", "zh": "它們是 Reduce（減少）、Reuse（再利用）和 Recycle（回收）。", "explanation": "詩歌說 The three Rs is the way. Reuse the things we can. Reducing rubbish is an 'A+' plan."},
+        {"q": "2. When we go shopping, what can we do to protect the environment?（購物時我們可以做甚麼保護環境？）", "a": "We can buy less junk and use fewer plastic bags.", "zh": "我們可以少買垃圾食品，少用塑料袋。", "explanation": "詩歌說 Buy less junk and use fewer plastic bags。"},
+        {"q": "3. Which word does 'mags' rhyme with?（'mags' 和哪個字押韻？）", "a": "'Mags' rhymes with 'bags'.", "zh": "mags 和 bags 押韻。（mags = magazines）", "explanation": "詩歌 Recycle newspapers and mags. Buy less junk and use fewer plastic bags. 中 mags 與 bags 押韻。"},
+        {"q": "4. What do you do to protect the environment?（你做甚麼來保護環境？）", "a": "I use fewer plastic bags and recycle old newspapers.", "zh": "我少用塑料袋並回收舊報紙。", "explanation": "開放題，說出你保護環境的做法即可，例如 recycle bottles, save electricity 等。"}
+      ]
+    },
+    "wordBank": {
+      "title": "練習 3：Words to learn 分類填空",
+      "icon": "fa-tags",
+      "description": "把以下物品分類：哪些可以 Reduce（減少）、Reuse（再利用）、Recycle（回收）？",
+      "bank": ["electricity", "foam boxes", "glass jars", "old clothes", "old toys", "plastic bags", "plastic bottles", "soft drink cans", "waste paper"],
+      "items": [
+        {"prompt": "Reduce: 省着用（We ought to save ...）", "answer": "electricity"},
+        {"prompt": "Reduce: 少用（use fewer ...）", "answer": "plastic bags"},
+        {"prompt": "Reuse: 洗乾淨再用（wash and reuse ...）", "answer": "glass jars"},
+        {"prompt": "Reuse: 捐給有需要的人（donate ...）", "answer": "old clothes"},
+        {"prompt": "Reuse: 留給弟弟妹妹玩（pass ... to younger kids）", "answer": "old toys"},
+        {"prompt": "Recycle: 放進棕色回收箱（put ... in the brown bin）", "answer": "plastic bottles"},
+        {"prompt": "Recycle: 放進黃色回收箱（put ... in the yellow bin）", "answer": "soft drink cans"},
+        {"prompt": "Recycle: 放進藍色回收箱（put ... in the blue bin）", "answer": "waste paper"},
+        {"prompt": "Recycle: 快餐店用完後回收（... from takeaways）", "answer": "foam boxes"}
+      ]
+    },
+    "discussion": {
+      "title": "練習 4：Speaking 說一說（Yu 一家）",
+      "icon": "fa-users",
+      "description": "看圖用 too many / too much 說出 Yu 一家的問題，再用 ought to / fewer / less 提出建議：",
+      "questions": [
+        "Sue has too many toys.（蘇有太多玩具。）",
+        "Gary uses too much water. He ought to take showers but not baths.（加里用太多水。他應該淋浴而不是泡澡。）",
+        "Mrs Yu has too many clothes. She ought to buy fewer clothes and donate her old clothes to people in need.（余太太有太多衣服。她應該少買衣服，把舊衣服捐給有需要的人。）",
+        "Mr Yu uses too much electricity. He ought to switch off lights and fans after use.（余先生用太多電力。他應該用完後關掉燈和風扇。）",
+        "Aunt Anna uses too many plastic bags. She ought to bring a shopping bag.（安娜姨姨用太多塑料袋。她應該自備購物袋。）",
+        "Task: Make a poster for the school recycling programme. The blue bin is for waste paper, the brown bin is for plastics, and the yellow bin is for metals. Help save the Earth!（任務：為學校回收計劃製作海報。藍色回收箱放廢紙，棕色放塑料，黃色放金屬。幫助拯救地球！）"
+      ]
+    }
+  },
+  "quiz": {
+    "info": "滿分：15分",
+    "maxScore": 15,
+    "sections": [
+      {"type": "choice", "attr": "quiz", "keyPrefix": "", "title": "詞彙題：環保詞彙（每題 1 分）", "icon": "fa-check-circle", "questions": [
+        {"id": 1, "text": "1. 'Reduce' means to ______.", "options": [{"key": "a", "text": "A. use things again"}, {"key": "b", "text": "B. make less rubbish"}, {"key": "c", "text": "C. turn rubbish into new things"}, {"key": "d", "text": "D. throw things away"}], "answer": "b", "explanation": "Reduce 是減少（少產生垃圾）。"},
+        {"id": 2, "text": "2. We put ______ into the red part of the recycling bin.", "options": [{"key": "a", "text": "A. paper and cardboard"}, {"key": "b", "text": "B. glass bottles"}, {"key": "c", "text": "C. cans and aluminium foil"}, {"key": "d", "text": "D. old clothes"}], "answer": "c", "explanation": "紅色部分放罐子和鋁箔（cans and aluminium foil）。"},
+        {"id": 3, "text": "3. The blue recycling bin is for ______.", "options": [{"key": "a", "text": "A. waste paper"}, {"key": "b", "text": "B. metals"}, {"key": "c", "text": "C. plastics"}, {"key": "d", "text": "D. food"}], "answer": "a", "explanation": "藍色回收箱放廢紙（waste paper）。"},
+        {"id": 4, "text": "4. ______ are things we can reuse.", "options": [{"key": "a", "text": "A. Soft drink cans"}, {"key": "b", "text": "B. Glass jars"}, {"key": "c", "text": "C. Plastic bottles"}, {"key": "d", "text": "D. Waste paper"}], "answer": "b", "explanation": "玻璃罐（glass jars）洗淨後可重複使用。"},
+        {"id": 5, "text": "5. We shouldn't print too many ______.", "options": [{"key": "a", "text": "A. leaflets"}, {"key": "b", "text": "B. electricity"}, {"key": "c", "text": "C. paper"}, {"key": "d", "text": "D. rubbish"}], "answer": "a", "explanation": "傳單（leaflets）可數，用 too many；詩歌說 Don't print too many leaflets。"}
+      ]},
+      {"type": "choice", "attr": "quiz", "keyPrefix": "", "title": "文法題：too many / too much / fewer / less（每題 1 分）", "icon": "fa-font", "questions": [
+        {"id": 1, "text": "1. There are too ______ plastic bottles in the playground.", "options": [{"key": "a", "text": "A. much"}, {"key": "b", "text": "B. many"}, {"key": "c", "text": "C. less"}, {"key": "d", "text": "D. few"}], "answer": "b", "explanation": "plastic bottles 可數，用 too many。"},
+        {"id": 2, "text": "2. We use too ______ paper at school.", "options": [{"key": "a", "text": "A. many"}, {"key": "b", "text": "B. fewer"}, {"key": "c", "text": "C. much"}, {"key": "d", "text": "D. few"}], "answer": "c", "explanation": "paper 不可數，用 too much。"},
+        {"id": 3, "text": "3. We ought to use ______ plastic bags.", "options": [{"key": "a", "text": "A. less"}, {"key": "b", "text": "B. fewer"}, {"key": "c", "text": "C. much"}, {"key": "d", "text": "D. many"}], "answer": "b", "explanation": "plastic bags 可數，用 fewer（較少的）。"},
+        {"id": 4, "text": "4. Mr Yu ought to use ______ electricity.", "options": [{"key": "a", "text": "A. fewer"}, {"key": "b", "text": "B. many"}, {"key": "c", "text": "C. less"}, {"key": "d", "text": "D. more"}], "answer": "c", "explanation": "electricity 不可數，用 less（較少的）。"},
+        {"id": 5, "text": "5. We ______ clean up rivers and lakes.", "options": [{"key": "a", "text": "A. has to"}, {"key": "b", "text": "B. ought to"}, {"key": "c", "text": "C. must to"}, {"key": "d", "text": "D. need"}], "answer": "b", "explanation": "詩歌說 We ought to clean up rivers and lakes，ought to 表示應該。"}
+      ]},
+      {"type": "choice", "attr": "quiz", "keyPrefix": "", "title": "閱讀題（每題 1 分）", "icon": "fa-book-open", "questions": [
+        {"id": 1, "text": "1. What is the poem about?", "options": [{"key": "a", "text": "A. protecting the environment"}, {"key": "b", "text": "B. going to school"}, {"key": "c", "text": "C. eating healthy food"}, {"key": "d", "text": "D. playing sports"}], "answer": "a", "explanation": "詩歌主題是保護環境（protecting the environment）。"},
+        {"id": 2, "text": "2. What are the three Rs?", "options": [{"key": "a", "text": "A. Run, Read, Ride"}, {"key": "b", "text": "B. Reduce, Reuse, Recycle"}, {"key": "c", "text": "C. Red, Blue, Green"}, {"key": "d", "text": "D. Rubbish, Reuse, Repeat"}], "answer": "b", "explanation": "三個 R 是 Reduce（減少）、Reuse（再利用）、Recycle（回收）。"},
+        {"id": 3, "text": "3. 'Mags' means ______.", "options": [{"key": "a", "text": "A. bags"}, {"key": "b", "text": "B. magazines"}, {"key": "c", "text": "C. maths"}, {"key": "d", "text": "D. magnets"}], "answer": "b", "explanation": "mags = magazines（雜誌）。"},
+        {"id": 4, "text": "4. Which word means 'without hope'?", "options": [{"key": "a", "text": "A. hopeless"}, {"key": "b", "text": "B. helpful"}, {"key": "c", "text": "C. careful"}, {"key": "d", "text": "D. fearless"}], "answer": "a", "explanation": "hopeless 是沒有希望（without hope），詩歌說 Save them from a hopeless end。"},
+        {"id": 5, "text": "5. Who is the poem written by?", "options": [{"key": "a", "text": "A. Mr Yu"}, {"key": "b", "text": "B. the students"}, {"key": "c", "text": "C. Patricia Snie"}, {"key": "d", "text": "D. David Kwok"}], "answer": "c", "explanation": "詩歌底部署名 By Patricia Snie。"}
+      ]}
+    ]
+  },
+  "sidebar": {
+    "learningPoints": {
+      "title": "Unit 4：Be good to our Earth（善待地球）",
+      "icon": "fa-recycle",
+      "theme": "環保三 R 與量詞",
+      "goals": [
+        "能閱讀環保詩歌並理解三個 R 原則",
+        "能認識環保詞彙（reduce, reuse, recycle 等）",
+        "能運用 too many / too much / fewer / less 表示數量",
+        "能運用 ought to 表示應該做某事",
+        "能聆聽並完成回收箱宣傳單張"
+      ]
+    },
+    "languageFocus": {
+      "sections": [
+        {"title": "1. 環保詞彙：", "items": ["reduce, reuse, recycle, rubbish, environment", "plastic bottles, plastic bags, waste paper, foam boxes"]},
+        {"title": "2. 可數／不可數量詞：", "items": ["too many + 可數名詞 / too much + 不可數名詞", "fewer + 可數名詞 / less + 不可數名詞"]},
+        {"title": "3. 情態動詞：", "items": ["ought to + 動詞原形（應該做…）"]},
+        {"title": "4. 祈使句：", "items": ["Don't print too many leaflets. / Help save the Earth!"]}
+      ]
+    }
+  }
+}

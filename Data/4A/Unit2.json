@@ -1,0 +1,1708 @@
+{
+  "meta": {
+    "pageTitleTag": "Unit 2：Sports Day（學校運動會）- 小學四年級英文互動練習",
+    "headerIcon": "fa-medal",
+    "title": "小學四年級英文",
+    "subtitle": "Unit 2：Sports Day（學校運動會）",
+    "storageKey": "p4_ete_jimmy_unit2_sports_day",
+    "totalPractice": 8,
+    "audioDir": "audio/Unit2"
+  },
+  "flashcards": {
+    "pages": 4,
+    "intro": "點擊卡片查看例句，點擊音頻按鈕聆聽發音：",
+    "cards": [
+      {
+        "page": 1,
+        "word": "high jump",
+        "meaning": "跳高",
+        "icon": "fa-arrow-up",
+        "audio": "high_jump",
+        "example": "Forty-three students competed in the high jump.",
+        "translation": "四十三名學生參加了跳高比賽。",
+        "exampleAudio": "high_jump_example",
+        "pairs": [
+          {
+            "en": "high jump",
+            "zh": "跳高"
+          },
+          {
+            "en": "competed in",
+            "zh": "參加了……比賽"
+          }
+        ]
+      },
+      {
+        "page": 1,
+        "word": "long jump",
+        "meaning": "跳遠",
+        "icon": "fa-arrows-alt-h",
+        "audio": "long_jump",
+        "example": "Jimmy Chan won the long jump. He jumped 172 cm.",
+        "translation": "Jimmy Chan 贏得了跳遠比賽。他跳了 172 厘米。",
+        "exampleAudio": "long_jump_example",
+        "pairs": [
+          {
+            "en": "long jump",
+            "zh": "跳遠"
+          }
+        ]
+      },
+      {
+        "page": 1,
+        "word": "sit-up event",
+        "meaning": "仰臥起坐比賽",
+        "icon": "fa-running",
+        "audio": "sit_up_event",
+        "example": "Zoe did forty-six sit-ups in one minute.",
+        "translation": "Zoe 在一分鐘內做了四十六下仰臥起坐。",
+        "exampleAudio": "sit_up_event_example",
+        "pairs": [
+          {
+            "en": "sit-up event",
+            "zh": "仰臥起坐比賽"
+          },
+          {
+            "en": "sit-ups",
+            "zh": "仰臥起坐"
+          }
+        ]
+      },
+      {
+        "page": 1,
+        "word": "three-legged race",
+        "meaning": "二人三足",
+        "icon": "fa-link",
+        "audio": "three_legged_race",
+        "example": "The children paired up for the three-legged race.",
+        "translation": "孩子們兩人一組參加二人三足比賽。",
+        "exampleAudio": "three_legged_race_example",
+        "pairs": [
+          {
+            "en": "three-legged race",
+            "zh": "二人三足"
+          },
+          {
+            "en": "paired up",
+            "zh": "兩人一組"
+          }
+        ]
+      },
+      {
+        "page": 2,
+        "word": "beanbag throwing event",
+        "meaning": "豆袋投擲比賽",
+        "icon": "fa-hand-pointer",
+        "audio": "beanbag_throwing",
+        "example": "John Chow threw the beanbag 450 cm in the beanbag throwing event.",
+        "translation": "John Chow 在豆袋投擲比賽中把豆袋扔出了 450 厘米。",
+        "exampleAudio": "beanbag_throwing_example",
+        "pairs": [
+          {
+            "en": "beanbag throwing event",
+            "zh": "豆袋投擲比賽"
+          },
+          {
+            "en": "beanbag",
+            "zh": "豆袋"
+          }
+        ]
+      },
+      {
+        "page": 2,
+        "word": "hula hooping event",
+        "meaning": "呼拉圈比賽",
+        "icon": "fa-circle-notch",
+        "audio": "hula_hooping",
+        "example": "The hula hooping event is one of the Sports Day events.",
+        "translation": "呼拉圈比賽是運動會的比賽項目之一。",
+        "exampleAudio": "hula_hooping_example",
+        "pairs": [
+          {
+            "en": "hula hooping event",
+            "zh": "呼拉圈比賽"
+          }
+        ]
+      },
+      {
+        "page": 2,
+        "word": "skipping event",
+        "meaning": "跳繩比賽",
+        "icon": "fa-sync-alt",
+        "audio": "skipping_event",
+        "example": "Steve Lam kept skipping for three minutes and twenty seconds.",
+        "translation": "Steve Lam 連續跳繩了三分二十秒。",
+        "exampleAudio": "skipping_event_example",
+        "pairs": [
+          {
+            "en": "skipping event",
+            "zh": "跳繩比賽"
+          },
+          {
+            "en": "kept skipping",
+            "zh": "連續跳繩"
+          }
+        ]
+      },
+      {
+        "page": 2,
+        "word": "race",
+        "meaning": "比賽",
+        "icon": "fa-flag-checkered",
+        "audio": "race",
+        "example": "Andy was faster than all the other children in the 100 m race.",
+        "translation": "Andy 在 100 米賽跑中比其他所有孩子都快。",
+        "exampleAudio": "race_example",
+        "pairs": [
+          {
+            "en": "race",
+            "zh": "賽跑/比賽"
+          }
+        ]
+      },
+      {
+        "page": 3,
+        "word": "winner",
+        "meaning": "勝利者",
+        "icon": "fa-trophy",
+        "audio": "winner",
+        "example": "The tallest student in Class 4B was the winner of the high jump.",
+        "translation": "4B 班最高的學生是跳高比賽的勝利者。",
+        "exampleAudio": "winner_example",
+        "pairs": [
+          {
+            "en": "winner",
+            "zh": "勝利者"
+          },
+          {
+            "en": "the tallest student",
+            "zh": "最高的學生"
+          }
+        ]
+      },
+      {
+        "page": 3,
+        "word": "fast",
+        "meaning": "快的",
+        "icon": "fa-bolt",
+        "audio": "fast",
+        "example": "Andy is very fast. He was faster than all the other children.",
+        "translation": "Andy 很快。他比其他所有孩子都快。",
+        "exampleAudio": "fast_example",
+        "pairs": [
+          {
+            "en": "fast",
+            "zh": "快的"
+          },
+          {
+            "en": "faster than",
+            "zh": "比……快"
+          }
+        ]
+      },
+      {
+        "page": 3,
+        "word": "heavy",
+        "meaning": "重的",
+        "icon": "fa-weight-hanging",
+        "audio": "heavy",
+        "example": "Betty is heavier than Joyce.",
+        "translation": "Betty 比 Joyce 重。",
+        "exampleAudio": "heavy_example",
+        "pairs": [
+          {
+            "en": "heavy",
+            "zh": "重的"
+          },
+          {
+            "en": "heavier than",
+            "zh": "比……重"
+          }
+        ]
+      },
+      {
+        "page": 3,
+        "word": "fit",
+        "meaning": "健壯的",
+        "icon": "fa-heartbeat",
+        "audio": "fit",
+        "example": "Zoe is fitter than the other children. She beat everybody.",
+        "translation": "Zoe 比其他孩子健壯。她贏了所有人。",
+        "exampleAudio": "fit_example",
+        "pairs": [
+          {
+            "en": "fit",
+            "zh": "健壯的"
+          },
+          {
+            "en": "fitter than",
+            "zh": "比……健壯"
+          },
+          {
+            "en": "beat everybody",
+            "zh": "贏了所有人"
+          }
+        ]
+      },
+      {
+        "page": 4,
+        "word": "slogan",
+        "meaning": "口號",
+        "icon": "fa-bullhorn",
+        "audio": "slogan",
+        "example": "Class 4B were creative. They won the slogan competition.",
+        "translation": "4B 班很有創意。他們贏得了口號比賽。",
+        "exampleAudio": "slogan_example",
+        "pairs": [
+          {
+            "en": "slogan",
+            "zh": "口號"
+          },
+          {
+            "en": "slogan competition",
+            "zh": "口號比賽"
+          },
+          {
+            "en": "creative",
+            "zh": "有創意的"
+          }
+        ]
+      },
+      {
+        "page": 4,
+        "word": "height",
+        "meaning": "身高",
+        "icon": "fa-ruler-vertical",
+        "audio": "height",
+        "example": "Miss Ma measured the children's heights and weights.",
+        "translation": "馬老師量了孩子們的身高和體重。",
+        "exampleAudio": "height_example",
+        "pairs": [
+          {
+            "en": "heights",
+            "zh": "身高"
+          },
+          {
+            "en": "weights",
+            "zh": "體重"
+          },
+          {
+            "en": "measured",
+            "zh": "量度"
+          }
+        ]
+      }
+    ]
+  },
+  "reading": {
+    "title": "Sports Day",
+    "icon": "fa-medal",
+    "intro": "體育科 Lam 老師在學校網站發布了運動會的網誌。閱讀網誌並學習運動會相關的表達：",
+    "paragraphs": [
+      {
+        "id": "t1",
+        "audio": "sports_day_para_01",
+        "text": "<strong>Mr Lam, the PE teacher, created a blog with video clips of Sports Day on the school website.</strong>",
+        "translation": "<strong>體育科 Lam 老師在學校網站上發布了帶有運動會影片的網誌。</strong>",
+        "pairs": [
+          {
+            "en": "PE teacher",
+            "zh": "體育科老師"
+          },
+          {
+            "en": "created a blog",
+            "zh": "發布了網誌"
+          },
+          {
+            "en": "video clips",
+            "zh": "影片片段"
+          }
+        ],
+        "sentences": [
+          "Mr Lam, the PE teacher, created a blog with video clips of Sports Day on the school website."
+        ],
+        "translation_sentences": [
+          "體育科 Lam 老師在學校網站上發布了帶有運動會影片的網誌。"
+        ]
+      },
+      {
+        "id": "t2",
+        "audio": "sports_day_para_02",
+        "text": "It was Sports Day yesterday, on 15th October. Everyone did their best in different events. It was a great day.",
+        "translation": "昨天（10 月 15 日）是學校運動會。每個人在不同的比賽項目中都盡了全力。這真是美好的一天。",
+        "pairs": [
+          {
+            "en": "Sports Day",
+            "zh": "學校運動會"
+          },
+          {
+            "en": "did their best",
+            "zh": "盡了全力"
+          },
+          {
+            "en": "different events",
+            "zh": "不同的比賽項目"
+          }
+        ],
+        "sentences": [
+          "It was Sports Day yesterday, on 15th October.",
+          "Everyone did their best in different events.",
+          "It was a great day."
+        ],
+        "translation_sentences": [
+          "昨天（10 月 15 日）是學校運動會。",
+          "每個人在不同的比賽項目中都盡了全力。",
+          "這真是美好的一天。"
+        ]
+      },
+      {
+        "id": "t3",
+        "audio": "sports_day_para_03",
+        "text": "The high jump was a popular event this year. Forty-three students competed in this event. The tallest student in Class 4B won this event.",
+        "translation": "跳高是今年受歡迎的比賽項目。四十三名學生參加了這個項目。4B 班最高的學生贏得了比賽。",
+        "pairs": [
+          {
+            "en": "high jump",
+            "zh": "跳高"
+          },
+          {
+            "en": "competed in this event",
+            "zh": "參加了這個項目"
+          },
+          {
+            "en": "The tallest student",
+            "zh": "最高的學生"
+          }
+        ],
+        "sentences": [
+          "The high jump was a popular event this year.",
+          "Forty-three students competed in this event.",
+          "The tallest student in Class 4B won this event."
+        ],
+        "translation_sentences": [
+          "跳高是今年受歡迎的比賽項目。",
+          "四十三名學生參加了這個項目。",
+          "4B 班最高的學生贏得了比賽。"
+        ]
+      },
+      {
+        "id": "t4",
+        "audio": "sports_day_para_04",
+        "text": "Andy was faster than all the other children in the 100 m race. Watch this clip to see the prize-giving ceremony for this event.",
+        "translation": "Andy 在 100 米賽跑中比其他所有孩子都快。觀看這段影片可以看到該項目的頒獎典禮。",
+        "pairs": [
+          {
+            "en": "faster than all the other children",
+            "zh": "比所有其他孩子都快"
+          },
+          {
+            "en": "100 m race",
+            "zh": "100 米賽跑"
+          },
+          {
+            "en": "prize-giving ceremony",
+            "zh": "頒獎典禮"
+          }
+        ],
+        "sentences": [
+          "Andy was faster than all the other children in the 100 m race.",
+          "Watch this clip to see the prize-giving ceremony for this event."
+        ],
+        "translation_sentences": [
+          "Andy 在 100 米賽跑中比其他所有孩子都快。",
+          "觀看這段影片可以看到該項目的頒獎典禮。"
+        ]
+      },
+      {
+        "id": "t5",
+        "audio": "sports_day_para_05",
+        "text": "Miss Ma measured the children's heights and weights to see how fit they were. Who was the heaviest? Who was the lightest?",
+        "translation": "馬老師量度了孩子們的身高和體重，看看他們有多健壯。誰最重？誰最輕？",
+        "pairs": [
+          {
+            "en": "measured the children's heights and weights",
+            "zh": "量度孩子們的身高和體重"
+          },
+          {
+            "en": "how fit they were",
+            "zh": "他們有多健壯"
+          },
+          {
+            "en": "the heaviest",
+            "zh": "最重的"
+          },
+          {
+            "en": "the lightest",
+            "zh": "最輕的"
+          }
+        ],
+        "sentences": [
+          "Miss Ma measured the children's heights and weights to see how fit they were.",
+          "Who was the heaviest?",
+          "Who was the lightest?"
+        ],
+        "translation_sentences": [
+          "馬老師量度了孩子們的身高和體重，看看他們有多健壯。",
+          "誰最重？",
+          "誰最輕？"
+        ]
+      },
+      {
+        "id": "t6",
+        "audio": "sports_day_para_06",
+        "text": "Are you fitter than Zoe? She beat everybody in the sit-up event. She did forty-six sit-ups in one minute!",
+        "translation": "你比 Zoe 健壯嗎？她在仰臥起坐比賽中贏了所有人。她在一分鐘內做了四十六下仰臥起坐！",
+        "pairs": [
+          {
+            "en": "fitter than",
+            "zh": "比……健壯"
+          },
+          {
+            "en": "beat everybody",
+            "zh": "贏了所有人"
+          },
+          {
+            "en": "sit-up event",
+            "zh": "仰臥起坐比賽"
+          },
+          {
+            "en": "forty-six sit-ups",
+            "zh": "四十六下仰臥起坐"
+          }
+        ],
+        "sentences": [
+          "Are you fitter than Zoe?",
+          "She beat everybody in the sit-up event.",
+          "She did forty-six sit-ups in one minute!"
+        ],
+        "translation_sentences": [
+          "你比 Zoe 健壯嗎？",
+          "她在仰臥起坐比賽中贏了所有人。",
+          "她在一分鐘內做了四十六下仰臥起坐！"
+        ]
+      },
+      {
+        "id": "t7",
+        "audio": "sports_day_para_07",
+        "text": "The children were excited about the two new events this year. One of them was the three-legged race. The children paired up for this event.",
+        "translation": "孩子們對今年兩個新比賽項目感到興奮。其中一個是二人三足。孩子們兩人一組參加這個項目。",
+        "pairs": [
+          {
+            "en": "excited about",
+            "zh": "對……感到興奮"
+          },
+          {
+            "en": "three-legged race",
+            "zh": "二人三足"
+          },
+          {
+            "en": "paired up",
+            "zh": "兩人一組"
+          }
+        ],
+        "sentences": [
+          "The children were excited about the two new events this year.",
+          "One of them was the three-legged race.",
+          "The children paired up for this event."
+        ],
+        "translation_sentences": [
+          "孩子們對今年兩個新比賽項目感到興奮。",
+          "其中一個是二人三足。",
+          "孩子們兩人一組參加這個項目。"
+        ]
+      },
+      {
+        "id": "t8",
+        "audio": "sports_day_para_08",
+        "text": "Class 4B were creative. They won the slogan competition. Watch this clip to listen to their slogan!",
+        "translation": "4B 班很有創意。他們贏得了口號比賽。觀看這段影片聽聽他們的口號！",
+        "pairs": [
+          {
+            "en": "creative",
+            "zh": "有創意的"
+          },
+          {
+            "en": "slogan competition",
+            "zh": "口號比賽"
+          },
+          {
+            "en": "slogan",
+            "zh": "口號"
+          }
+        ],
+        "sentences": [
+          "Class 4B were creative.",
+          "They won the slogan competition.",
+          "Watch this clip to listen to their slogan!"
+        ],
+        "translation_sentences": [
+          "4B 班很有創意。",
+          "他們贏得了口號比賽。",
+          "觀看這段影片聽聽他們的口號！"
+        ]
+      }
+    ]
+  },
+  "sayItRight": {
+    "title": "SAY IT RIGHT (比較級 -er)",
+    "icon": "fa-microphone-alt",
+    "sentences": [
+      {
+        "id": "sir1",
+        "audio": "say_it_right_1",
+        "text": "Pam is faster than Sam.",
+        "translation": "Pam 比 Sam 快。",
+        "pairs": [
+          {
+            "en": "faster than",
+            "zh": "比……快"
+          }
+        ]
+      },
+      {
+        "id": "sir2",
+        "audio": "say_it_right_2",
+        "text": "Jimmy is fitter than Wing.",
+        "translation": "Jimmy 比 Wing 健壯。",
+        "pairs": [
+          {
+            "en": "fitter than",
+            "zh": "比……健壯"
+          }
+        ]
+      },
+      {
+        "id": "sir3",
+        "audio": "say_it_right_3",
+        "text": "Ben is taller than Paul.",
+        "translation": "Ben 比 Paul 高。",
+        "pairs": [
+          {
+            "en": "taller than",
+            "zh": "比……高"
+          }
+        ]
+      },
+      {
+        "id": "sir4",
+        "audio": "say_it_right_4",
+        "text": "Betty is heavier than Joyce.",
+        "translation": "Betty 比 Joyce 重。",
+        "pairs": [
+          {
+            "en": "heavier than",
+            "zh": "比……重"
+          }
+        ]
+      }
+    ]
+  },
+  "listening": {
+    "title": "聆聽練習：Sports Day Winners",
+    "icon": "fa-headphones",
+    "description": "Mr Lam 正在觀看運動會得獎者的影片片段。聆聽影片內容，然後完成表格：",
+    "mode": "blank",
+    "script": {
+      "title": "Mr Lam's Video Clip（影片聆聽稿）",
+      "audio": "listening_u2",
+      "text": "Hello everyone! It's Mr Lam. Let's watch the clips of our Sports Day winners. In the skipping event, Steve Lam of Class 2A kept skipping for three minutes and twenty seconds. What a great job! Next, the high jump. David Ng of Class 5B jumped one hundred and fifteen centimetres. Now, the long jump winner is Jimmy Chan of Class 3D. He jumped one hundred and seventy-two centimetres. In the three-legged race, Amy Ho and Kate Chan of Class 4B finished in eight seconds. They ran really fast! Finally, the beanbag throwing event. John Chow of Class 6C threw the beanbag four hundred and fifty centimetres. Well done, everyone!",
+      "segments": [
+        {
+          "en": "Hello everyone! It's Mr Lam.",
+          "zh": "大家好！我是林先生。"
+        },
+        {
+          "en": "Let's watch the clips of our Sports Day winners.",
+          "zh": "讓我們觀看運動會得獎者的片段。"
+        },
+        {
+          "en": "In the skipping event, Steve Lam of Class 2A kept skipping for three minutes and twenty seconds.",
+          "zh": "在跳繩比賽中，2A 班的 Steve Lam 連續跳了三分鐘二十秒。"
+        },
+        {
+          "en": "What a great job!",
+          "zh": "真了不起！"
+        },
+        {
+          "en": "Next, the high jump.",
+          "zh": "接下來是跳高。"
+        },
+        {
+          "en": "David Ng of Class 5B jumped one hundred and fifteen centimetres.",
+          "zh": "5B 班的 David Ng 跳了一百一十五厘米。"
+        },
+        {
+          "en": "Now, the long jump winner is Jimmy Chan of Class 3D.",
+          "zh": "現在，跳遠的得獎者是 3D 班的 Jimmy Chan。"
+        },
+        {
+          "en": "He jumped one hundred and seventy-two centimetres.",
+          "zh": "他跳了一百七十二厘米。"
+        },
+        {
+          "en": "In the three-legged race, Amy Ho and Kate Chan of Class 4B finished in eight seconds.",
+          "zh": "在兩人三足比賽中，4B 班的 Amy Ho 和 Kate Chan 用了八秒完成。"
+        },
+        {
+          "en": "They ran really fast!",
+          "zh": "他們跑得真快！"
+        },
+        {
+          "en": "Finally, the beanbag throwing event.",
+          "zh": "最後是擲豆袋比賽。"
+        },
+        {
+          "en": "John Chow of Class 6C threw the beanbag four hundred and fifty centimetres.",
+          "zh": "6C 班的 John Chow 把豆袋擲了四百五十厘米。"
+        },
+        {
+          "en": "Well done, everyone!",
+          "zh": "大家做得好！"
+        }
+      ],
+      "zh": "大家好！我是林先生。<br>讓我們觀看運動會得獎者的片段。<br>在跳繩比賽中，2A 班的 Steve Lam 連續跳了三分鐘二十秒。<br>真了不起！<br>接下來是跳高。<br>5B 班的 David Ng 跳了一百一十五厘米。<br>現在，跳遠的得獎者是 3D 班的 Jimmy Chan。<br>他跳了一百七十二厘米。<br>在兩人三足比賽中，4B 班的 Amy Ho 和 Kate Chan 用了八秒完成。<br>他們跑得真快！<br>最後是擲豆袋比賽。<br>6C 班的 John Chow 把豆袋擲了四百五十厘米。<br>大家做得好！"
+    },
+    "questions": [
+      {
+        "id": "l1",
+        "before": "1. Event: ",
+        "after": "",
+        "answer": "skipping event",
+        "variations": [
+          "skipping",
+          "the skipping event"
+        ],
+        "explanation": "影片先介紹 skipping event（跳繩比賽），Steve Lam (2A) 跳了 3 分 20 秒。"
+      },
+      {
+        "id": "l2",
+        "before": "2. Winner: ",
+        "after": " Ng (5B)",
+        "answer": "David",
+        "variations": [
+          "David Ng"
+        ],
+        "explanation": "跳高（high jump）的得獎者是 David Ng (5B)。"
+      },
+      {
+        "id": "l3",
+        "before": "3. Result: ",
+        "after": " cm",
+        "answer": "115",
+        "variations": [
+          "115 cm",
+          "115cm",
+          "one hundred and fifteen"
+        ],
+        "explanation": "David Ng 跳了 115 厘米（one hundred and fifteen centimetres）。"
+      },
+      {
+        "id": "l4",
+        "before": "4. Event: ",
+        "after": "",
+        "answer": "long jump",
+        "variations": [
+          "the long jump"
+        ],
+        "explanation": "第三個項目是 long jump（跳遠），得獎者是 Jimmy Chan (3D)。"
+      },
+      {
+        "id": "l5",
+        "before": "5. Winner: ",
+        "after": " Chan (4B)",
+        "answer": "Kate",
+        "variations": [
+          "Kate Chan"
+        ],
+        "explanation": "二人三足（three-legged race）由 Amy Ho 和 Kate Chan (4B) 勝出。"
+      },
+      {
+        "id": "l6",
+        "before": "6. Result: ",
+        "after": " sec",
+        "answer": "8",
+        "variations": [
+          "8 sec",
+          "8 seconds",
+          "eight"
+        ],
+        "explanation": "Amy Ho 和 Kate Chan 用 8 秒完成二人三足比賽。"
+      },
+      {
+        "id": "l7",
+        "before": "7. Event: ",
+        "after": "",
+        "answer": "beanbag throwing event",
+        "variations": [
+          "beanbag throwing",
+          "the beanbag throwing event"
+        ],
+        "explanation": "最後一個項目是 beanbag throwing event（豆袋投擲比賽），得獎者是 John Chow (6C)。"
+      },
+      {
+        "id": "l8",
+        "before": "8. Result: ",
+        "after": " cm",
+        "answer": "450",
+        "variations": [
+          "450 cm",
+          "450cm",
+          "four hundred and fifty"
+        ],
+        "explanation": "John Chow 把豆袋扔出了 450 厘米（four hundred and fifty centimetres）。"
+      }
+    ]
+  },
+  "textType": {
+    "title": "Text Type: Raps（說唱）",
+    "icon": "fa-music",
+    "description": "說唱（Rap）是流行音樂的一種，詞句以快速有節奏的方式說出，通常有強烈的節拍和押韻的詞語。",
+    "model": {
+      "title": "Three-legged Racers",
+      "parts": [
+        {
+          "label": "Title",
+          "text": "Three-legged Racers"
+        },
+        {
+          "label": "Strong beat",
+          "text": "The words fall on the strong beats"
+        },
+        {
+          "label": "Rhyming words",
+          "text": "you / true"
+        }
+      ],
+      "body": "The three-legged race is for Amy and me.<br>The reason for this is easy to see.<br>We are faster and fitter and finer than you.<br>Just race against us to know this is true.",
+      "zh": "兩人三足比賽是為我和 Amy 而設的。<br>原因很容易明白。<br>我們比你更快、更健壯、更出色。<br>只要跟我們比賽，你就會知道這是真的。",
+      "pairs": [
+        {
+          "en": "three-legged race",
+          "zh": "兩人三足比賽"
+        },
+        {
+          "en": "reason",
+          "zh": "原因"
+        },
+        {
+          "en": "easy to see",
+          "zh": "容易明白"
+        },
+        {
+          "en": "faster",
+          "zh": "更快"
+        },
+        {
+          "en": "fitter",
+          "zh": "更健壯"
+        },
+        {
+          "en": "finer",
+          "zh": "更出色"
+        },
+        {
+          "en": "race against us",
+          "zh": "跟我們比賽"
+        },
+        {
+          "en": "know this is true",
+          "zh": "知道這是真的"
+        }
+      ],
+      "sentences": [
+        "The three-legged race is for Amy and me.",
+        "The reason for this is easy to see.",
+        "We are faster and fitter and finer than you.",
+        "Just race against us and you will see it's true."
+      ],
+      "translation_sentences": [
+        "兩人三足比賽是為我和 Amy 而設的。",
+        "原因很容易明白。",
+        "我們比你更快、更健壯、更出色。",
+        "只要跟我們比賽，你就會知道這是真的。"
+      ]
+    },
+    "questions": [
+      {
+        "id": "tt1",
+        "text": "1. What is the rap about?",
+        "answer": "d",
+        "options": [
+          {
+            "key": "a",
+            "text": "a. Amy"
+          },
+          {
+            "key": "b",
+            "text": "b. staying fit"
+          },
+          {
+            "key": "c",
+            "text": "c. running fast"
+          },
+          {
+            "key": "d",
+            "text": "d. a three-legged race"
+          }
+        ],
+        "explanation": "說唱標題是 Three-legged Racers，內容講述 The three-legged race is for Amy and me，主題是二人三足比賽，所以選 d。"
+      },
+      {
+        "id": "tt2",
+        "text": "2. Which of the following is a pair of rhyming words?",
+        "answer": "a",
+        "options": [
+          {
+            "key": "a",
+            "text": "a. 'you' and 'true'"
+          },
+          {
+            "key": "b",
+            "text": "b. 'me' and 'you'"
+          },
+          {
+            "key": "c",
+            "text": "c. 'see' and 'you'"
+          },
+          {
+            "key": "d",
+            "text": "d. 'me' and 'true'"
+          }
+        ],
+        "explanation": "說唱結尾 We are faster and fitter and finer than you / Just race against us to know this is true，you 和 true 押韻，所以選 a。"
+      }
+    ]
+  },
+  "grammar": [
+    {
+      "title": "比較級：-er + than",
+      "audio": "grammar_comparative",
+      "examples": [
+        {
+          "en": "I am faster than Kate.",
+          "zh": "我比 Kate 快。",
+          "pairs": [
+            {
+              "en": "faster than",
+              "zh": "比……快"
+            }
+          ]
+        },
+        {
+          "en": "Pam is slower than Sam.",
+          "zh": "Pam 比 Sam 慢。",
+          "pairs": [
+            {
+              "en": "slower than",
+              "zh": "比……慢"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "比較級：y → i + er",
+      "audio": "grammar_y_to_i",
+      "examples": [
+        {
+          "en": "Jimmy is heavier than Ben.",
+          "zh": "Jimmy 比 Ben 重。",
+          "pairs": [
+            {
+              "en": "heavier than",
+              "zh": "比……重"
+            }
+          ]
+        },
+        {
+          "en": "Betty is fitter than Joyce.",
+          "zh": "Betty 比 Joyce 健壯。",
+          "pairs": [
+            {
+              "en": "fitter than",
+              "zh": "比……健壯"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "最高級：the + -est",
+      "audio": "grammar_superlative",
+      "examples": [
+        {
+          "en": "Who is the tallest? Karen is the tallest.",
+          "zh": "誰最高？Karen 最高。",
+          "pairs": [
+            {
+              "en": "the tallest",
+              "zh": "最高的"
+            }
+          ]
+        },
+        {
+          "en": "James is the strongest in our class.",
+          "zh": "James 是我們班最強壯的。",
+          "pairs": [
+            {
+              "en": "the strongest",
+              "zh": "最強壯的"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "量度單位",
+      "audio": "grammar_units",
+      "examples": [
+        {
+          "en": "Jimmy is 142 cm tall. cm = centimetre(s)",
+          "zh": "Jimmy 身高 142 厘米。",
+          "pairs": [
+            {
+              "en": "cm = centimetre(s)",
+              "zh": "厘米"
+            },
+            {
+              "en": "m = metre(s)",
+              "zh": "米"
+            },
+            {
+              "en": "kg = kilogram(s)",
+              "zh": "公斤"
+            }
+          ]
+        },
+        {
+          "en": "How heavy am I? You're 30 kilograms.",
+          "zh": "我有多重？你有 30 公斤。",
+          "pairs": [
+            {
+              "en": "How heavy",
+              "zh": "多重"
+            },
+            {
+              "en": "kilograms",
+              "zh": "公斤"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "intro": "根據 Unit 2（Sports Day）內容完成以下練習題：",
+    "readingComp": {
+      "title": "練習 1：閱讀理解選擇題",
+      "icon": "fa-search",
+      "description": "根據 Mr Lam 的網誌內容，選擇最佳答案：",
+      "questions": [
+        {
+          "id": "r1",
+          "text": "1. When was Sports Day?",
+          "answer": "a",
+          "options": [
+            {
+              "key": "a",
+              "text": "a. 15th October"
+            },
+            {
+              "key": "b",
+              "text": "b. 15th November"
+            },
+            {
+              "key": "c",
+              "text": "c. 5th October"
+            },
+            {
+              "key": "d",
+              "text": "d. 15th September"
+            }
+          ],
+          "explanation": "網誌開頭寫道 It was Sports Day yesterday, on 15th October，運動會在 10 月 15 日舉行，所以選 a。",
+          "zh": "運動會是什麼時候舉行的？"
+        },
+        {
+          "id": "r2",
+          "text": "2. Who won the high jump?",
+          "answer": "b",
+          "options": [
+            {
+              "key": "a",
+              "text": "a. Andy"
+            },
+            {
+              "key": "b",
+              "text": "b. The tallest student in Class 4B"
+            },
+            {
+              "key": "c",
+              "text": "c. Zoe"
+            },
+            {
+              "key": "d",
+              "text": "d. Mr Lam"
+            }
+          ],
+          "explanation": "網誌說 The tallest student in Class 4B won this event，4B 班最高的學生贏得跳高，所以選 b。",
+          "zh": "誰贏了跳高比賽？"
+        },
+        {
+          "id": "r3",
+          "text": "3. How many sit-ups did Zoe do?",
+          "answer": "c",
+          "options": [
+            {
+              "key": "a",
+              "text": "a. 16"
+            },
+            {
+              "key": "b",
+              "text": "b. 26"
+            },
+            {
+              "key": "c",
+              "text": "c. 46"
+            },
+            {
+              "key": "d",
+              "text": "d. 64"
+            }
+          ],
+          "explanation": "網誌說 She did forty-six sit-ups in one minute，Zoe 一分鐘做了 46 下仰臥起坐，所以選 c。",
+          "zh": "Zoe 做了多少下仰臥起坐？"
+        },
+        {
+          "id": "r4",
+          "text": "4. Why did Class 4B win the slogan competition?",
+          "answer": "b",
+          "options": [
+            {
+              "key": "a",
+              "text": "a. They were the fastest."
+            },
+            {
+              "key": "b",
+              "text": "b. They were very creative."
+            },
+            {
+              "key": "c",
+              "text": "c. They were the tallest."
+            },
+            {
+              "key": "d",
+              "text": "d. They were very loud."
+            }
+          ],
+          "explanation": "網誌說 Class 4B were creative. They won the slogan competition，4B 班因為有創意而贏得口號比賽，所以選 b。",
+          "zh": "為什麼 4B 班贏了口號比賽？"
+        },
+        {
+          "id": "r5",
+          "text": "5. What did Miss Ma measure?",
+          "answer": "a",
+          "options": [
+            {
+              "key": "a",
+              "text": "a. The children's heights and weights"
+            },
+            {
+              "key": "b",
+              "text": "b. The length of the playground"
+            },
+            {
+              "key": "c",
+              "text": "c. The children's ages"
+            },
+            {
+              "key": "d",
+              "text": "d. The number of children"
+            }
+          ],
+          "explanation": "網誌說 Miss Ma measured the children's heights and weights，馬老師量度的是孩子們的身高和體重，所以選 a。",
+          "zh": "馬老師量了什麼？"
+        }
+      ]
+    },
+    "readingQA": {
+      "title": "練習 2：閱讀理解問答題",
+      "icon": "fa-question-circle",
+      "description": "根據 Mr Lam 的網誌內容，用完整的句子回答下列問題：",
+      "questions": [
+        {
+          "id": 1,
+          "text": "1. Who won the high jump?",
+          "placeholder": "請輸入答案",
+          "answer": "The tallest student in Class 4B won the high jump.",
+          "variations": [
+            "The tallest student in Class 4B.",
+            "The tallest student."
+          ],
+          "explanation": "網誌說 The tallest student in Class 4B won this event，所以是 4B 班最高的學生。",
+          "zh": "誰贏了跳高比賽？"
+        },
+        {
+          "id": 2,
+          "text": "2. What did Miss Ma do on Sports Day?",
+          "placeholder": "請輸入答案",
+          "answer": "She measured the children's heights and weights.",
+          "variations": [
+            "Miss Ma measured the children's heights and weights."
+          ],
+          "explanation": "網誌說 Miss Ma measured the children's heights and weights，馬老師量度孩子們的身高和體重。",
+          "zh": "馬老師在運動會那天做了什麼？"
+        },
+        {
+          "id": 3,
+          "text": "3. Which event did Zoe win?",
+          "placeholder": "請輸入答案",
+          "answer": "Zoe won the sit-up event.",
+          "variations": [
+            "The sit-up event.",
+            "She beat everybody in the sit-up event."
+          ],
+          "explanation": "網誌說 She beat everybody in the sit-up event，Zoe 贏得仰臥起坐比賽。",
+          "zh": "Zoe 贏了哪個項目？"
+        },
+        {
+          "id": 4,
+          "text": "4. How many students competed in the high jump?",
+          "placeholder": "請輸入答案",
+          "answer": "Forty-three students competed in the high jump.",
+          "variations": [
+            "43 students.",
+            "Forty-three."
+          ],
+          "explanation": "網誌說 Forty-three students competed in this event，有 43 名學生參加跳高。",
+          "zh": "有多少名學生參加了跳高比賽？"
+        },
+        {
+          "id": 5,
+          "text": "5. Which event do you like best on Sports Day? Why?",
+          "placeholder": "請輸入你的答案（至少1個理由）",
+          "answer": "I like the three-legged race best because it is fun to work with a friend.",
+          "variations": [
+            "I like the three-legged race best. It is fun.",
+            "I like the high jump because it looks exciting."
+          ],
+          "explanation": "這是一條開放題。寫出你最喜歡的項目並說明理由即可，例如喜歡二人三足因為和朋友合作很有趣。",
+          "zh": "在運動會上你最喜歡哪個項目？為什麼？"
+        }
+      ]
+    },
+    "wordBank": {
+      "title": "練習 3：選詞填空（Post-reading）",
+      "icon": "fa-pen-fancy",
+      "description": "從詞庫中選擇正確的比較級形容詞完成句子：",
+      "bank": [
+        "faster",
+        "heavier",
+        "slower",
+        "fitter",
+        "shorter",
+        "taller"
+      ],
+      "items": [
+        {
+          "id": "w1",
+          "before": "1. Karen was ",
+          "after": " than Amy.",
+          "answer": "taller",
+          "explanation": "語言框說 Karen is the tallest in our class，所以 Karen 比 Amy 高（taller）。"
+        },
+        {
+          "id": "w2",
+          "before": "2. Andy was ",
+          "after": " than Amy.",
+          "answer": "faster",
+          "explanation": "網誌說 Andy was faster than all the other children，所以 Andy 比 Amy 快（faster）。"
+        },
+        {
+          "id": "w3",
+          "before": "3. Zoe was ",
+          "after": " than the other children.",
+          "answer": "fitter",
+          "explanation": "網誌問 Are you fitter than Zoe?，Zoe 比其他人健壯（fitter）。"
+        }
+      ]
+    },
+    "comparative": {
+      "title": "練習 4：比較級與最高級運用題",
+      "icon": "fa-signal",
+      "description": "根據下面的身高體重記錄表，用括號內形容詞的比較級或最高級完成句子：",
+      "tableData": {
+        "title": "Height and Weight Record Sheet（身高體重記錄表）",
+        "headers": [
+          "Name",
+          "Height",
+          "Weight"
+        ],
+        "rows": [
+          [
+            "Ben",
+            "145 cm",
+            "42 kg"
+          ],
+          [
+            "Jimmy",
+            "142 cm",
+            "40 kg"
+          ],
+          [
+            "Betty",
+            "140 cm",
+            "45 kg"
+          ],
+          [
+            "Paul",
+            "138 cm",
+            "39 kg"
+          ],
+          [
+            "Wing",
+            "139 cm",
+            "37 kg"
+          ],
+          [
+            "Joyce",
+            "136 cm",
+            "43 kg"
+          ]
+        ]
+      },
+      "items": [
+        {
+          "id": "comparative1",
+          "before": "1. Ben is ",
+          "after": " (tall) than Paul.",
+          "placeholder": "輸入形容詞",
+          "answer": "taller",
+          "explanation": "Ben（145 cm）比 Paul（138 cm）高，tall 的比較級是 taller。"
+        },
+        {
+          "id": "comparative2",
+          "before": "2. Betty is ",
+          "after": " (heavy) than Joyce.",
+          "placeholder": "輸入形容詞",
+          "answer": "heavier",
+          "explanation": "Betty（45 kg）比 Joyce（43 kg）重，heavy 以 y 結尾，變 y 為 i 加 er，是 heavier。"
+        },
+        {
+          "id": "comparative3",
+          "before": "3. Jimmy is ",
+          "after": " (fit) than Wing.",
+          "placeholder": "輸入形容詞",
+          "answer": "fitter",
+          "explanation": "Jimmy 比 Wing 健壯，fit 的比較級是 fitter（雙寫 t 加 er）。"
+        },
+        {
+          "id": "comparative4",
+          "before": "4. Who is the tallest? ",
+          "after": " is the tallest.",
+          "placeholder": "輸入名字",
+          "answer": "Ben",
+          "explanation": "Ben 身高 145 cm，是表中最高的人，所以 Ben is the tallest。"
+        },
+        {
+          "id": "comparative5",
+          "before": "5. Ben is ",
+          "after": " (tall) of all the children.",
+          "placeholder": "輸入形容詞",
+          "answer": "the tallest",
+          "explanation": "三人或以上比較用最高級，tall 的最高級是 the tallest；Ben 最高，所以填 the tallest。"
+        },
+        {
+          "id": "comparative6",
+          "before": "6. Betty is ",
+          "after": " (heavy) of all the children.",
+          "placeholder": "輸入形容詞",
+          "answer": "the heaviest",
+          "explanation": "heavy 的最高級把 y 變 i 加 est，是 the heaviest；Betty（45 kg）最重。"
+        }
+      ]
+    },
+    "sentencePattern": {
+      "title": "練習 5：看圖完成句子",
+      "icon": "fa-image",
+      "description": "看看運動會的照片，用比較級完成句子，比較照片中的孩子：",
+      "items": [
+        {
+          "id": "sentence1",
+          "before": "1. Jimmy is ",
+          "after": " than Wing.",
+          "placeholder": "輸入形容詞",
+          "answer": "fitter",
+          "explanation": "照片②中 Jimmy 做運動，Wing 較弱（fit / weak），所以 Jimmy is fitter than Wing。"
+        },
+        {
+          "id": "sentence2",
+          "before": "2. Ben is ",
+          "after": " than Paul.",
+          "placeholder": "輸入形容詞",
+          "answer": "taller",
+          "explanation": "照片③中 Ben 較高、Paul 較矮（tall / short），所以 Ben is taller than Paul。"
+        },
+        {
+          "id": "sentence3",
+          "before": "3. Betty is ",
+          "after": " than Joyce.",
+          "placeholder": "輸入形容詞",
+          "answer": "heavier",
+          "explanation": "照片④中 Betty 較重、Joyce 較輕（heavy / light），所以 Betty is heavier than Joyce。"
+        }
+      ]
+    },
+    "gadgetSorting": {
+      "title": "練習 6：形容詞分類",
+      "icon": "fa-sort",
+      "description": "將下方形容詞拖拽到正確的分類中（描述身高 / 體重 / 速度 / 力量）：",
+      "zones": [
+        {
+          "id": "height",
+          "title": "Height (身高)"
+        },
+        {
+          "id": "weight",
+          "title": "Weight (體重)"
+        },
+        {
+          "id": "speed",
+          "title": "Speed (速度)"
+        },
+        {
+          "id": "strength",
+          "title": "Strength (力量)"
+        }
+      ],
+      "gadgets": [
+        {
+          "name": "tall",
+          "category": "height",
+          "explanation": "tall 形容身高（Height），例如 Ben is tall."
+        },
+        {
+          "name": "short",
+          "category": "height",
+          "explanation": "short 形容身高（Height），例如 Paul is short."
+        },
+        {
+          "name": "heavy",
+          "category": "weight",
+          "explanation": "heavy 形容體重（Weight），例如 Betty is heavy."
+        },
+        {
+          "name": "light",
+          "category": "weight",
+          "explanation": "light 形容體重（Weight），例如 Joyce is light."
+        },
+        {
+          "name": "fast",
+          "category": "speed",
+          "explanation": "fast 形容速度（Speed），例如 Andy is fast."
+        },
+        {
+          "name": "slow",
+          "category": "speed",
+          "explanation": "slow 形容速度（Speed），例如 Pam is slow."
+        },
+        {
+          "name": "strong",
+          "category": "strength",
+          "explanation": "strong 形容力量（Strength），例如 James is strong."
+        },
+        {
+          "name": "weak",
+          "category": "strength",
+          "explanation": "weak 形容力量（Strength），例如 Wing is weak."
+        }
+      ]
+    },
+    "discussion": {
+      "title": "練習 7：採訪同學（學校通訊寫作）",
+      "icon": "fa-users",
+      "description": "學校通訊需要報導運動會。採訪三位同學，用 \"How often...?\" 詢問他們練習的頻率，然後寫成報導：",
+      "questions": [
+        {
+          "id": 1,
+          "text": "1. Tom won the 100 m race. He always goes jogging. How often do you go jogging?",
+          "placeholder": "請輸入你的採訪問題與回答",
+          "reference": "<strong>參考答案：</strong> Tom, how often do you go jogging? — I always go jogging in the park.<br><strong>中文翻譯：</strong> Tom，你多久慢跑一次？——我總是在公園慢跑。"
+        },
+        {
+          "id": 2,
+          "text": "2. May won the sit-up event. She sometimes does sit-ups. How often do you do sit-ups?",
+          "placeholder": "請輸入你的採訪問題與回答",
+          "reference": "<strong>參考答案：</strong> May, how often do you do sit-ups? — I sometimes do sit-ups after school.<br><strong>中文翻譯：</strong> May，你多久做一次仰臥起坐？——我有時放學後做仰臥起坐。"
+        },
+        {
+          "id": 3,
+          "text": "3. Joe won the beanbag throwing event. He often practises. How often do you practise beanbag throwing?",
+          "placeholder": "請輸入你的採訪問題與回答",
+          "reference": "<strong>參考答案：</strong> Joe, how often do you practise beanbag throwing? — I often practise with my brother.<br><strong>中文翻譯：</strong> Joe，你多久練習一次豆袋投擲？——我經常和我弟弟一起練習。"
+        }
+      ]
+    }
+  },
+  "quiz": {
+    "info": "滿分：15分",
+    "maxScore": 15,
+    "sections": [
+      {
+        "type": "choice",
+        "attr": "quiz",
+        "keyPrefix": "",
+        "title": "文法辨識題（每題 1 分）",
+        "icon": "fa-check-circle",
+        "questions": [
+          {
+            "id": 1,
+            "text": "1. Which sentence is correct?",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. Andy is fastest than Kate."
+              },
+              {
+                "key": "b",
+                "text": "B. Andy is faster than Kate."
+              },
+              {
+                "key": "c",
+                "text": "C. Andy is the faster than Kate."
+              },
+              {
+                "key": "d",
+                "text": "D. Andy is more fast than Kate."
+              }
+            ],
+            "answer": "b",
+            "explanation": "兩者比較用比較級 faster + than，所以正確的是 Andy is faster than Kate.，選 B。"
+          },
+          {
+            "id": 2,
+            "text": "2. We use 'the' + ______ when we compare three or more people or things.",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. -er"
+              },
+              {
+                "key": "b",
+                "text": "B. -est"
+              },
+              {
+                "key": "c",
+                "text": "C. -ing"
+              },
+              {
+                "key": "d",
+                "text": "D. -s"
+              }
+            ],
+            "answer": "b",
+            "explanation": "三人或以上比較用最高級：the + 形容詞 + -est，例如 the tallest、the heaviest，所以選 B。"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "attr": "match",
+        "keyPrefix": "match",
+        "title": "反義詞匹配題（每題 1 分）",
+        "icon": "fa-link",
+        "description": "選擇正確的反義詞：",
+        "questions": [
+          {
+            "id": 1,
+            "text": "1. The opposite of 'tall' is ______.",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. heavy"
+              },
+              {
+                "key": "b",
+                "text": "B. short"
+              },
+              {
+                "key": "c",
+                "text": "C. fast"
+              },
+              {
+                "key": "d",
+                "text": "D. strong"
+              }
+            ],
+            "answer": "b",
+            "explanation": "tall（高）的反義詞是 short（矮），所以選 B。"
+          },
+          {
+            "id": 2,
+            "text": "2. The opposite of 'heavy' is ______.",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. light"
+              },
+              {
+                "key": "b",
+                "text": "B. weak"
+              },
+              {
+                "key": "c",
+                "text": "C. slow"
+              },
+              {
+                "key": "d",
+                "text": "D. fit"
+              }
+            ],
+            "answer": "a",
+            "explanation": "heavy（重）的反義詞是 light（輕），所以選 A。"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "attr": "reading",
+        "keyPrefix": "reading",
+        "title": "閱讀理解選擇題（每題 2 分）",
+        "icon": "fa-book-reader",
+        "questions": [
+          {
+            "id": 1,
+            "text": "1. Who did forty-six sit-ups in one minute?",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. Steve"
+              },
+              {
+                "key": "b",
+                "text": "B. Andy"
+              },
+              {
+                "key": "c",
+                "text": "C. Zoe"
+              },
+              {
+                "key": "d",
+                "text": "D. Amy"
+              }
+            ],
+            "answer": "c",
+            "explanation": "網誌說 Zoe did forty-six sit-ups in one minute，所以選 C。"
+          },
+          {
+            "id": 2,
+            "text": "2. Which event did Class 4B win?",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. the three-legged race"
+              },
+              {
+                "key": "b",
+                "text": "B. the slogan competition"
+              },
+              {
+                "key": "c",
+                "text": "C. the high jump"
+              },
+              {
+                "key": "d",
+                "text": "D. the 100 m race"
+              }
+            ],
+            "answer": "b",
+            "explanation": "網誌說 Class 4B were creative. They won the slogan competition，所以選 B。"
+          }
+        ]
+      },
+      {
+        "type": "blank",
+        "title": "比較級填空題（每題 2 分）",
+        "icon": "fa-edit",
+        "description": "用括號內形容詞的正確形式填空：",
+        "questions": [
+          {
+            "id": "quizBlank1",
+            "before": "1. Amy is ",
+            "after": " (tall) than Ray.",
+            "answer": "taller",
+            "explanation": "tall 的比較級是 taller，表示『比……高』，所以填 taller。"
+          },
+          {
+            "id": "quizBlank2",
+            "before": "2. Mike is ",
+            "after": " (strong) student in our class.",
+            "answer": "the strongest",
+            "explanation": "『在我們班裡最強壯的』用最高級，strong 的最高級是 the strongest，所以填 the strongest。"
+          }
+        ]
+      },
+      {
+        "type": "sentence",
+        "title": "句型運用題（每題 3 分）",
+        "icon": "fa-pen",
+        "prompt": "用 \"Who is the ... ?\" 最高級問句造一個關於班上同學的句子：",
+        "id": "sentenceAnswer",
+        "placeholder": "請輸入句子",
+        "answer": "Who is the tallest in our class? Ben is the tallest.",
+        "explanation": "示例：Who is the tallest in our class? Ben is the tallest.（我們班誰最高？Ben 最高。）用 the + 最高級提問並回答即可。"
+      }
+    ]
+  },
+  "sidebar": {
+    "learningPoints": {
+      "title": "Unit 2：Sports Day（學校運動會）",
+      "icon": "fa-medal",
+      "theme": "運動會與比較級",
+      "goals": [
+        "學習運動會比賽項目詞彙",
+        "使用比較級 -er + than 比較兩個人",
+        "使用最高級 the + -est 比較三個或以上的人",
+        "用量度單位 cm / m / kg 描述身高體重",
+        "認識說唱（Rap）的文體特徵"
+      ]
+    },
+    "languageFocus": {
+      "sections": [
+        {
+          "title": "1. 運動會詞彙：",
+          "items": [
+            "high jump, long jump, sit-up event",
+            "100 m race, skipping event, hula hooping event",
+            "beanbag throwing event, three-legged race",
+            "slogan competition, winner"
+          ]
+        },
+        {
+          "title": "2. 形容詞與比較級：",
+          "items": [
+            "tall - taller, short - shorter",
+            "heavy - heavier, light - lighter",
+            "fast - faster, slow - slower",
+            "strong - stronger, weak - weaker, fit - fitter"
+          ]
+        },
+        {
+          "title": "3. 最高級：",
+          "items": [
+            "the tallest, the heaviest, the fastest",
+            "the strongest, the lightest"
+          ]
+        },
+        {
+          "title": "4. 量度單位：",
+          "items": [
+            "cm = centimetre(s), m = metre(s)",
+            "kg = kilogram(s) / kilo(s)",
+            "How tall are you? How heavy are you?"
+          ]
+        }
+      ]
+    }
+  }
+}

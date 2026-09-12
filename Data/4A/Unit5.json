@@ -1,0 +1,1686 @@
+{
+  "meta": {
+    "pageTitleTag": "Unit 5：生活中的科技產品 - 小學四年級英文互動練習",
+    "headerIcon": "fa-laptop",
+    "title": "小學四年級英文",
+    "subtitle": "單元 5：Gadgets in Our Life (生活中的科技產品)",
+    "storageKey": "unit5_gadgets_progress",
+    "totalPractice": 8,
+    "audioDir": "audio/Unit5"
+  },
+  "flashcards": {
+    "pages": 3,
+    "intro": "點擊卡片查看例句，點擊音頻按鈕聆聽發音：",
+    "cards": [
+      {
+        "page": 1,
+        "word": "digital camera",
+        "meaning": "數位相機",
+        "icon": "fa-camera",
+        "audio": "digital_camera",
+        "example": "My dad bought a new digital camera.",
+        "translation": "我爸爸買了一台新的數位相機。",
+        "exampleAudio": "digital_camera_example",
+        "pairs": [
+          {
+            "en": "digital camera",
+            "zh": "數位相機"
+          }
+        ]
+      },
+      {
+        "page": 1,
+        "word": "mobile phone",
+        "meaning": "行動電話",
+        "icon": "fa-mobile-alt",
+        "audio": "mobile_phone",
+        "example": "Karen thinks new mobile phones are awesome.",
+        "translation": "Karen認為新的行動電話很厲害。",
+        "exampleAudio": "mobile_phone_example",
+        "pairs": [
+          {
+            "en": "mobile phones",
+            "zh": "行動電話"
+          }
+        ]
+      },
+      {
+        "page": 1,
+        "word": "computer",
+        "meaning": "電腦",
+        "icon": "fa-laptop",
+        "audio": "computer",
+        "example": "We can type letters on a computer.",
+        "translation": "我們可以用電腦打信件。",
+        "exampleAudio": "computer_example",
+        "pairs": [
+          {
+            "en": "computer",
+            "zh": "電腦"
+          }
+        ]
+      },
+      {
+        "page": 1,
+        "word": "TV set",
+        "meaning": "電視機",
+        "icon": "fa-tv",
+        "audio": "tv_set",
+        "example": "Andy's grandpa doesn't want to buy a new TV set.",
+        "translation": "Andy的爺爺不想買新的電視機。",
+        "exampleAudio": "tv_set_example",
+        "pairs": [
+          {
+            "en": "TV set",
+            "zh": "電視機"
+          }
+        ]
+      },
+      {
+        "page": 1,
+        "word": "typewriter",
+        "meaning": "打字機",
+        "icon": "fa-keyboard",
+        "audio": "typewriter",
+        "example": "People used typewriters before computers.",
+        "translation": "在電腦出現之前人們使用打字機。",
+        "exampleAudio": "typewriter_example",
+        "pairs": [
+          {
+            "en": "typewriters",
+            "zh": "打字機"
+          }
+        ]
+      },
+      {
+        "page": 1,
+        "word": "record player",
+        "meaning": "唱片播放機",
+        "icon": "fa-compact-disc",
+        "audio": "record_player",
+        "example": "Grandpa likes to listen to music on his record player.",
+        "translation": "爺爺喜歡用他的唱片播放機聽音樂。",
+        "exampleAudio": "record_player_example",
+        "pairs": [
+          {
+            "en": "record player",
+            "zh": "唱片播放機"
+          }
+        ]
+      },
+      {
+        "page": 2,
+        "word": "modern",
+        "meaning": "現代的",
+        "icon": "fa-rocket",
+        "audio": "modern",
+        "example": "New things look modern.",
+        "translation": "新事物看起來很現代。",
+        "exampleAudio": "modern_example",
+        "pairs": [
+          {
+            "en": "modern",
+            "zh": "現代"
+          }
+        ]
+      },
+      {
+        "page": 2,
+        "word": "awesome",
+        "meaning": "厲害的、很棒的",
+        "icon": "fa-star",
+        "audio": "awesome",
+        "example": "My dad's new phone is awesome!",
+        "translation": "我爸爸的新手機很厲害！",
+        "exampleAudio": "awesome_example",
+        "pairs": [
+          {
+            "en": "awesome",
+            "zh": "很厲害"
+          }
+        ]
+      },
+      {
+        "page": 2,
+        "word": "pleasant",
+        "meaning": "悅耳的、令人愉快的",
+        "icon": "fa-music",
+        "audio": "pleasant",
+        "example": "The old songs are quite pleasant to the ears.",
+        "translation": "那些老歌聽起來很悅耳。",
+        "exampleAudio": "pleasant_example",
+        "pairs": [
+          {
+            "en": "pleasant",
+            "zh": "悅耳"
+          }
+        ]
+      },
+      {
+        "page": 2,
+        "word": "exhibition",
+        "meaning": "展覽",
+        "icon": "fa-images",
+        "audio": "exhibition",
+        "example": "We visited an exhibition at the Science Museum.",
+        "translation": "我們參觀了科學博物館的展覽。",
+        "exampleAudio": "exhibition_example",
+        "pairs": [
+          {
+            "en": "exhibition",
+            "zh": "展覽"
+          }
+        ]
+      },
+      {
+        "page": 2,
+        "word": "value",
+        "meaning": "價值",
+        "icon": "fa-gem",
+        "audio": "value",
+        "example": "Old things have their value too.",
+        "translation": "舊事物也有它們的價值。",
+        "exampleAudio": "value_example",
+        "pairs": [
+          {
+            "en": "value",
+            "zh": "價值"
+          }
+        ]
+      },
+      {
+        "page": 2,
+        "word": "gadget",
+        "meaning": "小工具、小裝置",
+        "icon": "fa-tools",
+        "audio": "gadget",
+        "example": "I like high-tech gadgets.",
+        "translation": "我喜歡高科技的小工具。",
+        "exampleAudio": "gadget_example",
+        "pairs": [
+          {
+            "en": "gadgets",
+            "zh": "小工具"
+          }
+        ]
+      },
+      {
+        "page": 3,
+        "word": "take pictures",
+        "meaning": "拍照",
+        "icon": "fa-camera",
+        "audio": "take_pictures",
+        "example": "People can take pictures with both a film camera and a digital camera.",
+        "translation": "人們既可以用膠片相機也可以用數位相機拍照。",
+        "exampleAudio": "take_pictures_example",
+        "pairs": [
+          {
+            "en": "take pictures",
+            "zh": "拍照"
+          }
+        ]
+      },
+      {
+        "page": 3,
+        "word": "listen to music",
+        "meaning": "聽音樂",
+        "icon": "fa-music",
+        "audio": "listen_music",
+        "example": "Both a record player and an MP3 player can be used to listen to music.",
+        "translation": "唱片播放機和MP3播放器都可以用來聽音樂。",
+        "exampleAudio": "listen_music_example",
+        "pairs": [
+          {
+            "en": "listen to music",
+            "zh": "聽音樂"
+          }
+        ]
+      },
+      {
+        "page": 3,
+        "word": "be better than",
+        "meaning": "比...更好",
+        "icon": "fa-thumbs-up",
+        "audio": "better_than",
+        "example": "Her old camera is better than digital cameras.",
+        "translation": "她的舊相機比數位相機更好。",
+        "exampleAudio": "better_than_example",
+        "pairs": [
+          {
+            "en": "old camera is better than digital cameras",
+            "zh": "舊相機比數位相機更好"
+          }
+        ]
+      },
+      {
+        "page": 3,
+        "word": "be worse than",
+        "meaning": "比...更差",
+        "icon": "fa-thumbs-down",
+        "audio": "worse_than",
+        "example": "Old machines are worse than new gadgets.",
+        "translation": "舊機器比新的小工具更差。",
+        "exampleAudio": "worse_than_example",
+        "pairs": [
+          {
+            "en": "Old machines are worse than new gadgets",
+            "zh": "舊機器比新的小工具更差"
+          }
+        ]
+      },
+      {
+        "page": 3,
+        "word": "be the best",
+        "meaning": "是最好的",
+        "icon": "fa-trophy",
+        "audio": "the_best",
+        "example": "I think the newest things are the best.",
+        "translation": "我認為最新的東西是最好的。",
+        "exampleAudio": "the_best_example",
+        "pairs": [
+          {
+            "en": "the newest things are the best",
+            "zh": "最新的東西是最好的"
+          }
+        ]
+      },
+      {
+        "page": 3,
+        "word": "be the worst",
+        "meaning": "是最差的",
+        "icon": "fa-exclamation-triangle",
+        "audio": "the_worst",
+        "example": "It has the worst picture quality in the whole building.",
+        "translation": "它在整棟大樓裡畫質最差。",
+        "exampleAudio": "the_worst_example",
+        "pairs": [
+          {
+            "en": "the worst picture quality",
+            "zh": "畫質最差"
+          }
+        ]
+      },
+      {
+        "page": 3,
+        "word": "both...and...",
+        "meaning": "既...又...",
+        "icon": "fa-link",
+        "audio": "both_and",
+        "example": "I like both the old things and the new things.",
+        "translation": "我既喜歡舊的東西也喜歡新的東西。",
+        "exampleAudio": "both_and_example",
+        "pairs": [
+          {
+            "en": "like both the old things and the new things",
+            "zh": "既喜歡舊的東西也喜歡新的東西"
+          }
+        ]
+      },
+      {
+        "page": 3,
+        "word": "even though",
+        "meaning": "即使",
+        "icon": "fa-balance-scale",
+        "audio": "even_though",
+        "example": "He doesn't want to buy a new TV set even though it has the worst picture quality.",
+        "translation": "即使畫質最差，他還是不想買新的電視機。",
+        "exampleAudio": "even_though_example",
+        "pairs": [
+          {
+            "en": "even though it has the worst picture quality",
+            "zh": "即使畫質最差"
+          }
+        ]
+      },
+      {
+        "page": 3,
+        "word": "I think",
+        "meaning": "我認為",
+        "icon": "fa-brain",
+        "audio": "i_think",
+        "example": "I think the newest things are the best.",
+        "translation": "我認為最新的東西是最好的。",
+        "exampleAudio": "i_think_example",
+        "pairs": [
+          {
+            "en": "I think",
+            "zh": "我認為"
+          }
+        ]
+      },
+      {
+        "page": 3,
+        "word": "I agree",
+        "meaning": "我同意",
+        "icon": "fa-handshake",
+        "audio": "i_agree",
+        "example": "\"I agree. That's why we shouldn't forget old things have their value, too!\"",
+        "translation": "\"我同意。這就是為什麼我們不應該忘記舊東西也有它們的價值！\"",
+        "exampleAudio": "i_agree_example",
+        "pairs": [
+          {
+            "en": "I agree",
+            "zh": "我同意"
+          }
+        ]
+      },
+      {
+        "page": 3,
+        "word": "Are you serious?",
+        "meaning": "你是認真的嗎？",
+        "icon": "fa-question-circle",
+        "audio": "are_you_serious",
+        "example": "\"Are you serious?\" doubted Karen.",
+        "translation": "\"你是認真的嗎？\" Karen懷疑地說。",
+        "exampleAudio": "are_you_serious_example",
+        "pairs": [
+          {
+            "en": "Are you serious?",
+            "zh": "你是認真的嗎？"
+          }
+        ]
+      },
+      {
+        "page": 3,
+        "word": "That's true",
+        "meaning": "那是真的",
+        "icon": "fa-check-circle",
+        "audio": "thats_true",
+        "example": "\"That's true. And those old songs are actually quite pleasant to the ears.\"",
+        "translation": "\"那是真的。而且那些老歌實際上很悅耳。\"",
+        "exampleAudio": "thats_true_example",
+        "pairs": [
+          {
+            "en": "That's true",
+            "zh": "那是真的"
+          }
+        ]
+      },
+      {
+        "page": 3,
+        "word": "according to",
+        "meaning": "根據",
+        "icon": "fa-chart-line",
+        "audio": "according_to",
+        "example": "According to Karen, old machines are worse than new gadgets.",
+        "translation": "根據Karen的說法，舊機器比新的小工具更差。",
+        "exampleAudio": "according_to_example",
+        "pairs": [
+          {
+            "en": "According to Karen",
+            "zh": "根據Karen的說法"
+          }
+        ]
+      },
+      {
+        "page": 3,
+        "word": "in my opinion",
+        "meaning": "在我看來",
+        "icon": "fa-user-edit",
+        "audio": "in_my_opinion",
+        "example": "In my opinion, the old camera takes nicer pictures.",
+        "translation": "在我看來，舊相機拍的照片更漂亮。",
+        "exampleAudio": "in_my_opinion_example",
+        "pairs": [
+          {
+            "en": "In my opinion",
+            "zh": "在我看來"
+          }
+        ]
+      },
+      {
+        "page": 3,
+        "word": "for example",
+        "meaning": "例如",
+        "icon": "fa-list-ul",
+        "audio": "for_example",
+        "example": "Some old gadgets still work well, for example, old record players.",
+        "translation": "一些舊的小工具仍然運作良好，例如，舊的唱片播放機。",
+        "exampleAudio": "for_example_example",
+        "pairs": [
+          {
+            "en": "for example",
+            "zh": "例如"
+          }
+        ]
+      },
+      {
+        "page": 3,
+        "word": "such as",
+        "meaning": "例如",
+        "icon": "fa-list-alt",
+        "audio": "such_as",
+        "example": "We saw many old gadgets, such as typewriters and record players.",
+        "translation": "我們看到了很多舊的小工具，例如打字機和唱片播放機。",
+        "exampleAudio": "such_as_example",
+        "pairs": [
+          {
+            "en": "such as",
+            "zh": "例如"
+          }
+        ]
+      }
+    ]
+  },
+  "reading": {
+    "title": "Gadgets in Our Life",
+    "icon": "fa-laptop",
+    "intro": "學習科技產品相關的英文詞彙和表達：",
+    "paragraphs": [
+      {
+        "id": "t1",
+        "audio": "gadgets_para_01",
+        "text": "<strong>The children visited an exhibition at the Hong Kong Science Museum last week.</strong> Read the pamphlet about the exhibition and what the children said.",
+        "translation": "<strong>孩子們上週參觀了香港科學博物館的展覽。</strong> 閱讀關於展覽和孩子們所說的話的宣傳冊。",
+        "pairs": [
+          {
+            "en": "visited an exhibition at the Hong Kong Science Museum",
+            "zh": "參觀了香港科學博物館的展覽"
+          },
+          {
+            "en": "the exhibition",
+            "zh": "展覽"
+          }
+        ],
+        "sentences": [
+          "The children visited an exhibition at the Hong Kong Science Museum last week.",
+          "Read the pamphlet about the exhibition and what the children said."
+        ],
+        "translation_sentences": [
+          "孩子們上週參觀了香港科學博物館的展覽。",
+          "閱讀關於展覽和孩子們所說的話的宣傳冊。"
+        ]
+      },
+      {
+        "id": "t2",
+        "audio": "gadgets_para_02",
+        "text": "\"I like both the old things and the new things. The old things look nice and the new things look modern,\" said Ray.",
+        "translation": "\"我既喜歡舊的東西也喜歡新的東西。舊的東西看起來很漂亮，新的東西看起來很現代，\" Ray說。",
+        "pairs": [
+          {
+            "en": "like both the old things and the new things",
+            "zh": "既喜歡舊的東西也喜歡新的東西"
+          },
+          {
+            "en": "the old things",
+            "zh": "舊的東西"
+          },
+          {
+            "en": "modern",
+            "zh": "現代"
+          }
+        ],
+        "sentences": [
+          "\"I like both the old things and the new things. The old things look nice and the new things look modern,\" said Ray."
+        ],
+        "translation_sentences": [
+          "「我既喜歡舊的東西也喜歡新的東西。舊的東西看起來很漂亮，新的東西看起來很現代，」Ray 說。"
+        ]
+      },
+      {
+        "id": "t3",
+        "audio": "gadgets_para_03",
+        "text": "\"Oh really? I think the newest things are the best. Those new mobile phones are great,\" said Karen. \"My dad's phone is like the blue one. It's awesome!\"",
+        "translation": "\"哦，真的嗎？我認為最新的東西是最好的。那些新的手機很棒，\" Karen說。\"我爸爸的手機就像藍色的那個。它很厲害！\"",
+        "pairs": [
+          {
+            "en": "I think",
+            "zh": "我認為"
+          },
+          {
+            "en": "the newest things are the best",
+            "zh": "最新的東西是最好的"
+          },
+          {
+            "en": "new mobile phones",
+            "zh": "新的手機"
+          },
+          {
+            "en": "awesome",
+            "zh": "很厲害"
+          }
+        ],
+        "sentences": [
+          "\"Oh really? I think the newest things are the best. Those new mobile phones are great,\" said Karen.",
+          "\"My dad's phone is like the blue one. It's awesome!\""
+        ],
+        "translation_sentences": [
+          "「哦，真的嗎？我認為最新的東西是最好的。那些新的手機很棒，」Karen 說。",
+          "「我爸爸的手機就像藍色的那個。它很厲害！」"
+        ]
+      },
+      {
+        "id": "t4",
+        "audio": "gadgets_para_04",
+        "text": "\"My grandma has an old camera. It's just like the one in the museum. She still uses it. She says her old camera is better than digital cameras because its pictures look nicer,\" said Amy.",
+        "translation": "\"我奶奶有一台舊相機。它就像博物館裡的那一台。她仍然在使用它。她說她的舊相機比數位相機更好，因為它的照片看起來更漂亮，\" Amy說。",
+        "pairs": [
+          {
+            "en": "old camera",
+            "zh": "舊相機"
+          },
+          {
+            "en": "old camera is better than digital cameras",
+            "zh": "舊相機比數位相機更好"
+          },
+          {
+            "en": "pictures look nicer",
+            "zh": "照片看起來更漂亮"
+          }
+        ],
+        "sentences": [
+          "\"My grandma has an old camera. It's just like the one in the museum. She still uses it. She says her old camera is better than digital cameras because its pictures look nicer,\" said Amy."
+        ],
+        "translation_sentences": [
+          "「我奶奶有一台舊相機。它就像博物館裡的那一台。她仍然在使用它。她說她的舊相機比數位相機更好，因為它的照片看起來更漂亮，」Amy 說。"
+        ]
+      },
+      {
+        "id": "t5",
+        "audio": "gadgets_para_05",
+        "text": "\"Are you serious?\" doubted Karen. \"I think old machines are worse than new gadgets.\"",
+        "translation": "\"你是認真的嗎？\" Karen懷疑地說。\"我認為舊機器比新的小工具更差。\"",
+        "pairs": [
+          {
+            "en": "Are you serious?",
+            "zh": "你是認真的嗎？"
+          },
+          {
+            "en": "old machines are worse than new gadgets",
+            "zh": "舊機器比新的小工具更差"
+          },
+          {
+            "en": "I think",
+            "zh": "我認為"
+          }
+        ],
+        "sentences": [
+          "\"Are you serious?\" doubted Karen.",
+          "\"I think old machines are worse than new gadgets.\""
+        ],
+        "translation_sentences": [
+          "「你是認真的嗎？」Karen 懷疑地說。",
+          "「我認為舊機器比新的小工具更差。」"
+        ]
+      },
+      {
+        "id": "t6",
+        "audio": "gadgets_para_06",
+        "text": "\"My grandpa doesn't think so! He doesn't want to buy a new TV set even though it has the worst picture quality in the whole building! It's all because the TV set was a gift from his dad,\" said Andy.",
+        "translation": "\"我爺爺不這麼認為！他不想買新的電視機，即使它在整棟大樓裡畫質最差！這完全是因為那台電視機是他爸爸送的禮物，\" Andy說。",
+        "pairs": [
+          {
+            "en": "even though it has the worst picture quality in the whole building",
+            "zh": "即使它在整棟大樓裡畫質最差"
+          },
+          {
+            "en": "TV set",
+            "zh": "電視機"
+          },
+          {
+            "en": "was a gift from his dad",
+            "zh": "是他爸爸送的禮物"
+          }
+        ],
+        "sentences": [
+          "\"My grandpa doesn't think so! He doesn't want to buy a new TV set even though it has the worst picture quality in the whole building! It's all because the TV set was a gift from his dad,\" said Andy."
+        ],
+        "translation_sentences": [
+          "「我爺爺不這麼認為！他不想買新的電視機，即使它在整棟大樓裡畫質最差！這完全是因為那台電視機是他爸爸送的禮物，」Andy 說。"
+        ]
+      },
+      {
+        "id": "t7",
+        "audio": "gadgets_para_07",
+        "text": "\"Ha! Ha! Your grandpa is funny,\" Karen laughed. \"I think those new computers look really good. I want one.\"",
+        "translation": "\"哈哈！你爺爺真有趣，\" Karen笑道。\"我認為那些新電腦看起來真的很好。我想要一台。\"",
+        "pairs": [
+          {
+            "en": "I think",
+            "zh": "我認為"
+          },
+          {
+            "en": "new computers look really good",
+            "zh": "新電腦看起來真的很好"
+          }
+        ],
+        "sentences": [
+          "\"Ha! Ha! Your grandpa is funny,\" Karen laughed.",
+          "\"I think those new computers look really good. I want one.\""
+        ],
+        "translation_sentences": [
+          "「哈哈！你爺爺真有趣，」Karen 笑道。",
+          "「我認為那些新電腦看起來真的很好。我想要一台。」"
+        ]
+      },
+      {
+        "id": "t8",
+        "audio": "gadgets_para_08",
+        "text": "\"We can use both typewriters and computers to type letters and stories,\" said Ray.",
+        "translation": "\"我們既可以用打字機也可以用電腦來打信件和故事，\" Ray說。",
+        "pairs": [
+          {
+            "en": "can use both typewriters and computers",
+            "zh": "既可以用打字機也可以用電腦"
+          },
+          {
+            "en": "type letters and stories",
+            "zh": "打信件和故事"
+          }
+        ],
+        "sentences": [
+          "\"We can use both typewriters and computers to type letters and stories,\" said Ray."
+        ],
+        "translation_sentences": [
+          "「我們既可以用打字機也可以用電腦來打信件和故事，」Ray 說。"
+        ]
+      },
+      {
+        "id": "t9",
+        "audio": "gadgets_para_09",
+        "text": "\"That's true. And those old songs my grandparents listened to on the record player are actually quite pleasant to the ears. My parents always listen to that kind of music,\" said Amy.",
+        "translation": "\"那是真的。而且我祖父母在唱片播放機上聽的那些老歌實際上很悅耳。我父母總是聽那種音樂，\" Amy說。",
+        "pairs": [
+          {
+            "en": "That's true",
+            "zh": "那是真的"
+          },
+          {
+            "en": "old songs",
+            "zh": "老歌"
+          },
+          {
+            "en": "the record player",
+            "zh": "唱片播放機"
+          },
+          {
+            "en": "pleasant to the ears",
+            "zh": "悅耳"
+          }
+        ],
+        "sentences": [
+          "\"That's true. And those old songs my grandparents listened to on the record player are actually quite pleasant to the ears. My parents always listen to that kind of music,\" said Amy."
+        ],
+        "translation_sentences": [
+          "「那是真的。而且我祖父母在唱片播放機上聽的那些老歌實際上很悅耳。我父母總是聽那種音樂，」Amy 說。"
+        ]
+      },
+      {
+        "id": "t10",
+        "audio": "gadgets_para_10",
+        "text": "\"I agree. That's why we shouldn't forget old things have their value, too!\" said Ray.",
+        "translation": "\"我同意。這就是為什麼我們不應該忘記舊東西也有它們的價值！\" Ray說。",
+        "pairs": [
+          {
+            "en": "I agree",
+            "zh": "我同意"
+          },
+          {
+            "en": "old things have their value",
+            "zh": "舊東西也有它們的價值"
+          }
+        ],
+        "sentences": [
+          "\"I agree. That's why we shouldn't forget old things have their value, too!\" said Ray."
+        ],
+        "translation_sentences": [
+          "「我同意。這就是為什麼我們不應該忘記舊東西也有它們的價值！」Ray 說。"
+        ]
+      }
+    ]
+  },
+  "sayItRight": {
+    "title": "SAY IT RIGHT (\"-tion\")",
+    "icon": "fa-microphone-alt",
+    "sentences": [
+      {
+        "id": "sir1",
+        "audio": "say_it_right_1",
+        "text": "Let's see an exhibition during the vacation.",
+        "translation": "讓我們在假期期間去看展覽。",
+        "pairs": [
+          {
+            "en": "an exhibition",
+            "zh": "展覽"
+          },
+          {
+            "en": "during the vacation",
+            "zh": "在假期期間"
+          }
+        ]
+      },
+      {
+        "id": "sir2",
+        "audio": "say_it_right_2",
+        "text": "In the gadget section,",
+        "translation": "在小工具區域，",
+        "pairs": [
+          {
+            "en": "the gadget section",
+            "zh": "小工具區域"
+          }
+        ]
+      },
+      {
+        "id": "sir3",
+        "audio": "say_it_right_3",
+        "text": "pay attention to the information.",
+        "translation": "注意查看信息。",
+        "pairs": [
+          {
+            "en": "pay attention to",
+            "zh": "注意查看"
+          }
+        ]
+      },
+      {
+        "id": "sir4",
+        "audio": "say_it_right_4",
+        "text": "Each illustration comes with a caption.",
+        "translation": "每張插圖都配有說明文字。",
+        "pairs": [
+          {
+            "en": "Each illustration",
+            "zh": "每張插圖"
+          },
+          {
+            "en": "comes with a caption",
+            "zh": "配有說明文字"
+          }
+        ]
+      },
+      {
+        "id": "sir5",
+        "audio": "say_it_right_5",
+        "text": "Wow! 'Fun station' is a fascinating invention.",
+        "translation": "<p>哇！'趣味站' 是一個迷人的發明。</p><br><br><p>說明：Fun Station 通常是互動式的娛樂 + 科普裝置; 特點是「有趣（Fun）」—— 比如可以讓人體驗趣味科學、遊戲化學習的設備（例如結合遊戲的科學實驗台、互動遊樂裝置等），既能帶來樂趣，也屬於創新的發明設計。</p>",
+        "pairs": [
+          {
+            "en": "a fascinating invention",
+            "zh": "迷人的發明"
+          }
+        ]
+      }
+    ]
+  },
+  "song": {
+    "title": "Little Amy",
+    "audio": "little_amy",
+    "lyrics": [
+      {
+        "label": "Verse 1",
+        "text": "Amy Ho likes high-tech toys, doo-dah, doo-dah.<br>She plays them with girls and boys, h-de-doo-dah-day.<br>She plays games on her mobile phone, doo-dah, doo-dah.<br>She doesn't like to play alone, h-de-doo-dah-day.",
+        "explanation": "<strong>歌詞講解：</strong> 第一段歌詞介紹 Amy Ho 喜歡高科技玩具，和男孩女孩們一起玩。她在手機上玩遊戲，不喜歡獨自玩。doo-dah, doo-dah 是歌曲中的節奏襯詞。"
+      },
+      {
+        "label": "Chorus",
+        "text": "She plays with her friends Ray, Mike and Kate.<br>They like playing video games together at weekends.",
+        "explanation": "<strong>歌詞講解：</strong> 副歌部分描述 Amy 和她的朋友們 Ray、Mike 和 Kate 一起玩，他們喜歡在週末一起玩電子遊戲。"
+      },
+      {
+        "label": "Verse 2",
+        "text": "She showed Grandpa her MP3, doo-dah, doo-dah.<br>Her favourite song is Do-re-mi, oh-de-doo-dah-day.<br>Grandpa likes the record player, doo-dah, doo-dah.<br>Tech toys make his hair go greyer, oh-de-doo-dah-day.",
+        "explanation": "<strong>歌詞講解：</strong> 第二段歌詞對比了不同世代的科技產品。Amy 向爺爺展示她的 MP3 播放器（現代科技），而爺爺則喜歡唱片播放機（舊科技）。\"Tech toys make his hair go greyer\" 是一個幽默的說法，意思是這些科技玩具讓爺爺感到困惑或老化。"
+      },
+      {
+        "label": "Chorus",
+        "text": "She plays with her friends Ray, Mike and Kate.<br>They like playing video games together at weekends.",
+        "explanation": "<strong>歌詞講解：</strong> 重複的副歌完整了歌曲結構，強調了歌曲的主題：科技玩具的樂趣和友誼。"
+      }
+    ],
+    "questions": [
+      {
+        "id": "songQ1",
+        "type": "sentence",
+        "question": "1. How many verses are there in the song?",
+        "placeholder": "請輸入答案",
+        "answer": "There are two verses in the song.",
+        "variations": [
+          "Two.",
+          "2 verses."
+        ],
+        "explanation": "歌曲共有兩段主歌（Verse 1 和 Verse 2），加上重複出現的副歌（Chorus），所以答案是 There are two verses in the song。"
+      },
+      {
+        "id": "songQ2",
+        "type": "word",
+        "question": "2. \"Player\" rhymes with \"greyer\". Find three more pairs of rhyming words in the lyrics.",
+        "placeholder": "例如：boys - joys",
+        "answer": "boys - joys, phone - alone, Kate - great",
+        "variations": [
+          "toys-boys",
+          "player-greyer"
+        ],
+        "explanation": "歌詞中的押韻組合包括 boys - joys、phone - alone、Kate - great，另外也有 player - greyer 一組。"
+      },
+      {
+        "id": "songQ3",
+        "type": "sentence",
+        "question": "3. What does Amy like to play on her mobile phone?",
+        "placeholder": "請輸入答案",
+        "answer": "She likes to play games on her mobile phone.",
+        "variations": [
+          "Games.",
+          "She plays games."
+        ],
+        "explanation": "歌詞說 She plays games on her mobile phone，Amy 喜歡在手機上玩遊戲。"
+      },
+      {
+        "id": "songQ4",
+        "type": "sentence",
+        "question": "4. What does Grandpa like to use to listen to music?",
+        "placeholder": "請輸入答案",
+        "answer": "He likes to use a record player to listen to music.",
+        "variations": [
+          "A record player.",
+          "Record player."
+        ],
+        "explanation": "歌詞說 Grandpa likes the record player，爺爺喜歡用唱片播放機聽音樂。"
+      }
+    ]
+  },
+  "grammar": [
+    {
+      "title": "Both...and...",
+      "audio": "grammar_both",
+      "examples": [
+        {
+          "en": "I like both the old things and the new things.",
+          "zh": "我既喜歡舊的東西也喜歡新的東西。",
+          "pairs": [
+            {
+              "en": "like both the old things and the new things",
+              "zh": "既喜歡舊的東西也喜歡新的東西"
+            }
+          ]
+        },
+        {
+          "en": "We can use both typewriters and computers to type letters.",
+          "zh": "我們既可以用打字機也可以用電腦來打信件。",
+          "pairs": [
+            {
+              "en": "can use both typewriters and computers",
+              "zh": "既可以用打字機也可以用電腦"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Comparatives (比較級)",
+      "audio": "grammar_comparative",
+      "examples": [
+        {
+          "en": "Her old camera is better than digital cameras.",
+          "zh": "她的舊相機比數位相機更好。",
+          "pairs": [
+            {
+              "en": "old camera is better than digital cameras",
+              "zh": "舊相機比數位相機更好"
+            }
+          ]
+        },
+        {
+          "en": "Old machines are worse than new gadgets.",
+          "zh": "舊機器比新的小工具更差。",
+          "pairs": [
+            {
+              "en": "Old machines are worse than new gadgets",
+              "zh": "舊機器比新的小工具更差"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Superlatives (最高級)",
+      "audio": "grammar_superlative",
+      "examples": [
+        {
+          "en": "It has the worst picture quality in the whole building.",
+          "zh": "它在整棟大樓裡畫質最差。",
+          "pairs": [
+            {
+              "en": "the worst picture quality",
+              "zh": "畫質最差"
+            }
+          ]
+        },
+        {
+          "en": "I think the newest things are the best.",
+          "zh": "我認為最新的東西是最好的。",
+          "pairs": [
+            {
+              "en": "I think",
+              "zh": "我認為"
+            },
+            {
+              "en": "the newest things are the best",
+              "zh": "最新的東西是最好的"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Fact vs Opinion",
+      "audio": "grammar_fact_opinion",
+      "examples": [
+        {
+          "en": "Fact: Amy visited the Science Museum.",
+          "zh": "事實：Amy參觀了科學博物館。",
+          "pairs": [
+            {
+              "en": "Fact",
+              "zh": "事實"
+            }
+          ]
+        },
+        {
+          "en": "Opinion: New mobile phones are awesome.",
+          "zh": "觀點：新的手機很厲害。",
+          "pairs": [
+            {
+              "en": "Opinion",
+              "zh": "觀點"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "practice": {
+    "intro": "根據單元5內容完成以下練習題：",
+    "factOpinion": {
+      "title": "練習 1：事實與觀點辨析題",
+      "icon": "fa-check-circle",
+      "description": "判斷下列句子屬於事實（Fact）還是觀點（Opinion），點擊對應的方框：",
+      "answers": {
+        "1": "fact",
+        "2": "opinion",
+        "3": "fact",
+        "4": "fact",
+        "5": "opinion"
+      },
+      "statements": [
+        {
+          "text": "1. Amy and her classmates visited the Hong Kong Science Museum last week.",
+          "explanation": "這是一項事實：課文第一句提到孩子們上週參觀了香港科學博物館的展覽，可以在課文中找到證據。"
+        },
+        {
+          "text": "2. Old cameras are better than digital cameras.",
+          "explanation": "這是一個觀點：『舊相機比數位相機更好』是 Amy 奶奶個人的看法，不同的人可能有不同的想法，無法用事實證明。"
+        },
+        {
+          "text": "3. Andy's grandpa's old TV set was a gift from his father.",
+          "explanation": "這是一項事實：課文中 Andy 說那台電視機是他爸爸送的禮物，可以在課文中找到證據。"
+        },
+        {
+          "text": "4. People can use both typewriters and computers to type letters and stories.",
+          "explanation": "這是一項事實：課文中 Ray 說過既可以用打字機也可以用電腦來打信件和故事。"
+        },
+        {
+          "text": "5. The old songs Amy's parents listen to are quite pleasant to the ears.",
+          "explanation": "這是一個觀點：『那些老歌很悅耳』是 Amy 父母個人的感受，屬於主觀的看法，無法用事實證明。"
+        }
+      ]
+    },
+    "vocabMatching": {
+      "title": "練習 2：詞彙匹配題",
+      "icon": "fa-link",
+      "description": "將下列單字與正確的釋義匹配：",
+      "questions": [
+        {
+          "id": 1,
+          "text": "1. modern",
+          "explanation": "modern 的意思是『現代的』，即「新的、跟上時代的」，所以對應 C. new, up-to-date。"
+        },
+        {
+          "id": 2,
+          "text": "2. awesome",
+          "explanation": "awesome 的意思是『厲害的、很棒的』，形容非常好、令人讚嘆的事物，所以對應 A. nice, great。"
+        },
+        {
+          "id": 3,
+          "text": "3. pleasant",
+          "explanation": "pleasant 的意思是『悅耳的、令人愉快的』，形容令人舒服愉悅的事物，所以對應 B. enjoyable, easy to like。"
+        }
+      ],
+      "answers": [
+        {
+          "letter": "A",
+          "text": "A. nice, great"
+        },
+        {
+          "letter": "B",
+          "text": "B. enjoyable, easy to like"
+        },
+        {
+          "letter": "C",
+          "text": "C. new, up-to-date"
+        }
+      ],
+      "answerMap": {
+        "1": "C",
+        "2": "A",
+        "3": "B"
+      }
+    },
+    "readingComp": {
+      "title": "練習 3：閱讀理解選擇題",
+      "icon": "fa-search",
+      "description": "根據課文內容，選擇最佳答案：",
+      "questions": [
+        {
+          "id": "r1",
+          "text": "1. What kind of exhibition did the children visit?",
+          "answer": "c",
+          "options": [
+            {
+              "key": "a",
+              "text": "A. A toy exhibition"
+            },
+            {
+              "key": "b",
+              "text": "B. An art exhibition"
+            },
+            {
+              "key": "c",
+              "text": "C. A gadget exhibition"
+            },
+            {
+              "key": "d",
+              "text": "D. A game exhibition"
+            }
+          ],
+          "explanation": "課文第一句說 The children visited an exhibition at the Hong Kong Science Museum，孩子們參觀的是科技產品展覽（gadget exhibition），所以選 C。"
+        },
+        {
+          "id": "r2",
+          "text": "2. Which of the following is true about Amy's grandma?",
+          "answer": "b",
+          "options": [
+            {
+              "key": "a",
+              "text": "A. She doesn't like taking pictures."
+            },
+            {
+              "key": "b",
+              "text": "B. She still uses her old camera."
+            },
+            {
+              "key": "c",
+              "text": "C. She thinks digital cameras are better."
+            },
+            {
+              "key": "d",
+              "text": "D. She bought a new camera from the museum."
+            }
+          ],
+          "explanation": "課文中 Amy 說 She still uses it，她的奶奶仍然在使用她的舊相機，所以選 B。"
+        },
+        {
+          "id": "r3",
+          "text": "3. Why doesn't Andy's grandpa want to buy a new TV set?",
+          "answer": "c",
+          "options": [
+            {
+              "key": "a",
+              "text": "A. The old TV set is cheap."
+            },
+            {
+              "key": "b",
+              "text": "B. The old TV set has good picture quality."
+            },
+            {
+              "key": "c",
+              "text": "C. The old TV set was a gift from his dad."
+            },
+            {
+              "key": "d",
+              "text": "D. He doesn't like new gadgets."
+            }
+          ],
+          "explanation": "Andy 說 It's all because the TV set was a gift from his dad，爺爺不換新電視是因為舊電視機是爸爸送的禮物，所以選 C。"
+        },
+        {
+          "id": "r4",
+          "text": "4. What does Ray think about old and new things?",
+          "answer": "c",
+          "options": [
+            {
+              "key": "a",
+              "text": "A. Old things are worse than new ones."
+            },
+            {
+              "key": "b",
+              "text": "B. New things are the best."
+            },
+            {
+              "key": "c",
+              "text": "C. Both old and new things have their value."
+            },
+            {
+              "key": "d",
+              "text": "D. He only likes modern gadgets."
+            }
+          ],
+          "explanation": "Ray 說 I like both the old things and the new things，他認為新舊事物都有價值，所以選 C。"
+        },
+        {
+          "id": "r5",
+          "text": "5. Which of the following is NOT a gadget mentioned in the text for taking pictures?",
+          "answer": "d",
+          "options": [
+            {
+              "key": "a",
+              "text": "A. Film camera"
+            },
+            {
+              "key": "b",
+              "text": "B. Digital camera"
+            },
+            {
+              "key": "c",
+              "text": "C. Mobile phone"
+            },
+            {
+              "key": "d",
+              "text": "D. Typewriter"
+            }
+          ],
+          "explanation": "課文中提到拍照的器材有 film camera（膠片相機）、digital camera（數位相機），手機也可以用來拍照；typewriter（打字機）是用來打字的，不是拍照工具，所以選 D。"
+        },
+        {
+          "id": "r6",
+          "text": "6. What does Ray say about old and new things?",
+          "answer": "c",
+          "options": [
+            {
+              "key": "a",
+              "text": "A. The newest things are the best."
+            },
+            {
+              "key": "b",
+              "text": "B. Old machines are worse than new gadgets."
+            },
+            {
+              "key": "c",
+              "text": "C. I like both the old things and the new things. The old things look nice and the new things look modern."
+            },
+            {
+              "key": "d",
+              "text": "D. Old songs are more pleasant than new songs."
+            }
+          ],
+          "explanation": "Ray 的原話是 I like both the old things and the new things. The old things look nice and the new things look modern.，所以選 C。"
+        }
+      ]
+    },
+    "readingQA": {
+      "title": "練習 4：閱讀理解問答題",
+      "icon": "fa-question-circle",
+      "description": "根據課文內容，用完整的句子回答下列問題：",
+      "questions": [
+        {
+          "id": 1,
+          "text": "1. Does Amy like the music her parents listen to? Why?",
+          "placeholder": "請輸入答案",
+          "answer": "Yes, she does. Because the old songs her parents listen to are quite pleasant to the ears.",
+          "variations": [
+            "Yes, she does because the old songs are pleasant to the ears."
+          ],
+          "explanation": "Amy 說那些老歌 quite pleasant to the ears（很悅耳），而且她的父母總是聽那種音樂，所以她喜歡。"
+        },
+        {
+          "id": 2,
+          "text": "2. What new gadget does Karen like? Why does she like it?",
+          "placeholder": "請輸入答案",
+          "answer": "She likes new mobile phones. Because she thinks they are great and awesome.",
+          "variations": [
+            "She likes new mobile phones because they are great and awesome."
+          ],
+          "explanation": "Karen 說 Those new mobile phones are great... It's awesome!，她覺得新手機很棒、很厲害，所以她喜歡新手機。"
+        },
+        {
+          "id": 3,
+          "text": "3. Can people use both typewriters and computers to do the same thing? What is it?",
+          "placeholder": "請輸入答案",
+          "answer": "Yes, they can. They can type letters and stories.",
+          "variations": [
+            "Yes, they can type letters and stories."
+          ],
+          "explanation": "Ray 說 We can use both typewriters and computers to type letters and stories，所以兩者都能用來打信件和故事。"
+        },
+        {
+          "id": 4,
+          "text": "4. Why does Amy's grandma think her old camera is better than digital cameras?",
+          "placeholder": "請輸入答案",
+          "answer": "Because its pictures look nicer.",
+          "variations": [
+            "Because the pictures look nicer."
+          ],
+          "explanation": "Amy 的奶奶說舊相機比數位相機更好，because its pictures look nicer，因為舊相機拍的照片看起來更漂亮。"
+        }
+      ]
+    },
+    "sentencePattern": {
+      "title": "練習 5：句型運用題",
+      "icon": "fa-font",
+      "description": "用 \"both ... and ...\" 句型描述下列兩組 gadget 的共同用途，完成句子：",
+      "items": [
+        {
+          "id": "sentence1",
+          "before": "1. Record player and MP3 player: Both a record player and an MP3 player can be used to ",
+          "after": ".",
+          "placeholder": "輸入用途",
+          "answer": "listen to music",
+          "explanation": "唱片播放機和 MP3 播放器都可以用來聽音樂，所以填 listen to music。"
+        },
+        {
+          "id": "sentence2",
+          "before": "2. Typewriter and computer: Both a typewriter and a computer allow people to ",
+          "after": ".",
+          "placeholder": "輸入用途",
+          "answer": "type letters and stories",
+          "explanation": "打字機和電腦都可以用來打信件和故事，所以填 type letters and stories。"
+        },
+        {
+          "id": "sentence3",
+          "before": "3. Film camera and digital camera: People can ",
+          "after": " with both a film camera and a digital camera.",
+          "placeholder": "輸入用途",
+          "answer": "take pictures",
+          "explanation": "膠片相機和數位相機都可以用來拍照，所以填 take pictures。"
+        },
+        {
+          "id": "sentence4",
+          "before": "4. Rotary telephone and mobile phone: We can ",
+          "after": " using both a rotary telephone and a mobile phone.",
+          "placeholder": "輸入用途",
+          "answer": "make phone calls",
+          "explanation": "轉盤電話和手機都可以用來打電話，所以填 make phone calls。"
+        }
+      ]
+    },
+    "comparative": {
+      "title": "練習 6：比較級與最高級運用題",
+      "icon": "fa-signal",
+      "description": "根據課文內容和表格信息，用形容詞的比較級 (Comparatives) 或最高級 (Superlatives) 完成句子：",
+      "laptopTable": {
+        "title": "Laptop Comparison Table",
+        "headers": [
+          "Model",
+          "Hard Disk",
+          "Battery Life"
+        ],
+        "rows": [
+          [
+            "J-TEC",
+            "120 GB",
+            "3 hours"
+          ],
+          [
+            "K-Star",
+            "150 GB",
+            "4 hours"
+          ],
+          [
+            "PL3",
+            "200 GB",
+            "5 hours"
+          ]
+        ]
+      },
+      "items": [
+        {
+          "id": "comparative1",
+          "before": "1. Grandma's old camera is ",
+          "after": " (good) than digital cameras in her opinion.",
+          "placeholder": "輸入形容詞",
+          "answer": "better",
+          "explanation": "good 的比較級是 better，句型是 A is better than B（A 比 B 好），所以填 better。"
+        },
+        {
+          "id": "comparative2",
+          "before": "2. Old machines are ",
+          "after": " (bad) than new gadgets according to Karen.",
+          "placeholder": "輸入形容詞",
+          "answer": "worse",
+          "explanation": "bad 的比較級是 worse，句型是 A is worse than B（A 比 B 差），所以填 worse。"
+        },
+        {
+          "id": "comparative3",
+          "before": "3. Andy's grandpa's TV set has ",
+          "after": " (bad) picture quality in the whole building.",
+          "placeholder": "輸入形容詞",
+          "answer": "the worst",
+          "explanation": "bad 的最高級是 the worst，表示『最差的』，所以填 the worst。"
+        },
+        {
+          "id": "comparative4",
+          "before": "4. Among J-TEC, K-Star and PL3 laptops, PL3 has ",
+          "after": " (large) hard disk.",
+          "placeholder": "輸入形容詞",
+          "answer": "the largest",
+          "explanation": "large 的最高級是 the largest；PL3 的硬碟是 200 GB，三台中最大，所以用最高級 the largest。"
+        },
+        {
+          "id": "comparative5",
+          "before": "5. K-Star's battery life is ",
+          "after": " (long) than J-TEC's.",
+          "placeholder": "輸入形容詞",
+          "answer": "longer",
+          "explanation": "long 的比較級是 longer；K-Star 的電池續航（4 小時）比 J-TEC（3 小時）長，所以填 longer。"
+        },
+        {
+          "id": "comparative6",
+          "before": "6. I think the newest things are ",
+          "after": " (good) of all.",
+          "placeholder": "輸入形容詞",
+          "answer": "the best",
+          "explanation": "good 的最高級是 the best；『在所有之中最好的』用最高級，所以填 the best。"
+        }
+      ]
+    },
+    "discussion": {
+      "title": "練習 7：小組討論題",
+      "icon": "fa-users",
+      "description": "和同學討論下列問題，用英文表達自己的觀點：",
+      "questions": [
+        {
+          "id": 1,
+          "text": "1. What new gadget do you like best? Why?",
+          "placeholder": "請輸入你的答案（至少2個理由）",
+          "reference": "<strong>參考答案：</strong> I like mobile phones best. First, I can use them to make phone calls with my family and friends easily. Second, I can play games and listen to music on them when I feel bored.<br><strong>中文翻譯：</strong> 我最喜歡手機。首先，我可以輕鬆地用它和家人朋友打電話。其次，當我感到無聊時，我可以在上面玩遊戲和聽音樂。"
+        },
+        {
+          "id": 2,
+          "text": "2. Do you think old gadgets are still valuable? Why or why not?",
+          "placeholder": "請輸入你的答案（至少2個理由）",
+          "reference": "<strong>正面參考答案：</strong> Yes, I think old gadgets are still valuable. Firstly, they have historical meaning and can help us learn about the past life. Secondly, some old gadgets are well-made and still work well, such as old record players.<br><strong>正面中文翻譯：</strong> 是的，我認為舊的小工具仍然有價值。首先，它們具有歷史意義，可以幫助我們了解過去的生活。其次，一些舊的小工具製作精良，仍然運作良好，例如舊的唱片播放機。<br><br><strong>反面參考答案：</strong> No, I don't think so. For one thing, old gadgets are not as convenient as new ones. For another, they usually have worse functions compared with new gadgets.<br><strong>反面中文翻譯：</strong> 不，我不這麼認為。一方面，舊的小工具不如新的方便。另一方面，與新的小工具相比，它們的功能通常較差。"
+        },
+        {
+          "id": 3,
+          "text": "3. Among the three laptops (J-TEC, K-Star, PL3), which one do you think is the best? Give your reasons.",
+          "placeholder": "請輸入你的答案（至少2個理由）",
+          "reference": "<strong>參考答案：</strong> I think PL3 is the best. First, it has the largest hard disk (200 GB) which can store more files. Second, it has the longest battery life (5 hours), so I can use it for a long time without charging.<br><strong>中文翻譯：</strong> 我認為PL3是最好的。首先，它有最大的硬碟（200 GB），可以儲存更多文件。其次，它有最長的電池壽命（5小時），所以我可以長時間使用而不需要充電。"
+        }
+      ]
+    },
+    "gadgetSorting": {
+      "title": "練習 8：科技產品分類",
+      "icon": "fa-sort",
+      "description": "將下方科技產品拖拽到正確的分類中：",
+      "gadgets": [
+        {
+          "name": "digital camera",
+          "category": "new",
+          "explanation": "數位相機是現代科技產品，應放入 New Gadgets。"
+        },
+        {
+          "name": "mobile phone",
+          "category": "new",
+          "explanation": "手機是現代科技產品，應放入 New Gadgets。"
+        },
+        {
+          "name": "computer",
+          "category": "new",
+          "explanation": "電腦是現代科技產品，應放入 New Gadgets。"
+        },
+        {
+          "name": "typewriter",
+          "category": "old",
+          "explanation": "打字機是舊式科技產品，應放入 Old Gadgets。"
+        },
+        {
+          "name": "record player",
+          "category": "old",
+          "explanation": "唱片播放機是舊式科技產品，應放入 Old Gadgets。"
+        },
+        {
+          "name": "film camera",
+          "category": "old",
+          "explanation": "膠片相機是舊式科技產品，應放入 Old Gadgets。"
+        },
+        {
+          "name": "MP3 player",
+          "category": "new",
+          "explanation": "MP3 播放器是現代科技產品，應放入 New Gadgets。"
+        },
+        {
+          "name": "rotary telephone",
+          "category": "old",
+          "explanation": "轉盤電話是舊式科技產品，應放入 Old Gadgets。"
+        }
+      ]
+    }
+  },
+  "quiz": {
+    "info": "滿分：15分",
+    "maxScore": 15,
+    "sections": [
+      {
+        "type": "choice",
+        "attr": "quiz",
+        "keyPrefix": "",
+        "title": "事實與觀點辨識題（每題 1 分）",
+        "icon": "fa-check-circle",
+        "questions": [
+          {
+            "id": 1,
+            "text": "1. \"My grandma has an old camera.\" - Is this a fact or an opinion?",
+            "options": [
+              {
+                "key": "fact",
+                "text": "A. Fact"
+              },
+              {
+                "key": "opinion",
+                "text": "B. Opinion"
+              }
+            ],
+            "answer": "fact",
+            "explanation": "「My grandma has an old camera.」是課文中可以直接查證的事實，Amy 的奶奶確實有一台舊相機，所以是 Fact。"
+          },
+          {
+            "id": 2,
+            "text": "2. \"New mobile phones are awesome.\" - Is this a fact or an opinion?",
+            "options": [
+              {
+                "key": "fact",
+                "text": "A. Fact"
+              },
+              {
+                "key": "opinion",
+                "text": "B. Opinion"
+              }
+            ],
+            "answer": "opinion",
+            "explanation": "「New mobile phones are awesome.」是 Karen 個人的評價，屬於主觀的看法，所以是 Opinion。"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "attr": "match",
+        "keyPrefix": "match",
+        "title": "詞彙匹配題（每題 1 分）",
+        "icon": "fa-link",
+        "description": "匹配單字與正確的釋義：",
+        "questions": [
+          {
+            "id": 1,
+            "text": "1. modern",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. nice, great"
+              },
+              {
+                "key": "b",
+                "text": "B. enjoyable, easy to like"
+              },
+              {
+                "key": "c",
+                "text": "C. new, up-to-date"
+              }
+            ],
+            "answer": "c",
+            "explanation": "modern 的意思是『現代的』，即 new, up-to-date（新的、跟上時代的），所以選 C。"
+          },
+          {
+            "id": 2,
+            "text": "2. pleasant",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. nice, great"
+              },
+              {
+                "key": "b",
+                "text": "B. enjoyable, easy to like"
+              },
+              {
+                "key": "c",
+                "text": "C. new, up-to-date"
+              }
+            ],
+            "answer": "b",
+            "explanation": "pleasant 的意思是『悅耳的、令人愉快的』，即 enjoyable, easy to like（令人愉快、容易喜歡的），所以選 B。"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "attr": "reading",
+        "keyPrefix": "reading",
+        "title": "閱讀理解選擇題（每題 2 分）",
+        "icon": "fa-book-reader",
+        "questions": [
+          {
+            "id": 1,
+            "text": "1. Where did the children visit an exhibition?",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. Hong Kong Art Museum"
+              },
+              {
+                "key": "b",
+                "text": "B. Hong Kong Science Museum"
+              },
+              {
+                "key": "c",
+                "text": "C. Hong Kong History Museum"
+              }
+            ],
+            "answer": "b",
+            "explanation": "課文第一句說 The children visited an exhibition at the Hong Kong Science Museum，孩子們參觀的是香港科學博物館，所以選 B。"
+          },
+          {
+            "id": 2,
+            "text": "2. Why doesn't Andy's grandpa want a new TV set?",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. It's too expensive"
+              },
+              {
+                "key": "b",
+                "text": "B. The old one was a gift from his dad"
+              },
+              {
+                "key": "c",
+                "text": "C. He doesn't watch TV"
+              }
+            ],
+            "answer": "b",
+            "explanation": "Andy 說 It's all because the TV set was a gift from his dad，爺爺不換新電視是因為舊電視機是爸爸送的禮物，所以選 B。"
+          }
+        ]
+      },
+      {
+        "type": "blank",
+        "title": "比較級填空題（每題 2 分）",
+        "icon": "fa-edit",
+        "description": "用正確的比較級或最高級形式填空：",
+        "questions": [
+          {
+            "id": "quizBlank1",
+            "before": "1. My new phone is ",
+            "after": " (good) than my old one.",
+            "answer": "better",
+            "explanation": "good 的比較級是 better，表示『比……更好』，所以填 better。"
+          },
+          {
+            "id": "quizBlank2",
+            "before": "2. This laptop has ",
+            "after": " (long) battery life in our class.",
+            "answer": "the longest",
+            "explanation": "long 的最高級是 the longest，表示『最長的』；「在我們班裡續航最長的」要用最高級，所以填 the longest。"
+          }
+        ]
+      },
+      {
+        "type": "sentence",
+        "title": "句型運用題（每題 3 分）",
+        "icon": "fa-pen",
+        "prompt": "用 \"both ... and ...\" 句型造一個句子：",
+        "id": "sentenceAnswer",
+        "placeholder": "請輸入句子",
+        "answer": "I like both apples and oranges.",
+        "explanation": "用 both...and... 句型連接兩個事物，例如：I like both apples and oranges.（我既喜歡蘋果也喜歡橘子。）"
+      }
+    ]
+  },
+  "sidebar": {
+    "learningPoints": {
+      "title": "單元5：生活中的科技產品",
+      "icon": "fa-microchip",
+      "theme": "科技產品與時代變遷",
+      "goals": [
+        "學習科技產品相關詞彙",
+        "區分事實（Fact）與觀點（Opinion）",
+        "使用比較級和最高級描述科技產品",
+        "運用\"both...and...\"句型表達共同點",
+        "討論新舊科技產品的價值"
+      ]
+    },
+    "languageFocus": {
+      "sections": [
+        {
+          "title": "1. 科技產品詞彙：",
+          "items": [
+            "digital camera, mobile phone, computer",
+            "TV set, typewriter, record player",
+            "film camera, MP3 player, rotary telephone"
+          ]
+        },
+        {
+          "title": "2. 形容詞：",
+          "items": [
+            "modern, awesome, pleasant",
+            "new, old, high-tech"
+          ]
+        },
+        {
+          "title": "3. 比較級與最高級：",
+          "items": [
+            "better - worse",
+            "the best - the worst",
+            "longer - the longest",
+            "larger - the largest"
+          ]
+        },
+        {
+          "title": "4. 句型結構：",
+          "items": [
+            "Both...and...（既...又...）",
+            "Fact vs Opinion（事實與觀點）"
+          ]
+        }
+      ]
+    }
+  }
+}
