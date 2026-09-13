@@ -2468,6 +2468,15 @@
             }
         }
     
+
+        /* 解題面板雙階段：檢查前只顯示提示/翻譯，檢查後顯示解題+答案 */
+        .question-explanation .qe-pre { display: block; }
+        .question-explanation .qe-post { display: none; }
+        .activity-section.checked .question-explanation .qe-pre,
+        .reading-sample.checked .question-explanation .qe-pre { display: none; }
+        .activity-section.checked .question-explanation .qe-post,
+        .reading-sample.checked .question-explanation .qe-post { display: block; }
+        .answer-input { resize: vertical; }
         /* 手機點擊卡片/按鈕不顯示藍色高亮 */
         * {
             -webkit-tap-highlight-color: transparent;
@@ -4894,6 +4903,122 @@ function resetQuiz() {
             });
         }
         
+
+        // ==================== 改良：解題燈泡雙階段（檢查前後） + 長答案多行輸入 ====================
+        function enhanceExpl() {
+            if (!LESSON) return;
+            // 1) 題目映射：面板 id -> 題目數據
+            const map = {};
+            const reg = (key, q) => { if (key) map[key] = q; };
+            const pr = LESSON.practice || {};
+            ((pr.readingComp && pr.readingComp.questions) || []).forEach(q => reg('expl-' + q.id, q));
+            ((pr.readingQA && pr.readingQA.questions) || []).forEach((q, i) => reg('expl-q4-' + (q.id || (i + 1)), q));
+            ((pr.sentencePattern && pr.sentencePattern.items) || []).forEach(it => reg('expl-' + it.id, it));
+            ((pr.factOpinion && pr.factOpinion.statements) || []).forEach((st, i) => reg('expl-fo' + (i + 1), st));
+            ((pr.vocabMatching && pr.vocabMatching.questions) || []).forEach(q => reg('expl-vm' + q.id, q));
+            ((pr.discussion && pr.discussion.questions) || []).forEach((q, i) => reg('expl-d' + (q.id || (i + 1)), q));
+            ['wordBank', 'frequency'].forEach(k => { const b = pr[k]; if (b && b.items) b.items.forEach((it, i) => reg('expl-' + (it.id || (i + 1)), it)); });
+            ((LESSON.textType && LESSON.textType.questions) || []).forEach(q => reg('expl-' + q.id, q));
+            ((LESSON.song && LESSON.song.questions) || []).forEach(q => reg('expl-' + q.id, q));
+
+            const answerLine = (q) => {
+                if (!q) return '';
+                if (q.answer !== undefined && q.answer !== null && q.answer !== '') {
+                    if (q.options && Array.isArray(q.options)) {
+                        const ok = q.options.find(o => o.key === q.answer);
+                        return ok ? ok.text : String(q.answer);
+                    }
+                    return String(q.answer);
+                }
+                if (q.a) return String(q.a);
+                return '';
+            };
+
+            // 2) 重建每個解題面板為雙階段
+            document.querySelectorAll('.question-explanation').forEach(panel => {
+                const id = panel.id || '';
+                const q = map[id] || null;
+                let pre = '', post = '';
+                if (id.indexOf('expl-d') === 0) {
+                    // 小組討論：檢查前提示完整句回答；檢查後顯示參考答案＋中文翻譯
+                    pre = '💡 請用英文完整回答問題。' + (q && q.zh ? ' ' + q.zh : '');
+                    post = (q && (q.reference || q.a)) || '';
+                } else if (q) {
+                    pre = q.zh ? '📖 ' + q.zh : '💡 請先完成作答，再按「檢查答案」查看解題與參考答案。';
+                    let s = '';
+                    if (q.explanation) s += q.explanation;
+                    const ans = answerLine(q);
+                    if (ans) s += '<div style="margin-top:6px;color:#1e7e34;font-weight:600;">✅ 答案：' + ans + '</div>';
+                    post = s;
+                } else {
+                    pre = panel.innerHTML;
+                }
+                panel.innerHTML = '<div class="qe-pre">' + pre + '</div>' +
+                    (post ? '<div class="qe-post">' + post + '</div>' : '');
+                panel.classList.remove('show');
+            });
+
+            // 3) 小組討論：刪除多餘的參考答案 div 與其燈泡、刪「參考答案」按鈕、補「檢查答案」按鈕
+            document.querySelectorAll('.reference-answer').forEach(el => {
+                const btn = el.nextElementSibling;
+                if (btn && btn.classList && btn.classList.contains('explain-btn')) btn.remove();
+                el.remove();
+            });
+            document.querySelectorAll('.btn-reference').forEach(el => el.remove());
+            document.querySelectorAll('.activity-section').forEach(sec => {
+                if (!sec.querySelector('[id^="expl-d"]')) return;
+                if (sec.querySelector('.btn-check')) return;
+                const resetBtn = Array.from(sec.querySelectorAll('.btn-reset'))[0];
+                if (!resetBtn) return;
+                const checkBtn = document.createElement('button');
+                checkBtn.className = 'btn btn-check';
+                checkBtn.style.marginRight = '10px';
+                checkBtn.innerHTML = '<i class="fas fa-check"></i> 檢查答案';
+                checkBtn.addEventListener('click', function () {
+                    const sec2 = this.closest('.activity-section');
+                    if (sec2) sec2.classList.add('checked');
+                });
+                resetBtn.parentNode.insertBefore(checkBtn, resetBtn);
+            });
+
+            // 4) 長答案輸入：單行 input -> 多行 textarea（可調高度）
+            document.querySelectorAll('.answer-input').forEach(inp => {
+                if (inp.tagName === 'INPUT') {
+                    const ta = document.createElement('textarea');
+                    ta.className = inp.className;
+                    ta.id = inp.id;
+                    ta.placeholder = inp.placeholder || '';
+                    ta.rows = 3;
+                    ta.value = inp.value || '';
+                    ta.style.width = '100%';
+                    ta.style.minHeight = '72px';
+                    ta.style.boxSizing = 'border-box';
+                    inp.parentNode.insertBefore(ta, inp);
+                    inp.parentNode.removeChild(inp);
+                }
+            });
+
+            // 5) 檢查/重設按鈕：切換 checked 狀態（配合 CSS 切換解題面板階段）
+            document.querySelectorAll('.btn-check').forEach(btn => {
+                btn.addEventListener('click', function () {
+                    const sec = this.closest('.activity-section') || this.closest('.reading-sample');
+                    if (sec) sec.classList.add('checked');
+                });
+            });
+            document.querySelectorAll('.btn').forEach(btn => {
+                const oc = btn.getAttribute('onclick') || '';
+                if (oc.indexOf('reset') === 0) {
+                    btn.addEventListener('click', function () {
+                        const sec = this.closest('.activity-section') || this.closest('.reading-sample');
+                        if (sec) {
+                            sec.classList.remove('checked');
+                            sec.querySelectorAll('.question-explanation').forEach(p => p.classList.remove('show'));
+                        }
+                    });
+                }
+            });
+        }
+
         async function initApp() {
             let data;
             try {
@@ -8665,6 +8790,7 @@ function resetQuiz() {
             renderPractice();
             renderQuiz();
             renderLearningTab();
+            enhanceExpl();
             populateAnswers();
             bindEvents();
             enhanceReadingDom();
