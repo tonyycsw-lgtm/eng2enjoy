@@ -1,9 +1,9 @@
 {
   "meta": {
-    "pageTitleTag": "Unit 3：Time to cook（煮食時光）- 小學四年級英文互動練習",
+    "pageTitleTag": "4A Unit 3：Time to cook（煮食時光）- 小學英文（範本）互動練習",
     "headerIcon": "fa-utensils",
-    "title": "小學四年級英文",
-    "subtitle": "Unit 3：Time to cook（煮食時光）",
+    "title": "小學英文（範本）",
+    "subtitle": "4A Unit 3：Time to cook（煮食時光）",
     "storageKey": "p4_ete_4a_unit3_time_to_cook",
     "totalPractice": 8,
     "audioDir": "audio/4A/Unit3"
@@ -1523,7 +1523,7 @@
   },
   "sidebar": {
     "learningPoints": {
-      "title": "Unit 3：Time to cook（煮食時光）",
+      "title": "4A Unit 3：Time to cook（煮食時光）",
       "icon": "fa-utensils",
       "theme": "烹飪與食譜",
       "goals": [

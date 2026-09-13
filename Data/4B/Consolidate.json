@@ -1,9 +1,9 @@
 {
   "meta": {
-    "pageTitleTag": "Book 4B Consolidate：Places in the Neighbourhood＋Verb Table（附錄複習）- 小學四年級英文互動練習",
+    "pageTitleTag": "4B Consolidate：Places in the Neighbourhood＋Verb Table（附錄複習）- 小學英文（範本）互動練習",
     "headerIcon": "fa-map-location-dot",
-    "title": "小學四年級英文（Book 4B）",
-    "subtitle": "Consolidate：社區地點＋動詞三態（附錄複習）",
+    "title": "小學英文（範本）",
+    "subtitle": "4B Consolidate：社區地點＋動詞三態（附錄複習）",
     "storageKey": "p4_ete_book4b_consolidate",
     "totalPractice": 6,
     "audioDir": "audio/4B/Consolidate"
@@ -1016,7 +1016,7 @@
   },
   "sidebar": {
     "learningPoints": {
-      "title": "Book 4B Consolidate（附錄複習）",
+      "title": "4B Consolidate（附錄複習）",
       "icon": "fa-map-location-dot",
       "theme": "社區地點與動詞三態",
       "goals": [

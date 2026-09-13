@@ -1,9 +1,9 @@
 {
   "meta": {
-    "pageTitleTag": "Unit 3：People who protect nature（保護大自然的人）- 小學四年級英文互動練習（Book 4B）",
+    "pageTitleTag": "4B Unit 3：People who protect nature（保護大自然的人）- 小學英文（範本）互動練習",
     "headerIcon": "fa-tree",
-    "title": "小學四年級英文（Book 4B）",
-    "subtitle": "Unit 3：People who protect nature（保護大自然的人）（與 Unit 2 同課）",
+    "title": "小學英文（範本）",
+    "subtitle": "4B Unit 3：People who protect nature（保護大自然的人）（與 Unit 2 同課）",
     "storageKey": "p4_ete_book4b_unit3",
     "totalPractice": 8,
     "audioDir": "audio/4B/Unit3"
@@ -1566,7 +1566,7 @@
   },
   "sidebar": {
     "learningPoints": {
-      "title": "Unit 2：People who protect nature（保護大自然的人）",
+      "title": "4B Unit 2：People who protect nature（保護大自然的人）",
       "icon": "fa-tree",
       "theme": "環保職業與副詞",
       "goals": [

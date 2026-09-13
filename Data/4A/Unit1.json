@@ -1,9 +1,9 @@
 {
   "meta": {
-    "pageTitleTag": "Unit 1：Hobbies（我的愛好）- 小學四年級英文互動練習",
+    "pageTitleTag": "4A Unit 1：Hobbies（我的愛好）- 小學英文（範本）互動練習",
     "headerIcon": "fa-heart",
-    "title": "小學四年級英文",
-    "subtitle": "Unit 1：Hobbies（我的愛好）",
+    "title": "小學英文（範本）",
+    "subtitle": "4A Unit 1：Hobbies（我的愛好）",
     "storageKey": "p4_ete_jimmy_unit1_hobbies",
     "totalPractice": 7,
     "audioDir": "audio/4A/Unit1"
@@ -1647,7 +1647,7 @@
   },
   "sidebar": {
     "learningPoints": {
-      "title": "Unit 1：Hobbies（我的愛好）",
+      "title": "4A Unit 1：Hobbies（我的愛好）",
       "icon": "fa-heart",
       "theme": "嗜好與頻率",
       "goals": [

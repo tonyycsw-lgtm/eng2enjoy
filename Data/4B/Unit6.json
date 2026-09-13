@@ -1,9 +1,9 @@
 {
   "meta": {
-    "pageTitleTag": "Unit 6：Culture shock（文化衝擊）- 小學四年級英文互動練習（Book 4B）",
+    "pageTitleTag": "4B Unit 6：Culture shock（文化衝擊）- 小學英文（範本）互動練習",
     "headerIcon": "fa-globe-asia",
-    "title": "小學四年級英文（Book 4B）",
-    "subtitle": "Unit 6：Culture shock（文化衝擊）",
+    "title": "小學英文（範本）",
+    "subtitle": "4B Unit 6：Culture shock（文化衝擊）",
     "storageKey": "p4_ete_book4b_unit6",
     "totalPractice": 8,
     "audioDir": "audio/4B/Unit6"
@@ -12,18 +12,226 @@
     "pages": 4,
     "intro": "點擊卡片查看例句，點擊音頻按鈕聆聽發音：",
     "cards": [
-      {"page": 1, "word": "culture shock", "meaning": "文化衝擊", "icon": "fa-bolt", "audio": "culture_shock", "example": "Heidi felt a culture shock when she first arrived in Hong Kong.", "translation": "Heidi 初到香港時感到文化衝擊。", "exampleAudio": "culture_shock_example", "pairs": [{"en": "culture shock", "zh": "文化衝擊"}]},
-      {"page": 1, "word": "high-rises", "meaning": "高樓大廈", "icon": "fa-city", "audio": "high_rises", "example": "Hong Kong looks so different from Hof — there are many high-rises here.", "translation": "香港看起來和 Hof 很不一樣——這裡有很多高樓大廈。", "exampleAudio": "high_rises_example", "pairs": [{"en": "high-rises", "zh": "高樓大廈"}, {"en": "looks so different from", "zh": "看起來和…很不一樣"}]},
-      {"page": 1, "word": "Cantonese", "meaning": "粵語", "icon": "fa-language", "audio": "cantonese", "example": "People in Hong Kong speak Cantonese. I must try to learn it!", "translation": "香港人說粵語。我一定要試著學！", "exampleAudio": "cantonese_example", "pairs": [{"en": "Cantonese", "zh": "粵語"}]},
-      {"page": 1, "word": "temple", "meaning": "寺廟", "icon": "fa-building-columns", "audio": "temple", "example": "In the afternoon, Mrs Tam took me to a temple.", "translation": "下午，Tam 太太帶我去了一間寺廟。", "exampleAudio": "temple_example", "pairs": [{"en": "temple", "zh": "寺廟"}]},
-      {"page": 2, "word": "cheongsam", "meaning": "旗袍", "icon": "fa-shirt", "audio": "cheongsam", "example": "Ting-ting's and Fei-fei's cheongsams are similar.", "translation": "婷婷和飛飛的旗袍很相似。", "exampleAudio": "cheongsam_example", "pairs": [{"en": "cheongsams", "zh": "旗袍"}, {"en": "are similar", "zh": "很相似"}]},
-      {"page": 2, "word": "kimono", "meaning": "和服", "icon": "fa-person-dress", "audio": "kimono", "example": "Nana's and Kana's kimonos are the same.", "translation": "Nana 和 Kana 的和服是一樣的。", "exampleAudio": "kimono_example", "pairs": [{"en": "kimonos", "zh": "和服"}, {"en": "are the same", "zh": "是一樣的"}]},
-      {"page": 2, "word": "congee", "meaning": "粥", "icon": "fa-bowl-food", "audio": "congee", "example": "Today, I had congee for breakfast.", "translation": "今天，我早餐吃了粥。", "exampleAudio": "congee_example", "pairs": [{"en": "congee", "zh": "粥"}]},
-      {"page": 2, "word": "pumpkin soup", "meaning": "南瓜湯", "icon": "fa-soup", "audio": "pumpkin_soup", "example": "I miss bread and pumpkin soup!", "translation": "我想念麵包和南瓜湯！", "exampleAudio": "pumpkin_soup_example", "pairs": [{"en": "pumpkin soup", "zh": "南瓜湯"}, {"en": "I miss", "zh": "我想念"}]},
-      {"page": 3, "word": "Buddhists", "meaning": "佛教徒", "icon": "fa-dharmachakra", "audio": "buddhists", "example": "In Hong Kong, there are also Buddhists and Taoists.", "translation": "在香港，也有佛教徒和道教徒。", "exampleAudio": "buddhists_example", "pairs": [{"en": "Buddhists", "zh": "佛教徒"}, {"en": "Taoists", "zh": "道教徒"}]},
-      {"page": 3, "word": "Christians", "meaning": "基督徒", "icon": "fa-cross", "audio": "christians", "example": "Some people are Christians and they go to church.", "translation": "有些人是基督徒，他們去教堂。", "exampleAudio": "christians_example", "pairs": [{"en": "Christians", "zh": "基督徒"}, {"en": "go to church", "zh": "去教堂"}]},
-      {"page": 4, "word": "the same", "meaning": "相同的", "icon": "fa-equals", "audio": "the_same", "example": "We played the same games I always play in Germany.", "translation": "我們玩了我一直在德國玩的相同遊戲。", "exampleAudio": "the_same_example", "pairs": [{"en": "the same", "zh": "相同的"}]},
-      {"page": 4, "word": "similar", "meaning": "相似的", "icon": "fa-not-equal", "audio": "similar", "example": "Their getas are similar.", "translation": "他們的木屐很相似。", "exampleAudio": "similar_example", "pairs": [{"en": "similar", "zh": "相似的"}, {"en": "getas", "zh": "日本木屐"}]}
+      {
+        "page": 1,
+        "word": "culture shock",
+        "meaning": "文化衝擊",
+        "icon": "fa-bolt",
+        "audio": "culture_shock",
+        "example": "Heidi felt a culture shock when she first arrived in Hong Kong.",
+        "translation": "Heidi 初到香港時感到文化衝擊。",
+        "exampleAudio": "culture_shock_example",
+        "pairs": [
+          {
+            "en": "culture shock",
+            "zh": "文化衝擊"
+          }
+        ]
+      },
+      {
+        "page": 1,
+        "word": "high-rises",
+        "meaning": "高樓大廈",
+        "icon": "fa-city",
+        "audio": "high_rises",
+        "example": "Hong Kong looks so different from Hof — there are many high-rises here.",
+        "translation": "香港看起來和 Hof 很不一樣——這裡有很多高樓大廈。",
+        "exampleAudio": "high_rises_example",
+        "pairs": [
+          {
+            "en": "high-rises",
+            "zh": "高樓大廈"
+          },
+          {
+            "en": "looks so different from",
+            "zh": "看起來和…很不一樣"
+          }
+        ]
+      },
+      {
+        "page": 1,
+        "word": "Cantonese",
+        "meaning": "粵語",
+        "icon": "fa-language",
+        "audio": "cantonese",
+        "example": "People in Hong Kong speak Cantonese. I must try to learn it!",
+        "translation": "香港人說粵語。我一定要試著學！",
+        "exampleAudio": "cantonese_example",
+        "pairs": [
+          {
+            "en": "Cantonese",
+            "zh": "粵語"
+          }
+        ]
+      },
+      {
+        "page": 1,
+        "word": "temple",
+        "meaning": "寺廟",
+        "icon": "fa-building-columns",
+        "audio": "temple",
+        "example": "In the afternoon, Mrs Tam took me to a temple.",
+        "translation": "下午，Tam 太太帶我去了一間寺廟。",
+        "exampleAudio": "temple_example",
+        "pairs": [
+          {
+            "en": "temple",
+            "zh": "寺廟"
+          }
+        ]
+      },
+      {
+        "page": 2,
+        "word": "cheongsam",
+        "meaning": "旗袍",
+        "icon": "fa-shirt",
+        "audio": "cheongsam",
+        "example": "Ting-ting's and Fei-fei's cheongsams are similar.",
+        "translation": "婷婷和飛飛的旗袍很相似。",
+        "exampleAudio": "cheongsam_example",
+        "pairs": [
+          {
+            "en": "cheongsams",
+            "zh": "旗袍"
+          },
+          {
+            "en": "are similar",
+            "zh": "很相似"
+          }
+        ]
+      },
+      {
+        "page": 2,
+        "word": "kimono",
+        "meaning": "和服",
+        "icon": "fa-person-dress",
+        "audio": "kimono",
+        "example": "Nana's and Kana's kimonos are the same.",
+        "translation": "Nana 和 Kana 的和服是一樣的。",
+        "exampleAudio": "kimono_example",
+        "pairs": [
+          {
+            "en": "kimonos",
+            "zh": "和服"
+          },
+          {
+            "en": "are the same",
+            "zh": "是一樣的"
+          }
+        ]
+      },
+      {
+        "page": 2,
+        "word": "congee",
+        "meaning": "粥",
+        "icon": "fa-bowl-food",
+        "audio": "congee",
+        "example": "Today, I had congee for breakfast.",
+        "translation": "今天，我早餐吃了粥。",
+        "exampleAudio": "congee_example",
+        "pairs": [
+          {
+            "en": "congee",
+            "zh": "粥"
+          }
+        ]
+      },
+      {
+        "page": 2,
+        "word": "pumpkin soup",
+        "meaning": "南瓜湯",
+        "icon": "fa-soup",
+        "audio": "pumpkin_soup",
+        "example": "I miss bread and pumpkin soup!",
+        "translation": "我想念麵包和南瓜湯！",
+        "exampleAudio": "pumpkin_soup_example",
+        "pairs": [
+          {
+            "en": "pumpkin soup",
+            "zh": "南瓜湯"
+          },
+          {
+            "en": "I miss",
+            "zh": "我想念"
+          }
+        ]
+      },
+      {
+        "page": 3,
+        "word": "Buddhists",
+        "meaning": "佛教徒",
+        "icon": "fa-dharmachakra",
+        "audio": "buddhists",
+        "example": "In Hong Kong, there are also Buddhists and Taoists.",
+        "translation": "在香港，也有佛教徒和道教徒。",
+        "exampleAudio": "buddhists_example",
+        "pairs": [
+          {
+            "en": "Buddhists",
+            "zh": "佛教徒"
+          },
+          {
+            "en": "Taoists",
+            "zh": "道教徒"
+          }
+        ]
+      },
+      {
+        "page": 3,
+        "word": "Christians",
+        "meaning": "基督徒",
+        "icon": "fa-cross",
+        "audio": "christians",
+        "example": "Some people are Christians and they go to church.",
+        "translation": "有些人是基督徒，他們去教堂。",
+        "exampleAudio": "christians_example",
+        "pairs": [
+          {
+            "en": "Christians",
+            "zh": "基督徒"
+          },
+          {
+            "en": "go to church",
+            "zh": "去教堂"
+          }
+        ]
+      },
+      {
+        "page": 4,
+        "word": "the same",
+        "meaning": "相同的",
+        "icon": "fa-equals",
+        "audio": "the_same",
+        "example": "We played the same games I always play in Germany.",
+        "translation": "我們玩了我一直在德國玩的相同遊戲。",
+        "exampleAudio": "the_same_example",
+        "pairs": [
+          {
+            "en": "the same",
+            "zh": "相同的"
+          }
+        ]
+      },
+      {
+        "page": 4,
+        "word": "similar",
+        "meaning": "相似的",
+        "icon": "fa-not-equal",
+        "audio": "similar",
+        "example": "Their getas are similar.",
+        "translation": "他們的木屐很相似。",
+        "exampleAudio": "similar_example",
+        "pairs": [
+          {
+            "en": "similar",
+            "zh": "相似的"
+          },
+          {
+            "en": "getas",
+            "zh": "日本木屐"
+          }
+        ]
+      }
     ]
   },
   "reading": {
@@ -31,17 +239,223 @@
     "icon": "fa-globe-asia",
     "intro": "Heidi 是來自德國的學生。閱讀她的日記，了解她初到香港經歷的文化差異：",
     "paragraphs": [
-      {"id": "t1", "text": "Tuesday 4th April, 20XX — Arrival in Hong Kong（到達香港）<br>It is my first day in Hong Kong. Mrs Tam and Mr Tam met me at Hong Kong International Airport. They took me to my new 'home'. On the way, I saw many high-rises. Hong Kong looks so different from Hof — in Hof, there are not any high-rises but only small houses.<br>I cannot understand what the people say because they speak Cantonese. It sounds so different from German or English. I must try to learn it!", "translation": "20XX 年 4 月 4 日 星期二 — 到達香港<br>這是我在香港的第一天。Tam 太太和 Tam 先生在香港國際機場接我。他們帶我去我的新「家」。途中，我看到很多高樓大廈。香港看起來和 Hof 很不一樣——在 Hof，沒有任何高樓大廈，只有小房子。<br>我聽不懂人們說的話，因為他們說粵語。它聽起來和德語或英語很不同。我一定要試著學！", "pairs": [{"en": "Arrival in Hong Kong", "zh": "到達香港"}, {"en": "met me at the airport", "zh": "在機場接我"}, {"en": "high-rises", "zh": "高樓大廈"}, {"en": "looks so different from Hof", "zh": "看起來和 Hof 很不一樣"}, {"en": "speak Cantonese", "zh": "說粵語"}, {"en": "I must try to learn it", "zh": "我一定要試著學"}], "sentences": ["Tuesday 4th April, 20XX — Arrival in Hong Kong", "It is my first day in Hong Kong.", "Mrs Tam and Mr Tam met me at Hong Kong International Airport.", "They took me to my new 'home'.", "On the way, I saw many high-rises.", "Hong Kong looks so different from Hof — in Hof, there are not any high-rises but only small houses.", "I cannot understand what the people say because they speak Cantonese.", "It sounds so different from German or English.", "I must try to learn it!"], "translation_sentences": ["20XX 年 4 月 4 日 星期二 — 到達香港", "這是我在香港的第一天。", "Tam 太太和 Tam 先生在香港國際機場接我。", "他們帶我去我的新「家」。", "途中，我看到很多高樓大廈。", "香港看起來和 Hof 很不一樣——在 Hof，沒有任何高樓大廈，只有小房子。", "我聽不懂人們說的話，因為他們說粵語。", "它聽起來和德語或英語很不同。", "我一定要試著學！"]},
-      {"id": "t2", "text": "Sunday 9th April, 20XX — First Sunday in Hong Kong（在香港的第一個星期日）<br>After breakfast, Mrs Tam took me to a shopping centre. I was amazed and surprised! In Germany, shops and shopping centres do not open on Sundays. Then we went to a park. There was a lawn and I wanted to play there. 'Don't step on the grass!' Mrs Tam stopped me. In Germany, I can walk and play on the grass in the park. However, it is not allowed in Hong Kong!<br>In the afternoon, Mrs Tam took me to a temple. There was smoke from the joss sticks everywhere. People in Hong Kong have different religions. As in Germany, some people are Christians and they go to church. But in Hong Kong, there are also Buddhists and Taoists.", "translation": "20XX 年 4 月 9 日 星期日 — 在香港的第一個星期日<br>早餐後，Tam 太太帶我去購物中心。我很驚訝！在德國，商店和購物中心星期日不營業。然後我們去了公園。那裡有一片草坪，我想在上面玩。「不要踩草地！」Tam 太太阻止了我。在德國，我可以在公園的草地上走和玩。但是，在香港是不允許的！<br>下午，Tam 太太帶我去了一間寺廟。到處都是香火煙霧。香港人有不同的宗教。和德國一樣，有些人是基督徒，他們去教堂。但在香港，也有佛教徒和道教徒。", "pairs": [{"en": "First Sunday in Hong Kong", "zh": "在香港的第一個星期日"}, {"en": "I was amazed and surprised", "zh": "我很驚訝"}, {"en": "do not open on Sundays", "zh": "星期日不營業"}, {"en": "Don't step on the grass", "zh": "不要踩草地"}, {"en": "it is not allowed", "zh": "是不允許的"}, {"en": "joss sticks", "zh": "香支"}, {"en": "different religions", "zh": "不同的宗教"}, {"en": "go to church", "zh": "去教堂"}], "sentences": ["Sunday 9th April, 20XX — First Sunday in Hong Kong", "After breakfast, Mrs Tam took me to a shopping centre.", "I was amazed and surprised!", "In Germany, shops and shopping centres do not open on Sundays.", "Then we went to a park.", "There was a lawn and I wanted to play there.", "'Don't step on the grass!' Mrs Tam stopped me.", "In Germany, I can walk and play on the grass in the park.", "However, it is not allowed in Hong Kong!", "In the afternoon, Mrs Tam took me to a temple.", "There was smoke from the joss sticks everywhere.", "People in Hong Kong have different religions.", "As in Germany, some people are Christians and they go to church.", "But in Hong Kong, there are also Buddhists and Taoists."], "translation_sentences": ["20XX 年 4 月 9 日 星期日 — 在香港的第一個星期日", "早餐後，Tam 太太帶我去購物中心。", "我很驚訝！", "在德國，商店和購物中心星期日不營業。", "然後我們去了公園。", "那裡有一片草坪，我想在上面玩。", "「不要踩草地！」Tam 太太阻止了我。", "在德國，我可以在公園的草地上走和玩。", "但是，在香港是不允許的！", "下午，Tam 太太帶我去了一間寺廟。", "到處都是香火煙霧。", "香港人有不同的宗教。", "和德國一樣，有些人是基督徒，他們去教堂。", "但在香港，也有佛教徒和道教徒。"]},
-      {"id": "t3", "text": "Wednesday 12th April, 20XX — First day at school（上學第一天）<br>The streets all seemed confusing, so Mrs Tam walked to school with me. My new friends were very nice. We played hide-and-seek and hopscotch — the same games I always play in Germany!<br>Chinese people really eat a lot of rice! Today, I had congee (a thick soup of rice) for breakfast, fried rice for lunch, and pork and vegetables with rice for dinner! Chinese food is tasty, but I miss bread and pumpkin soup!", "translation": "20XX 年 4 月 12 日 星期三 — 上學第一天<br>街道看起來都很亂，所以 Tam 太太陪我走到學校。我的新朋友們都很好。我們玩捉迷藏和跳房子——這是我在德國一直玩的相同遊戲！<br>中國人真的很愛吃米飯！今天，我早餐吃了粥（一種濃稠的米湯），午餐吃了炒飯，晚餐吃了豬肉、蔬菜配米飯！中國菜很好吃，但我想念麵包和南瓜湯！", "pairs": [{"en": "First day at school", "zh": "上學第一天"}, {"en": "seemed confusing", "zh": "看起來很亂"}, {"en": "hide-and-seek and hopscotch", "zh": "捉迷藏和跳房子"}, {"en": "the same games", "zh": "相同的遊戲"}, {"en": "eat a lot of rice", "zh": "吃很多米飯"}, {"en": "a thick soup of rice", "zh": "濃稠的米湯"}, {"en": "Chinese food is tasty", "zh": "中國菜很好吃"}, {"en": "I miss bread and pumpkin soup", "zh": "我想念麵包和南瓜湯"}], "sentences": ["Wednesday 12th April, 20XX — First day at school", "The streets all seemed confusing, so Mrs Tam walked to school with me.", "My new friends were very nice.", "We played hide-and-seek and hopscotch — the same games I always play in Germany!", "Chinese people really eat a lot of rice!", "Today, I had congee (a thick soup of rice) for breakfast, fried rice for lunch, and pork and vegetables with rice for dinner!", "Chinese food is tasty, but I miss bread and pumpkin soup!"], "translation_sentences": ["20XX 年 4 月 12 日 星期三 — 上學第一天", "街道看起來都很亂，所以 Tam 太太陪我走到學校。", "我的新朋友們都很好。", "我們玩捉迷藏和跳房子——這是我在德國一直玩的相同遊戲！", "中國人真的很愛吃米飯！", "今天，我早餐吃了粥（一種濃稠的米湯），午餐吃了炒飯，晚餐吃了豬肉、蔬菜配米飯！", "中國菜很好吃，但我想念麵包和南瓜湯！"]}
+      {
+        "id": "t1",
+        "text": "Tuesday 4th April, 20XX — Arrival in Hong Kong（到達香港）<br>It is my first day in Hong Kong. Mrs Tam and Mr Tam met me at Hong Kong International Airport. They took me to my new 'home'. On the way, I saw many high-rises. Hong Kong looks so different from Hof — in Hof, there are not any high-rises but only small houses.<br>I cannot understand what the people say because they speak Cantonese. It sounds so different from German or English. I must try to learn it!",
+        "translation": "20XX 年 4 月 4 日 星期二 — 到達香港<br>這是我在香港的第一天。Tam 太太和 Tam 先生在香港國際機場接我。他們帶我去我的新「家」。途中，我看到很多高樓大廈。香港看起來和 Hof 很不一樣——在 Hof，沒有任何高樓大廈，只有小房子。<br>我聽不懂人們說的話，因為他們說粵語。它聽起來和德語或英語很不同。我一定要試著學！",
+        "pairs": [
+          {
+            "en": "Arrival in Hong Kong",
+            "zh": "到達香港"
+          },
+          {
+            "en": "met me at the airport",
+            "zh": "在機場接我"
+          },
+          {
+            "en": "high-rises",
+            "zh": "高樓大廈"
+          },
+          {
+            "en": "looks so different from Hof",
+            "zh": "看起來和 Hof 很不一樣"
+          },
+          {
+            "en": "speak Cantonese",
+            "zh": "說粵語"
+          },
+          {
+            "en": "I must try to learn it",
+            "zh": "我一定要試著學"
+          }
+        ],
+        "sentences": [
+          "Tuesday 4th April, 20XX — Arrival in Hong Kong",
+          "It is my first day in Hong Kong.",
+          "Mrs Tam and Mr Tam met me at Hong Kong International Airport.",
+          "They took me to my new 'home'.",
+          "On the way, I saw many high-rises.",
+          "Hong Kong looks so different from Hof — in Hof, there are not any high-rises but only small houses.",
+          "I cannot understand what the people say because they speak Cantonese.",
+          "It sounds so different from German or English.",
+          "I must try to learn it!"
+        ],
+        "translation_sentences": [
+          "20XX 年 4 月 4 日 星期二 — 到達香港",
+          "這是我在香港的第一天。",
+          "Tam 太太和 Tam 先生在香港國際機場接我。",
+          "他們帶我去我的新「家」。",
+          "途中，我看到很多高樓大廈。",
+          "香港看起來和 Hof 很不一樣——在 Hof，沒有任何高樓大廈，只有小房子。",
+          "我聽不懂人們說的話，因為他們說粵語。",
+          "它聽起來和德語或英語很不同。",
+          "我一定要試著學！"
+        ]
+      },
+      {
+        "id": "t2",
+        "text": "Sunday 9th April, 20XX — First Sunday in Hong Kong（在香港的第一個星期日）<br>After breakfast, Mrs Tam took me to a shopping centre. I was amazed and surprised! In Germany, shops and shopping centres do not open on Sundays. Then we went to a park. There was a lawn and I wanted to play there. 'Don't step on the grass!' Mrs Tam stopped me. In Germany, I can walk and play on the grass in the park. However, it is not allowed in Hong Kong!<br>In the afternoon, Mrs Tam took me to a temple. There was smoke from the joss sticks everywhere. People in Hong Kong have different religions. As in Germany, some people are Christians and they go to church. But in Hong Kong, there are also Buddhists and Taoists.",
+        "translation": "20XX 年 4 月 9 日 星期日 — 在香港的第一個星期日<br>早餐後，Tam 太太帶我去購物中心。我很驚訝！在德國，商店和購物中心星期日不營業。然後我們去了公園。那裡有一片草坪，我想在上面玩。「不要踩草地！」Tam 太太阻止了我。在德國，我可以在公園的草地上走和玩。但是，在香港是不允許的！<br>下午，Tam 太太帶我去了一間寺廟。到處都是香火煙霧。香港人有不同的宗教。和德國一樣，有些人是基督徒，他們去教堂。但在香港，也有佛教徒和道教徒。",
+        "pairs": [
+          {
+            "en": "First Sunday in Hong Kong",
+            "zh": "在香港的第一個星期日"
+          },
+          {
+            "en": "I was amazed and surprised",
+            "zh": "我很驚訝"
+          },
+          {
+            "en": "do not open on Sundays",
+            "zh": "星期日不營業"
+          },
+          {
+            "en": "Don't step on the grass",
+            "zh": "不要踩草地"
+          },
+          {
+            "en": "it is not allowed",
+            "zh": "是不允許的"
+          },
+          {
+            "en": "joss sticks",
+            "zh": "香支"
+          },
+          {
+            "en": "different religions",
+            "zh": "不同的宗教"
+          },
+          {
+            "en": "go to church",
+            "zh": "去教堂"
+          }
+        ],
+        "sentences": [
+          "Sunday 9th April, 20XX — First Sunday in Hong Kong",
+          "After breakfast, Mrs Tam took me to a shopping centre.",
+          "I was amazed and surprised!",
+          "In Germany, shops and shopping centres do not open on Sundays.",
+          "Then we went to a park.",
+          "There was a lawn and I wanted to play there.",
+          "'Don't step on the grass!' Mrs Tam stopped me.",
+          "In Germany, I can walk and play on the grass in the park.",
+          "However, it is not allowed in Hong Kong!",
+          "In the afternoon, Mrs Tam took me to a temple.",
+          "There was smoke from the joss sticks everywhere.",
+          "People in Hong Kong have different religions.",
+          "As in Germany, some people are Christians and they go to church.",
+          "But in Hong Kong, there are also Buddhists and Taoists."
+        ],
+        "translation_sentences": [
+          "20XX 年 4 月 9 日 星期日 — 在香港的第一個星期日",
+          "早餐後，Tam 太太帶我去購物中心。",
+          "我很驚訝！",
+          "在德國，商店和購物中心星期日不營業。",
+          "然後我們去了公園。",
+          "那裡有一片草坪，我想在上面玩。",
+          "「不要踩草地！」Tam 太太阻止了我。",
+          "在德國，我可以在公園的草地上走和玩。",
+          "但是，在香港是不允許的！",
+          "下午，Tam 太太帶我去了一間寺廟。",
+          "到處都是香火煙霧。",
+          "香港人有不同的宗教。",
+          "和德國一樣，有些人是基督徒，他們去教堂。",
+          "但在香港，也有佛教徒和道教徒。"
+        ]
+      },
+      {
+        "id": "t3",
+        "text": "Wednesday 12th April, 20XX — First day at school（上學第一天）<br>The streets all seemed confusing, so Mrs Tam walked to school with me. My new friends were very nice. We played hide-and-seek and hopscotch — the same games I always play in Germany!<br>Chinese people really eat a lot of rice! Today, I had congee (a thick soup of rice) for breakfast, fried rice for lunch, and pork and vegetables with rice for dinner! Chinese food is tasty, but I miss bread and pumpkin soup!",
+        "translation": "20XX 年 4 月 12 日 星期三 — 上學第一天<br>街道看起來都很亂，所以 Tam 太太陪我走到學校。我的新朋友們都很好。我們玩捉迷藏和跳房子——這是我在德國一直玩的相同遊戲！<br>中國人真的很愛吃米飯！今天，我早餐吃了粥（一種濃稠的米湯），午餐吃了炒飯，晚餐吃了豬肉、蔬菜配米飯！中國菜很好吃，但我想念麵包和南瓜湯！",
+        "pairs": [
+          {
+            "en": "First day at school",
+            "zh": "上學第一天"
+          },
+          {
+            "en": "seemed confusing",
+            "zh": "看起來很亂"
+          },
+          {
+            "en": "hide-and-seek and hopscotch",
+            "zh": "捉迷藏和跳房子"
+          },
+          {
+            "en": "the same games",
+            "zh": "相同的遊戲"
+          },
+          {
+            "en": "eat a lot of rice",
+            "zh": "吃很多米飯"
+          },
+          {
+            "en": "a thick soup of rice",
+            "zh": "濃稠的米湯"
+          },
+          {
+            "en": "Chinese food is tasty",
+            "zh": "中國菜很好吃"
+          },
+          {
+            "en": "I miss bread and pumpkin soup",
+            "zh": "我想念麵包和南瓜湯"
+          }
+        ],
+        "sentences": [
+          "Wednesday 12th April, 20XX — First day at school",
+          "The streets all seemed confusing, so Mrs Tam walked to school with me.",
+          "My new friends were very nice.",
+          "We played hide-and-seek and hopscotch — the same games I always play in Germany!",
+          "Chinese people really eat a lot of rice!",
+          "Today, I had congee (a thick soup of rice) for breakfast, fried rice for lunch, and pork and vegetables with rice for dinner!",
+          "Chinese food is tasty, but I miss bread and pumpkin soup!"
+        ],
+        "translation_sentences": [
+          "20XX 年 4 月 12 日 星期三 — 上學第一天",
+          "街道看起來都很亂，所以 Tam 太太陪我走到學校。",
+          "我的新朋友們都很好。",
+          "我們玩捉迷藏和跳房子——這是我在德國一直玩的相同遊戲！",
+          "中國人真的很愛吃米飯！",
+          "今天，我早餐吃了粥（一種濃稠的米湯），午餐吃了炒飯，晚餐吃了豬肉、蔬菜配米飯！",
+          "中國菜很好吃，但我想念麵包和南瓜湯！"
+        ]
+      }
     ]
   },
   "sayItRight": {
     "title": "SAY IT RIGHT (short o /ɒ/)：短音 o",
     "icon": "fa-microphone-alt",
     "sentences": [
-      {"id": "s1", "text": "In Hong Kong, people eat hotpot and congee.", "translation": "在香港，人們吃火鍋和粥。（hotpot / congee 中的 o 讀短音 /ɒ/）", "pairs": [{"en": "hotpot", "zh": "火鍋"}, {"en": "congee", "zh": "粥"}]},
-      {"id": "s2", "text": "In Los Angeles, people eat hot dogs and drink coffee.", "translation": "在洛杉磯，人們吃熱狗、喝咖啡。（hot / dogs / coffee 中的 o 讀短音 /ɒ/）", "pairs": [{"en": "hot dogs", "zh": "熱狗"}, {"en": "coffee", "zh": "咖啡"}]}
+      {
+        "id": "s1",
+        "text": "In Hong Kong, people eat hotpot and congee.",
+        "translation": "在香港，人們吃火鍋和粥。（hotpot / congee 中的 o 讀短音 /ɒ/）",
+        "pairs": [
+          {
+            "en": "hotpot",
+            "zh": "火鍋"
+          },
+          {
+            "en": "congee",
+            "zh": "粥"
+          }
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "In Los Angeles, people eat hot dogs and drink coffee.",
+        "translation": "在洛杉磯，人們吃熱狗、喝咖啡。（hot / dogs / coffee 中的 o 讀短音 /ɒ/）",
+        "pairs": [
+          {
+            "en": "hot dogs",
+            "zh": "熱狗"
+          },
+          {
+            "en": "coffee",
+            "zh": "咖啡"
+          }
+        ]
+      }
     ]
   },
   "listening": {
@@ -55,26 +469,197 @@
       "text": "It's Saturday today. Heidi goes out with Mr Tam. They are walking in a park. There are many flowers and trees. Mr Tam: Heidi, do you like chocolate? We have chocolate eggs in Hong Kong. Heidi: Yes! In Germany, our chocolate eggs are sweeter. Mr Tam: Can you sing 'Brother John'? Heidi: Yes, I can sing it in German and in Cantonese now! Mr Tam: I have a board game called 'Don't Get Angry'. It is from Germany. Heidi: In Germany, I play 'Don't Get Angry' with my family! What game is this? Mr Tam: It's Chinese checkers. I'm going to teach you today. Heidi: Great! I want to learn Chinese checkers. Mr Tam: Do you like reading? Heidi: Yes! I want to read English comic books. Mr Tam: Let's go to the bookshop after lunch!",
       "zh": "今天是星期六。Heidi 和 Mr Tam 一起外出。<br>他們正在公園裡散步。那裡有很多花和樹。<br>Tam 先生：Heidi，你喜歡巧克力嗎？在香港我們有巧克力蛋。<br>Heidi：喜歡！在德國，我們的巧克力蛋更甜。<br>Tam 先生：你會唱《兩隻老虎》嗎？<br>Heidi：會，我現在可以用德語和粵語唱！<br>Tam 先生：我有一個叫「別生氣」的棋盤遊戲。它來自德國。<br>Heidi：在德國，我和家人玩「別生氣」！這是甚麼遊戲？<br>Tam 先生：這是中國跳棋。我今天教你玩。<br>Heidi：太好了！我想學中國跳棋。<br>Tam 先生：你喜歡閱讀嗎？<br>Heidi：喜歡！我想讀英文漫畫書。<br>Tam 先生：午餐後我們去書店吧！",
       "segments": [
-        {"en": "It's Saturday today. Heidi goes out with Mr Tam.", "zh": "今天是星期六。Heidi 和 Mr Tam 一起外出。"},
-        {"en": "They are walking in a park. There are many flowers and trees.", "zh": "他們正在公園裡散步。那裡有很多花和樹。"},
-        {"en": "Mr Tam: Heidi, do you like chocolate? We have chocolate eggs in Hong Kong.", "zh": "Tam 先生：Heidi，你喜歡巧克力嗎？在香港我們有巧克力蛋。"},
-        {"en": "Heidi: Yes! In Germany, our chocolate eggs are sweeter.", "zh": "Heidi：喜歡！在德國，我們的巧克力蛋更甜。"},
-        {"en": "Mr Tam: Can you sing 'Brother John'? Heidi: Yes, I can sing it in German and in Cantonese now!", "zh": "Tam 先生：你會唱《兩隻老虎》嗎？Heidi：會，我現在可以用德語和粵語唱！"},
-        {"en": "Mr Tam: I have a board game called 'Don't Get Angry'. It is from Germany.", "zh": "Tam 先生：我有一個叫「別生氣」的棋盤遊戲。它來自德國。"},
-        {"en": "Heidi: In Germany, I play 'Don't Get Angry' with my family! What game is this?", "zh": "Heidi：在德國，我和家人玩「別生氣」！這是甚麼遊戲？"},
-        {"en": "Mr Tam: It's Chinese checkers. I'm going to teach you today.", "zh": "Tam 先生：這是中國跳棋。我今天教你玩。"},
-        {"en": "Heidi: Great! I want to learn Chinese checkers.", "zh": "Heidi：太好了！我想學中國跳棋。"},
-        {"en": "Mr Tam: Do you like reading? Heidi: Yes! I want to read English comic books.", "zh": "Tam 先生：你喜歡閱讀嗎？Heidi：喜歡！我想讀英文漫畫書。"},
-        {"en": "Mr Tam: Let's go to the bookshop after lunch!", "zh": "Tam 先生：午餐後我們去書店吧！"}
+        {
+          "en": "It's Saturday today. Heidi goes out with Mr Tam.",
+          "zh": "今天是星期六。Heidi 和 Mr Tam 一起外出。"
+        },
+        {
+          "en": "They are walking in a park. There are many flowers and trees.",
+          "zh": "他們正在公園裡散步。那裡有很多花和樹。"
+        },
+        {
+          "en": "Mr Tam: Heidi, do you like chocolate? We have chocolate eggs in Hong Kong.",
+          "zh": "Tam 先生：Heidi，你喜歡巧克力嗎？在香港我們有巧克力蛋。"
+        },
+        {
+          "en": "Heidi: Yes! In Germany, our chocolate eggs are sweeter.",
+          "zh": "Heidi：喜歡！在德國，我們的巧克力蛋更甜。"
+        },
+        {
+          "en": "Mr Tam: Can you sing 'Brother John'? Heidi: Yes, I can sing it in German and in Cantonese now!",
+          "zh": "Tam 先生：你會唱《兩隻老虎》嗎？Heidi：會，我現在可以用德語和粵語唱！"
+        },
+        {
+          "en": "Mr Tam: I have a board game called 'Don't Get Angry'. It is from Germany.",
+          "zh": "Tam 先生：我有一個叫「別生氣」的棋盤遊戲。它來自德國。"
+        },
+        {
+          "en": "Heidi: In Germany, I play 'Don't Get Angry' with my family! What game is this?",
+          "zh": "Heidi：在德國，我和家人玩「別生氣」！這是甚麼遊戲？"
+        },
+        {
+          "en": "Mr Tam: It's Chinese checkers. I'm going to teach you today.",
+          "zh": "Tam 先生：這是中國跳棋。我今天教你玩。"
+        },
+        {
+          "en": "Heidi: Great! I want to learn Chinese checkers.",
+          "zh": "Heidi：太好了！我想學中國跳棋。"
+        },
+        {
+          "en": "Mr Tam: Do you like reading? Heidi: Yes! I want to read English comic books.",
+          "zh": "Tam 先生：你喜歡閱讀嗎？Heidi：喜歡！我想讀英文漫畫書。"
+        },
+        {
+          "en": "Mr Tam: Let's go to the bookshop after lunch!",
+          "zh": "Tam 先生：午餐後我們去書店吧！"
+        }
       ]
     },
     "questions": [
-      {"id": "l1", "text": "1. Where are Heidi and Mr Tam?", "answer": "b", "options": [{"key": "a", "text": "a. in a playground（遊樂場）"}, {"key": "b", "text": "b. in a park（公園）"}, {"key": "c", "text": "c. in a fruit market（水果市場）"}, {"key": "d", "text": "d. in a fish market（魚市場）"}], "explanation": "對話說 They are walking in a park，所以選 b（公園）。"},
-      {"id": "l2", "text": "2. Which of the following sentences is true?", "answer": "b", "options": [{"key": "a", "text": "a. Chocolate eggs in Hong Kong are sweeter.（香港的巧克力蛋更甜）"}, {"key": "b", "text": "b. Chocolate eggs in Germany are sweeter.（德國的巧克力蛋更甜）"}, {"key": "c", "text": "c. Chocolate eggs in Hong Kong and Germany are the same.（兩地的一樣）"}, {"key": "d", "text": "d. Heidi does not eat chocolate eggs.（Heidi 不吃巧克力蛋）"}], "explanation": "Heidi 說 In Germany, our chocolate eggs are sweeter，所以選 b。"},
-      {"id": "l3", "text": "3. Heidi can sing 'Brother John' ____.", "answer": "a", "options": [{"key": "a", "text": "a. in a different language（用不同的語言）"}, {"key": "b", "text": "b. in a different tune（用不同的曲調）"}, {"key": "c", "text": "c. in a different voice（用不同的嗓音）"}, {"key": "d", "text": "d. about a different story（關於不同的故事）"}], "explanation": "Heidi 說 I can sing it in German and in Cantonese，用不同語言唱，所以選 a。"},
-      {"id": "l4", "text": "4. What is 'Don't Get Angry'?", "answer": "c", "options": [{"key": "a", "text": "a. a Chinese board game（中國棋盤遊戲）"}, {"key": "b", "text": "b. a Chinese card game（中國紙牌遊戲）"}, {"key": "c", "text": "c. a German board game（德國棋盤遊戲）"}, {"key": "d", "text": "d. a German card game（德國紙牌遊戲）"}], "explanation": "Mr Tam 說 It is from Germany（來自德國）的棋盤遊戲，所以選 c。"},
-      {"id": "l5", "text": "5. What is Mr Tam going to teach Heidi?", "answer": "c", "options": [{"key": "a", "text": "a. 'Don't Get Angry'"}, {"key": "b", "text": "b. 'Aeroplane Chess'"}, {"key": "c", "text": "c. Chinese checkers（中國跳棋）"}, {"key": "d", "text": "d. Chinese chess（中國象棋）"}], "explanation": "Mr Tam 說 It's Chinese checkers. I'm going to teach you today，所以選 c。"},
-      {"id": "l6", "text": "6. What books does Heidi want to read?", "answer": "c", "options": [{"key": "a", "text": "a. Chinese storybooks（中文故事書）"}, {"key": "b", "text": "b. Chinese comic books（中文漫畫書）"}, {"key": "c", "text": "c. English comic books（英文漫畫書）"}, {"key": "d", "text": "d. German storybooks（德文故事書）"}], "explanation": "Heidi 說 I want to read English comic books，所以選 c。"}
+      {
+        "id": "l1",
+        "text": "1. Where are Heidi and Mr Tam?",
+        "answer": "b",
+        "options": [
+          {
+            "key": "a",
+            "text": "a. in a playground（遊樂場）"
+          },
+          {
+            "key": "b",
+            "text": "b. in a park（公園）"
+          },
+          {
+            "key": "c",
+            "text": "c. in a fruit market（水果市場）"
+          },
+          {
+            "key": "d",
+            "text": "d. in a fish market（魚市場）"
+          }
+        ],
+        "explanation": "對話說 They are walking in a park，所以選 b（公園）。"
+      },
+      {
+        "id": "l2",
+        "text": "2. Which of the following sentences is true?",
+        "answer": "b",
+        "options": [
+          {
+            "key": "a",
+            "text": "a. Chocolate eggs in Hong Kong are sweeter.（香港的巧克力蛋更甜）"
+          },
+          {
+            "key": "b",
+            "text": "b. Chocolate eggs in Germany are sweeter.（德國的巧克力蛋更甜）"
+          },
+          {
+            "key": "c",
+            "text": "c. Chocolate eggs in Hong Kong and Germany are the same.（兩地的一樣）"
+          },
+          {
+            "key": "d",
+            "text": "d. Heidi does not eat chocolate eggs.（Heidi 不吃巧克力蛋）"
+          }
+        ],
+        "explanation": "Heidi 說 In Germany, our chocolate eggs are sweeter，所以選 b。"
+      },
+      {
+        "id": "l3",
+        "text": "3. Heidi can sing 'Brother John' ____.",
+        "answer": "a",
+        "options": [
+          {
+            "key": "a",
+            "text": "a. in a different language（用不同的語言）"
+          },
+          {
+            "key": "b",
+            "text": "b. in a different tune（用不同的曲調）"
+          },
+          {
+            "key": "c",
+            "text": "c. in a different voice（用不同的嗓音）"
+          },
+          {
+            "key": "d",
+            "text": "d. about a different story（關於不同的故事）"
+          }
+        ],
+        "explanation": "Heidi 說 I can sing it in German and in Cantonese，用不同語言唱，所以選 a。"
+      },
+      {
+        "id": "l4",
+        "text": "4. What is 'Don't Get Angry'?",
+        "answer": "c",
+        "options": [
+          {
+            "key": "a",
+            "text": "a. a Chinese board game（中國棋盤遊戲）"
+          },
+          {
+            "key": "b",
+            "text": "b. a Chinese card game（中國紙牌遊戲）"
+          },
+          {
+            "key": "c",
+            "text": "c. a German board game（德國棋盤遊戲）"
+          },
+          {
+            "key": "d",
+            "text": "d. a German card game（德國紙牌遊戲）"
+          }
+        ],
+        "explanation": "Mr Tam 說 It is from Germany（來自德國）的棋盤遊戲，所以選 c。"
+      },
+      {
+        "id": "l5",
+        "text": "5. What is Mr Tam going to teach Heidi?",
+        "answer": "c",
+        "options": [
+          {
+            "key": "a",
+            "text": "a. 'Don't Get Angry'"
+          },
+          {
+            "key": "b",
+            "text": "b. 'Aeroplane Chess'"
+          },
+          {
+            "key": "c",
+            "text": "c. Chinese checkers（中國跳棋）"
+          },
+          {
+            "key": "d",
+            "text": "d. Chinese chess（中國象棋）"
+          }
+        ],
+        "explanation": "Mr Tam 說 It's Chinese checkers. I'm going to teach you today，所以選 c。"
+      },
+      {
+        "id": "l6",
+        "text": "6. What books does Heidi want to read?",
+        "answer": "c",
+        "options": [
+          {
+            "key": "a",
+            "text": "a. Chinese storybooks（中文故事書）"
+          },
+          {
+            "key": "b",
+            "text": "b. Chinese comic books（中文漫畫書）"
+          },
+          {
+            "key": "c",
+            "text": "c. English comic books（英文漫畫書）"
+          },
+          {
+            "key": "d",
+            "text": "d. German storybooks（德文故事書）"
+          }
+        ],
+        "explanation": "Heidi 說 I want to read English comic books，所以選 c。"
+      }
     ]
   },
   "textType": {
@@ -83,32 +668,179 @@
     "description": "私人書信（personal letter）是寫給家人或朋友的信，包含我們的經歷、意見和感受。一封書信包括日期（Date）、稱呼（Salutation）、正文（Body）、結尾（Closing）和簽名（Signature）：",
     "model": {
       "title": "Heidi's letter to Grandma（Heidi 給祖母的信）",
-      "parts": ["Date（日期）", "Salutation（稱呼）", "Body（正文）", "Closing（結尾）", "Signature（簽名）"],
+      "parts": [
+        "Date（日期）",
+        "Salutation（稱呼）",
+        "Body（正文）",
+        "Closing（結尾）",
+        "Signature（簽名）"
+      ],
       "body": "<strong>14th June, 20XX</strong><br>Dear Grandma,<br>I have learned a lot about the local culture in Hong Kong. People do not eat as many potatoes or as much bread as we do. People here have different religions, too — there are Buddhists, Taoists, Muslims ...<br>I have seen a few ceremonies where people wear traditional Chinese costumes. My favourite costume is the cheongsam. It is very beautiful. You would look great in one, Granny!<br>Take care,<br>Heidi",
       "zh": "<strong>20XX 年 6 月 14 日</strong><br>親愛的祖母：<br>我在香港學到了很多關於本地文化的事。這裡的人不像我們吃那麼多馬鈴薯或那麼多麵包。這裡的人也有不同的宗教——有佛教徒、道教徒、穆斯林……<br>我見過幾場人們穿傳統中國服飾的儀式。我最喜歡的服飾是旗袍。它非常漂亮。您穿一件一定很好看，奶奶！<br>保重，<br>Heidi",
       "pairs": [
-        {"en": "personal letter", "zh": "私人書信"},
-        {"en": "Salutation", "zh": "稱呼"},
-        {"en": "local culture", "zh": "本地文化"},
-        {"en": "traditional Chinese costumes", "zh": "傳統中國服飾"},
-        {"en": "cheongsam", "zh": "旗袍"}
+        {
+          "en": "personal letter",
+          "zh": "私人書信"
+        },
+        {
+          "en": "Salutation",
+          "zh": "稱呼"
+        },
+        {
+          "en": "local culture",
+          "zh": "本地文化"
+        },
+        {
+          "en": "traditional Chinese costumes",
+          "zh": "傳統中國服飾"
+        },
+        {
+          "en": "cheongsam",
+          "zh": "旗袍"
+        }
       ],
-      "sentences": ["<strong>14th June, 20XX</strong>", "Dear Grandma,", "I have learned a lot about the local culture in Hong Kong.", "People do not eat as many potatoes or as much bread as we do.", "People here have different religions, too — there are Buddhists, Taoists, Muslims ...", "I have seen a few ceremonies where people wear traditional Chinese costumes.", "My favourite costume is the cheongsam.", "It is very beautiful.", "You would look great in one, Granny!", "Take care,", "Heidi"],
-      "translation_sentences": ["<strong>20XX 年 6 月 14 日</strong>", "親愛的祖母：", "我在香港學到了很多關於本地文化的事。", "這裡的人不像我們吃那麼多馬鈴薯或那麼多麵包。", "這裡的人也有不同的宗教——有佛教徒、道教徒、穆斯林……", "我見過幾場人們穿傳統中國服飾的儀式。", "我最喜歡的服飾是旗袍。", "它非常漂亮。", "您穿一件一定很好看，奶奶！", "保重，", "Heidi"]
+      "sentences": [
+        "<strong>14th June, 20XX</strong>",
+        "Dear Grandma,",
+        "I have learned a lot about the local culture in Hong Kong.",
+        "People do not eat as many potatoes or as much bread as we do.",
+        "People here have different religions, too — there are Buddhists, Taoists, Muslims ...",
+        "I have seen a few ceremonies where people wear traditional Chinese costumes.",
+        "My favourite costume is the cheongsam.",
+        "It is very beautiful.",
+        "You would look great in one, Granny!",
+        "Take care,",
+        "Heidi"
+      ],
+      "translation_sentences": [
+        "<strong>20XX 年 6 月 14 日</strong>",
+        "親愛的祖母：",
+        "我在香港學到了很多關於本地文化的事。",
+        "這裡的人不像我們吃那麼多馬鈴薯或那麼多麵包。",
+        "這裡的人也有不同的宗教——有佛教徒、道教徒、穆斯林……",
+        "我見過幾場人們穿傳統中國服飾的儀式。",
+        "我最喜歡的服飾是旗袍。",
+        "它非常漂亮。",
+        "您穿一件一定很好看，奶奶！",
+        "保重，",
+        "Heidi"
+      ]
     },
     "questions": [
-      {"id": "q1", "text": "1. In which part of the letter can you read about Hong Kong culture?", "answer": "b", "options": [{"key": "a", "text": "a. salutation（稱呼）"}, {"key": "b", "text": "b. body（正文）"}, {"key": "c", "text": "c. closing（結尾）"}, {"key": "d", "text": "d. signature（簽名）"}], "explanation": "正文（body）包含信的主要內容，談到香港文化的部分在正文，所以選 b。"},
-      {"id": "q2", "text": "2. Which of the following sentences is NOT true?", "answer": "b", "options": [{"key": "a", "text": "a. Heidi likes cheongsams.（Heidi 喜歡旗袍）"}, {"key": "b", "text": "b. Grandma has a cheongsam.（祖母有一件旗袍）"}, {"key": "c", "text": "c. Heidi thinks cheongsams are beautiful.（Heidi 覺得旗袍漂亮）"}, {"key": "d", "text": "d. The cheongsam is a Chinese costume.（旗袍是中國服飾）"}], "explanation": "信中說 You would look great in one, Granny（您穿一定好看）——是建議祖母穿，不是說她已有旗袍，所以 b 不正確。"}
+      {
+        "id": "q1",
+        "text": "1. In which part of the letter can you read about Hong Kong culture?",
+        "answer": "b",
+        "options": [
+          {
+            "key": "a",
+            "text": "a. salutation（稱呼）"
+          },
+          {
+            "key": "b",
+            "text": "b. body（正文）"
+          },
+          {
+            "key": "c",
+            "text": "c. closing（結尾）"
+          },
+          {
+            "key": "d",
+            "text": "d. signature（簽名）"
+          }
+        ],
+        "explanation": "正文（body）包含信的主要內容，談到香港文化的部分在正文，所以選 b。"
+      },
+      {
+        "id": "q2",
+        "text": "2. Which of the following sentences is NOT true?",
+        "answer": "b",
+        "options": [
+          {
+            "key": "a",
+            "text": "a. Heidi likes cheongsams.（Heidi 喜歡旗袍）"
+          },
+          {
+            "key": "b",
+            "text": "b. Grandma has a cheongsam.（祖母有一件旗袍）"
+          },
+          {
+            "key": "c",
+            "text": "c. Heidi thinks cheongsams are beautiful.（Heidi 覺得旗袍漂亮）"
+          },
+          {
+            "key": "d",
+            "text": "d. The cheongsam is a Chinese costume.（旗袍是中國服飾）"
+          }
+        ],
+        "explanation": "信中說 You would look great in one, Granny（您穿一定好看）——是建議祖母穿，不是說她已有旗袍，所以 b 不正確。"
+      }
     ]
   },
   "grammar": [
-    {"title": "比較：the same / similar / different ＋ could / couldn't（過去的能）", "examples": [
-      {"en": "We played the same games I always play in Germany.", "zh": "我們玩了我一直在德國玩的相同遊戲。（the same 相同的）", "pairs": [{"en": "the same games", "zh": "相同的遊戲"}]},
-      {"en": "Ting-ting's and Fei-fei's cheongsams are similar.", "zh": "婷婷和飛飛的旗袍很相似。（similar 相似的）", "pairs": [{"en": "are similar", "zh": "很相似"}]},
-      {"en": "Hong Kong looks so different from Hof.", "zh": "香港看起來和 Hof 很不一樣。（different from 和…不同）", "pairs": [{"en": "different from", "zh": "和…不同"}]},
-      {"en": "Could you cook Chinese food at first? No, I couldn't.", "zh": "一開始你會煮中國菜嗎？不，我不會。（could/couldn't 表示過去的能）", "pairs": [{"en": "Could you cook Chinese food?", "zh": "你會煮中國菜嗎？"}, {"en": "I couldn't", "zh": "我不會"}]},
-      {"en": "Could you tell me the way to the MTR station? Sure. Walk across the footbridge.", "zh": "你能告訴我去地鐵站的路嗎？當然可以。走過行人天橋。（could you 表示請求）", "pairs": [{"en": "tell me the way", "zh": "告訴我路"}, {"en": "walk across the footbridge", "zh": "走過行人天橋"}]}
-    ]}
+    {
+      "title": "比較：the same / similar / different ＋ could / couldn't（過去的能）",
+      "examples": [
+        {
+          "en": "We played the same games I always play in Germany.",
+          "zh": "我們玩了我一直在德國玩的相同遊戲。（the same 相同的）",
+          "pairs": [
+            {
+              "en": "the same games",
+              "zh": "相同的遊戲"
+            }
+          ]
+        },
+        {
+          "en": "Ting-ting's and Fei-fei's cheongsams are similar.",
+          "zh": "婷婷和飛飛的旗袍很相似。（similar 相似的）",
+          "pairs": [
+            {
+              "en": "are similar",
+              "zh": "很相似"
+            }
+          ]
+        },
+        {
+          "en": "Hong Kong looks so different from Hof.",
+          "zh": "香港看起來和 Hof 很不一樣。（different from 和…不同）",
+          "pairs": [
+            {
+              "en": "different from",
+              "zh": "和…不同"
+            }
+          ]
+        },
+        {
+          "en": "Could you cook Chinese food at first? No, I couldn't.",
+          "zh": "一開始你會煮中國菜嗎？不，我不會。（could/couldn't 表示過去的能）",
+          "pairs": [
+            {
+              "en": "Could you cook Chinese food?",
+              "zh": "你會煮中國菜嗎？"
+            },
+            {
+              "en": "I couldn't",
+              "zh": "我不會"
+            }
+          ]
+        },
+        {
+          "en": "Could you tell me the way to the MTR station? Sure. Walk across the footbridge.",
+          "zh": "你能告訴我去地鐵站的路嗎？當然可以。走過行人天橋。（could you 表示請求）",
+          "pairs": [
+            {
+              "en": "tell me the way",
+              "zh": "告訴我路"
+            },
+            {
+              "en": "walk across the footbridge",
+              "zh": "走過行人天橋"
+            }
+          ]
+        }
+      ]
+    }
   ],
   "practice": {
     "intro": "根據 Unit 6（Culture shock）內容完成以下練習題：",
@@ -117,11 +849,126 @@
       "icon": "fa-search",
       "description": "根據 Heidi 的日記，選擇最佳答案：",
       "questions": [
-        {"id": "rc1", "text": "1. What is Heidi's home town in Germany?", "answer": "c", "options": [{"key": "a", "text": "a. Berlin"}, {"key": "b", "text": "b. Hamburg"}, {"key": "c", "text": "c. Hof"}, {"key": "d", "text": "d. Munich"}], "explanation": "日記說 Hong Kong looks so different from Hof，所以 Heidi 的家鄉是 Hof。"},
-        {"id": "rc2", "text": "2. Find a word in the diary which means 'tall buildings'.", "answer": "b", "options": [{"key": "a", "text": "a. lawn"}, {"key": "b", "text": "b. high-rises"}, {"key": "c", "text": "c. joss sticks"}, {"key": "d", "text": "d. hopscotch"}], "explanation": "high-rises（高樓大廈）就是 tall buildings。"},
-        {"id": "rc3", "text": "3. Why couldn't Heidi understand people in Hong Kong?", "answer": "d", "options": [{"key": "a", "text": "a. They spoke too fast."}, {"key": "b", "text": "b. She was too tired."}, {"key": "c", "text": "c. The streets were confusing."}, {"key": "d", "text": "d. They speak Cantonese."}], "explanation": "日記說 I cannot understand what the people say because they speak Cantonese。"},
-        {"id": "rc4", "text": "4. What did Heidi eat for breakfast on 12th April?", "answer": "a", "options": [{"key": "a", "text": "a. congee（粥）"}, {"key": "b", "text": "b. fried rice（炒飯）"}, {"key": "c", "text": "c. bread and pumpkin soup（麵包和南瓜湯）"}, {"key": "d", "text": "d. pork and vegetables（豬肉和蔬菜）"}], "explanation": "日記說 I had congee for breakfast, fried rice for lunch, and pork and vegetables with rice for dinner。"},
-        {"id": "rc5", "text": "5. What is NOT allowed in Hong Kong parks according to the diary?", "answer": "b", "options": [{"key": "a", "text": "a. walking on the paths（在小路上走）"}, {"key": "b", "text": "b. playing on the grass（在草地上玩）"}, {"key": "c", "text": "c. playing hide-and-seek（玩捉迷藏）"}, {"key": "d", "text": "d. playing hopscotch（玩跳房子）"}], "explanation": "Mrs Tam 說 Don't step on the grass! 在香港公園的草地上玩是不允許的，所以選 b。"}
+        {
+          "id": "rc1",
+          "text": "1. What is Heidi's home town in Germany?",
+          "answer": "c",
+          "options": [
+            {
+              "key": "a",
+              "text": "a. Berlin"
+            },
+            {
+              "key": "b",
+              "text": "b. Hamburg"
+            },
+            {
+              "key": "c",
+              "text": "c. Hof"
+            },
+            {
+              "key": "d",
+              "text": "d. Munich"
+            }
+          ],
+          "explanation": "日記說 Hong Kong looks so different from Hof，所以 Heidi 的家鄉是 Hof。"
+        },
+        {
+          "id": "rc2",
+          "text": "2. Find a word in the diary which means 'tall buildings'.",
+          "answer": "b",
+          "options": [
+            {
+              "key": "a",
+              "text": "a. lawn"
+            },
+            {
+              "key": "b",
+              "text": "b. high-rises"
+            },
+            {
+              "key": "c",
+              "text": "c. joss sticks"
+            },
+            {
+              "key": "d",
+              "text": "d. hopscotch"
+            }
+          ],
+          "explanation": "high-rises（高樓大廈）就是 tall buildings。"
+        },
+        {
+          "id": "rc3",
+          "text": "3. Why couldn't Heidi understand people in Hong Kong?",
+          "answer": "d",
+          "options": [
+            {
+              "key": "a",
+              "text": "a. They spoke too fast."
+            },
+            {
+              "key": "b",
+              "text": "b. She was too tired."
+            },
+            {
+              "key": "c",
+              "text": "c. The streets were confusing."
+            },
+            {
+              "key": "d",
+              "text": "d. They speak Cantonese."
+            }
+          ],
+          "explanation": "日記說 I cannot understand what the people say because they speak Cantonese。"
+        },
+        {
+          "id": "rc4",
+          "text": "4. What did Heidi eat for breakfast on 12th April?",
+          "answer": "a",
+          "options": [
+            {
+              "key": "a",
+              "text": "a. congee（粥）"
+            },
+            {
+              "key": "b",
+              "text": "b. fried rice（炒飯）"
+            },
+            {
+              "key": "c",
+              "text": "c. bread and pumpkin soup（麵包和南瓜湯）"
+            },
+            {
+              "key": "d",
+              "text": "d. pork and vegetables（豬肉和蔬菜）"
+            }
+          ],
+          "explanation": "日記說 I had congee for breakfast, fried rice for lunch, and pork and vegetables with rice for dinner。"
+        },
+        {
+          "id": "rc5",
+          "text": "5. What is NOT allowed in Hong Kong parks according to the diary?",
+          "answer": "b",
+          "options": [
+            {
+              "key": "a",
+              "text": "a. walking on the paths（在小路上走）"
+            },
+            {
+              "key": "b",
+              "text": "b. playing on the grass（在草地上玩）"
+            },
+            {
+              "key": "c",
+              "text": "c. playing hide-and-seek（玩捉迷藏）"
+            },
+            {
+              "key": "d",
+              "text": "d. playing hopscotch（玩跳房子）"
+            }
+          ],
+          "explanation": "Mrs Tam 說 Don't step on the grass! 在香港公園的草地上玩是不允許的，所以選 b。"
+        }
       ]
     },
     "readingQA": {
@@ -129,25 +976,73 @@
       "icon": "fa-question-circle",
       "description": "用完整的句子回答下列問題：",
       "questions": [
-        {"q": "1. Do you think Heidi likes the things in Hong Kong? Give two examples.（你覺得 Heidi 喜歡香港的事物嗎？舉兩個例子。）", "a": "Yes. She likes playing hide-and-seek with her new friends and she thinks Chinese food is tasty.", "zh": "喜歡。她喜歡和新朋友玩捉迷藏，而且覺得中國菜很好吃。", "explanation": "日記說 My new friends were very nice... Chinese food is tasty。"},
-        {"q": "2. Do you want to study in a foreign country? Why or why not?（你想在外國留學嗎？為甚麼？）", "a": "Yes, I do. I want to learn a new language and make new friends.", "zh": "想。我想學新語言和認識新朋友。", "explanation": "開放題，說出你的想法和理由即可。"},
-        {"q": "3. What games did Heidi play at school?（Heidi 在學校玩甚麼遊戲？）", "a": "She played hide-and-seek and hopscotch.", "zh": "她玩捉迷藏和跳房子。", "explanation": "日記說 We played hide-and-seek and hopscotch — the same games I always play in Germany!"}
+        {
+          "q": "1. Do you think Heidi likes the things in Hong Kong? Give two examples.（你覺得 Heidi 喜歡香港的事物嗎？舉兩個例子。）",
+          "a": "Yes. She likes playing hide-and-seek with her new friends and she thinks Chinese food is tasty.",
+          "zh": "喜歡。她喜歡和新朋友玩捉迷藏，而且覺得中國菜很好吃。",
+          "explanation": "日記說 My new friends were very nice... Chinese food is tasty。"
+        },
+        {
+          "q": "2. Do you want to study in a foreign country? Why or why not?（你想在外國留學嗎？為甚麼？）",
+          "a": "Yes, I do. I want to learn a new language and make new friends.",
+          "zh": "想。我想學新語言和認識新朋友。",
+          "explanation": "開放題，說出你的想法和理由即可。"
+        },
+        {
+          "q": "3. What games did Heidi play at school?（Heidi 在學校玩甚麼遊戲？）",
+          "a": "She played hide-and-seek and hopscotch.",
+          "zh": "她玩捉迷藏和跳房子。",
+          "explanation": "日記說 We played hide-and-seek and hopscotch — the same games I always play in Germany!"
+        }
       ]
     },
     "wordBank": {
       "title": "練習 3：Words to learn 分類填空",
       "icon": "fa-tags",
       "description": "用所給詞彙填空（傳統服飾／食物／建築／語言）：",
-      "bank": ["Cantonese", "cheongsam", "church", "congee", "German", "kimono", "pumpkin soup", "temple"],
+      "bank": [
+        "Cantonese",
+        "cheongsam",
+        "church",
+        "congee",
+        "German",
+        "kimono",
+        "pumpkin soup",
+        "temple"
+      ],
       "items": [
-        {"prompt": "Traditional costume（傳統服飾）: 旗袍", "answer": "cheongsam"},
-        {"prompt": "Traditional costume（傳統服飾）: 和服", "answer": "kimono"},
-        {"prompt": "Food（食物）: 粥", "answer": "congee"},
-        {"prompt": "Food（食物）: 南瓜湯", "answer": "pumpkin soup"},
-        {"prompt": "Building（建築）: 教堂", "answer": "church"},
-        {"prompt": "Building（建築）: 寺廟", "answer": "temple"},
-        {"prompt": "Language（語言）: 粵語", "answer": "Cantonese"},
-        {"prompt": "Language（語言）: 德語", "answer": "German"}
+        {
+          "prompt": "Traditional costume（傳統服飾）: 旗袍",
+          "answer": "cheongsam"
+        },
+        {
+          "prompt": "Traditional costume（傳統服飾）: 和服",
+          "answer": "kimono"
+        },
+        {
+          "prompt": "Food（食物）: 粥",
+          "answer": "congee"
+        },
+        {
+          "prompt": "Food（食物）: 南瓜湯",
+          "answer": "pumpkin soup"
+        },
+        {
+          "prompt": "Building（建築）: 教堂",
+          "answer": "church"
+        },
+        {
+          "prompt": "Building（建築）: 寺廟",
+          "answer": "temple"
+        },
+        {
+          "prompt": "Language（語言）: 粵語",
+          "answer": "Cantonese"
+        },
+        {
+          "prompt": "Language（語言）: 德語",
+          "answer": "German"
+        }
       ]
     },
     "discussion": {
@@ -169,32 +1064,398 @@
     "info": "滿分：15分",
     "maxScore": 15,
     "sections": [
-      {"type": "choice", "attr": "quiz", "keyPrefix": "", "title": "詞彙題：文化詞彙（每題 1 分）", "icon": "fa-check-circle", "questions": [
-        {"id": 1, "text": "1. ______ are tall buildings.", "options": [{"key": "a", "text": "A. High-rises"}, {"key": "b", "text": "B. Joss sticks"}, {"key": "c", "text": "C. Lawns"}, {"key": "d", "text": "D. Getas"}], "answer": "a", "explanation": "high-rises（高樓大廈）是 tall buildings。"},
-        {"id": 2, "text": "2. A ______ is a thick soup of rice.", "options": [{"key": "a", "text": "A. kimono"}, {"key": "b", "text": "B. congee"}, {"key": "c", "text": "C. cheongsam"}, {"key": "d", "text": "D. hotpot"}], "answer": "b", "explanation": "congee（粥）是濃稠的米湯。"},
-        {"id": 3, "text": "3. People in Hong Kong speak ______.", "options": [{"key": "a", "text": "A. German"}, {"key": "b", "text": "B. Cantonese"}, {"key": "c", "text": "C. English"}, {"key": "d", "text": "D. French"}], "answer": "b", "explanation": "香港人說粵語（Cantonese）。"},
-        {"id": 4, "text": "4. A ______ is a traditional Chinese costume.", "options": [{"key": "a", "text": "A. kimono"}, {"key": "b", "text": "B. geta"}, {"key": "c", "text": "C. cheongsam"}, {"key": "d", "text": "D. joss stick"}], "answer": "c", "explanation": "旗袍（cheongsam）是傳統中國服飾。"},
-        {"id": 5, "text": "5. Buddhists and Taoists are people who have different ______.", "options": [{"key": "a", "text": "A. games"}, {"key": "b", "text": "B. foods"}, {"key": "c", "text": "C. costumes"}, {"key": "d", "text": "D. religions"}], "answer": "d", "explanation": "佛教徒和道教徒信仰不同宗教（religions）。"}
-      ]},
-      {"type": "choice", "attr": "quiz", "keyPrefix": "", "title": "文法題：比較與 could（每題 1 分）", "icon": "fa-font", "questions": [
-        {"id": 1, "text": "1. We played ______ games I always play in Germany.", "options": [{"key": "a", "text": "A. same"}, {"key": "b", "text": "B. the same"}, {"key": "c", "text": "C. similar"}, {"key": "d", "text": "D. different"}], "answer": "b", "explanation": "the same games（相同的遊戲）。"},
-        {"id": 2, "text": "2. Hong Kong looks so different ______ Hof.", "options": [{"key": "a", "text": "A. with"}, {"key": "b", "text": "B. to"}, {"key": "c", "text": "C. from"}, {"key": "d", "text": "D. than"}], "answer": "c", "explanation": "different from（和…不同）。"},
-        {"id": 3, "text": "3. ______ you cook Chinese food at first? No, I ______.", "options": [{"key": "a", "text": "A. Can ... can't"}, {"key": "b", "text": "B. Could ... couldn't"}, {"key": "c", "text": "C. Could ... can't"}, {"key": "d", "text": "D. Can ... couldn't"}], "answer": "b", "explanation": "at first（一開始）是過去，用 could / couldn't。"},
-        {"id": 4, "text": "4. Nana's and Kana's kimonos are ______. They are exactly the same.", "options": [{"key": "a", "text": "A. similar"}, {"key": "b", "text": "B. different"}, {"key": "c", "text": "C. the same"}, {"key": "d", "text": "D. from"}], "answer": "c", "explanation": "完全一樣用 the same。"},
-        {"id": 5, "text": "5. Ting-ting's and Fei-fei's cheongsams are ______. They look alike but not exactly the same.", "options": [{"key": "a", "text": "A. the same"}, {"key": "b", "text": "B. similar"}, {"key": "c", "text": "C. same"}, {"key": "d", "text": "D. like"}], "answer": "b", "explanation": "相似但不完全相同用 similar。"}
-      ]},
-      {"type": "choice", "attr": "quiz", "keyPrefix": "", "title": "閱讀題（每題 1 分）", "icon": "fa-book-open", "questions": [
-        {"id": 1, "text": "1. Where is Heidi from?", "options": [{"key": "a", "text": "A. Germany"}, {"key": "b", "text": "B. Hong Kong"}, {"key": "c", "text": "C. Japan"}, {"key": "d", "text": "D. France"}], "answer": "a", "explanation": "Heidi 是來自德國的學生（a student from Germany）。"},
-        {"id": 2, "text": "2. In Germany, shops and shopping centres do not open on ______.", "options": [{"key": "a", "text": "A. Mondays"}, {"key": "b", "text": "B. Sundays"}, {"key": "c", "text": "C. Saturdays"}, {"key": "d", "text": "D. Fridays"}], "answer": "b", "explanation": "In Germany, shops and shopping centres do not open on Sundays（星期日）。"},
-        {"id": 3, "text": "3. Why did Mrs Tam stop Heidi on the lawn?", "options": [{"key": "a", "text": "A. It was dangerous."}, {"key": "b", "text": "B. Heidi was late for school."}, {"key": "c", "text": "C. Stepping on the grass is not allowed in Hong Kong."}, {"key": "d", "text": "D. The grass was wet."}], "answer": "c", "explanation": "在香港不允許踩草地（it is not allowed in Hong Kong）。"},
-        {"id": 4, "text": "4. What did Heidi have for lunch on 12th April?", "options": [{"key": "a", "text": "A. congee"}, {"key": "b", "text": "B. fried rice"}, {"key": "c", "text": "C. pumpkin soup"}, {"key": "d", "text": "D. bread"}], "answer": "b", "explanation": "I had congee for breakfast, fried rice for lunch..."},
-        {"id": 5, "text": "5. What is Heidi's favourite Chinese costume in her letter?", "options": [{"key": "a", "text": "A. the kimono"}, {"key": "b", "text": "B. the geta"}, {"key": "c", "text": "C. the cheongsam"}, {"key": "d", "text": "D. the joss stick"}], "answer": "c", "explanation": "信中說 My favourite costume is the cheongsam（旗袍）。"}
-      ]}
+      {
+        "type": "choice",
+        "attr": "quiz",
+        "keyPrefix": "",
+        "title": "詞彙題：文化詞彙（每題 1 分）",
+        "icon": "fa-check-circle",
+        "questions": [
+          {
+            "id": 1,
+            "text": "1. ______ are tall buildings.",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. High-rises"
+              },
+              {
+                "key": "b",
+                "text": "B. Joss sticks"
+              },
+              {
+                "key": "c",
+                "text": "C. Lawns"
+              },
+              {
+                "key": "d",
+                "text": "D. Getas"
+              }
+            ],
+            "answer": "a",
+            "explanation": "high-rises（高樓大廈）是 tall buildings。"
+          },
+          {
+            "id": 2,
+            "text": "2. A ______ is a thick soup of rice.",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. kimono"
+              },
+              {
+                "key": "b",
+                "text": "B. congee"
+              },
+              {
+                "key": "c",
+                "text": "C. cheongsam"
+              },
+              {
+                "key": "d",
+                "text": "D. hotpot"
+              }
+            ],
+            "answer": "b",
+            "explanation": "congee（粥）是濃稠的米湯。"
+          },
+          {
+            "id": 3,
+            "text": "3. People in Hong Kong speak ______.",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. German"
+              },
+              {
+                "key": "b",
+                "text": "B. Cantonese"
+              },
+              {
+                "key": "c",
+                "text": "C. English"
+              },
+              {
+                "key": "d",
+                "text": "D. French"
+              }
+            ],
+            "answer": "b",
+            "explanation": "香港人說粵語（Cantonese）。"
+          },
+          {
+            "id": 4,
+            "text": "4. A ______ is a traditional Chinese costume.",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. kimono"
+              },
+              {
+                "key": "b",
+                "text": "B. geta"
+              },
+              {
+                "key": "c",
+                "text": "C. cheongsam"
+              },
+              {
+                "key": "d",
+                "text": "D. joss stick"
+              }
+            ],
+            "answer": "c",
+            "explanation": "旗袍（cheongsam）是傳統中國服飾。"
+          },
+          {
+            "id": 5,
+            "text": "5. Buddhists and Taoists are people who have different ______.",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. games"
+              },
+              {
+                "key": "b",
+                "text": "B. foods"
+              },
+              {
+                "key": "c",
+                "text": "C. costumes"
+              },
+              {
+                "key": "d",
+                "text": "D. religions"
+              }
+            ],
+            "answer": "d",
+            "explanation": "佛教徒和道教徒信仰不同宗教（religions）。"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "attr": "quiz",
+        "keyPrefix": "",
+        "title": "文法題：比較與 could（每題 1 分）",
+        "icon": "fa-font",
+        "questions": [
+          {
+            "id": 1,
+            "text": "1. We played ______ games I always play in Germany.",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. same"
+              },
+              {
+                "key": "b",
+                "text": "B. the same"
+              },
+              {
+                "key": "c",
+                "text": "C. similar"
+              },
+              {
+                "key": "d",
+                "text": "D. different"
+              }
+            ],
+            "answer": "b",
+            "explanation": "the same games（相同的遊戲）。"
+          },
+          {
+            "id": 2,
+            "text": "2. Hong Kong looks so different ______ Hof.",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. with"
+              },
+              {
+                "key": "b",
+                "text": "B. to"
+              },
+              {
+                "key": "c",
+                "text": "C. from"
+              },
+              {
+                "key": "d",
+                "text": "D. than"
+              }
+            ],
+            "answer": "c",
+            "explanation": "different from（和…不同）。"
+          },
+          {
+            "id": 3,
+            "text": "3. ______ you cook Chinese food at first? No, I ______.",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. Can ... can't"
+              },
+              {
+                "key": "b",
+                "text": "B. Could ... couldn't"
+              },
+              {
+                "key": "c",
+                "text": "C. Could ... can't"
+              },
+              {
+                "key": "d",
+                "text": "D. Can ... couldn't"
+              }
+            ],
+            "answer": "b",
+            "explanation": "at first（一開始）是過去，用 could / couldn't。"
+          },
+          {
+            "id": 4,
+            "text": "4. Nana's and Kana's kimonos are ______. They are exactly the same.",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. similar"
+              },
+              {
+                "key": "b",
+                "text": "B. different"
+              },
+              {
+                "key": "c",
+                "text": "C. the same"
+              },
+              {
+                "key": "d",
+                "text": "D. from"
+              }
+            ],
+            "answer": "c",
+            "explanation": "完全一樣用 the same。"
+          },
+          {
+            "id": 5,
+            "text": "5. Ting-ting's and Fei-fei's cheongsams are ______. They look alike but not exactly the same.",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. the same"
+              },
+              {
+                "key": "b",
+                "text": "B. similar"
+              },
+              {
+                "key": "c",
+                "text": "C. same"
+              },
+              {
+                "key": "d",
+                "text": "D. like"
+              }
+            ],
+            "answer": "b",
+            "explanation": "相似但不完全相同用 similar。"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "attr": "quiz",
+        "keyPrefix": "",
+        "title": "閱讀題（每題 1 分）",
+        "icon": "fa-book-open",
+        "questions": [
+          {
+            "id": 1,
+            "text": "1. Where is Heidi from?",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. Germany"
+              },
+              {
+                "key": "b",
+                "text": "B. Hong Kong"
+              },
+              {
+                "key": "c",
+                "text": "C. Japan"
+              },
+              {
+                "key": "d",
+                "text": "D. France"
+              }
+            ],
+            "answer": "a",
+            "explanation": "Heidi 是來自德國的學生（a student from Germany）。"
+          },
+          {
+            "id": 2,
+            "text": "2. In Germany, shops and shopping centres do not open on ______.",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. Mondays"
+              },
+              {
+                "key": "b",
+                "text": "B. Sundays"
+              },
+              {
+                "key": "c",
+                "text": "C. Saturdays"
+              },
+              {
+                "key": "d",
+                "text": "D. Fridays"
+              }
+            ],
+            "answer": "b",
+            "explanation": "In Germany, shops and shopping centres do not open on Sundays（星期日）。"
+          },
+          {
+            "id": 3,
+            "text": "3. Why did Mrs Tam stop Heidi on the lawn?",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. It was dangerous."
+              },
+              {
+                "key": "b",
+                "text": "B. Heidi was late for school."
+              },
+              {
+                "key": "c",
+                "text": "C. Stepping on the grass is not allowed in Hong Kong."
+              },
+              {
+                "key": "d",
+                "text": "D. The grass was wet."
+              }
+            ],
+            "answer": "c",
+            "explanation": "在香港不允許踩草地（it is not allowed in Hong Kong）。"
+          },
+          {
+            "id": 4,
+            "text": "4. What did Heidi have for lunch on 12th April?",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. congee"
+              },
+              {
+                "key": "b",
+                "text": "B. fried rice"
+              },
+              {
+                "key": "c",
+                "text": "C. pumpkin soup"
+              },
+              {
+                "key": "d",
+                "text": "D. bread"
+              }
+            ],
+            "answer": "b",
+            "explanation": "I had congee for breakfast, fried rice for lunch..."
+          },
+          {
+            "id": 5,
+            "text": "5. What is Heidi's favourite Chinese costume in her letter?",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. the kimono"
+              },
+              {
+                "key": "b",
+                "text": "B. the geta"
+              },
+              {
+                "key": "c",
+                "text": "C. the cheongsam"
+              },
+              {
+                "key": "d",
+                "text": "D. the joss stick"
+              }
+            ],
+            "answer": "c",
+            "explanation": "信中說 My favourite costume is the cheongsam（旗袍）。"
+          }
+        ]
+      }
     ]
   },
   "sidebar": {
     "learningPoints": {
-      "title": "Unit 6：Culture shock（文化衝擊）",
+      "title": "4B Unit 6：Culture shock（文化衝擊）",
       "icon": "fa-globe-asia",
       "theme": "跨文化比較",
       "goals": [
@@ -207,10 +1468,31 @@
     },
     "languageFocus": {
       "sections": [
-        {"title": "1. 文化詞彙：", "items": ["cheongsam, kimono, geta, congee, pumpkin soup", "church, temple, Cantonese, German"]},
-        {"title": "2. 比較：", "items": ["the same（相同）/ similar（相似）/ different from（不同）"]},
-        {"title": "3. 過去的能：", "items": ["could / couldn't + 動詞原形（Could you cook Chinese food at first?）"]},
-        {"title": "4. 書信結構：", "items": ["Date, Salutation, Body, Closing, Signature"]}
+        {
+          "title": "1. 文化詞彙：",
+          "items": [
+            "cheongsam, kimono, geta, congee, pumpkin soup",
+            "church, temple, Cantonese, German"
+          ]
+        },
+        {
+          "title": "2. 比較：",
+          "items": [
+            "the same（相同）/ similar（相似）/ different from（不同）"
+          ]
+        },
+        {
+          "title": "3. 過去的能：",
+          "items": [
+            "could / couldn't + 動詞原形（Could you cook Chinese food at first?）"
+          ]
+        },
+        {
+          "title": "4. 書信結構：",
+          "items": [
+            "Date, Salutation, Body, Closing, Signature"
+          ]
+        }
       ]
     }
   }

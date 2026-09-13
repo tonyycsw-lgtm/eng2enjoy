@@ -1,9 +1,9 @@
 {
   "meta": {
-    "pageTitleTag": "Unit 2：The robot postman（機械人郵差）- 小學四年級英文互動練習（Book 4B）",
+    "pageTitleTag": "4B Unit 2：The robot postman（機械人郵差）- 小學英文（範本）互動練習",
     "headerIcon": "fa-robot",
-    "title": "小學四年級英文（Book 4B）",
-    "subtitle": "Unit 2：The robot postman（機械人郵差）— 問路與指路",
+    "title": "小學英文（範本）",
+    "subtitle": "4B Unit 2：The robot postman（機械人郵差）— 問路與指路",
     "storageKey": "p4_ete_book4b_unit2",
     "totalPractice": 6,
     "audioDir": "audio/4B/Unit2"
@@ -12,18 +12,222 @@
     "pages": 4,
     "intro": "點擊卡片查看例句，點擊音頻按鈕聆聽發音：",
     "cards": [
-      {"page": 1, "word": "convenience store", "meaning": "便利店", "icon": "fa-store", "audio": "convenience_store", "example": "There is a convenience store on Tang Shan Street.", "translation": "唐山路有一間便利店。", "exampleAudio": "convenience_store_example", "pairs": [{"en": "convenience store", "zh": "便利店"}]},
-      {"page": 1, "word": "grocery store", "meaning": "雜貨店", "icon": "fa-basket-shopping", "audio": "grocery_store", "example": "The grocery store is opposite the market.", "translation": "雜貨店在街市對面。", "exampleAudio": "grocery_store_example", "pairs": [{"en": "grocery store", "zh": "雜貨店"}, {"en": "opposite", "zh": "在…對面"}]},
-      {"page": 1, "word": "sitting-out area", "meaning": "休憩處", "icon": "fa-tree", "audio": "sitting_out_area", "example": "We can rest in the sitting-out area.", "translation": "我們可以在休憩處休息。", "exampleAudio": "sitting_out_area_example", "pairs": [{"en": "sitting-out area", "zh": "休憩處"}]},
-      {"page": 1, "word": "fountain", "meaning": "噴泉", "icon": "fa-water", "audio": "fountain", "example": "Walk past the fountain and turn right.", "translation": "走過噴泉然後右轉。", "exampleAudio": "fountain_example", "pairs": [{"en": "fountain", "zh": "噴泉"}, {"en": "walk past", "zh": "走過"}]},
-      {"page": 2, "word": "subway", "meaning": "行人隧道", "icon": "fa-person-walking", "audio": "subway", "example": "Walk through the subway to cross the road.", "translation": "走過行人隧道過馬路。", "exampleAudio": "subway_example", "pairs": [{"en": "subway", "zh": "行人隧道"}, {"en": "walk through", "zh": "穿過"}]},
-      {"page": 2, "word": "footbridge", "meaning": "行人天橋", "icon": "fa-bridge", "audio": "footbridge", "example": "The MTR station is across the footbridge.", "translation": "港鐵站在行人天橋對面。", "exampleAudio": "footbridge_example", "pairs": [{"en": "footbridge", "zh": "行人天橋"}, {"en": "across", "zh": "穿過"}]},
-      {"page": 2, "word": "MTR station", "meaning": "港鐵站", "icon": "fa-train-subway", "audio": "mtr_station", "example": "Go past the police station and you will see the MTR station.", "translation": "走過警察局你就會看到港鐵站。", "exampleAudio": "mtr_station_example", "pairs": [{"en": "MTR station", "zh": "港鐵站"}, {"en": "go past", "zh": "經過"}]},
-      {"page": 2, "word": "sports centre", "meaning": "體育中心", "icon": "fa-dumbbell", "audio": "sports_centre", "example": "The sports centre is on your left.", "translation": "體育中心在你的左邊。", "exampleAudio": "sports_centre_example", "pairs": [{"en": "sports centre", "zh": "體育中心"}, {"en": "on your left", "zh": "在你的左邊"}]},
-      {"page": 3, "word": "police station", "meaning": "警察局", "icon": "fa-shield-halved", "audio": "police_station", "example": "Walk along Prince Edward Street and go past the police station.", "translation": "沿王子街走並經過警察局。", "exampleAudio": "police_station_example", "pairs": [{"en": "police station", "zh": "警察局"}]},
-      {"page": 3, "word": "fire station", "meaning": "消防局", "icon": "fa-fire", "audio": "fire_station", "example": "Bobo delivered the third letter to the fire station.", "translation": "Bobo 把第三封信送到消防局。", "exampleAudio": "fire_station_example", "pairs": [{"en": "fire station", "zh": "消防局"}]},
-      {"page": 3, "word": "market", "meaning": "街市", "icon": "fa-basket-shopping", "audio": "market", "example": "The grocery store is opposite the market.", "translation": "雜貨店在街市對面。", "exampleAudio": "market_example", "pairs": [{"en": "market", "zh": "街市"}]},
-      {"page": 4, "word": "post office", "meaning": "郵政局", "icon": "fa-envelope-open-text", "audio": "post_office", "example": "Bobo started his work at the post office.", "translation": "Bobo 在郵政局開始他的工作。", "exampleAudio": "post_office_example", "pairs": [{"en": "post office", "zh": "郵政局"}]}
+      {
+        "page": 1,
+        "word": "convenience store",
+        "meaning": "便利店",
+        "icon": "fa-store",
+        "audio": "convenience_store",
+        "example": "There is a convenience store on Tang Shan Street.",
+        "translation": "唐山路有一間便利店。",
+        "exampleAudio": "convenience_store_example",
+        "pairs": [
+          {
+            "en": "convenience store",
+            "zh": "便利店"
+          }
+        ]
+      },
+      {
+        "page": 1,
+        "word": "grocery store",
+        "meaning": "雜貨店",
+        "icon": "fa-basket-shopping",
+        "audio": "grocery_store",
+        "example": "The grocery store is opposite the market.",
+        "translation": "雜貨店在街市對面。",
+        "exampleAudio": "grocery_store_example",
+        "pairs": [
+          {
+            "en": "grocery store",
+            "zh": "雜貨店"
+          },
+          {
+            "en": "opposite",
+            "zh": "在…對面"
+          }
+        ]
+      },
+      {
+        "page": 1,
+        "word": "sitting-out area",
+        "meaning": "休憩處",
+        "icon": "fa-tree",
+        "audio": "sitting_out_area",
+        "example": "We can rest in the sitting-out area.",
+        "translation": "我們可以在休憩處休息。",
+        "exampleAudio": "sitting_out_area_example",
+        "pairs": [
+          {
+            "en": "sitting-out area",
+            "zh": "休憩處"
+          }
+        ]
+      },
+      {
+        "page": 1,
+        "word": "fountain",
+        "meaning": "噴泉",
+        "icon": "fa-water",
+        "audio": "fountain",
+        "example": "Walk past the fountain and turn right.",
+        "translation": "走過噴泉然後右轉。",
+        "exampleAudio": "fountain_example",
+        "pairs": [
+          {
+            "en": "fountain",
+            "zh": "噴泉"
+          },
+          {
+            "en": "walk past",
+            "zh": "走過"
+          }
+        ]
+      },
+      {
+        "page": 2,
+        "word": "subway",
+        "meaning": "行人隧道",
+        "icon": "fa-person-walking",
+        "audio": "subway",
+        "example": "Walk through the subway to cross the road.",
+        "translation": "走過行人隧道過馬路。",
+        "exampleAudio": "subway_example",
+        "pairs": [
+          {
+            "en": "subway",
+            "zh": "行人隧道"
+          },
+          {
+            "en": "walk through",
+            "zh": "穿過"
+          }
+        ]
+      },
+      {
+        "page": 2,
+        "word": "footbridge",
+        "meaning": "行人天橋",
+        "icon": "fa-bridge",
+        "audio": "footbridge",
+        "example": "The MTR station is across the footbridge.",
+        "translation": "港鐵站在行人天橋對面。",
+        "exampleAudio": "footbridge_example",
+        "pairs": [
+          {
+            "en": "footbridge",
+            "zh": "行人天橋"
+          },
+          {
+            "en": "across",
+            "zh": "穿過"
+          }
+        ]
+      },
+      {
+        "page": 2,
+        "word": "MTR station",
+        "meaning": "港鐵站",
+        "icon": "fa-train-subway",
+        "audio": "mtr_station",
+        "example": "Go past the police station and you will see the MTR station.",
+        "translation": "走過警察局你就會看到港鐵站。",
+        "exampleAudio": "mtr_station_example",
+        "pairs": [
+          {
+            "en": "MTR station",
+            "zh": "港鐵站"
+          },
+          {
+            "en": "go past",
+            "zh": "經過"
+          }
+        ]
+      },
+      {
+        "page": 2,
+        "word": "sports centre",
+        "meaning": "體育中心",
+        "icon": "fa-dumbbell",
+        "audio": "sports_centre",
+        "example": "The sports centre is on your left.",
+        "translation": "體育中心在你的左邊。",
+        "exampleAudio": "sports_centre_example",
+        "pairs": [
+          {
+            "en": "sports centre",
+            "zh": "體育中心"
+          },
+          {
+            "en": "on your left",
+            "zh": "在你的左邊"
+          }
+        ]
+      },
+      {
+        "page": 3,
+        "word": "police station",
+        "meaning": "警察局",
+        "icon": "fa-shield-halved",
+        "audio": "police_station",
+        "example": "Walk along Prince Edward Street and go past the police station.",
+        "translation": "沿王子街走並經過警察局。",
+        "exampleAudio": "police_station_example",
+        "pairs": [
+          {
+            "en": "police station",
+            "zh": "警察局"
+          }
+        ]
+      },
+      {
+        "page": 3,
+        "word": "fire station",
+        "meaning": "消防局",
+        "icon": "fa-fire",
+        "audio": "fire_station",
+        "example": "Bobo delivered the third letter to the fire station.",
+        "translation": "Bobo 把第三封信送到消防局。",
+        "exampleAudio": "fire_station_example",
+        "pairs": [
+          {
+            "en": "fire station",
+            "zh": "消防局"
+          }
+        ]
+      },
+      {
+        "page": 3,
+        "word": "market",
+        "meaning": "街市",
+        "icon": "fa-basket-shopping",
+        "audio": "market",
+        "example": "The grocery store is opposite the market.",
+        "translation": "雜貨店在街市對面。",
+        "exampleAudio": "market_example",
+        "pairs": [
+          {
+            "en": "market",
+            "zh": "街市"
+          }
+        ]
+      },
+      {
+        "page": 4,
+        "word": "post office",
+        "meaning": "郵政局",
+        "icon": "fa-envelope-open-text",
+        "audio": "post_office",
+        "example": "Bobo started his work at the post office.",
+        "translation": "Bobo 在郵政局開始他的工作。",
+        "exampleAudio": "post_office_example",
+        "pairs": [
+          {
+            "en": "post office",
+            "zh": "郵政局"
+          }
+        ]
+      }
     ]
   },
   "reading": {
@@ -31,12 +235,242 @@
     "icon": "fa-robot",
     "intro": "Bobo 是機械人郵差。閱讀他第一天送信的經過，學習問路和指路的表達：",
     "paragraphs": [
-      {"id": "t1", "text": "Bobo is a robot postman. He delivers letters and parcels to different places. Yesterday was his first day at work. He needed to go to NT Bank first. His mini computer showed him the way.", "translation": "Bobo 是機械人郵差。他送信和包裹到不同的地方。昨天是他第一天上班。他需要先去新界銀行。他的迷你電腦給他指路。", "pairs": [{"en": "postman", "zh": "郵差"}, {"en": "delivers", "zh": "派送"}, {"en": "parcels", "zh": "包裹"}, {"en": "his first day at work", "zh": "他第一天上班"}, {"en": "showed him the way", "zh": "給他指路"}], "sentences": ["Bobo is a robot postman.", "He delivers letters and parcels to different places.", "Yesterday was his first day at work.", "He needed to go to NT Bank first.", "His mini computer showed him the way."], "translation_sentences": ["Bobo 是機械人郵差。", "他送信和包裹到不同的地方。", "昨天是他第一天上班。", "他需要先去新界銀行。", "他的迷你電腦給他指路。"]},
-      {"id": "t2", "text": "Go across Tung Shan Street and walk straight ahead along Shanghai Road. Walk past Kowloon Bank and the minibus stop. NT Bank is opposite the hospital.<br>Bobo delivered his first letter! It was easy. Then, he looked for the second place to go.", "translation": "走過唐山街，沿上海道一直向前走。走過九龍銀行和小巴站。新界銀行在醫院對面。<br>Bobo 送出了第一封信！很簡單。然後，他找第二個要去的地方。", "pairs": [{"en": "go across", "zh": "走過"}, {"en": "walk straight ahead", "zh": "一直向前走"}, {"en": "walk past", "zh": "走過（經過）"}, {"en": "opposite", "zh": "在…對面"}, {"en": "delivered", "zh": "派送了"}], "sentences": ["Go across Tung Shan Street and walk straight ahead along Shanghai Road.", "Walk past Kowloon Bank and the minibus stop.", "NT Bank is opposite the hospital.", "Bobo delivered his first letter!", "It was easy.", "Then, he looked for the second place to go."], "translation_sentences": ["走過唐山街，沿上海道一直向前走。", "走過九龍銀行和小巴站。", "新界銀行在醫院對面。", "Bobo 送出了第一封信！", "很簡單。", "然後，他找第二個要去的地方。"]},
-      {"id": "t3", "text": "Turn right at the NT Bank entrance. Turn right again into the sitting-out area. Walk past the fountain. Walk through the subway. Turn left and walk along Nanjing Road. Hot Satay is on your right.", "translation": "在新界銀行入口右轉。再右轉進入休憩處。走過噴泉。穿過行人隧道。左轉並沿南京路走。沙嗲小食店在你的右邊。", "pairs": [{"en": "turn right", "zh": "右轉"}, {"en": "entrance", "zh": "入口"}, {"en": "sitting-out area", "zh": "休憩處"}, {"en": "walk through", "zh": "穿過"}, {"en": "on your right", "zh": "在你的右邊"}], "sentences": ["Turn right at the NT Bank entrance.", "Turn right again into the sitting-out area.", "Walk past the fountain.", "Walk through the subway.", "Turn left and walk along Nanjing Road.", "Hot Satay is on your right."], "translation_sentences": ["在新界銀行入口右轉。", "再右轉進入休憩處。", "走過噴泉。", "穿過行人隧道。", "左轉並沿南京路走。", "沙嗲小食店在你的右邊。"]},
-      {"id": "t4", "text": "Outside Hot Satay, two tourists stopped Bobo.<br>Tourist: How can we get to the MTR station?<br>Bobo: Let me see ... Turn left and walk across Nanjing Road. Walk along Prince Edward Street and go past the police station. Walk across the footbridge. The MTR station is in front of you.", "translation": "在沙嗲小食店外面，兩位遊客叫住了 Bobo。<br>遊客：我們怎樣才能到港鐵站？<br>Bobo：讓我想想……左轉並走過南京路。沿王子街走並經過警察局。走過行人天橋。港鐵站就在你前面。", "pairs": [{"en": "tourists", "zh": "遊客"}, {"en": "How can we get to ...?", "zh": "我們怎樣才能到…？"}, {"en": "walk across", "zh": "走過"}, {"en": "in front of you", "zh": "在你前面"}], "sentences": ["Outside Hot Satay, two tourists stopped Bobo.", "Tourist: How can we get to the MTR station?", "Bobo: Let me see ...", "Turn left and walk across Nanjing Road.", "Walk along Prince Edward Street and go past the police station.", "Walk across the footbridge.", "The MTR station is in front of you."], "translation_sentences": ["在沙嗲小食店外面，兩位遊客叫住了 Bobo。", "遊客：我們怎樣才能到港鐵站？", "Bobo：讓我想想……", "左轉並走過南京路。", "沿王子街走並經過警察局。", "走過行人天橋。", "港鐵站就在你前面。"]},
-      {"id": "t5", "text": "Bobo delivered the third letter to the fire station. When he left, a student stopped him at the entrance.<br>Student: Excuse me, could you please tell me the way to the sports centre?<br>Bobo: Sure. Turn left from the fire station. Turn left into Nanjing Road and go straight ahead. Walk past the clinic. Walk through the subway and walk along Tung Shan Street. The sports centre is on your left.", "translation": "Bobo 把第三封信送到消防局。他離開時，一個學生在門口叫住了他。<br>學生：對不起，你能告訴我去體育中心的路嗎？<br>Bobo：當然。從消防局左轉。左轉進入南京路並一直向前走。走過診所。穿過行人隧道並沿唐山街走。體育中心在你的左邊。", "pairs": [{"en": "the third letter", "zh": "第三封信"}, {"en": "Could you please tell me the way to ...?", "zh": "你能告訴我去…的路嗎？"}, {"en": "go straight ahead", "zh": "一直向前走"}, {"en": "clinic", "zh": "診所"}], "sentences": ["Bobo delivered the third letter to the fire station.", "When he left, a student stopped him at the entrance.", "Student: Excuse me, could you please tell me the way to the sports centre?", "Bobo: Sure.", "Turn left from the fire station.", "Turn left into Nanjing Road and go straight ahead.", "Walk past the clinic.", "Walk through the subway and walk along Tung Shan Street.", "The sports centre is on your left."], "translation_sentences": ["Bobo 把第三封信送到消防局。", "他離開時，一個學生在門口叫住了他。", "學生：對不起，你能告訴我去體育中心的路嗎？", "Bobo：當然。", "從消防局左轉。", "左轉進入南京路並一直向前走。", "走過診所。", "穿過行人隧道並沿唐山街走。", "體育中心在你的左邊。"]},
-      {"id": "t6", "text": "Bobo had a busy day. He still needed to go to many places ...", "translation": "Bobo 度過了忙碌的一天。他還需要去很多地方……", "pairs": [{"en": "a busy day", "zh": "忙碌的一天"}, {"en": "He still needed to", "zh": "他仍然需要"}], "sentences": ["Bobo had a busy day.", "He still needed to go to many places ..."], "translation_sentences": ["Bobo 度過了忙碌的一天。", "他還需要去很多地方……"]}
+      {
+        "id": "t1",
+        "text": "Bobo is a robot postman. He delivers letters and parcels to different places. Yesterday was his first day at work. He needed to go to NT Bank first. His mini computer showed him the way.",
+        "translation": "Bobo 是機械人郵差。他送信和包裹到不同的地方。昨天是他第一天上班。他需要先去新界銀行。他的迷你電腦給他指路。",
+        "pairs": [
+          {
+            "en": "postman",
+            "zh": "郵差"
+          },
+          {
+            "en": "delivers",
+            "zh": "派送"
+          },
+          {
+            "en": "parcels",
+            "zh": "包裹"
+          },
+          {
+            "en": "his first day at work",
+            "zh": "他第一天上班"
+          },
+          {
+            "en": "showed him the way",
+            "zh": "給他指路"
+          }
+        ],
+        "sentences": [
+          "Bobo is a robot postman.",
+          "He delivers letters and parcels to different places.",
+          "Yesterday was his first day at work.",
+          "He needed to go to NT Bank first.",
+          "His mini computer showed him the way."
+        ],
+        "translation_sentences": [
+          "Bobo 是機械人郵差。",
+          "他送信和包裹到不同的地方。",
+          "昨天是他第一天上班。",
+          "他需要先去新界銀行。",
+          "他的迷你電腦給他指路。"
+        ]
+      },
+      {
+        "id": "t2",
+        "text": "Go across Tung Shan Street and walk straight ahead along Shanghai Road. Walk past Kowloon Bank and the minibus stop. NT Bank is opposite the hospital.<br>Bobo delivered his first letter! It was easy. Then, he looked for the second place to go.",
+        "translation": "走過唐山街，沿上海道一直向前走。走過九龍銀行和小巴站。新界銀行在醫院對面。<br>Bobo 送出了第一封信！很簡單。然後，他找第二個要去的地方。",
+        "pairs": [
+          {
+            "en": "go across",
+            "zh": "走過"
+          },
+          {
+            "en": "walk straight ahead",
+            "zh": "一直向前走"
+          },
+          {
+            "en": "walk past",
+            "zh": "走過（經過）"
+          },
+          {
+            "en": "opposite",
+            "zh": "在…對面"
+          },
+          {
+            "en": "delivered",
+            "zh": "派送了"
+          }
+        ],
+        "sentences": [
+          "Go across Tung Shan Street and walk straight ahead along Shanghai Road.",
+          "Walk past Kowloon Bank and the minibus stop.",
+          "NT Bank is opposite the hospital.",
+          "Bobo delivered his first letter!",
+          "It was easy.",
+          "Then, he looked for the second place to go."
+        ],
+        "translation_sentences": [
+          "走過唐山街，沿上海道一直向前走。",
+          "走過九龍銀行和小巴站。",
+          "新界銀行在醫院對面。",
+          "Bobo 送出了第一封信！",
+          "很簡單。",
+          "然後，他找第二個要去的地方。"
+        ]
+      },
+      {
+        "id": "t3",
+        "text": "Turn right at the NT Bank entrance. Turn right again into the sitting-out area. Walk past the fountain. Walk through the subway. Turn left and walk along Nanjing Road. Hot Satay is on your right.",
+        "translation": "在新界銀行入口右轉。再右轉進入休憩處。走過噴泉。穿過行人隧道。左轉並沿南京路走。沙嗲小食店在你的右邊。",
+        "pairs": [
+          {
+            "en": "turn right",
+            "zh": "右轉"
+          },
+          {
+            "en": "entrance",
+            "zh": "入口"
+          },
+          {
+            "en": "sitting-out area",
+            "zh": "休憩處"
+          },
+          {
+            "en": "walk through",
+            "zh": "穿過"
+          },
+          {
+            "en": "on your right",
+            "zh": "在你的右邊"
+          }
+        ],
+        "sentences": [
+          "Turn right at the NT Bank entrance.",
+          "Turn right again into the sitting-out area.",
+          "Walk past the fountain.",
+          "Walk through the subway.",
+          "Turn left and walk along Nanjing Road.",
+          "Hot Satay is on your right."
+        ],
+        "translation_sentences": [
+          "在新界銀行入口右轉。",
+          "再右轉進入休憩處。",
+          "走過噴泉。",
+          "穿過行人隧道。",
+          "左轉並沿南京路走。",
+          "沙嗲小食店在你的右邊。"
+        ]
+      },
+      {
+        "id": "t4",
+        "text": "Outside Hot Satay, two tourists stopped Bobo.<br>Tourist: How can we get to the MTR station?<br>Bobo: Let me see ... Turn left and walk across Nanjing Road. Walk along Prince Edward Street and go past the police station. Walk across the footbridge. The MTR station is in front of you.",
+        "translation": "在沙嗲小食店外面，兩位遊客叫住了 Bobo。<br>遊客：我們怎樣才能到港鐵站？<br>Bobo：讓我想想……左轉並走過南京路。沿王子街走並經過警察局。走過行人天橋。港鐵站就在你前面。",
+        "pairs": [
+          {
+            "en": "tourists",
+            "zh": "遊客"
+          },
+          {
+            "en": "How can we get to ...?",
+            "zh": "我們怎樣才能到…？"
+          },
+          {
+            "en": "walk across",
+            "zh": "走過"
+          },
+          {
+            "en": "in front of you",
+            "zh": "在你前面"
+          }
+        ],
+        "sentences": [
+          "Outside Hot Satay, two tourists stopped Bobo.",
+          "Tourist: How can we get to the MTR station?",
+          "Bobo: Let me see ...",
+          "Turn left and walk across Nanjing Road.",
+          "Walk along Prince Edward Street and go past the police station.",
+          "Walk across the footbridge.",
+          "The MTR station is in front of you."
+        ],
+        "translation_sentences": [
+          "在沙嗲小食店外面，兩位遊客叫住了 Bobo。",
+          "遊客：我們怎樣才能到港鐵站？",
+          "Bobo：讓我想想……",
+          "左轉並走過南京路。",
+          "沿王子街走並經過警察局。",
+          "走過行人天橋。",
+          "港鐵站就在你前面。"
+        ]
+      },
+      {
+        "id": "t5",
+        "text": "Bobo delivered the third letter to the fire station. When he left, a student stopped him at the entrance.<br>Student: Excuse me, could you please tell me the way to the sports centre?<br>Bobo: Sure. Turn left from the fire station. Turn left into Nanjing Road and go straight ahead. Walk past the clinic. Walk through the subway and walk along Tung Shan Street. The sports centre is on your left.",
+        "translation": "Bobo 把第三封信送到消防局。他離開時，一個學生在門口叫住了他。<br>學生：對不起，你能告訴我去體育中心的路嗎？<br>Bobo：當然。從消防局左轉。左轉進入南京路並一直向前走。走過診所。穿過行人隧道並沿唐山街走。體育中心在你的左邊。",
+        "pairs": [
+          {
+            "en": "the third letter",
+            "zh": "第三封信"
+          },
+          {
+            "en": "Could you please tell me the way to ...?",
+            "zh": "你能告訴我去…的路嗎？"
+          },
+          {
+            "en": "go straight ahead",
+            "zh": "一直向前走"
+          },
+          {
+            "en": "clinic",
+            "zh": "診所"
+          }
+        ],
+        "sentences": [
+          "Bobo delivered the third letter to the fire station.",
+          "When he left, a student stopped him at the entrance.",
+          "Student: Excuse me, could you please tell me the way to the sports centre?",
+          "Bobo: Sure.",
+          "Turn left from the fire station.",
+          "Turn left into Nanjing Road and go straight ahead.",
+          "Walk past the clinic.",
+          "Walk through the subway and walk along Tung Shan Street.",
+          "The sports centre is on your left."
+        ],
+        "translation_sentences": [
+          "Bobo 把第三封信送到消防局。",
+          "他離開時，一個學生在門口叫住了他。",
+          "學生：對不起，你能告訴我去體育中心的路嗎？",
+          "Bobo：當然。",
+          "從消防局左轉。",
+          "左轉進入南京路並一直向前走。",
+          "走過診所。",
+          "穿過行人隧道並沿唐山街走。",
+          "體育中心在你的左邊。"
+        ]
+      },
+      {
+        "id": "t6",
+        "text": "Bobo had a busy day. He still needed to go to many places ...",
+        "translation": "Bobo 度過了忙碌的一天。他還需要去很多地方……",
+        "pairs": [
+          {
+            "en": "a busy day",
+            "zh": "忙碌的一天"
+          },
+          {
+            "en": "He still needed to",
+            "zh": "他仍然需要"
+          }
+        ],
+        "sentences": [
+          "Bobo had a busy day.",
+          "He still needed to go to many places ..."
+        ],
+        "translation_sentences": [
+          "Bobo 度過了忙碌的一天。",
+          "他還需要去很多地方……"
+        ]
+      }
     ]
   },
   "listening": {
@@ -50,24 +484,97 @@
       "text": "Tourist A: Excuse me. How can we get to the NT Hotel?<br>Tourist B: Go straight ahead along Green Street. Turn left at the Star Plaza. The NT Hotel is on your left, next to the MTR station.<br>Tourist A: Where is the sitting-out area?<br>Tourist B: Walk along Yellow Street and turn right at the post office. The sitting-out area is opposite the clinic.<br>Tourist A: Could you tell me the way to Peter's Kitchen?<br>Tourist B: Turn left and walk along Blue Street. Walk through the subway. Peter's Kitchen is on your right, next to the footbridge.<br>Tourist A: How can we get to the Sunshine Shopping Centre?<br>Tourist B: Walk across the footbridge and turn right. The Sunshine Shopping Centre is opposite the Kowloon Market.<br>Tourist A: Excuse me, where are the public toilets?<br>Tourist B: Walk along Green Street and turn left at the MTR station. The public toilets are next to the minibus stop.",
       "zh": "遊客甲：對不起。我們怎樣才能到新界酒店？<br>遊客乙：沿綠街一直向前走。在星光廣場左轉。新界酒店在你的左邊，港鐵站旁邊。<br>遊客甲：休憩處在哪裡？<br>遊客乙：沿黃街走，在郵政局右轉。休憩處在診所對面。<br>遊客甲：你能告訴我去彼得廚房的路嗎？<br>遊客乙：左轉並沿藍街走。穿過行人隧道。彼得廚房在你的右邊，行人天橋旁邊。<br>遊客甲：我們怎樣才能到陽光購物中心？<br>遊客乙：走過行人天橋然後右轉。陽光購物中心在九龍街市對面。<br>遊客甲：對不起，公共洗手間在哪裡？<br>遊客乙：沿綠街走，在港鐵站左轉。公共洗手間在小巴站旁邊。",
       "segments": [
-        {"en": "Tourist A: Excuse me. How can we get to the NT Hotel?", "zh": "遊客甲：對不起。我們怎樣才能到新界酒店？"},
-        {"en": "Tourist B: Go straight ahead along Green Street. Turn left at the Star Plaza. The NT Hotel is on your left, next to the MTR station.", "zh": "遊客乙：沿綠街一直向前走。在星光廣場左轉。新界酒店在你的左邊，港鐵站旁邊。"},
-        {"en": "Tourist A: Where is the sitting-out area?", "zh": "遊客甲：休憩處在哪裡？"},
-        {"en": "Tourist B: Walk along Yellow Street and turn right at the post office. The sitting-out area is opposite the clinic.", "zh": "遊客乙：沿黃街走，在郵政局右轉。休憩處在診所對面。"},
-        {"en": "Tourist A: Could you tell me the way to Peter's Kitchen?", "zh": "遊客甲：你能告訴我去彼得廚房的路嗎？"},
-        {"en": "Tourist B: Turn left and walk along Blue Street. Walk through the subway. Peter's Kitchen is on your right, next to the footbridge.", "zh": "遊客乙：左轉並沿藍街走。穿過行人隧道。彼得廚房在你的右邊，行人天橋旁邊。"},
-        {"en": "Tourist A: How can we get to the Sunshine Shopping Centre?", "zh": "遊客甲：我們怎樣才能到陽光購物中心？"},
-        {"en": "Tourist B: Walk across the footbridge and turn right. The Sunshine Shopping Centre is opposite the Kowloon Market.", "zh": "遊客乙：走過行人天橋然後右轉。陽光購物中心在九龍街市對面。"},
-        {"en": "Tourist A: Excuse me, where are the public toilets?", "zh": "遊客甲：對不起，公共洗手間在哪裡？"},
-        {"en": "Tourist B: Walk along Green Street and turn left at the MTR station. The public toilets are next to the minibus stop.", "zh": "遊客乙：沿綠街走，在港鐵站左轉。公共洗手間在小巴站旁邊。"}
+        {
+          "en": "Tourist A: Excuse me. How can we get to the NT Hotel?",
+          "zh": "遊客甲：對不起。我們怎樣才能到新界酒店？"
+        },
+        {
+          "en": "Tourist B: Go straight ahead along Green Street. Turn left at the Star Plaza. The NT Hotel is on your left, next to the MTR station.",
+          "zh": "遊客乙：沿綠街一直向前走。在星光廣場左轉。新界酒店在你的左邊，港鐵站旁邊。"
+        },
+        {
+          "en": "Tourist A: Where is the sitting-out area?",
+          "zh": "遊客甲：休憩處在哪裡？"
+        },
+        {
+          "en": "Tourist B: Walk along Yellow Street and turn right at the post office. The sitting-out area is opposite the clinic.",
+          "zh": "遊客乙：沿黃街走，在郵政局右轉。休憩處在診所對面。"
+        },
+        {
+          "en": "Tourist A: Could you tell me the way to Peter's Kitchen?",
+          "zh": "遊客甲：你能告訴我去彼得廚房的路嗎？"
+        },
+        {
+          "en": "Tourist B: Turn left and walk along Blue Street. Walk through the subway. Peter's Kitchen is on your right, next to the footbridge.",
+          "zh": "遊客乙：左轉並沿藍街走。穿過行人隧道。彼得廚房在你的右邊，行人天橋旁邊。"
+        },
+        {
+          "en": "Tourist A: How can we get to the Sunshine Shopping Centre?",
+          "zh": "遊客甲：我們怎樣才能到陽光購物中心？"
+        },
+        {
+          "en": "Tourist B: Walk across the footbridge and turn right. The Sunshine Shopping Centre is opposite the Kowloon Market.",
+          "zh": "遊客乙：走過行人天橋然後右轉。陽光購物中心在九龍街市對面。"
+        },
+        {
+          "en": "Tourist A: Excuse me, where are the public toilets?",
+          "zh": "遊客甲：對不起，公共洗手間在哪裡？"
+        },
+        {
+          "en": "Tourist B: Walk along Green Street and turn left at the MTR station. The public toilets are next to the minibus stop.",
+          "zh": "遊客乙：沿綠街走，在港鐵站左轉。公共洗手間在小巴站旁邊。"
+        }
       ]
     },
     "questions": [
-      {"id": "l1", "before": "The tourists want to go to the ", "after": " first. It is next to the MTR station.", "answer": "NT Hotel", "variations": ["nt hotel"], "explanation": "遊客乙說 The NT Hotel is on your left, next to the MTR station。"},
-      {"id": "l2", "before": "The sitting-out area is ", "after": " the clinic.", "answer": "opposite", "variations": ["on the opposite side of"], "explanation": "遊客乙說 The sitting-out area is opposite the clinic（在診所對面）。"},
-      {"id": "l3", "before": "Peter's Kitchen is on your ", "after": ", next to the footbridge.", "answer": "right", "variations": [], "explanation": "Peter's Kitchen is on your right, next to the footbridge。"},
-      {"id": "l4", "before": "The Sunshine Shopping Centre is opposite the ", "after": ".", "answer": "Kowloon Market", "variations": ["kowloon market"], "explanation": "The Sunshine Shopping Centre is opposite the Kowloon Market。"},
-      {"id": "l5", "before": "The public toilets are next to the ", "after": " stop.", "answer": "minibus", "variations": ["mini bus"], "explanation": "The public toilets are next to the minibus stop（小巴站）。"}
+      {
+        "id": "l1",
+        "before": "The tourists want to go to the ",
+        "after": " first. It is next to the MTR station.",
+        "answer": "NT Hotel",
+        "variations": [
+          "nt hotel"
+        ],
+        "explanation": "遊客乙說 The NT Hotel is on your left, next to the MTR station。"
+      },
+      {
+        "id": "l2",
+        "before": "The sitting-out area is ",
+        "after": " the clinic.",
+        "answer": "opposite",
+        "variations": [
+          "on the opposite side of"
+        ],
+        "explanation": "遊客乙說 The sitting-out area is opposite the clinic（在診所對面）。"
+      },
+      {
+        "id": "l3",
+        "before": "Peter's Kitchen is on your ",
+        "after": ", next to the footbridge.",
+        "answer": "right",
+        "variations": [],
+        "explanation": "Peter's Kitchen is on your right, next to the footbridge。"
+      },
+      {
+        "id": "l4",
+        "before": "The Sunshine Shopping Centre is opposite the ",
+        "after": ".",
+        "answer": "Kowloon Market",
+        "variations": [
+          "kowloon market"
+        ],
+        "explanation": "The Sunshine Shopping Centre is opposite the Kowloon Market。"
+      },
+      {
+        "id": "l5",
+        "before": "The public toilets are next to the ",
+        "after": " stop.",
+        "answer": "minibus",
+        "variations": [
+          "mini bus"
+        ],
+        "explanation": "The public toilets are next to the minibus stop（小巴站）。"
+      }
     ]
   },
   "sayItRight": {
@@ -75,9 +582,47 @@
     "icon": "fa-microphone-lines",
     "intro": "留意 str 的發音（/str/）：",
     "sentences": [
-      {"id": "sir1", "text": "I met my school headmistress in Water Street, Western District.", "translation": "我在西區水街遇見了我的女校長。", "pairs": [{"en": "headmistress", "zh": "女校長"}, {"en": "Western District", "zh": "西區"}]},
-      {"id": "sir2", "text": "She asked me the way to the stream.", "translation": "她問我去小溪的路。", "pairs": [{"en": "stream", "zh": "小溪"}]},
-      {"id": "sir3", "text": "I told her to go straight until she reached Strawberry Street.", "translation": "我叫她一直向前走，直到她到達士多啤梨街。", "pairs": [{"en": "straight", "zh": "直的"}, {"en": "reached", "zh": "到達"}]}
+      {
+        "id": "sir1",
+        "text": "I met my school headmistress in Water Street, Western District.",
+        "translation": "我在西區水街遇見了我的女校長。",
+        "pairs": [
+          {
+            "en": "headmistress",
+            "zh": "女校長"
+          },
+          {
+            "en": "Western District",
+            "zh": "西區"
+          }
+        ]
+      },
+      {
+        "id": "sir2",
+        "text": "She asked me the way to the stream.",
+        "translation": "她問我去小溪的路。",
+        "pairs": [
+          {
+            "en": "stream",
+            "zh": "小溪"
+          }
+        ]
+      },
+      {
+        "id": "sir3",
+        "text": "I told her to go straight until she reached Strawberry Street.",
+        "translation": "我叫她一直向前走，直到她到達士多啤梨街。",
+        "pairs": [
+          {
+            "en": "straight",
+            "zh": "直的"
+          },
+          {
+            "en": "reached",
+            "zh": "到達"
+          }
+        ]
+      }
     ]
   },
   "textType": {
@@ -89,31 +634,277 @@
       "icon": "fa-envelope-open",
       "text": "From: Sandra Chan<br>Rm 2229, Blk A, Kam Ying House<br>9 Kam Ying Road<br>Ma On Shan, NT<br><br>To: Mr Andrew Man<br>Flat K, 19/F, Lai To Building<br>364-368 Shanghai Street<br>Yau Ma Tei, Kowloon",
       "translation": "寄件人：陳小姐<br>2229 室，A 座，錦英樓<br>錦英路 9 號<br>馬鞍山，新界<br><br>收件人：文先生<br>K 室，19 樓，麗都大廈<br>上海街 364-368 號<br>油麻地，九龍",
-      "sentences": ["From: Sandra Chan", "Rm 2229, Blk A, Kam Ying House", "9 Kam Ying Road", "Ma On Shan, NT", "To: Mr Andrew Man", "Flat K, 19/F, Lai To Building", "364-368 Shanghai Street", "Yau Ma Tei, Kowloon"],
-      "translation_sentences": ["寄件人：陳小姐", "2229 室，A 座，錦英樓", "錦英路 9 號", "馬鞍山，新界", "收件人：文先生", "K 室，19 樓，麗都大廈", "上海街 364-368 號", "油麻地，九龍"],
-      "pairs": [{"en": "Rm = Room", "zh": "Rm = 室"}, {"en": "/F = Floor", "zh": "/F = 樓層"}, {"en": "Blk = Block", "zh": "Blk = 座"}, {"en": "Bldg = Building", "zh": "Bldg = 大廈"}, {"en": "Hse = House", "zh": "Hse = 樓／屋"}, {"en": "St = Street", "zh": "St = 街"}, {"en": "Rd = Road", "zh": "Rd = 路"}, {"en": "NT = the New Territories", "zh": "NT = 新界"}, {"en": "Kln = Kowloon", "zh": "Kln = 九龍"}, {"en": "HK = Hong Kong", "zh": "HK = 香港"}]
+      "sentences": [
+        "From: Sandra Chan",
+        "Rm 2229, Blk A, Kam Ying House",
+        "9 Kam Ying Road",
+        "Ma On Shan, NT",
+        "To: Mr Andrew Man",
+        "Flat K, 19/F, Lai To Building",
+        "364-368 Shanghai Street",
+        "Yau Ma Tei, Kowloon"
+      ],
+      "translation_sentences": [
+        "寄件人：陳小姐",
+        "2229 室，A 座，錦英樓",
+        "錦英路 9 號",
+        "馬鞍山，新界",
+        "收件人：文先生",
+        "K 室，19 樓，麗都大廈",
+        "上海街 364-368 號",
+        "油麻地，九龍"
+      ],
+      "pairs": [
+        {
+          "en": "Rm = Room",
+          "zh": "Rm = 室"
+        },
+        {
+          "en": "/F = Floor",
+          "zh": "/F = 樓層"
+        },
+        {
+          "en": "Blk = Block",
+          "zh": "Blk = 座"
+        },
+        {
+          "en": "Bldg = Building",
+          "zh": "Bldg = 大廈"
+        },
+        {
+          "en": "Hse = House",
+          "zh": "Hse = 樓／屋"
+        },
+        {
+          "en": "St = Street",
+          "zh": "St = 街"
+        },
+        {
+          "en": "Rd = Road",
+          "zh": "Rd = 路"
+        },
+        {
+          "en": "NT = the New Territories",
+          "zh": "NT = 新界"
+        },
+        {
+          "en": "Kln = Kowloon",
+          "zh": "Kln = 九龍"
+        },
+        {
+          "en": "HK = Hong Kong",
+          "zh": "HK = 香港"
+        }
+      ]
     },
     "questions": [
-      {"id": "tt1", "text": "1. Who gets this letter?", "options": [{"key": "a", "text": "a. Ma On Shan"}, {"key": "b", "text": "b. Yau Ma Tei"}, {"key": "c", "text": "c. Sandra Chan"}, {"key": "d", "text": "d. Andrew Man"}], "answer": "d", "explanation": "收件人（To:）是 Mr Andrew Man。"},
-      {"id": "tt2", "text": "2. Where is Kam Ying House?", "options": [{"key": "a", "text": "a. on Hong Kong Island"}, {"key": "b", "text": "b. in Kowloon"}, {"key": "c", "text": "c. in the New Territories"}, {"key": "d", "text": "d. in Shanghai"}], "answer": "c", "explanation": "地址寫 Ma On Shan, NT（馬鞍山，新界），所以錦英樓在新界。"},
-      {"id": "tt3", "text": "3. On which floor does Sandra Chan live?", "options": [{"key": "a", "text": "a. the 9th floor"}, {"key": "b", "text": "b. the 19th floor"}, {"key": "c", "text": "c. the 22nd floor"}, {"key": "d", "text": "d. the 29th floor"}], "answer": "c", "explanation": "Rm 2229 表示第 22 層（2229 中的 22）。"},
-      {"id": "tt4", "text": "4. What does 'Blk' mean?", "options": [{"key": "a", "text": "a. Book"}, {"key": "b", "text": "b. Block"}, {"key": "c", "text": "c. Bridge"}, {"key": "d", "text": "d. Bank"}], "answer": "b", "explanation": "Blk = Block（座）。"}
+      {
+        "id": "tt1",
+        "text": "1. Who gets this letter?",
+        "options": [
+          {
+            "key": "a",
+            "text": "a. Ma On Shan"
+          },
+          {
+            "key": "b",
+            "text": "b. Yau Ma Tei"
+          },
+          {
+            "key": "c",
+            "text": "c. Sandra Chan"
+          },
+          {
+            "key": "d",
+            "text": "d. Andrew Man"
+          }
+        ],
+        "answer": "d",
+        "explanation": "收件人（To:）是 Mr Andrew Man。"
+      },
+      {
+        "id": "tt2",
+        "text": "2. Where is Kam Ying House?",
+        "options": [
+          {
+            "key": "a",
+            "text": "a. on Hong Kong Island"
+          },
+          {
+            "key": "b",
+            "text": "b. in Kowloon"
+          },
+          {
+            "key": "c",
+            "text": "c. in the New Territories"
+          },
+          {
+            "key": "d",
+            "text": "d. in Shanghai"
+          }
+        ],
+        "answer": "c",
+        "explanation": "地址寫 Ma On Shan, NT（馬鞍山，新界），所以錦英樓在新界。"
+      },
+      {
+        "id": "tt3",
+        "text": "3. On which floor does Sandra Chan live?",
+        "options": [
+          {
+            "key": "a",
+            "text": "a. the 9th floor"
+          },
+          {
+            "key": "b",
+            "text": "b. the 19th floor"
+          },
+          {
+            "key": "c",
+            "text": "c. the 22nd floor"
+          },
+          {
+            "key": "d",
+            "text": "d. the 29th floor"
+          }
+        ],
+        "answer": "c",
+        "explanation": "Rm 2229 表示第 22 層（2229 中的 22）。"
+      },
+      {
+        "id": "tt4",
+        "text": "4. What does 'Blk' mean?",
+        "options": [
+          {
+            "key": "a",
+            "text": "a. Book"
+          },
+          {
+            "key": "b",
+            "text": "b. Block"
+          },
+          {
+            "key": "c",
+            "text": "c. Bridge"
+          },
+          {
+            "key": "d",
+            "text": "d. Bank"
+          }
+        ],
+        "answer": "b",
+        "explanation": "Blk = Block（座）。"
+      }
     ]
   },
   "grammar": [
-    {"title": "問路：Could you ...? / How can we get to ...?", "examples": [
-      {"en": "Excuse me, could you please tell me the way to the sports centre?", "zh": "對不起，你能告訴我去體育中心的路嗎？", "pairs": [{"en": "Could you please tell me the way to ...?", "zh": "你能告訴我去…的路嗎？"}]},
-      {"en": "How can we get to the MTR station?", "zh": "我們怎樣才能到港鐵站？", "pairs": [{"en": "How can we get to ...?", "zh": "我們怎樣才能到…？"}]},
-      {"en": "Where is the sitting-out area?", "zh": "休憩處在哪裡？", "pairs": [{"en": "Where is ...?", "zh": "…在哪裡？"}]}
-    ]},
-    {"title": "指路：Turn / Go / Walk ＋方向", "examples": [
-      {"en": "Turn right at the NT Bank entrance.", "zh": "在新界銀行入口右轉。", "pairs": [{"en": "turn right", "zh": "右轉"}, {"en": "at the entrance", "zh": "在入口"}]},
-      {"en": "Walk straight ahead along Shanghai Road.", "zh": "沿上海道一直向前走。", "pairs": [{"en": "go straight ahead", "zh": "一直向前走"}, {"en": "along", "zh": "沿著"}]},
-      {"en": "Walk across the footbridge.", "zh": "走過行人天橋。", "pairs": [{"en": "walk across", "zh": "走過"}]},
-      {"en": "Walk through the subway.", "zh": "穿過行人隧道。", "pairs": [{"en": "walk through", "zh": "穿過"}]},
-      {"en": "Walk past the fountain.", "zh": "走過噴泉。", "pairs": [{"en": "walk past", "zh": "經過"}]},
-      {"en": "The sports centre is on your left.", "zh": "體育中心在你的左邊。", "pairs": [{"en": "on your left", "zh": "在你的左邊"}]}
-    ]}
+    {
+      "title": "問路：Could you ...? / How can we get to ...?",
+      "examples": [
+        {
+          "en": "Excuse me, could you please tell me the way to the sports centre?",
+          "zh": "對不起，你能告訴我去體育中心的路嗎？",
+          "pairs": [
+            {
+              "en": "Could you please tell me the way to ...?",
+              "zh": "你能告訴我去…的路嗎？"
+            }
+          ]
+        },
+        {
+          "en": "How can we get to the MTR station?",
+          "zh": "我們怎樣才能到港鐵站？",
+          "pairs": [
+            {
+              "en": "How can we get to ...?",
+              "zh": "我們怎樣才能到…？"
+            }
+          ]
+        },
+        {
+          "en": "Where is the sitting-out area?",
+          "zh": "休憩處在哪裡？",
+          "pairs": [
+            {
+              "en": "Where is ...?",
+              "zh": "…在哪裡？"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "指路：Turn / Go / Walk ＋方向",
+      "examples": [
+        {
+          "en": "Turn right at the NT Bank entrance.",
+          "zh": "在新界銀行入口右轉。",
+          "pairs": [
+            {
+              "en": "turn right",
+              "zh": "右轉"
+            },
+            {
+              "en": "at the entrance",
+              "zh": "在入口"
+            }
+          ]
+        },
+        {
+          "en": "Walk straight ahead along Shanghai Road.",
+          "zh": "沿上海道一直向前走。",
+          "pairs": [
+            {
+              "en": "go straight ahead",
+              "zh": "一直向前走"
+            },
+            {
+              "en": "along",
+              "zh": "沿著"
+            }
+          ]
+        },
+        {
+          "en": "Walk across the footbridge.",
+          "zh": "走過行人天橋。",
+          "pairs": [
+            {
+              "en": "walk across",
+              "zh": "走過"
+            }
+          ]
+        },
+        {
+          "en": "Walk through the subway.",
+          "zh": "穿過行人隧道。",
+          "pairs": [
+            {
+              "en": "walk through",
+              "zh": "穿過"
+            }
+          ]
+        },
+        {
+          "en": "Walk past the fountain.",
+          "zh": "走過噴泉。",
+          "pairs": [
+            {
+              "en": "walk past",
+              "zh": "經過"
+            }
+          ]
+        },
+        {
+          "en": "The sports centre is on your left.",
+          "zh": "體育中心在你的左邊。",
+          "pairs": [
+            {
+              "en": "on your left",
+              "zh": "在你的左邊"
+            }
+          ]
+        }
+      ]
+    }
   ],
   "practice": {
     "intro": "根據課文《The robot postman》完成以下練習題：",
@@ -122,11 +913,126 @@
       "icon": "fa-search",
       "description": "細讀課文，選擇最佳答案：",
       "questions": [
-        {"id": "rc1", "text": "1. After Bobo met the tourists, where did he go?", "answer": "d", "options": [{"key": "a", "text": "a. the MTR station"}, {"key": "b", "text": "b. Hot Satay"}, {"key": "c", "text": "c. the police station"}, {"key": "d", "text": "d. the fire station"}], "explanation": "課文說 Bobo delivered the third letter to the fire station（第三封信送到消防局）。"},
-        {"id": "rc2", "text": "2. Which of the following sentences is true?", "answer": "d", "options": [{"key": "a", "text": "a. Bobo needed to go to the MTR station first."}, {"key": "b", "text": "b. Bobo delivered letters to Kowloon Bank first."}, {"key": "c", "text": "c. Bobo delivered letters to the hospital."}, {"key": "d", "text": "d. Bobo delivered his second letter to a restaurant."}], "explanation": "第二封信送到 Hot Satay（沙嗲小食店）——是一間餐廳，所以 d 正確。"},
-        {"id": "rc3", "text": "3. Where is NT Bank?", "answer": "b", "options": [{"key": "a", "text": "a. opposite the market"}, {"key": "b", "text": "b. opposite the hospital"}, {"key": "c", "text": "c. next to the fire station"}, {"key": "d", "text": "d. on your left"}], "explanation": "課文說 NT Bank is opposite the hospital（在醫院對面）。"},
-        {"id": "rc4", "text": "4. What did Bobo's mini computer do?", "answer": "a", "options": [{"key": "a", "text": "a. It showed him the way."}, {"key": "b", "text": "b. It delivered the letters."}, {"key": "c", "text": "c. It talked to the tourists."}, {"key": "d", "text": "d. It opened the post office."}], "explanation": "His mini computer showed him the way（迷你電腦給他指路）。"},
-        {"id": "rc5", "text": "5. Who stopped Bobo outside Hot Satay?", "answer": "c", "options": [{"key": "a", "text": "a. a student"}, {"key": "b", "text": "b. a postman"}, {"key": "c", "text": "c. two tourists"}, {"key": "d", "text": "d. a policeman"}], "explanation": "Outside Hot Satay, two tourists stopped Bobo（兩位遊客叫住了他）。"}
+        {
+          "id": "rc1",
+          "text": "1. After Bobo met the tourists, where did he go?",
+          "answer": "d",
+          "options": [
+            {
+              "key": "a",
+              "text": "a. the MTR station"
+            },
+            {
+              "key": "b",
+              "text": "b. Hot Satay"
+            },
+            {
+              "key": "c",
+              "text": "c. the police station"
+            },
+            {
+              "key": "d",
+              "text": "d. the fire station"
+            }
+          ],
+          "explanation": "課文說 Bobo delivered the third letter to the fire station（第三封信送到消防局）。"
+        },
+        {
+          "id": "rc2",
+          "text": "2. Which of the following sentences is true?",
+          "answer": "d",
+          "options": [
+            {
+              "key": "a",
+              "text": "a. Bobo needed to go to the MTR station first."
+            },
+            {
+              "key": "b",
+              "text": "b. Bobo delivered letters to Kowloon Bank first."
+            },
+            {
+              "key": "c",
+              "text": "c. Bobo delivered letters to the hospital."
+            },
+            {
+              "key": "d",
+              "text": "d. Bobo delivered his second letter to a restaurant."
+            }
+          ],
+          "explanation": "第二封信送到 Hot Satay（沙嗲小食店）——是一間餐廳，所以 d 正確。"
+        },
+        {
+          "id": "rc3",
+          "text": "3. Where is NT Bank?",
+          "answer": "b",
+          "options": [
+            {
+              "key": "a",
+              "text": "a. opposite the market"
+            },
+            {
+              "key": "b",
+              "text": "b. opposite the hospital"
+            },
+            {
+              "key": "c",
+              "text": "c. next to the fire station"
+            },
+            {
+              "key": "d",
+              "text": "d. on your left"
+            }
+          ],
+          "explanation": "課文說 NT Bank is opposite the hospital（在醫院對面）。"
+        },
+        {
+          "id": "rc4",
+          "text": "4. What did Bobo's mini computer do?",
+          "answer": "a",
+          "options": [
+            {
+              "key": "a",
+              "text": "a. It showed him the way."
+            },
+            {
+              "key": "b",
+              "text": "b. It delivered the letters."
+            },
+            {
+              "key": "c",
+              "text": "c. It talked to the tourists."
+            },
+            {
+              "key": "d",
+              "text": "d. It opened the post office."
+            }
+          ],
+          "explanation": "His mini computer showed him the way（迷你電腦給他指路）。"
+        },
+        {
+          "id": "rc5",
+          "text": "5. Who stopped Bobo outside Hot Satay?",
+          "answer": "c",
+          "options": [
+            {
+              "key": "a",
+              "text": "a. a student"
+            },
+            {
+              "key": "b",
+              "text": "b. a postman"
+            },
+            {
+              "key": "c",
+              "text": "c. two tourists"
+            },
+            {
+              "key": "d",
+              "text": "d. a policeman"
+            }
+          ],
+          "explanation": "Outside Hot Satay, two tourists stopped Bobo（兩位遊客叫住了他）。"
+        }
       ]
     },
     "readingQA": {
@@ -134,25 +1040,73 @@
       "icon": "fa-question-circle",
       "description": "用完整的句子回答下列問題：",
       "questions": [
-        {"q": "1. What does Bobo do?（Bobo 是做甚麼的？）", "a": "He is a robot postman. He delivers letters and parcels to different places.", "zh": "他是機械人郵差。他送信和包裹到不同的地方。", "explanation": "課文首句：Bobo is a robot postman."},
-        {"q": "2. How many people stopped Bobo for directions?（有多少人叫住 Bobo 問路？）", "a": "Two groups of people stopped him. Two tourists stopped him outside Hot Satay, and a student stopped him at the fire station.", "zh": "兩組人叫住了他：兩位遊客在沙嗲小食店外面，一個學生在消防局。", "explanation": "課文有兩處問路：two tourists（遊客）和 a student（學生）。"},
-        {"q": "3. Which place on the map would you like to go? How can you get there from the post office?（你想去地圖上哪個地方？從郵政局怎麼去？）", "a": "I would like to go to the sports centre. Walk across Tung Shan Street, walk through the subway, and the sports centre is on your left.", "zh": "我想去體育中心。走過唐山街，穿過行人隧道，體育中心就在你的左邊。", "explanation": "開放題，可用課文指路句作答。"}
+        {
+          "q": "1. What does Bobo do?（Bobo 是做甚麼的？）",
+          "a": "He is a robot postman. He delivers letters and parcels to different places.",
+          "zh": "他是機械人郵差。他送信和包裹到不同的地方。",
+          "explanation": "課文首句：Bobo is a robot postman."
+        },
+        {
+          "q": "2. How many people stopped Bobo for directions?（有多少人叫住 Bobo 問路？）",
+          "a": "Two groups of people stopped him. Two tourists stopped him outside Hot Satay, and a student stopped him at the fire station.",
+          "zh": "兩組人叫住了他：兩位遊客在沙嗲小食店外面，一個學生在消防局。",
+          "explanation": "課文有兩處問路：two tourists（遊客）和 a student（學生）。"
+        },
+        {
+          "q": "3. Which place on the map would you like to go? How can you get there from the post office?（你想去地圖上哪個地方？從郵政局怎麼去？）",
+          "a": "I would like to go to the sports centre. Walk across Tung Shan Street, walk through the subway, and the sports centre is on your left.",
+          "zh": "我想去體育中心。走過唐山街，穿過行人隧道，體育中心就在你的左邊。",
+          "explanation": "開放題，可用課文指路句作答。"
+        }
       ]
     },
     "wordBank": {
       "title": "練習 3：指路片語填空",
       "icon": "fa-tags",
       "description": "用正確的指路詞語填空：",
-      "bank": ["straight", "across", "through", "past", "left", "right", "opposite", "along"],
+      "bank": [
+        "straight",
+        "across",
+        "through",
+        "past",
+        "left",
+        "right",
+        "opposite",
+        "along"
+      ],
       "items": [
-        {"prompt": "Walk ______ the footbridge to cross the road.（走過行人天橋過馬路）", "answer": "across"},
-        {"prompt": "Go ______ ahead and you will see the bank.（一直向前走你會看到銀行）", "answer": "straight"},
-        {"prompt": "Walk ______ the subway.（穿過行人隧道）", "answer": "through"},
-        {"prompt": "Walk ______ the fountain and turn left.（走過噴泉然後左轉）", "answer": "past"},
-        {"prompt": "The MTR station is ______ the hospital.（港鐵站在醫院對面）", "answer": "opposite"},
-        {"prompt": "Turn ______ at the post office and walk along Blue Street.（在郵政局右轉並沿藍街走）", "answer": "right"},
-        {"prompt": "Walk ______ Shanghai Road and go past the bank.（沿上海道走並經過銀行）", "answer": "along"},
-        {"prompt": "Turn ______ at the entrance. The sports centre is on your left.（在入口左轉，體育中心在你的左邊）", "answer": "left"}
+        {
+          "prompt": "Walk ______ the footbridge to cross the road.（走過行人天橋過馬路）",
+          "answer": "across"
+        },
+        {
+          "prompt": "Go ______ ahead and you will see the bank.（一直向前走你會看到銀行）",
+          "answer": "straight"
+        },
+        {
+          "prompt": "Walk ______ the subway.（穿過行人隧道）",
+          "answer": "through"
+        },
+        {
+          "prompt": "Walk ______ the fountain and turn left.（走過噴泉然後左轉）",
+          "answer": "past"
+        },
+        {
+          "prompt": "The MTR station is ______ the hospital.（港鐵站在醫院對面）",
+          "answer": "opposite"
+        },
+        {
+          "prompt": "Turn ______ at the post office and walk along Blue Street.（在郵政局右轉並沿藍街走）",
+          "answer": "right"
+        },
+        {
+          "prompt": "Walk ______ Shanghai Road and go past the bank.（沿上海道走並經過銀行）",
+          "answer": "along"
+        },
+        {
+          "prompt": "Turn ______ at the entrance. The sports centre is on your left.（在入口左轉，體育中心在你的左邊）",
+          "answer": "left"
+        }
       ]
     },
     "discussion": {
@@ -172,32 +1126,398 @@
     "info": "滿分：15分",
     "maxScore": 15,
     "sections": [
-      {"type": "choice", "attr": "quiz", "keyPrefix": "", "title": "詞彙題：社區地點（每題 1 分）", "icon": "fa-check-circle", "questions": [
-        {"id": 1, "text": "1. We can buy a drink and snacks at the ______.", "options": [{"key": "a", "text": "A. convenience store"}, {"key": "b", "text": "B. fountain"}, {"key": "c", "text": "C. subway"}, {"key": "d", "text": "D. footbridge"}], "answer": "a", "explanation": "便利店（convenience store）買飲品和小食。"},
-        {"id": 2, "text": "2. We walk ______ the road to cross it safely.", "options": [{"key": "a", "text": "A. through"}, {"key": "b", "text": "B. across"}, {"key": "c", "text": "C. past"}, {"key": "d", "text": "D. along"}], "answer": "b", "explanation": "walk across the road（走過馬路）。"},
-        {"id": 3, "text": "3. The shop is ______ your right.", "options": [{"key": "a", "text": "A. in"}, {"key": "b", "text": "B. on"}, {"key": "c", "text": "C. at"}, {"key": "d", "text": "D. to"}], "answer": "b", "explanation": "on your right（在你的右邊）。"},
-        {"id": 4, "text": "4. We can rest in the ______.", "options": [{"key": "a", "text": "A. sitting-out area"}, {"key": "b", "text": "B. grocery store"}, {"key": "c", "text": "C. subway"}, {"key": "d", "text": "D. footbridge"}], "answer": "a", "explanation": "休憩處（sitting-out area）休息。"},
-        {"id": 5, "text": "5. The MTR station is ______ the hospital.", "options": [{"key": "a", "text": "A. opposite"}, {"key": "b", "text": "B. straight"}, {"key": "c", "text": "C. across"}, {"key": "d", "text": "D. through"}], "answer": "a", "explanation": "opposite（在對面）。"}
-      ]},
-      {"type": "choice", "attr": "quiz", "keyPrefix": "", "title": "文法題：問路與指路（每題 1 分）", "icon": "fa-font", "questions": [
-        {"id": 1, "text": "1. ______ can we get to the MTR station?", "options": [{"key": "a", "text": "A. What"}, {"key": "b", "text": "B. How"}, {"key": "c", "text": "C. Where"}, {"key": "d", "text": "D. Who"}], "answer": "b", "explanation": "How can we get to ...?（我們怎樣才能到…？）"},
-        {"id": 2, "text": "2. Could you please ______ me the way to the sports centre?", "options": [{"key": "a", "text": "A. say"}, {"key": "b", "text": "B. speak"}, {"key": "c", "text": "C. tell"}, {"key": "d", "text": "D. talk"}], "answer": "c", "explanation": "tell me the way（告訴我路）。"},
-        {"id": 3, "text": "3. Walk ______ the fountain and turn left.", "options": [{"key": "a", "text": "A. past"}, {"key": "b", "text": "B. across"}, {"key": "c", "text": "C. through"}, {"key": "d", "text": "D. in"}], "answer": "a", "explanation": "walk past（走過、經過）。"},
-        {"id": 4, "text": "4. The sports centre is ______ your left.", "options": [{"key": "a", "text": "A. in"}, {"key": "b", "text": "B. on"}, {"key": "c", "text": "C. at"}, {"key": "d", "text": "D. for"}], "answer": "b", "explanation": "on your left（在你的左邊）。"},
-        {"id": 5, "text": "5. ______ left at the entrance and walk straight ahead.", "options": [{"key": "a", "text": "A. Turn"}, {"key": "b", "text": "B. Go"}, {"key": "c", "text": "C. Walk"}, {"key": "d", "text": "D. Stop"}], "answer": "a", "explanation": "turn left（左轉）。"}
-      ]},
-      {"type": "choice", "attr": "quiz", "keyPrefix": "", "title": "課文理解題（每題 1 分）", "icon": "fa-book-open", "questions": [
-        {"id": 1, "text": "1. What is Bobo?", "options": [{"key": "a", "text": "A. a robot doctor"}, {"key": "b", "text": "B. a robot postman"}, {"key": "c", "text": "C. a robot teacher"}, {"key": "d", "text": "D. a robot cook"}], "answer": "b", "explanation": "Bobo is a robot postman（機械人郵差）。"},
-        {"id": 2, "text": "2. Where did Bobo go first?", "options": [{"key": "a", "text": "A. to NT Bank"}, {"key": "b", "text": "B. to Hot Satay"}, {"key": "c", "text": "C. to the fire station"}, {"key": "d", "text": "D. to the MTR station"}], "answer": "a", "explanation": "He needed to go to NT Bank first（先去新界銀行）。"},
-        {"id": 3, "text": "3. Who stopped Bobo outside Hot Satay?", "options": [{"key": "a", "text": "A. a student"}, {"key": "b", "text": "B. a teacher"}, {"key": "c", "text": "C. two tourists"}, {"key": "d", "text": "D. a policeman"}], "answer": "c", "explanation": "Outside Hot Satay, two tourists stopped Bobo。"},
-        {"id": 4, "text": "4. Where is NT Bank?", "options": [{"key": "a", "text": "A. opposite the hospital"}, {"key": "b", "text": "B. next to the fire station"}, {"key": "c", "text": "C. on your right"}, {"key": "d", "text": "D. at the post office"}], "answer": "a", "explanation": "NT Bank is opposite the hospital。"},
-        {"id": 5, "text": "5. What did the student ask Bobo?", "options": [{"key": "a", "text": "A. the way to the MTR station"}, {"key": "b", "text": "B. the way to the sports centre"}, {"key": "c", "text": "C. the way to the police station"}, {"key": "d", "text": "D. the way to the post office"}], "answer": "b", "explanation": "Could you please tell me the way to the sports centre?"}
-      ]}
+      {
+        "type": "choice",
+        "attr": "quiz",
+        "keyPrefix": "",
+        "title": "詞彙題：社區地點（每題 1 分）",
+        "icon": "fa-check-circle",
+        "questions": [
+          {
+            "id": 1,
+            "text": "1. We can buy a drink and snacks at the ______.",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. convenience store"
+              },
+              {
+                "key": "b",
+                "text": "B. fountain"
+              },
+              {
+                "key": "c",
+                "text": "C. subway"
+              },
+              {
+                "key": "d",
+                "text": "D. footbridge"
+              }
+            ],
+            "answer": "a",
+            "explanation": "便利店（convenience store）買飲品和小食。"
+          },
+          {
+            "id": 2,
+            "text": "2. We walk ______ the road to cross it safely.",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. through"
+              },
+              {
+                "key": "b",
+                "text": "B. across"
+              },
+              {
+                "key": "c",
+                "text": "C. past"
+              },
+              {
+                "key": "d",
+                "text": "D. along"
+              }
+            ],
+            "answer": "b",
+            "explanation": "walk across the road（走過馬路）。"
+          },
+          {
+            "id": 3,
+            "text": "3. The shop is ______ your right.",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. in"
+              },
+              {
+                "key": "b",
+                "text": "B. on"
+              },
+              {
+                "key": "c",
+                "text": "C. at"
+              },
+              {
+                "key": "d",
+                "text": "D. to"
+              }
+            ],
+            "answer": "b",
+            "explanation": "on your right（在你的右邊）。"
+          },
+          {
+            "id": 4,
+            "text": "4. We can rest in the ______.",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. sitting-out area"
+              },
+              {
+                "key": "b",
+                "text": "B. grocery store"
+              },
+              {
+                "key": "c",
+                "text": "C. subway"
+              },
+              {
+                "key": "d",
+                "text": "D. footbridge"
+              }
+            ],
+            "answer": "a",
+            "explanation": "休憩處（sitting-out area）休息。"
+          },
+          {
+            "id": 5,
+            "text": "5. The MTR station is ______ the hospital.",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. opposite"
+              },
+              {
+                "key": "b",
+                "text": "B. straight"
+              },
+              {
+                "key": "c",
+                "text": "C. across"
+              },
+              {
+                "key": "d",
+                "text": "D. through"
+              }
+            ],
+            "answer": "a",
+            "explanation": "opposite（在對面）。"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "attr": "quiz",
+        "keyPrefix": "",
+        "title": "文法題：問路與指路（每題 1 分）",
+        "icon": "fa-font",
+        "questions": [
+          {
+            "id": 1,
+            "text": "1. ______ can we get to the MTR station?",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. What"
+              },
+              {
+                "key": "b",
+                "text": "B. How"
+              },
+              {
+                "key": "c",
+                "text": "C. Where"
+              },
+              {
+                "key": "d",
+                "text": "D. Who"
+              }
+            ],
+            "answer": "b",
+            "explanation": "How can we get to ...?（我們怎樣才能到…？）"
+          },
+          {
+            "id": 2,
+            "text": "2. Could you please ______ me the way to the sports centre?",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. say"
+              },
+              {
+                "key": "b",
+                "text": "B. speak"
+              },
+              {
+                "key": "c",
+                "text": "C. tell"
+              },
+              {
+                "key": "d",
+                "text": "D. talk"
+              }
+            ],
+            "answer": "c",
+            "explanation": "tell me the way（告訴我路）。"
+          },
+          {
+            "id": 3,
+            "text": "3. Walk ______ the fountain and turn left.",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. past"
+              },
+              {
+                "key": "b",
+                "text": "B. across"
+              },
+              {
+                "key": "c",
+                "text": "C. through"
+              },
+              {
+                "key": "d",
+                "text": "D. in"
+              }
+            ],
+            "answer": "a",
+            "explanation": "walk past（走過、經過）。"
+          },
+          {
+            "id": 4,
+            "text": "4. The sports centre is ______ your left.",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. in"
+              },
+              {
+                "key": "b",
+                "text": "B. on"
+              },
+              {
+                "key": "c",
+                "text": "C. at"
+              },
+              {
+                "key": "d",
+                "text": "D. for"
+              }
+            ],
+            "answer": "b",
+            "explanation": "on your left（在你的左邊）。"
+          },
+          {
+            "id": 5,
+            "text": "5. ______ left at the entrance and walk straight ahead.",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. Turn"
+              },
+              {
+                "key": "b",
+                "text": "B. Go"
+              },
+              {
+                "key": "c",
+                "text": "C. Walk"
+              },
+              {
+                "key": "d",
+                "text": "D. Stop"
+              }
+            ],
+            "answer": "a",
+            "explanation": "turn left（左轉）。"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "attr": "quiz",
+        "keyPrefix": "",
+        "title": "課文理解題（每題 1 分）",
+        "icon": "fa-book-open",
+        "questions": [
+          {
+            "id": 1,
+            "text": "1. What is Bobo?",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. a robot doctor"
+              },
+              {
+                "key": "b",
+                "text": "B. a robot postman"
+              },
+              {
+                "key": "c",
+                "text": "C. a robot teacher"
+              },
+              {
+                "key": "d",
+                "text": "D. a robot cook"
+              }
+            ],
+            "answer": "b",
+            "explanation": "Bobo is a robot postman（機械人郵差）。"
+          },
+          {
+            "id": 2,
+            "text": "2. Where did Bobo go first?",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. to NT Bank"
+              },
+              {
+                "key": "b",
+                "text": "B. to Hot Satay"
+              },
+              {
+                "key": "c",
+                "text": "C. to the fire station"
+              },
+              {
+                "key": "d",
+                "text": "D. to the MTR station"
+              }
+            ],
+            "answer": "a",
+            "explanation": "He needed to go to NT Bank first（先去新界銀行）。"
+          },
+          {
+            "id": 3,
+            "text": "3. Who stopped Bobo outside Hot Satay?",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. a student"
+              },
+              {
+                "key": "b",
+                "text": "B. a teacher"
+              },
+              {
+                "key": "c",
+                "text": "C. two tourists"
+              },
+              {
+                "key": "d",
+                "text": "D. a policeman"
+              }
+            ],
+            "answer": "c",
+            "explanation": "Outside Hot Satay, two tourists stopped Bobo。"
+          },
+          {
+            "id": 4,
+            "text": "4. Where is NT Bank?",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. opposite the hospital"
+              },
+              {
+                "key": "b",
+                "text": "B. next to the fire station"
+              },
+              {
+                "key": "c",
+                "text": "C. on your right"
+              },
+              {
+                "key": "d",
+                "text": "D. at the post office"
+              }
+            ],
+            "answer": "a",
+            "explanation": "NT Bank is opposite the hospital。"
+          },
+          {
+            "id": 5,
+            "text": "5. What did the student ask Bobo?",
+            "options": [
+              {
+                "key": "a",
+                "text": "A. the way to the MTR station"
+              },
+              {
+                "key": "b",
+                "text": "B. the way to the sports centre"
+              },
+              {
+                "key": "c",
+                "text": "C. the way to the police station"
+              },
+              {
+                "key": "d",
+                "text": "D. the way to the post office"
+              }
+            ],
+            "answer": "b",
+            "explanation": "Could you please tell me the way to the sports centre?"
+          }
+        ]
+      }
     ]
   },
   "sidebar": {
     "learningPoints": {
-      "title": "Book 4B Unit 2：The robot postman",
+      "title": "4B Unit 2：The robot postman",
       "icon": "fa-robot",
       "theme": "問路與指路（Directions）",
       "goals": [
@@ -210,9 +1530,32 @@
     },
     "languageFocus": {
       "sections": [
-        {"title": "1. 問路：", "items": ["Excuse me, could you please tell me the way to ...?", "How can we get to ...?"]},
-        {"title": "2. 指路：", "items": ["Turn left / right（左轉/右轉）", "Go / walk straight ahead（一直向前走）", "Walk across the road / footbridge（走過馬路/天橋）", "Walk through the subway（穿過隧道）", "Walk past ...（經過…）", "It is on your left / right.（在你的左/右邊）", "It is opposite / next to ...（在…對面/旁邊）"]},
-        {"title": "3. 地址縮寫：", "items": ["Rm, /F, Blk, Bldg, Hse", "St, Rd, NT, Kln, HK"]}
+        {
+          "title": "1. 問路：",
+          "items": [
+            "Excuse me, could you please tell me the way to ...?",
+            "How can we get to ...?"
+          ]
+        },
+        {
+          "title": "2. 指路：",
+          "items": [
+            "Turn left / right（左轉/右轉）",
+            "Go / walk straight ahead（一直向前走）",
+            "Walk across the road / footbridge（走過馬路/天橋）",
+            "Walk through the subway（穿過隧道）",
+            "Walk past ...（經過…）",
+            "It is on your left / right.（在你的左/右邊）",
+            "It is opposite / next to ...（在…對面/旁邊）"
+          ]
+        },
+        {
+          "title": "3. 地址縮寫：",
+          "items": [
+            "Rm, /F, Blk, Bldg, Hse",
+            "St, Rd, NT, Kln, HK"
+          ]
+        }
       ]
     }
   }

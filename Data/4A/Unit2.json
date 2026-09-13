@@ -1,9 +1,9 @@
 {
   "meta": {
-    "pageTitleTag": "Unit 2：Sports Day（學校運動會）- 小學四年級英文互動練習",
+    "pageTitleTag": "4A Unit 2：Sports Day（學校運動會）- 小學英文（範本）互動練習",
     "headerIcon": "fa-medal",
-    "title": "小學四年級英文",
-    "subtitle": "Unit 2：Sports Day（學校運動會）",
+    "title": "小學英文（範本）",
+    "subtitle": "4A Unit 2：Sports Day（學校運動會）",
     "storageKey": "p4_ete_jimmy_unit2_sports_day",
     "totalPractice": 8,
     "audioDir": "audio/4A/Unit2"
@@ -1656,7 +1656,7 @@
   },
   "sidebar": {
     "learningPoints": {
-      "title": "Unit 2：Sports Day（學校運動會）",
+      "title": "4A Unit 2：Sports Day（學校運動會）",
       "icon": "fa-medal",
       "theme": "運動會與比較級",
       "goals": [
