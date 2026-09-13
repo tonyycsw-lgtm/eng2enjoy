@@ -2469,6 +2469,14 @@
         }
     
 
+        /* 選擇題：未作答時，正確選項顯示虛線綠邊（有作答且正確為實線綠） */
+        .option.correct-unanswered,
+        .option.correct-unanswered.correct-answer {
+            background-color: #e8f8f0 !important;
+            border-color: #2ecc71 !important;
+            border-style: dashed !important;
+            color: #155724 !important;
+        }
         /* 解題面板雙階段：檢查前只顯示提示/翻譯，檢查後顯示解題+答案 */
         .question-explanation .qe-pre { display: block; }
         .question-explanation .qe-post { display: none; }
@@ -3000,7 +3008,7 @@
         
         function clearElementMark(element) {
             if (!element) return;
-            element.classList.remove('correct-answer', 'incorrect-answer');
+            element.classList.remove('correct-answer', 'incorrect-answer', 'correct-unanswered');
             
             if (element.tagName === 'INPUT' || element.tagName === 'TEXTAREA') {
                 element.style.borderColor = '#ddd';
@@ -3959,10 +3967,10 @@ function submitQuiz() {
                 }
             }
         } else {
-            // 未答題目，顯示正確答案
+            // 未答題目，顯示正確答案（虛線綠邊）
             const correctOption = document.querySelector(`.option[data-quiz="${i}"][data-answer="${quizAnswers[i]}"]`);
             if(correctOption) {
-                markElementCorrect(correctOption);
+                correctOption.classList.add('correct-unanswered');
             }
         }
     }
@@ -3984,10 +3992,10 @@ function submitQuiz() {
                 }
             }
         } else {
-            // 未答題目，顯示正確答案
+            // 未答題目，顯示正確答案（虛線綠邊）
             const correctOption = document.querySelector(`.option[data-match="${i}"][data-answer="${quizAnswers[`match${i}`]}"]`);
             if(correctOption) {
-                markElementCorrect(correctOption);
+                correctOption.classList.add('correct-unanswered');
             }
         }
     }
@@ -4009,10 +4017,10 @@ function submitQuiz() {
                 }
             }
         } else {
-            // 未答題目，顯示正確答案
+            // 未答題目，顯示正確答案（虛線綠邊）
             const correctOption = document.querySelector(`.option[data-reading="${i}"][data-answer="${quizAnswers[`reading${i}`]}"]`);
             if(correctOption) {
-                markElementCorrect(correctOption);
+                correctOption.classList.add('correct-unanswered');
             }
         }
     }
@@ -4168,7 +4176,7 @@ function resetQuiz() {
     // 重置所有選擇題
     const options = document.querySelectorAll('.option[data-quiz], .option[data-match], .option[data-reading]');
     options.forEach(option => {
-        option.classList.remove('selected', 'correct-answer', 'incorrect-answer');
+        option.classList.remove('selected', 'correct-answer', 'incorrect-answer', 'correct-unanswered');
         option.style.borderColor = 'transparent';
         option.style.backgroundColor = '';
     });
@@ -7422,7 +7430,11 @@ function resetQuiz() {
             let correctCount = 0, answeredCount = 0;
             block.questions.forEach(q => {
                 const sel = document.querySelector('.option.selected[data-question="' + q.id + '"]');
-                if (!sel) return;
+                if (!sel) {
+                    const correctOption = document.querySelector('.option[data-question="' + q.id + '"][data-answer="' + q.answer + '"]');
+                    if (correctOption) correctOption.classList.add('correct-unanswered');
+                    return;
+                }
                 answeredCount++;
                 if (sel.getAttribute('data-answer') === q.answer) { markElementCorrect(sel); correctCount++; }
                 else { markElementIncorrect(sel); }
@@ -7678,7 +7690,11 @@ function resetQuiz() {
                     if (result) result.style.display = 'block';
                 } else {
                     const sel = document.querySelector('.option.selected[data-question="' + q.id + '"]');
-                    if (!sel) return;
+                    if (!sel) {
+                        const correctOption = document.querySelector('.option[data-question="' + q.id + '"][data-answer="' + q.answer + '"]');
+                        if (correctOption) correctOption.classList.add('correct-unanswered');
+                        return;
+                    }
                     answeredCount++;
                     if (sel.getAttribute('data-answer') === q.answer) { markElementCorrect(sel); correctCount++; }
                     else { markElementIncorrect(sel); }
@@ -7732,7 +7748,11 @@ function resetQuiz() {
             let correctCount = 0, answeredCount = 0;
             block.questions.forEach(q => {
                 const sel = document.querySelector('.option.selected[data-question="' + q.id + '"]');
-                if (!sel) return;
+                if (!sel) {
+                    const correctOption = document.querySelector('.option[data-question="' + q.id + '"][data-answer="' + q.answer + '"]');
+                    if (correctOption) correctOption.classList.add('correct-unanswered');
+                    return;
+                }
                 answeredCount++;
                 if (sel.getAttribute('data-answer') === q.answer) { markElementCorrect(sel); correctCount++; }
                 else { markElementIncorrect(sel); }
