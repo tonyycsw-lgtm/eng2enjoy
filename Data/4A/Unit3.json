@@ -1,1569 +1,1575 @@
 {
- "meta": {
-  "pageTitleTag": "Unit 3：Time to cook（煮食時光）- 小學四年級英文互動練習",
-  "headerIcon": "fa-utensils",
-  "title": "小學四年級英文",
-  "subtitle": "Unit 3：Time to cook（煮食時光）",
-  "storageKey": "p4_ete_4a_unit3_time_to_cook",
-  "totalPractice": 8,
-  "audioDir": "audio/4A/Unit3"
- },
- "flashcards": {
-  "pages": 4,
-  "intro": "點擊卡片查看例句，點擊音頻按鈕聆聽發音：",
-  "cards": [
-   {
-    "page": 1,
-    "word": "pizza base",
-    "meaning": "披薩餅底",
-    "icon": "fa-circle",
-    "audio": "pizza_base",
-    "example": "We pour the pizza sauce on the pizza base.",
-    "translation": "我們把披薩醬倒在披薩餅底上。",
-    "exampleAudio": "pizza_base_example",
-    "pairs": [
-     {
-      "en": "pizza base",
-      "zh": "披薩餅底"
-     },
-     {
-      "en": "pour the pizza sauce",
-      "zh": "倒披薩醬"
-     }
+  "meta": {
+    "pageTitleTag": "Unit 3：Time to cook（煮食時光）- 小學四年級英文互動練習",
+    "headerIcon": "fa-utensils",
+    "title": "小學四年級英文",
+    "subtitle": "Unit 3：Time to cook（煮食時光）",
+    "storageKey": "p4_ete_4a_unit3_time_to_cook",
+    "totalPractice": 8,
+    "audioDir": "audio/4A/Unit3"
+  },
+  "flashcards": {
+    "pages": 4,
+    "intro": "點擊卡片查看例句，點擊音頻按鈕聆聽發音：",
+    "cards": [
+      {
+        "page": 1,
+        "word": "pizza base",
+        "meaning": "披薩餅底",
+        "icon": "fa-circle",
+        "audio": "pizza_base",
+        "example": "We pour the pizza sauce on the pizza base.",
+        "translation": "我們把披薩醬倒在披薩餅底上。",
+        "exampleAudio": "pizza_base_example",
+        "pairs": [
+          {
+            "en": "pizza base",
+            "zh": "披薩餅底"
+          },
+          {
+            "en": "pour the pizza sauce",
+            "zh": "倒披薩醬"
+          }
+        ]
+      },
+      {
+        "page": 1,
+        "word": "pizza sauce",
+        "meaning": "披薩醬",
+        "icon": "fa-wine-bottle",
+        "audio": "pizza_sauce",
+        "example": "We need plenty of pizza sauce for the pizza.",
+        "translation": "我們需要大量披薩醬做披薩。",
+        "exampleAudio": "pizza_sauce_example",
+        "pairs": [
+          {
+            "en": "pizza sauce",
+            "zh": "披薩醬"
+          },
+          {
+            "en": "plenty of",
+            "zh": "大量的"
+          }
+        ]
+      },
+      {
+        "page": 1,
+        "word": "cheese",
+        "meaning": "芝士",
+        "icon": "fa-cheese",
+        "audio": "cheese",
+        "example": "Sprinkle the pizza with a lot of cheese.",
+        "translation": "在披薩上撒大量芝士。",
+        "exampleAudio": "cheese_example",
+        "pairs": [
+          {
+            "en": "cheese",
+            "zh": "芝士"
+          },
+          {
+            "en": "sprinkle",
+            "zh": "撒"
+          }
+        ]
+      },
+      {
+        "page": 1,
+        "word": "tomato",
+        "meaning": "番茄",
+        "icon": "fa-apple-alt",
+        "audio": "tomato",
+        "example": "First, wash the tomato and the green pepper.",
+        "translation": "首先，清洗番茄和青椒。",
+        "exampleAudio": "tomato_example",
+        "pairs": [
+          {
+            "en": "tomato",
+            "zh": "番茄"
+          },
+          {
+            "en": "wash",
+            "zh": "清洗"
+          }
+        ]
+      },
+      {
+        "page": 2,
+        "word": "mushroom",
+        "meaning": "蘑菇",
+        "icon": "fa-circle-dot",
+        "audio": "mushroom",
+        "example": "Use enough mushroom slices to make a smile.",
+        "translation": "用足夠的蘑菇片做一個微笑。",
+        "exampleAudio": "mushroom_example",
+        "pairs": [
+          {
+            "en": "mushroom slices",
+            "zh": "蘑菇片"
+          },
+          {
+            "en": "enough",
+            "zh": "足夠的"
+          }
+        ]
+      },
+      {
+        "page": 2,
+        "word": "green pepper",
+        "meaning": "青椒",
+        "icon": "fa-pepper-hot",
+        "audio": "green_pepper",
+        "example": "Cut the green pepper into thin pieces.",
+        "translation": "把青椒切成薄片。",
+        "exampleAudio": "green_pepper_example",
+        "pairs": [
+          {
+            "en": "green pepper",
+            "zh": "青椒"
+          },
+          {
+            "en": "thin pieces",
+            "zh": "薄片"
+          }
+        ]
+      },
+      {
+        "page": 2,
+        "word": "ingredient",
+        "meaning": "食材、材料",
+        "icon": "fa-carrot",
+        "audio": "ingredient",
+        "example": "Here are the ingredients you need.",
+        "translation": "這些是你需要的食材。",
+        "exampleAudio": "ingredient_example",
+        "pairs": [
+          {
+            "en": "ingredients",
+            "zh": "食材、材料"
+          }
+        ]
+      },
+      {
+        "page": 2,
+        "word": "wash",
+        "meaning": "清洗",
+        "icon": "fa-hand-sparkles",
+        "audio": "wash",
+        "example": "Wash the green pepper and tomato first.",
+        "translation": "先清洗青椒和番茄。",
+        "exampleAudio": "wash_example",
+        "pairs": [
+          {
+            "en": "wash",
+            "zh": "清洗"
+          },
+          {
+            "en": "clean",
+            "zh": "乾淨的"
+          }
+        ]
+      },
+      {
+        "page": 3,
+        "word": "slice",
+        "meaning": "切片",
+        "icon": "fa-utensils",
+        "audio": "slice",
+        "example": "Next, slice the tomato.",
+        "translation": "接著，把番茄切片。",
+        "exampleAudio": "slice_example",
+        "pairs": [
+          {
+            "en": "slice the tomato",
+            "zh": "把番茄切片"
+          }
+        ]
+      },
+      {
+        "page": 3,
+        "word": "pour",
+        "meaning": "倒入",
+        "icon": "fa-fill-drip",
+        "audio": "pour",
+        "example": "Pour enough pizza sauce on the pizza base.",
+        "translation": "在披薩餅底上倒入足夠的披薩醬。",
+        "exampleAudio": "pour_example",
+        "pairs": [
+          {
+            "en": "pour",
+            "zh": "倒入"
+          }
+        ]
+      },
+      {
+        "page": 3,
+        "word": "spread",
+        "meaning": "塗抹、鋪開",
+        "icon": "fa-hand-lizard",
+        "audio": "spread",
+        "example": "Spread the pizza sauce evenly over the base.",
+        "translation": "把披薩醬均勻地塗在餅底上。",
+        "exampleAudio": "spread_example",
+        "pairs": [
+          {
+            "en": "spread it evenly",
+            "zh": "均勻塗抹"
+          }
+        ]
+      },
+      {
+        "page": 3,
+        "word": "sprinkle",
+        "meaning": "撒",
+        "icon": "fa-burst",
+        "audio": "sprinkle",
+        "example": "Sprinkle the pizza with a lot of cheese.",
+        "translation": "在披薩上撒大量芝士。",
+        "exampleAudio": "sprinkle_example",
+        "pairs": [
+          {
+            "en": "sprinkle",
+            "zh": "撒"
+          }
+        ]
+      },
+      {
+        "page": 4,
+        "word": "bake",
+        "meaning": "烘焙、烤",
+        "icon": "fa-fire",
+        "audio": "bake",
+        "example": "Bake the pizza in an oven for twenty minutes.",
+        "translation": "把披薩放進焗爐烤二十分鐘。",
+        "exampleAudio": "bake_example",
+        "pairs": [
+          {
+            "en": "bake",
+            "zh": "烘焙、烤"
+          },
+          {
+            "en": "oven",
+            "zh": "焗爐"
+          }
+        ]
+      },
+      {
+        "page": 4,
+        "word": "oven",
+        "meaning": "焗爐",
+        "icon": "fa-fire-burner",
+        "audio": "oven",
+        "example": "Bake the pizza in an oven at 200 degrees Celsius.",
+        "translation": "把披薩放進攝氏200度的焗爐烤。",
+        "exampleAudio": "oven_example",
+        "pairs": [
+          {
+            "en": "oven",
+            "zh": "焗爐"
+          },
+          {
+            "en": "200 degrees Celsius",
+            "zh": "攝氏200度"
+          }
+        ]
+      },
+      {
+        "page": 4,
+        "word": "knife",
+        "meaning": "刀",
+        "icon": "fa-kitchen-set",
+        "audio": "knife",
+        "example": "Knives are dangerous! Ask an adult to help you.",
+        "translation": "刀子很危險！請大人幫忙。",
+        "exampleAudio": "knife_example",
+        "pairs": [
+          {
+            "en": "knives are dangerous",
+            "zh": "刀子很危險"
+          },
+          {
+            "en": "an adult",
+            "zh": "一位大人"
+          }
+        ]
+      },
+      {
+        "page": 4,
+        "word": "cool",
+        "meaning": "冷卻",
+        "icon": "fa-fan",
+        "audio": "cool",
+        "example": "Let the pizza cool a little and share it.",
+        "translation": "讓披薩稍微冷卻，然後分享。",
+        "exampleAudio": "cool_example",
+        "pairs": [
+          {
+            "en": "cool a little",
+            "zh": "稍微冷卻"
+          },
+          {
+            "en": "share it",
+            "zh": "分享它"
+          }
+        ]
+      }
     ]
-   },
-   {
-    "page": 1,
-    "word": "pizza sauce",
-    "meaning": "披薩醬",
-    "icon": "fa-wine-bottle",
-    "audio": "pizza_sauce",
-    "example": "We need plenty of pizza sauce for the pizza.",
-    "translation": "我們需要大量披薩醬做披薩。",
-    "exampleAudio": "pizza_sauce_example",
-    "pairs": [
-     {
-      "en": "pizza sauce",
-      "zh": "披薩醬"
-     },
-     {
-      "en": "plenty of",
-      "zh": "大量的"
-     }
-    ]
-   },
-   {
-    "page": 1,
-    "word": "cheese",
-    "meaning": "芝士",
-    "icon": "fa-cheese",
-    "audio": "cheese",
-    "example": "Sprinkle the pizza with a lot of cheese.",
-    "translation": "在披薩上撒大量芝士。",
-    "exampleAudio": "cheese_example",
-    "pairs": [
-     {
-      "en": "cheese",
-      "zh": "芝士"
-     },
-     {
-      "en": "sprinkle",
-      "zh": "撒"
-     }
-    ]
-   },
-   {
-    "page": 1,
-    "word": "tomato",
-    "meaning": "番茄",
-    "icon": "fa-apple-alt",
-    "audio": "tomato",
-    "example": "First, wash the tomato and the green pepper.",
-    "translation": "首先，清洗番茄和青椒。",
-    "exampleAudio": "tomato_example",
-    "pairs": [
-     {
-      "en": "tomato",
-      "zh": "番茄"
-     },
-     {
-      "en": "wash",
-      "zh": "清洗"
-     }
-    ]
-   },
-   {
-    "page": 2,
-    "word": "mushroom",
-    "meaning": "蘑菇",
-    "icon": "fa-circle-dot",
-    "audio": "mushroom",
-    "example": "Use enough mushroom slices to make a smile.",
-    "translation": "用足夠的蘑菇片做一個微笑。",
-    "exampleAudio": "mushroom_example",
-    "pairs": [
-     {
-      "en": "mushroom slices",
-      "zh": "蘑菇片"
-     },
-     {
-      "en": "enough",
-      "zh": "足夠的"
-     }
-    ]
-   },
-   {
-    "page": 2,
-    "word": "green pepper",
-    "meaning": "青椒",
-    "icon": "fa-pepper-hot",
-    "audio": "green_pepper",
-    "example": "Cut the green pepper into thin pieces.",
-    "translation": "把青椒切成薄片。",
-    "exampleAudio": "green_pepper_example",
-    "pairs": [
-     {
-      "en": "green pepper",
-      "zh": "青椒"
-     },
-     {
-      "en": "thin pieces",
-      "zh": "薄片"
-     }
-    ]
-   },
-   {
-    "page": 2,
-    "word": "ingredient",
-    "meaning": "食材、材料",
-    "icon": "fa-carrot",
-    "audio": "ingredient",
-    "example": "Here are the ingredients you need.",
-    "translation": "這些是你需要的食材。",
-    "exampleAudio": "ingredient_example",
-    "pairs": [
-     {
-      "en": "ingredients",
-      "zh": "食材、材料"
-     }
-    ]
-   },
-   {
-    "page": 2,
-    "word": "wash",
-    "meaning": "清洗",
-    "icon": "fa-hand-sparkles",
-    "audio": "wash",
-    "example": "Wash the green pepper and tomato first.",
-    "translation": "先清洗青椒和番茄。",
-    "exampleAudio": "wash_example",
-    "pairs": [
-     {
-      "en": "wash",
-      "zh": "清洗"
-     },
-     {
-      "en": "clean",
-      "zh": "乾淨的"
-     }
-    ]
-   },
-   {
-    "page": 3,
-    "word": "slice",
-    "meaning": "切片",
+  },
+  "reading": {
+    "title": "A Happy Face Pizza（笑臉披薩）",
     "icon": "fa-utensils",
-    "audio": "slice",
-    "example": "Next, slice the tomato.",
-    "translation": "接著，把番茄切片。",
-    "exampleAudio": "slice_example",
-    "pairs": [
-     {
-      "en": "slice the tomato",
-      "zh": "把番茄切片"
-     }
+    "intro": "Sam 和 Pam 正在觀看電視烹飪節目《Cook with Kids》。主持人 Robert Au 教大家做笑臉披薩。閱讀課文並學習烹飪步驟的表達：",
+    "paragraphs": [
+      {
+        "id": "t1",
+        "text": "Hello, boys and girls! Today on “Cook with Kids”, we’re making a happy face pizza!",
+        "translation": "你們好，男孩女孩們！今天在《和孩子一起煮》節目中，我們要做一個笑臉披薩！",
+        "pairs": [
+          {
+            "en": "making a happy face pizza",
+            "zh": "做一個笑臉披薩"
+          }
+        ],
+        "sentences": [
+          "Hello, boys and girls! Today on “Cook with Kids”, we’re making a happy face pizza!"
+        ],
+        "translation_sentences": [
+          "你們好，男孩女孩們！今天在《和孩子一起煮》節目中，我們要做一個笑臉披薩！"
+        ]
+      },
+      {
+        "id": "t2",
+        "text": "Here are the ingredients you need — a pizza base, plenty of pizza sauce, plenty of cheese, a tomato, a few mushroom slices and a green pepper.",
+        "translation": "這裡是你需要的材料——一個披薩餅底、大量的披薩醬、大量的芝士、一個番茄、幾片蘑菇片和一個青椒。",
+        "pairs": [
+          {
+            "en": "ingredients",
+            "zh": "材料、食材"
+          },
+          {
+            "en": "plenty of pizza sauce",
+            "zh": "大量的披薩醬"
+          },
+          {
+            "en": "a few mushroom slices",
+            "zh": "幾片蘑菇片"
+          }
+        ],
+        "sentences": [
+          "Here are the ingredients you need — a pizza base, plenty of pizza sauce, plenty of cheese, a tomato, a few mushroom slices and a green pepper."
+        ],
+        "translation_sentences": [
+          "這裡是你需要的材料——一個披薩餅底、大量的披薩醬、大量的芝士、一個番茄、幾片蘑菇片和一個青椒。"
+        ]
+      },
+      {
+        "id": "t3",
+        "text": "First, wash the green pepper and tomato. Make sure they’re nice and clean!",
+        "translation": "首先，清洗青椒和番茄。確保它們又漂亮又乾淨！",
+        "pairs": [
+          {
+            "en": "First",
+            "zh": "首先"
+          },
+          {
+            "en": "wash the green pepper and tomato",
+            "zh": "清洗青椒和番茄"
+          },
+          {
+            "en": "nice and clean",
+            "zh": "漂亮又乾淨"
+          }
+        ],
+        "sentences": [
+          "First, wash the green pepper and tomato.",
+          "Make sure they’re nice and clean!"
+        ],
+        "translation_sentences": [
+          "首先，清洗青椒和番茄。",
+          "確保它們又漂亮又乾淨！"
+        ]
+      },
+      {
+        "id": "t4",
+        "text": "Next, slice the tomato. Remember, knives are dangerous! Ask an adult to help you cut the green pepper into thin pieces.",
+        "translation": "接著，把番茄切片。記住，刀子很危險！請一位大人幫你把青椒切成薄片。",
+        "pairs": [
+          {
+            "en": "Next",
+            "zh": "接著"
+          },
+          {
+            "en": "slice the tomato",
+            "zh": "把番茄切片"
+          },
+          {
+            "en": "knives are dangerous",
+            "zh": "刀子很危險"
+          },
+          {
+            "en": "cut the green pepper into thin pieces",
+            "zh": "把青椒切成薄片"
+          }
+        ],
+        "sentences": [
+          "Next, slice the tomato.",
+          "Remember, knives are dangerous!",
+          "Ask an adult to help you cut the green pepper into thin pieces."
+        ],
+        "translation_sentences": [
+          "接著，把番茄切片。",
+          "記住，刀子很危險！",
+          "請一位大人幫你把青椒切成薄片。"
+        ]
+      },
+      {
+        "id": "t5",
+        "text": "Then, pour enough pizza sauce on the pizza base and spread it evenly over the base.",
+        "translation": "然後，在披薩餅底上倒入足夠的披薩醬，並把它均勻地塗抹在餅底上。",
+        "pairs": [
+          {
+            "en": "Then",
+            "zh": "然後"
+          },
+          {
+            "en": "pour enough pizza sauce",
+            "zh": "倒入足夠的披薩醬"
+          },
+          {
+            "en": "spread it evenly",
+            "zh": "均勻塗抹"
+          }
+        ],
+        "sentences": [
+          "Then, pour enough pizza sauce on the pizza base and spread it evenly over the base."
+        ],
+        "translation_sentences": [
+          "然後，在披薩餅底上倒入足夠的披薩醬，並把它均勻地塗抹在餅底上。"
+        ]
+      },
+      {
+        "id": "t6",
+        "text": "After that, use the tomato slices to make the two eyes. Then, use enough mushroom slices to make a smile and add one more slice for the nose. Use enough green pepper pieces to make the hair.",
+        "translation": "在那之後，用番茄片做兩隻眼睛。然後，用足夠的蘑菇片做一個微笑，再加一片做鼻子。用足夠的青椒塊做頭髮。",
+        "pairs": [
+          {
+            "en": "After that",
+            "zh": "在那之後"
+          },
+          {
+            "en": "make the two eyes",
+            "zh": "做兩隻眼睛"
+          },
+          {
+            "en": "make a smile",
+            "zh": "做一個微笑"
+          },
+          {
+            "en": "make the hair",
+            "zh": "做頭髮"
+          }
+        ],
+        "sentences": [
+          "After that, use the tomato slices to make the two eyes.",
+          "Then, use enough mushroom slices to make a smile and add one more slice for the nose.",
+          "Use enough green pepper pieces to make the hair."
+        ],
+        "translation_sentences": [
+          "在那之後，用番茄片做兩隻眼睛。",
+          "然後，用足夠的蘑菇片做一個微笑，再加一片做鼻子。",
+          "用足夠的青椒塊做頭髮。"
+        ]
+      },
+      {
+        "id": "t7",
+        "text": "After that, sprinkle the pizza with a lot of cheese. I like to use small pieces of cheese so that the cheese melts evenly when we bake the pizza.",
+        "translation": "在那之後，在披薩上撒大量的芝士。我喜歡用小塊的芝士，這樣我們烤披薩時芝士會均勻融化。",
+        "pairs": [
+          {
+            "en": "sprinkle the pizza with a lot of cheese",
+            "zh": "在披薩上撒大量芝士"
+          },
+          {
+            "en": "melts evenly",
+            "zh": "均勻融化"
+          },
+          {
+            "en": "bake the pizza",
+            "zh": "烤披薩"
+          }
+        ],
+        "sentences": [
+          "After that, sprinkle the pizza with a lot of cheese.",
+          "I like to use small pieces of cheese so that the cheese melts evenly when we bake the pizza."
+        ],
+        "translation_sentences": [
+          "在那之後，在披薩上撒大量的芝士。",
+          "我喜歡用小塊的芝士，這樣我們烤披薩時芝士會均勻融化。"
+        ]
+      },
+      {
+        "id": "t8",
+        "text": "Finally, bake the pizza in an oven at 200 degrees Celsius for twenty minutes. When it’s finished, ask an adult to help you take it out from the oven. The pizza is very hot! Let it cool a little and share it with your friends.",
+        "translation": "最後，把披薩放進攝氏200度的焗爐烤二十分鐘。烤好後，請一位大人幫你把它從焗爐裡拿出來。披薩非常燙！讓它稍微冷卻一下，然後和你的朋友分享。",
+        "pairs": [
+          {
+            "en": "Finally",
+            "zh": "最後"
+          },
+          {
+            "en": "200 degrees Celsius",
+            "zh": "攝氏200度"
+          },
+          {
+            "en": "take it out from the oven",
+            "zh": "把它從焗爐裡拿出來"
+          },
+          {
+            "en": "cool a little",
+            "zh": "稍微冷卻"
+          },
+          {
+            "en": "share it with your friends",
+            "zh": "和朋友分享"
+          }
+        ],
+        "sentences": [
+          "Finally, bake the pizza in an oven at 200 degrees Celsius for twenty minutes.",
+          "When it’s finished, ask an adult to help you take it out from the oven.",
+          "The pizza is very hot!",
+          "Let it cool a little and share it with your friends."
+        ],
+        "translation_sentences": [
+          "最後，把披薩放進攝氏200度的焗爐烤二十分鐘。",
+          "烤好後，請一位大人幫你把它從焗爐裡拿出來。",
+          "披薩非常燙！",
+          "讓它稍微冷卻一下，然後和你的朋友分享。"
+        ]
+      }
     ]
-   },
-   {
-    "page": 3,
-    "word": "pour",
-    "meaning": "倒入",
-    "icon": "fa-fill-drip",
-    "audio": "pour",
-    "example": "Pour enough pizza sauce on the pizza base.",
-    "translation": "在披薩餅底上倒入足夠的披薩醬。",
-    "exampleAudio": "pour_example",
-    "pairs": [
-     {
-      "en": "pour",
-      "zh": "倒入"
-     }
-    ]
-   },
-   {
-    "page": 3,
-    "word": "spread",
-    "meaning": "塗抹、鋪開",
-    "icon": "fa-hand-lizard",
-    "audio": "spread",
-    "example": "Spread the pizza sauce evenly over the base.",
-    "translation": "把披薩醬均勻地塗在餅底上。",
-    "exampleAudio": "spread_example",
-    "pairs": [
-     {
-      "en": "spread it evenly",
-      "zh": "均勻塗抹"
-     }
-    ]
-   },
-   {
-    "page": 3,
-    "word": "sprinkle",
-    "meaning": "撒",
-    "icon": "fa-burst",
-    "audio": "sprinkle",
-    "example": "Sprinkle the pizza with a lot of cheese.",
-    "translation": "在披薩上撒大量芝士。",
-    "exampleAudio": "sprinkle_example",
-    "pairs": [
-     {
-      "en": "sprinkle",
-      "zh": "撒"
-     }
-    ]
-   },
-   {
-    "page": 4,
-    "word": "bake",
-    "meaning": "烘焙、烤",
-    "icon": "fa-fire",
-    "audio": "bake",
-    "example": "Bake the pizza in an oven for twenty minutes.",
-    "translation": "把披薩放進焗爐烤二十分鐘。",
-    "exampleAudio": "bake_example",
-    "pairs": [
-     {
-      "en": "bake",
-      "zh": "烘焙、烤"
-     },
-     {
-      "en": "oven",
-      "zh": "焗爐"
-     }
-    ]
-   },
-   {
-    "page": 4,
-    "word": "oven",
-    "meaning": "焗爐",
-    "icon": "fa-fire-burner",
-    "audio": "oven",
-    "example": "Bake the pizza in an oven at 200 degrees Celsius.",
-    "translation": "把披薩放進攝氏200度的焗爐烤。",
-    "exampleAudio": "oven_example",
-    "pairs": [
-     {
-      "en": "oven",
-      "zh": "焗爐"
-     },
-     {
-      "en": "200 degrees Celsius",
-      "zh": "攝氏200度"
-     }
-    ]
-   },
-   {
-    "page": 4,
-    "word": "knife",
-    "meaning": "刀",
-    "icon": "fa-kitchen-set",
-    "audio": "knife",
-    "example": "Knives are dangerous! Ask an adult to help you.",
-    "translation": "刀子很危險！請大人幫忙。",
-    "exampleAudio": "knife_example",
-    "pairs": [
-     {
-      "en": "knives are dangerous",
-      "zh": "刀子很危險"
-     },
-     {
-      "en": "an adult",
-      "zh": "一位大人"
-     }
-    ]
-   },
-   {
-    "page": 4,
-    "word": "cool",
-    "meaning": "冷卻",
-    "icon": "fa-fan",
-    "audio": "cool",
-    "example": "Let the pizza cool a little and share it.",
-    "translation": "讓披薩稍微冷卻，然後分享。",
-    "exampleAudio": "cool_example",
-    "pairs": [
-     {
-      "en": "cool a little",
-      "zh": "稍微冷卻"
-     },
-     {
-      "en": "share it",
-      "zh": "分享它"
-     }
-    ]
-   }
-  ]
- },
- "reading": {
-  "title": "A Happy Face Pizza（笑臉披薩）",
-  "icon": "fa-utensils",
-  "intro": "Sam 和 Pam 正在觀看電視烹飪節目《Cook with Kids》。主持人 Robert Au 教大家做笑臉披薩。閱讀課文並學習烹飪步驟的表達：",
-  "paragraphs": [
-   {
-    "id": "t1",
-    "text": "Hello, boys and girls! Today on “Cook with Kids”, we’re making a happy face pizza!",
-    "translation": "你們好，男孩女孩們！今天在《和孩子一起煮》節目中，我們要做一個笑臉披薩！",
-    "pairs": [
-     {
-      "en": "making a happy face pizza",
-      "zh": "做一個笑臉披薩"
-     }
-    ],
-    "sentences": [
-     "Hello, boys and girls! Today on “Cook with Kids”, we’re making a happy face pizza!"
-    ],
-    "translation_sentences": [
-     "你們好，男孩女孩們！今天在《和孩子一起煮》節目中，我們要做一個笑臉披薩！"
-    ]
-   },
-   {
-    "id": "t2",
-    "text": "Here are the ingredients you need — a pizza base, plenty of pizza sauce, plenty of cheese, a tomato, a few mushroom slices and a green pepper.",
-    "translation": "這裡是你需要的材料——一個披薩餅底、大量的披薩醬、大量的芝士、一個番茄、幾片蘑菇片和一個青椒。",
-    "pairs": [
-     {
-      "en": "ingredients",
-      "zh": "材料、食材"
-     },
-     {
-      "en": "plenty of pizza sauce",
-      "zh": "大量的披薩醬"
-     },
-     {
-      "en": "a few mushroom slices",
-      "zh": "幾片蘑菇片"
-     }
-    ],
-    "sentences": [
-     "Here are the ingredients you need — a pizza base, plenty of pizza sauce, plenty of cheese, a tomato, a few mushroom slices and a green pepper."
-    ],
-    "translation_sentences": [
-     "這裡是你需要的材料——一個披薩餅底、大量的披薩醬、大量的芝士、一個番茄、幾片蘑菇片和一個青椒。"
-    ]
-   },
-   {
-    "id": "t3",
-    "text": "First, wash the green pepper and tomato. Make sure they’re nice and clean!",
-    "translation": "首先，清洗青椒和番茄。確保它們又漂亮又乾淨！",
-    "pairs": [
-     {
-      "en": "First",
-      "zh": "首先"
-     },
-     {
-      "en": "wash the green pepper and tomato",
-      "zh": "清洗青椒和番茄"
-     },
-     {
-      "en": "nice and clean",
-      "zh": "漂亮又乾淨"
-     }
-    ],
-    "sentences": [
-     "First, wash the green pepper and tomato.",
-     "Make sure they’re nice and clean!"
-    ],
-    "translation_sentences": [
-     "首先，清洗青椒和番茄。",
-     "確保它們又漂亮又乾淨！"
-    ]
-   },
-   {
-    "id": "t4",
-    "text": "Next, slice the tomato. Remember, knives are dangerous! Ask an adult to help you cut the green pepper into thin pieces.",
-    "translation": "接著，把番茄切片。記住，刀子很危險！請一位大人幫你把青椒切成薄片。",
-    "pairs": [
-     {
-      "en": "Next",
-      "zh": "接著"
-     },
-     {
-      "en": "slice the tomato",
-      "zh": "把番茄切片"
-     },
-     {
-      "en": "knives are dangerous",
-      "zh": "刀子很危險"
-     },
-     {
-      "en": "cut the green pepper into thin pieces",
-      "zh": "把青椒切成薄片"
-     }
-    ],
-    "sentences": [
-     "Next, slice the tomato.",
-     "Remember, knives are dangerous!",
-     "Ask an adult to help you cut the green pepper into thin pieces."
-    ],
-    "translation_sentences": [
-     "接著，把番茄切片。",
-     "記住，刀子很危險！",
-     "請一位大人幫你把青椒切成薄片。"
-    ]
-   },
-   {
-    "id": "t5",
-    "text": "Then, pour enough pizza sauce on the pizza base and spread it evenly over the base.",
-    "translation": "然後，在披薩餅底上倒入足夠的披薩醬，並把它均勻地塗抹在餅底上。",
-    "pairs": [
-     {
-      "en": "Then",
-      "zh": "然後"
-     },
-     {
-      "en": "pour enough pizza sauce",
-      "zh": "倒入足夠的披薩醬"
-     },
-     {
-      "en": "spread it evenly",
-      "zh": "均勻塗抹"
-     }
-    ],
-    "sentences": [
-     "Then, pour enough pizza sauce on the pizza base and spread it evenly over the base."
-    ],
-    "translation_sentences": [
-     "然後，在披薩餅底上倒入足夠的披薩醬，並把它均勻地塗抹在餅底上。"
-    ]
-   },
-   {
-    "id": "t6",
-    "text": "After that, use the tomato slices to make the two eyes. Then, use enough mushroom slices to make a smile and add one more slice for the nose. Use enough green pepper pieces to make the hair.",
-    "translation": "在那之後，用番茄片做兩隻眼睛。然後，用足夠的蘑菇片做一個微笑，再加一片做鼻子。用足夠的青椒塊做頭髮。",
-    "pairs": [
-     {
-      "en": "After that",
-      "zh": "在那之後"
-     },
-     {
-      "en": "make the two eyes",
-      "zh": "做兩隻眼睛"
-     },
-     {
-      "en": "make a smile",
-      "zh": "做一個微笑"
-     },
-     {
-      "en": "make the hair",
-      "zh": "做頭髮"
-     }
-    ],
-    "sentences": [
-     "After that, use the tomato slices to make the two eyes.",
-     "Then, use enough mushroom slices to make a smile and add one more slice for the nose.",
-     "Use enough green pepper pieces to make the hair."
-    ],
-    "translation_sentences": [
-     "在那之後，用番茄片做兩隻眼睛。",
-     "然後，用足夠的蘑菇片做一個微笑，再加一片做鼻子。",
-     "用足夠的青椒塊做頭髮。"
-    ]
-   },
-   {
-    "id": "t7",
-    "text": "After that, sprinkle the pizza with a lot of cheese. I like to use small pieces of cheese so that the cheese melts evenly when we bake the pizza.",
-    "translation": "在那之後，在披薩上撒大量的芝士。我喜歡用小塊的芝士，這樣我們烤披薩時芝士會均勻融化。",
-    "pairs": [
-     {
-      "en": "sprinkle the pizza with a lot of cheese",
-      "zh": "在披薩上撒大量芝士"
-     },
-     {
-      "en": "melts evenly",
-      "zh": "均勻融化"
-     },
-     {
-      "en": "bake the pizza",
-      "zh": "烤披薩"
-     }
-    ],
-    "sentences": [
-     "After that, sprinkle the pizza with a lot of cheese.",
-     "I like to use small pieces of cheese so that the cheese melts evenly when we bake the pizza."
-    ],
-    "translation_sentences": [
-     "在那之後，在披薩上撒大量的芝士。",
-     "我喜歡用小塊的芝士，這樣我們烤披薩時芝士會均勻融化。"
-    ]
-   },
-   {
-    "id": "t8",
-    "text": "Finally, bake the pizza in an oven at 200 degrees Celsius for twenty minutes. When it’s finished, ask an adult to help you take it out from the oven. The pizza is very hot! Let it cool a little and share it with your friends.",
-    "translation": "最後，把披薩放進攝氏200度的焗爐烤二十分鐘。烤好後，請一位大人幫你把它從焗爐裡拿出來。披薩非常燙！讓它稍微冷卻一下，然後和你的朋友分享。",
-    "pairs": [
-     {
-      "en": "Finally",
-      "zh": "最後"
-     },
-     {
-      "en": "200 degrees Celsius",
-      "zh": "攝氏200度"
-     },
-     {
-      "en": "take it out from the oven",
-      "zh": "把它從焗爐裡拿出來"
-     },
-     {
-      "en": "cool a little",
-      "zh": "稍微冷卻"
-     },
-     {
-      "en": "share it with your friends",
-      "zh": "和朋友分享"
-     }
-    ],
-    "sentences": [
-     "Finally, bake the pizza in an oven at 200 degrees Celsius for twenty minutes.",
-     "When it’s finished, ask an adult to help you take it out from the oven.",
-     "The pizza is very hot!",
-     "Let it cool a little and share it with your friends."
-    ],
-    "translation_sentences": [
-     "最後，把披薩放進攝氏200度的焗爐烤二十分鐘。",
-     "烤好後，請一位大人幫你把它從焗爐裡拿出來。",
-     "披薩非常燙！",
-     "讓它稍微冷卻一下，然後和你的朋友分享。"
-    ]
-   }
-  ]
- },
- "sayItRight": {
-  "title": "SAY IT RIGHT（short “a” 短音 a）",
-  "icon": "fa-microphone-alt",
-  "sentences": [
-   {
-    "id": "sir1",
-    "text": "Pam hands Dad a bag of clams.",
-    "translation": "Pam 遞給爸爸一袋蛤蜊。",
-    "pairs": [
-     {
-      "en": "a bag of clams",
-      "zh": "一袋蛤蜊"
-     }
-    ]
-   },
-   {
-    "id": "sir2",
-    "text": "Dad fries the clams with black beans in a frying pan.",
-    "translation": "爸爸在煎鍋裡用黑豆炒蛤蜊。",
-    "pairs": [
-     {
-      "en": "fries the clams",
-      "zh": "炒蛤蜊"
-     },
-     {
-      "en": "black beans",
-      "zh": "黑豆"
-     },
-     {
-      "en": "frying pan",
-      "zh": "煎鍋"
-     }
-    ]
-   },
-   {
-    "id": "sir3",
-    "text": "Pam hands Dad a bag of clams. Dad fries the clams with black beans in a frying pan.",
-    "translation": "Pam 遞給爸爸一袋蛤蜊。爸爸在煎鍋裡用黑豆炒蛤蜊。",
-    "pairs": [
-     {
-      "en": "clams",
-      "zh": "蛤蜊"
-     },
-     {
-      "en": "frying pan",
-      "zh": "煎鍋"
-     }
-    ],
-    "sentences": [
-     "Pam hands Dad a bag of clams.",
-     "Dad fries the clams with black beans in a frying pan."
-    ],
-    "translation_sentences": [
-     "Pam 遞給爸爸一袋蛤蜊。",
-     "爸爸在煎鍋裡用黑豆炒蛤蜊。"
-    ]
-   }
-  ]
- },
- "listening": {
-  "title": "聆聽練習：Making a Fruit Salad（製作水果沙拉）",
-  "icon": "fa-headphones",
-  "description": "Amy 和 Mrs Ho 正在製作水果沙拉。聆聽對話，然後填空並為步驟排序：",
-  "mode": "blank",
-  "script": {
-   "title": "Amy & Mrs Ho：製作水果沙拉（聆聽稿）",
-   "audio": "listening_u3",
-   "text": "Amy and Mrs Ho are making a fruit salad in the kitchen. Mrs Ho says, “Amy, let’s make a fruit salad. First, wash the apples and the grapes.” Amy washes them. “How many bananas do we need?” asks Amy. “We need three bananas. Slice them,” says Mrs Ho. “How many apples do we have?” asks Mrs Ho. “We have two apples,” says Amy. “Add some grapes and the two apples to the bowl,” says Mrs Ho. “Then, add a little lemon juice. Finally, mix everything together. The fruit salad is ready!”",
-   "segments": [
-    {
-     "en": "Amy and Mrs Ho are making a fruit salad in the kitchen.",
-     "zh": "Amy 和 Ho 太太正在廚房製作水果沙拉。"
-    },
-    {
-     "en": "First, wash the apples and the grapes.",
-     "zh": "首先，清洗蘋果和葡萄。"
-    },
-    {
-     "en": "How many bananas do we need?",
-     "zh": "我們需要多少根香蕉？"
-    },
-    {
-     "en": "We need three bananas. Slice them.",
-     "zh": "我們需要三根香蕉。把它們切片。"
-    },
-    {
-     "en": "How many apples do we have?",
-     "zh": "我們有多少個蘋果？"
-    },
-    {
-     "en": "We have two apples.",
-     "zh": "我們有兩個蘋果。"
-    },
-    {
-     "en": "Add some grapes and the two apples to the bowl.",
-     "zh": "把一些葡萄和兩個蘋果加到碗裡。"
-    },
-    {
-     "en": "Then, add a little lemon juice.",
-     "zh": "然後，加一點檸檬汁。"
-    },
-    {
-     "en": "Finally, mix everything together. The fruit salad is ready!",
-     "zh": "最後，把全部拌勻。水果沙拉做好了！"
-    }
-   ],
-   "zh": "Amy 和 Ho 太太正在廚房製作水果沙拉。Ho 太太說：「Amy，我們來做水果沙拉吧。首先，清洗蘋果和葡萄。」Amy 清洗它們。「我們需要多少根香蕉？」Amy 問。「我們需要三根香蕉。把它們切片，」Ho 太太說。「我們有多少個蘋果？」Ho 太太問。「我們有兩個蘋果，」Amy 說。「把一些葡萄和兩個蘋果加到碗裡，」Ho 太太說。「然後，加一點檸檬汁。最後，把全部拌勻。水果沙拉做好了！」"
   },
-  "questions": [
-   {
-    "id": "l1",
-    "before": "1. Mrs Ho puts ",
-    "after": " bananas in the salad.",
-    "answer": "three",
-    "variations": [
-     "3",
-     "three bananas"
-    ],
-    "explanation": "Mrs Ho 說 We need three bananas. Slice them，所以放三根香蕉。"
-   },
-   {
-    "id": "l2",
-    "before": "2. Mrs Ho puts ",
-    "after": " grapes in the salad.",
-    "answer": "some",
-    "variations": [
-     "a lot of",
-     "lots of"
-    ],
-    "explanation": "Mrs Ho 說 Add some grapes and the two apples to the bowl，所以放一些葡萄。"
-   },
-   {
-    "id": "l3",
-    "before": "3. Mrs Ho puts ",
-    "after": " apples in the salad.",
-    "answer": "two",
-    "variations": [
-     "2",
-     "two apples"
-    ],
-    "explanation": "Amy 說 We have two apples，所以放兩個蘋果。"
-   },
-   {
-    "id": "l4",
-    "before": "4. Mrs Ho puts ",
-    "after": " lemon juice in the salad.",
-    "answer": "a little",
-    "variations": [
-     "some lemon juice",
-     "little"
-    ],
-    "explanation": "Mrs Ho 說 Then, add a little lemon juice，所以加一點檸檬汁。"
-   },
-   {
-    "id": "l5",
-    "before": "5. What do Amy and Mrs Ho do first? They ",
-    "after": ".",
-    "answer": "wash the apples and the grapes",
-    "variations": [
-     "wash the fruit",
-     "wash the apples",
-     "wash the grapes"
-    ],
-    "explanation": "Mrs Ho 說 First, wash the apples and the grapes，所以第一步是清洗蘋果和葡萄。"
-   }
-  ]
- },
- "textType": {
-  "title": "Text Type: Catalogues（商品目錄）",
-  "icon": "fa-book",
-  "description": "目錄（Catalogue）是列出商品、附有描述和圖片的清單。目錄通常包括商品名稱、產品編號、特點、簡短描述和價錢。",
-  "model": {
-   "title": "FUNNY KIDS PRODUCTS（趣味兒童產品目錄）",
-   "parts": [
-    {
-     "label": "Title",
-     "text": "FUNNY KIDS PRODUCTS"
-    },
-    {
-     "label": "Product",
-     "text": "Party Kit (PK-41)"
-    },
-    {
-     "label": "Features",
-     "text": "Great for small parties; includes 2 spoons and 2 forks; comes in red or blue"
-    },
-    {
-     "label": "Price",
-     "text": "$72"
-    }
-   ],
-   "body": "Party Kit (PK-41) is great for small parties. It includes 2 spoons and 2 forks. It comes in red or blue. It costs $72. My First Chopsticks (MFC-22) is perfect for young kids to learn how to use chopsticks. It is easy to use and comes in pink, orange or white. It costs $56. Big Hero Lunch Box (BH-19) is perfect for lunch or snacks. It comes with a Big Hero fork. It comes in black or blue.",
-   "zh": "派對套裝（PK-41）非常適合小型派對。它包含2個湯匙和2個叉子。有紅色或藍色。售價72美元。我的第一雙筷子（MFC-22）非常適合小朋友學習使用筷子。它容易使用，有粉紅色、橙色或白色。售價56美元。大英雄午餐盒（BH-19）非常適合午餐或零食。附帶一個大英雄叉子。有黑色或藍色。",
-   "pairs": [
-    {
-     "en": "catalogue",
-     "zh": "商品目錄"
-    },
-    {
-     "en": "Party Kit",
-     "zh": "派對套裝"
-    },
-    {
-     "en": "comes in red or blue",
-     "zh": "有紅色或藍色"
-    },
-    {
-     "en": "perfect for young kids",
-     "zh": "非常適合小朋友"
-    },
-    {
-     "en": "lunch or snacks",
-     "zh": "午餐或零食"
-    },
-    {
-     "en": "comes with a Big Hero fork",
-     "zh": "附帶一個大英雄叉子"
-    }
-   ],
-   "sentences": [
-    "Party Kit (PK-41) is great for small parties.",
-    "It includes 2 spoons and 2 forks.",
-    "It comes in red or blue.",
-    "It costs $72.",
-    "My First Chopsticks (MFC-22) is perfect for young kids to learn how to use chopsticks.",
-    "It is easy to use and comes in pink, orange or white.",
-    "It costs $56.",
-    "Big Hero Lunch Box (BH-19) is perfect for lunch or snacks.",
-    "It comes with a Big Hero fork.",
-    "It comes in black or blue."
-   ],
-   "translation_sentences": [
-    "派對套裝（PK-41）非常適合小型派對。",
-    "它包含2個湯匙和2個叉子。",
-    "有紅色或藍色。",
-    "售價72美元。",
-    "我的第一雙筷子（MFC-22）非常適合小朋友學習使用筷子。",
-    "它容易使用，有粉紅色、橙色或白色。",
-    "售價56美元。",
-    "大英雄午餐盒（BH-19）非常適合午餐或零食。",
-    "附帶一個大英雄叉子。",
-    "有黑色或藍色。"
-   ]
+  "sayItRight": {
+    "title": "SAY IT RIGHT（short “a” 短音 a）",
+    "icon": "fa-microphone-alt",
+    "sentences": [
+      {
+        "id": "sir1",
+        "text": "Pam hands Dad a bag of clams.",
+        "translation": "Pam 遞給爸爸一袋蛤蜊。",
+        "pairs": [
+          {
+            "en": "a bag of clams",
+            "zh": "一袋蛤蜊"
+          }
+        ]
+      },
+      {
+        "id": "sir2",
+        "text": "Dad fries the clams with black beans in a frying pan.",
+        "translation": "爸爸在煎鍋裡用黑豆炒蛤蜊。",
+        "pairs": [
+          {
+            "en": "fries the clams",
+            "zh": "炒蛤蜊"
+          },
+          {
+            "en": "black beans",
+            "zh": "黑豆"
+          },
+          {
+            "en": "frying pan",
+            "zh": "煎鍋"
+          }
+        ]
+      },
+      {
+        "id": "sir3",
+        "text": "Pam hands Dad a bag of clams. Dad fries the clams with black beans in a frying pan.",
+        "translation": "Pam 遞給爸爸一袋蛤蜊。爸爸在煎鍋裡用黑豆炒蛤蜊。",
+        "pairs": [
+          {
+            "en": "clams",
+            "zh": "蛤蜊"
+          },
+          {
+            "en": "frying pan",
+            "zh": "煎鍋"
+          }
+        ],
+        "sentences": [
+          "Pam hands Dad a bag of clams.",
+          "Dad fries the clams with black beans in a frying pan."
+        ],
+        "translation_sentences": [
+          "Pam 遞給爸爸一袋蛤蜊。",
+          "爸爸在煎鍋裡用黑豆炒蛤蜊。"
+        ]
+      }
+    ]
   },
-  "questions": [
-   {
-    "id": "tt1",
-    "text": "1. What is a catalogue?",
-    "answer": "c",
-    "options": [
-     {
-      "key": "a",
-      "text": "a. a cooking recipe"
-     },
-     {
-      "key": "b",
-      "text": "b. a diary entry"
-     },
-     {
-      "key": "c",
-      "text": "c. a list of products with descriptions and pictures"
-     },
-     {
-      "key": "d",
-      "text": "d. a food review"
-     }
-    ],
-    "explanation": "目錄的定義是 A catalogue is a list of products with descriptions and pictures（列出商品並附描述和圖片的清單），所以選 c。"
-   },
-   {
-    "id": "tt2",
-    "text": "2. How much does the Party Kit (PK-41) cost?",
-    "answer": "b",
-    "options": [
-     {
-      "key": "a",
-      "text": "a. $56"
-     },
-     {
-      "key": "b",
-      "text": "b. $72"
-     },
-     {
-      "key": "c",
-      "text": "c. $22"
-     },
-     {
-      "key": "d",
-      "text": "d. $60"
-     }
-    ],
-    "explanation": "目錄中 Party Kit (PK-41) 的價錢是 $72，所以選 b。"
-   },
-   {
-    "id": "tt3",
-    "text": "3. What colours does My First Chopsticks (MFC-22) come in?",
-    "answer": "d",
-    "options": [
-     {
-      "key": "a",
-      "text": "a. red or blue"
-     },
-     {
-      "key": "b",
-      "text": "b. black or blue"
-     },
-     {
-      "key": "c",
-      "text": "c. red, blue or white"
-     },
-     {
-      "key": "d",
-      "text": "d. pink, orange or white"
-     }
-    ],
-    "explanation": "目錄說 My First Chopsticks comes in pink, orange or white，所以選 d。"
-   },
-   {
-    "id": "tt4",
-    "text": "4. What is the product number of the Big Hero Lunch Box?",
-    "answer": "a",
-    "options": [
-     {
-      "key": "a",
-      "text": "a. BH-19"
-     },
-     {
-      "key": "b",
-      "text": "b. PK-41"
-     },
-     {
-      "key": "c",
-      "text": "c. MFC-22"
-     },
-     {
-      "key": "d",
-      "text": "d. BH-91"
-     }
-    ],
-    "explanation": "目錄顯示 Big Hero Lunch Box 的產品編號是 BH-19，所以選 a。"
-   }
-  ]
- },
- "grammar": [
-  {
-   "title": "順序連接詞：First / Next / Then / After that / Finally（首先／接著／然後／在那之後／最後）",
-   "examples": [
-    {
-     "en": "First, wash the green pepper and tomato. Next, slice the tomato.",
-     "zh": "首先，清洗青椒和番茄。接著，把番茄切片。",
-     "pairs": [
-      {
-       "en": "First",
-       "zh": "首先"
-      },
-      {
-       "en": "Next",
-       "zh": "接著"
-      }
-     ]
+  "listening": {
+    "title": "聆聽練習：Making a Fruit Salad（製作水果沙拉）",
+    "icon": "fa-headphones",
+    "description": "Amy 和 Mrs Ho 正在製作水果沙拉。聆聽對話，然後填空並為步驟排序：",
+    "mode": "blank",
+    "script": {
+      "title": "Amy & Mrs Ho：製作水果沙拉（聆聽稿）",
+      "audio": "listening_u3",
+      "text": "Amy and Mrs Ho are making a fruit salad in the kitchen. Mrs Ho says, “Amy, let’s make a fruit salad. First, wash the apples and the grapes.” Amy washes them. “How many bananas do we need?” asks Amy. “We need three bananas. Slice them,” says Mrs Ho. “How many apples do we have?” asks Mrs Ho. “We have two apples,” says Amy. “Add some grapes and the two apples to the bowl,” says Mrs Ho. “Then, add a little lemon juice. Finally, mix everything together. The fruit salad is ready!”",
+      "segments": [
+        {
+          "en": "Amy and Mrs Ho are making a fruit salad in the kitchen.",
+          "zh": "Amy 和 Ho 太太正在廚房製作水果沙拉。"
+        },
+        {
+          "en": "First, wash the apples and the grapes.",
+          "zh": "首先，清洗蘋果和葡萄。"
+        },
+        {
+          "en": "How many bananas do we need?",
+          "zh": "我們需要多少根香蕉？"
+        },
+        {
+          "en": "We need three bananas. Slice them.",
+          "zh": "我們需要三根香蕉。把它們切片。"
+        },
+        {
+          "en": "How many apples do we have?",
+          "zh": "我們有多少個蘋果？"
+        },
+        {
+          "en": "We have two apples.",
+          "zh": "我們有兩個蘋果。"
+        },
+        {
+          "en": "Add some grapes and the two apples to the bowl.",
+          "zh": "把一些葡萄和兩個蘋果加到碗裡。"
+        },
+        {
+          "en": "Then, add a little lemon juice.",
+          "zh": "然後，加一點檸檬汁。"
+        },
+        {
+          "en": "Finally, mix everything together. The fruit salad is ready!",
+          "zh": "最後，把全部拌勻。水果沙拉做好了！"
+        }
+      ],
+      "zh": "Amy 和 Ho 太太正在廚房製作水果沙拉。Ho 太太說：「Amy，我們來做水果沙拉吧。首先，清洗蘋果和葡萄。」Amy 清洗它們。「我們需要多少根香蕉？」Amy 問。「我們需要三根香蕉。把它們切片，」Ho 太太說。「我們有多少個蘋果？」Ho 太太問。「我們有兩個蘋果，」Amy 說。「把一些葡萄和兩個蘋果加到碗裡，」Ho 太太說。「然後，加一點檸檬汁。最後，把全部拌勻。水果沙拉做好了！」"
     },
-    {
-     "en": "Then, pour enough pizza sauce on the pizza base. Finally, bake the pizza.",
-     "zh": "然後，在披薩餅底上倒入足夠的披薩醬。最後，烤披薩。",
-     "pairs": [
+    "questions": [
       {
-       "en": "Then",
-       "zh": "然後"
+        "id": "l1",
+        "before": "1. Mrs Ho puts ",
+        "after": " bananas in the salad.",
+        "answer": "three",
+        "variations": [
+          "3",
+          "three bananas"
+        ],
+        "explanation": "Mrs Ho 說 We need three bananas. Slice them，所以放三根香蕉。"
       },
       {
-       "en": "Finally",
-       "zh": "最後"
+        "id": "l2",
+        "before": "2. Mrs Ho puts ",
+        "after": " grapes in the salad.",
+        "answer": "some",
+        "variations": [
+          "a lot of",
+          "lots of"
+        ],
+        "explanation": "Mrs Ho 說 Add some grapes and the two apples to the bowl，所以放一些葡萄。"
+      },
+      {
+        "id": "l3",
+        "before": "3. Mrs Ho puts ",
+        "after": " apples in the salad.",
+        "answer": "two",
+        "variations": [
+          "2",
+          "two apples"
+        ],
+        "explanation": "Amy 說 We have two apples，所以放兩個蘋果。"
+      },
+      {
+        "id": "l4",
+        "before": "4. Mrs Ho puts ",
+        "after": " lemon juice in the salad.",
+        "answer": "a little",
+        "variations": [
+          "some lemon juice",
+          "little"
+        ],
+        "explanation": "Mrs Ho 說 Then, add a little lemon juice，所以加一點檸檬汁。"
+      },
+      {
+        "id": "l5",
+        "before": "5. What do Amy and Mrs Ho do first? They ",
+        "after": ".",
+        "answer": "wash the apples and the grapes",
+        "variations": [
+          "wash the fruit",
+          "wash the apples",
+          "wash the grapes"
+        ],
+        "explanation": "Mrs Ho 說 First, wash the apples and the grapes，所以第一步是清洗蘋果和葡萄。"
       }
-     ]
-    }
-   ]
+    ]
   },
-  {
-   "title": "How much ... ? / How many ... ?（詢問數量）",
-   "examples": [
-    {
-     "en": "How much cheese do I need? You need plenty of cheese.",
-     "zh": "我需要多少芝士？你需要大量的芝士。",
-     "pairs": [
-      {
-       "en": "How much cheese",
-       "zh": "多少芝士"
-      },
-      {
-       "en": "plenty of cheese",
-       "zh": "大量的芝士"
-      }
-     ]
+  "textType": {
+    "title": "Text Type: Catalogues（商品目錄）",
+    "icon": "fa-book",
+    "description": "目錄（Catalogue）是列出商品、附有描述和圖片的清單。目錄通常包括商品名稱、產品編號、特點、簡短描述和價錢。",
+    "model": {
+      "title": "FUNNY KIDS PRODUCTS（趣味兒童產品目錄）",
+      "parts": [
+        {
+          "label": "Title",
+          "text": "FUNNY KIDS PRODUCTS"
+        },
+        {
+          "label": "Product",
+          "text": "Party Kit (PK-41)"
+        },
+        {
+          "label": "Features",
+          "text": "Great for small parties; includes 2 spoons and 2 forks; comes in red or blue"
+        },
+        {
+          "label": "Price",
+          "text": "$72"
+        }
+      ],
+      "body": "Party Kit (PK-41) is great for small parties. It includes 2 spoons and 2 forks. It comes in red or blue. It costs $72. My First Chopsticks (MFC-22) is perfect for young kids to learn how to use chopsticks. It is easy to use and comes in pink, orange or white. It costs $56. Big Hero Lunch Box (BH-19) is perfect for lunch or snacks. It comes with a Big Hero fork. It comes in black or blue.",
+      "zh": "派對套裝（PK-41）非常適合小型派對。它包含2個湯匙和2個叉子。有紅色或藍色。售價72美元。我的第一雙筷子（MFC-22）非常適合小朋友學習使用筷子。它容易使用，有粉紅色、橙色或白色。售價56美元。大英雄午餐盒（BH-19）非常適合午餐或零食。附帶一個大英雄叉子。有黑色或藍色。",
+      "pairs": [
+        {
+          "en": "catalogue",
+          "zh": "商品目錄"
+        },
+        {
+          "en": "Party Kit",
+          "zh": "派對套裝"
+        },
+        {
+          "en": "comes in red or blue",
+          "zh": "有紅色或藍色"
+        },
+        {
+          "en": "perfect for young kids",
+          "zh": "非常適合小朋友"
+        },
+        {
+          "en": "lunch or snacks",
+          "zh": "午餐或零食"
+        },
+        {
+          "en": "comes with a Big Hero fork",
+          "zh": "附帶一個大英雄叉子"
+        }
+      ],
+      "sentences": [
+        "Party Kit (PK-41) is great for small parties.",
+        "It includes 2 spoons and 2 forks.",
+        "It comes in red or blue.",
+        "It costs $72.",
+        "My First Chopsticks (MFC-22) is perfect for young kids to learn how to use chopsticks.",
+        "It is easy to use and comes in pink, orange or white.",
+        "It costs $56.",
+        "Big Hero Lunch Box (BH-19) is perfect for lunch or snacks.",
+        "It comes with a Big Hero fork.",
+        "It comes in black or blue."
+      ],
+      "translation_sentences": [
+        "派對套裝（PK-41）非常適合小型派對。",
+        "它包含2個湯匙和2個叉子。",
+        "有紅色或藍色。",
+        "售價72美元。",
+        "我的第一雙筷子（MFC-22）非常適合小朋友學習使用筷子。",
+        "它容易使用，有粉紅色、橙色或白色。",
+        "售價56美元。",
+        "大英雄午餐盒（BH-19）非常適合午餐或零食。",
+        "附帶一個大英雄叉子。",
+        "有黑色或藍色。"
+      ]
     },
-    {
-     "en": "How many bananas do we need? We need three bananas.",
-     "zh": "我們需要多少根香蕉？我們需要三根香蕉。",
-     "pairs": [
+    "questions": [
       {
-       "en": "How many bananas",
-       "zh": "多少根香蕉"
+        "id": "tt1",
+        "text": "1. What is a catalogue?",
+        "answer": "c",
+        "options": [
+          {
+            "key": "a",
+            "text": "a. a cooking recipe"
+          },
+          {
+            "key": "b",
+            "text": "b. a diary entry"
+          },
+          {
+            "key": "c",
+            "text": "c. a list of products with descriptions and pictures"
+          },
+          {
+            "key": "d",
+            "text": "d. a food review"
+          }
+        ],
+        "explanation": "目錄的定義是 A catalogue is a list of products with descriptions and pictures（列出商品並附描述和圖片的清單），所以選 c。"
       },
       {
-       "en": "We need three bananas",
-       "zh": "我們需要三根香蕉"
+        "id": "tt2",
+        "text": "2. How much does the Party Kit (PK-41) cost?",
+        "answer": "b",
+        "options": [
+          {
+            "key": "a",
+            "text": "a. $56"
+          },
+          {
+            "key": "b",
+            "text": "b. $72"
+          },
+          {
+            "key": "c",
+            "text": "c. $22"
+          },
+          {
+            "key": "d",
+            "text": "d. $60"
+          }
+        ],
+        "explanation": "目錄中 Party Kit (PK-41) 的價錢是 $72，所以選 b。"
+      },
+      {
+        "id": "tt3",
+        "text": "3. What colours does My First Chopsticks (MFC-22) come in?",
+        "answer": "d",
+        "options": [
+          {
+            "key": "a",
+            "text": "a. red or blue"
+          },
+          {
+            "key": "b",
+            "text": "b. black or blue"
+          },
+          {
+            "key": "c",
+            "text": "c. red, blue or white"
+          },
+          {
+            "key": "d",
+            "text": "d. pink, orange or white"
+          }
+        ],
+        "explanation": "目錄說 My First Chopsticks comes in pink, orange or white，所以選 d。"
+      },
+      {
+        "id": "tt4",
+        "text": "4. What is the product number of the Big Hero Lunch Box?",
+        "answer": "a",
+        "options": [
+          {
+            "key": "a",
+            "text": "a. BH-19"
+          },
+          {
+            "key": "b",
+            "text": "b. PK-41"
+          },
+          {
+            "key": "c",
+            "text": "c. MFC-22"
+          },
+          {
+            "key": "d",
+            "text": "d. BH-91"
+          }
+        ],
+        "explanation": "目錄顯示 Big Hero Lunch Box 的產品編號是 BH-19，所以選 a。"
       }
-     ]
-    }
-   ]
+    ]
   },
-  {
-   "title": "a lot of / plenty of / a few / a little（數量詞）",
-   "examples": [
+  "grammar": [
     {
-     "en": "Sprinkle the pizza with a lot of cheese. We have plenty of butter.",
-     "zh": "在披薩上撒大量的芝士。我們有大量的牛油。",
-     "pairs": [
-      {
-       "en": "a lot of cheese",
-       "zh": "大量的芝士"
-      },
-      {
-       "en": "plenty of butter",
-       "zh": "大量的牛油"
-      }
-     ]
+      "title": "順序連接詞：First / Next / Then / After that / Finally（首先／接著／然後／在那之後／最後）",
+      "examples": [
+        {
+          "en": "First, wash the green pepper and tomato. Next, slice the tomato.",
+          "zh": "首先，清洗青椒和番茄。接著，把番茄切片。",
+          "pairs": [
+            {
+              "en": "First",
+              "zh": "首先"
+            },
+            {
+              "en": "Next",
+              "zh": "接著"
+            }
+          ]
+        },
+        {
+          "en": "Then, pour enough pizza sauce on the pizza base. Finally, bake the pizza.",
+          "zh": "然後，在披薩餅底上倒入足夠的披薩醬。最後，烤披薩。",
+          "pairs": [
+            {
+              "en": "Then",
+              "zh": "然後"
+            },
+            {
+              "en": "Finally",
+              "zh": "最後"
+            }
+          ]
+        }
+      ]
     },
     {
-     "en": "Add a few mushroom slices and a little pizza sauce.",
-     "zh": "加幾片蘑菇片和一點披薩醬。",
-     "pairs": [
-      {
-       "en": "a few mushroom slices",
-       "zh": "幾片蘑菇片"
-      },
-      {
-       "en": "a little pizza sauce",
-       "zh": "一點披薩醬"
-      }
-     ]
+      "title": "How much ... ? / How many ... ?（詢問數量）",
+      "examples": [
+        {
+          "en": "How much cheese do I need? You need plenty of cheese.",
+          "zh": "我需要多少芝士？你需要大量的芝士。",
+          "pairs": [
+            {
+              "en": "How much cheese",
+              "zh": "多少芝士"
+            },
+            {
+              "en": "plenty of cheese",
+              "zh": "大量的芝士"
+            }
+          ]
+        },
+        {
+          "en": "How many bananas do we need? We need three bananas.",
+          "zh": "我們需要多少根香蕉？我們需要三根香蕉。",
+          "pairs": [
+            {
+              "en": "How many bananas",
+              "zh": "多少根香蕉"
+            },
+            {
+              "en": "We need three bananas",
+              "zh": "我們需要三根香蕉"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "a lot of / plenty of / a few / a little（數量詞）",
+      "examples": [
+        {
+          "en": "Sprinkle the pizza with a lot of cheese. We have plenty of butter.",
+          "zh": "在披薩上撒大量的芝士。我們有大量的牛油。",
+          "pairs": [
+            {
+              "en": "a lot of cheese",
+              "zh": "大量的芝士"
+            },
+            {
+              "en": "plenty of butter",
+              "zh": "大量的牛油"
+            }
+          ]
+        },
+        {
+          "en": "Add a few mushroom slices and a little pizza sauce.",
+          "zh": "加幾片蘑菇片和一點披薩醬。",
+          "pairs": [
+            {
+              "en": "a few mushroom slices",
+              "zh": "幾片蘑菇片"
+            },
+            {
+              "en": "a little pizza sauce",
+              "zh": "一點披薩醬"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "enough（足夠的）",
+      "examples": [
+        {
+          "en": "Do we have enough butter? Yes, we have plenty of butter.",
+          "zh": "我們有足夠的牛油嗎？是的，我們有大量的牛油。",
+          "pairs": [
+            {
+              "en": "enough butter",
+              "zh": "足夠的牛油"
+            }
+          ]
+        },
+        {
+          "en": "Use enough mushroom slices for the pizza.",
+          "zh": "為披薩用足夠的蘑菇片。",
+          "pairs": [
+            {
+              "en": "Use enough mushroom slices",
+              "zh": "用足夠的蘑菇片"
+            }
+          ]
+        }
+      ]
     }
-   ]
+  ],
+  "practice": {
+    "intro": "根據 Unit 3（Time to cook）內容完成以下練習題：",
+    "readingComp": {
+      "title": "練習 1：閱讀理解選擇題",
+      "icon": "fa-search",
+      "description": "根據課文內容，選擇最佳答案：",
+      "questions": [
+        {
+          "id": "r1",
+          "text": "1. The TV programme is for ____.",
+          "answer": "b",
+          "options": [
+            {
+              "key": "a",
+              "text": "a. cooks"
+            },
+            {
+              "key": "b",
+              "text": "b. children"
+            },
+            {
+              "key": "c",
+              "text": "c. teachers"
+            },
+            {
+              "key": "d",
+              "text": "d. housewives"
+            }
+          ],
+          "explanation": "節目是 Cook with Kids，主持人稱呼大家 boys and girls，節目是為小朋友而設的，所以選 b。",
+          "zh": "這個電視節目是給誰看的？"
+        },
+        {
+          "id": "r2",
+          "text": "2. What do you need to do with the green pepper and tomato?",
+          "answer": "d",
+          "options": [
+            {
+              "key": "a",
+              "text": "a. cut and mix them together"
+            },
+            {
+              "key": "b",
+              "text": "b. wash and bake them"
+            },
+            {
+              "key": "c",
+              "text": "c. cut and bake them"
+            },
+            {
+              "key": "d",
+              "text": "d. wash and cut them"
+            }
+          ],
+          "explanation": "課文說 First, wash the green pepper and tomato，接著 slice the tomato 和 cut the green pepper，所以是先清洗再切，選 d。",
+          "zh": "你需要對青椒和番茄做什麼？"
+        },
+        {
+          "id": "r3",
+          "text": "3. Why do you need help from an adult?",
+          "answer": "b",
+          "options": [
+            {
+              "key": "a",
+              "text": "a. The pizza base is hard."
+            },
+            {
+              "key": "b",
+              "text": "b. You may get hurt using a knife."
+            },
+            {
+              "key": "c",
+              "text": "c. Knives are very heavy."
+            },
+            {
+              "key": "d",
+              "text": "d. The vegetables are dangerous."
+            }
+          ],
+          "explanation": "課文說 Remember, knives are dangerous! Ask an adult to help you cut，用刀可能受傷，所以需要大人幫忙，選 b。",
+          "zh": "為什麼你需要大人的幫助？"
+        },
+        {
+          "id": "r4",
+          "text": "4. If you want the cheese to melt evenly, you need to ____.",
+          "answer": "c",
+          "options": [
+            {
+              "key": "a",
+              "text": "a. buy plenty of cheese"
+            },
+            {
+              "key": "b",
+              "text": "b. put vegetables on the cheese"
+            },
+            {
+              "key": "c",
+              "text": "c. cut the cheese into small pieces"
+            },
+            {
+              "key": "d",
+              "text": "d. sprinkle the pizza with a lot of cheese"
+            }
+          ],
+          "explanation": "課文說 I like to use small pieces of cheese so that the cheese melts evenly，把芝士切小塊才能均勻融化，選 c。",
+          "zh": "如果你想讓芝士均勻融化，你需要做什麼？"
+        },
+        {
+          "id": "r5",
+          "text": "5. Which of the following is an ingredient of the happy face pizza?",
+          "answer": "a",
+          "options": [
+            {
+              "key": "a",
+              "text": "a. a green pepper"
+            },
+            {
+              "key": "b",
+              "text": "b. a happy face"
+            },
+            {
+              "key": "c",
+              "text": "c. a knife"
+            },
+            {
+              "key": "d",
+              "text": "d. water"
+            }
+          ],
+          "explanation": "食材包括 pizza base、pizza sauce、cheese、tomato、mushroom slices 和 green pepper，所以青椒是食材之一，選 a。",
+          "zh": "以下哪一項是笑臉披薩的食材？"
+        }
+      ]
+    },
+    "readingQA": {
+      "title": "練習 2：閱讀理解問答題",
+      "icon": "fa-question-circle",
+      "description": "根據課文內容，用完整的句子回答下列問題：",
+      "questions": [
+        {
+          "id": 1,
+          "text": "1. Would you like to make a happy face pizza? Why?",
+          "placeholder": "請輸入答案",
+          "answer": "Yes, I would like to make a happy face pizza because it looks fun and delicious.",
+          "variations": [
+            "Yes, because it is fun.",
+            "Yes, I want to try it."
+          ],
+          "explanation": "開放題，自由作答。可以說喜歡，因為做披薩很有趣、看起來很好吃；也可以說不喜歡，並給出理由。",
+          "zh": "你想做一個笑臉披薩嗎？為什麼？",
+          "altLabel": "另一種答案（不喜歡 / negative）",
+          "altAnswer": "No, I would not like to make a happy face pizza because I do not like cooking.",
+          "altAnswerZh": "不，我不想做笑臉披薩，因為我不喜歡烹飪。"
+        },
+        {
+          "id": 2,
+          "text": "2. What ingredients do you like on your own pizza?",
+          "placeholder": "請輸入答案",
+          "answer": "I like cheese and mushrooms on my pizza.",
+          "variations": [
+            "I like tomatoes and green peppers."
+          ],
+          "explanation": "開放題，自由作答。說出你喜歡的披薩配料（如 cheese、mushroom、tomato、green pepper 等）即可。",
+          "zh": "你自己的披薩上喜歡放什麼食材？",
+          "altLabel": "另一種答案",
+          "altAnswer": "I like ham and pineapple on my pizza.",
+          "altAnswerZh": "我喜歡在我的披薩上放火腿和菠蘿。"
+        }
+      ]
+    },
+    "wordBank": {
+      "title": "練習 3：詞庫填空（bake / mix / pour / slice）",
+      "icon": "fa-trophy",
+      "description": "從詞庫中選擇正確的詞語，完成製作麵包的步驟：",
+      "bank": [
+        "pour",
+        "mix",
+        "slice",
+        "bake"
+      ],
+      "items": [
+        {
+          "id": "w1",
+          "before": "1. ____ the water into a bowl with flour.",
+          "after": "",
+          "answer": "pour",
+          "explanation": "把水倒入裝有麵粉的碗裡，倒水用 pour（倒入）。"
+        },
+        {
+          "id": "w2",
+          "before": "2. ____ the flour and water to make a dough.",
+          "after": "",
+          "answer": "mix",
+          "explanation": "把麵粉和水拌勻做成麵團，拌勻用 mix（攪拌）。"
+        },
+        {
+          "id": "w3",
+          "before": "3. ____ the dough.",
+          "after": "",
+          "answer": "slice",
+          "explanation": "把麵團切片，用 slice（切片）。"
+        },
+        {
+          "id": "w4",
+          "before": "4. ____ the bread.",
+          "after": "",
+          "answer": "bake",
+          "explanation": "最後把麵包烤熟，用 bake（烘焙）。"
+        }
+      ]
+    },
+    "sentencePattern": {
+      "title": "練習 4：看提示完成句子（How much / How many）",
+      "icon": "fa-image",
+      "description": "根據香蕉煎餅的食材清單（50 g butter、100 g flour、300 ml milk、20 g sugar、3 bananas、6 eggs），回答問題：",
+      "items": [
+        {
+          "id": "sentence1",
+          "before": "1. How much butter do we need? We need ",
+          "after": ".",
+          "placeholder": "輸入數量",
+          "answer": "50 grams of butter",
+          "variations": [
+            "50 g of butter",
+            "50 grams"
+          ],
+          "explanation": "食材清單顯示 50 g butter，所以需要 50 克牛油。"
+        },
+        {
+          "id": "sentence2",
+          "before": "2. How many bananas do we need? We need ",
+          "after": ".",
+          "placeholder": "輸入數量",
+          "answer": "three bananas",
+          "variations": [
+            "3 bananas",
+            "3"
+          ],
+          "explanation": "食材清單顯示 3 bananas，所以需要三根香蕉。"
+        },
+        {
+          "id": "sentence3",
+          "before": "3. How many eggs do we need? We need ",
+          "after": ".",
+          "placeholder": "輸入數量",
+          "answer": "six eggs",
+          "variations": [
+            "6 eggs",
+            "6"
+          ],
+          "explanation": "食材清單顯示 6 eggs，所以需要六隻雞蛋。"
+        },
+        {
+          "id": "sentence4",
+          "before": "4. How much milk do we need? We need ",
+          "after": ".",
+          "placeholder": "輸入數量",
+          "answer": "300 millilitres of milk",
+          "variations": [
+            "300 ml of milk",
+            "300 ml",
+            "300 millilitres"
+          ],
+          "explanation": "食材清單顯示 300 ml milk，所以需要 300 毫升牛奶。"
+        }
+      ]
+    },
+    "discussion": {
+      "title": "練習 5：說一說（烹飪步驟）",
+      "icon": "fa-users",
+      "description": "和同學討論，然後回答問題：",
+      "questions": [
+        {
+          "id": 1,
+          "text": "1. What do Sam and Pam do first to make banana pancakes?",
+          "placeholder": "請輸入答案",
+          "reference": "<strong>參考答案：</strong> First, they beat the eggs.<br><strong>中文翻譯：</strong> 首先，他們打雞蛋。"
+        },
+        {
+          "id": 2,
+          "text": "2. What is your favourite dish? Tell your friend the cooking steps.",
+          "placeholder": "請輸入答案",
+          "reference": "<strong>參考答案：</strong> My favourite dish is fried rice. First, beat the egg. Then, chop the carrot. Finally, stir-fry the egg, carrot, sausages and rice in a wok.<br><strong>中文翻譯：</strong> 我最喜歡的菜是炒飯。首先，打雞蛋。然後，切胡蘿蔔。最後，在鍋裡炒雞蛋、胡蘿蔔、香腸和米飯。"
+        }
+      ]
+    }
   },
-  {
-   "title": "enough（足夠的）",
-   "examples": [
-    {
-     "en": "Do we have enough butter? Yes, we have plenty of butter.",
-     "zh": "我們有足夠的牛油嗎？是的，我們有大量的牛油。",
-     "pairs": [
+  "quiz": {
+    "info": "滿分：15分",
+    "maxScore": 15,
+    "sections": [
       {
-       "en": "enough butter",
-       "zh": "足夠的牛油"
+        "type": "choice",
+        "attr": "quiz",
+        "keyPrefix": "",
+        "title": "文法辨識題（每題 1 分）",
+        "icon": "fa-check-circle",
+        "questions": [
+          {
+            "id": 1,
+            "text": "1. Which sentence is correct?",
+            "options": [
+              {
+                "key": "a",
+                "text": "a. First, wash the tomato. Next, slice it."
+              },
+              {
+                "key": "b",
+                "text": "b. First, wash the tomato. Slice next it."
+              },
+              {
+                "key": "c",
+                "text": "c. First wash the tomato next."
+              },
+              {
+                "key": "d",
+                "text": "d. Next, first wash the tomato."
+              }
+            ],
+            "answer": "a",
+            "explanation": "順序連接詞 First/Next/Then/After that/Finally 放在句首，後接逗號，正確句是 First, wash the tomato. Next, slice it.，所以選 a。"
+          },
+          {
+            "id": 2,
+            "text": "2. How do we ask about the number of bananas?",
+            "options": [
+              {
+                "key": "a",
+                "text": "a. How much bananas do we need?"
+              },
+              {
+                "key": "b",
+                "text": "b. How many bananas do we need?"
+              },
+              {
+                "key": "c",
+                "text": "c. How many banana do we need?"
+              },
+              {
+                "key": "d",
+                "text": "d. How much banana do we need?"
+              }
+            ],
+            "answer": "b",
+            "explanation": "bananas 是可數名詞，詢問可數名詞的數量用 How many + 複數名詞，所以選 b。"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "attr": "match",
+        "keyPrefix": "match",
+        "title": "詞彙理解題（每題 1 分）",
+        "icon": "fa-link",
+        "description": "選擇正確答案：",
+        "questions": [
+          {
+            "id": 1,
+            "text": "1. What do you do to bake bread at the end?",
+            "options": [
+              {
+                "key": "a",
+                "text": "a. pour the water"
+              },
+              {
+                "key": "b",
+                "text": "b. mix the flour"
+              },
+              {
+                "key": "c",
+                "text": "c. bake the dough"
+              },
+              {
+                "key": "d",
+                "text": "d. slice the bread"
+              }
+            ],
+            "answer": "c",
+            "explanation": "做麵包的最後一步是把麵團放進爐裡烤（bake），所以選 c。"
+          },
+          {
+            "id": 2,
+            "text": "2. What does ‘a little’ mean?",
+            "options": [
+              {
+                "key": "a",
+                "text": "a. a large amount of countable things"
+              },
+              {
+                "key": "b",
+                "text": "b. a small amount of countable things"
+              },
+              {
+                "key": "c",
+                "text": "c. a small amount of uncountable things"
+              },
+              {
+                "key": "d",
+                "text": "d. a large amount of uncountable things"
+              }
+            ],
+            "answer": "c",
+            "explanation": "a little 用來表示少量不可數的事物，例如 a little pizza sauce，所以選 c。"
+          }
+        ]
+      },
+      {
+        "type": "choice",
+        "attr": "reading",
+        "keyPrefix": "reading",
+        "title": "閱讀理解選擇題（每題 2 分）",
+        "icon": "fa-book-reader",
+        "questions": [
+          {
+            "id": 1,
+            "text": "1. What do you do with the green pepper and tomato first?",
+            "options": [
+              {
+                "key": "a",
+                "text": "a. bake them"
+              },
+              {
+                "key": "b",
+                "text": "b. wash them"
+              },
+              {
+                "key": "c",
+                "text": "c. slice them"
+              },
+              {
+                "key": "d",
+                "text": "d. sprinkle them"
+              }
+            ],
+            "answer": "b",
+            "explanation": "課文說 First, wash the green pepper and tomato，所以第一步是清洗，選 b。"
+          },
+          {
+            "id": 2,
+            "text": "2. Why should you ask an adult for help?",
+            "options": [
+              {
+                "key": "a",
+                "text": "a. The pizza is too hot."
+              },
+              {
+                "key": "b",
+                "text": "b. The vegetables are dangerous."
+              },
+              {
+                "key": "c",
+                "text": "c. Knives are dangerous."
+              },
+              {
+                "key": "d",
+                "text": "d. The oven is broken."
+              }
+            ],
+            "answer": "c",
+            "explanation": "課文說 Remember, knives are dangerous! Ask an adult to help you，因為刀子危險，所以選 c。"
+          }
+        ]
+      },
+      {
+        "type": "blank",
+        "title": "數量詞填空題（每題 2 分）",
+        "icon": "fa-edit",
+        "description": "用 a lot of / plenty of / a few / a little / enough 填空：",
+        "questions": [
+          {
+            "id": 1,
+            "text": "1. We have ____ butter. We don’t need to buy more.",
+            "options": [
+              "enough",
+              "a little",
+              "a few"
+            ],
+            "answer": "enough",
+            "explanation": "不需要再買牛油，表示牛油足夠，用 enough（足夠的）。"
+          },
+          {
+            "id": 2,
+            "text": "2. Add ____ mushroom slices to the pizza.",
+            "options": [
+              "a little",
+              "a few",
+              "plenty of"
+            ],
+            "answer": "a few",
+            "explanation": "mushroom slices 是可數名詞，少量用 a few，所以填 a few。"
+          }
+        ]
+      },
+      {
+        "type": "sentence",
+        "title": "句型運用題（每題 3 分）",
+        "icon": "fa-pen",
+        "prompt": "用 How much / How many 造一個關於製作食物的問句，並寫出回答：",
+        "id": "sentenceAnswer",
+        "placeholder": "請輸入句子",
+        "answer": "How many apples do we need? We need two apples.",
+        "explanation": "示例：How many apples do we need? We need two apples.（我們需要多少個蘋果？我們需要兩個蘋果。）用 How much + 不可數名詞，或 How many + 可數名詞複數提問並回答即可。"
       }
-     ]
+    ]
+  },
+  "sidebar": {
+    "learningPoints": {
+      "title": "Unit 3：Time to cook（煮食時光）",
+      "icon": "fa-utensils",
+      "theme": "烹飪與食譜",
+      "goals": [
+        "能閱讀烹飪食譜並理解製作步驟",
+        "能認識烹飪動詞（wash, slice, pour, spread, sprinkle, bake）",
+        "能用 First / Next / Then / After that / Finally 說出烹飪步驟",
+        "能用 How much / How many、a lot of / plenty of、a few / a little、enough 談論數量",
+        "能聆聽對話並完成填空",
+        "能認識商品目錄（Catalogue）文體"
+      ]
     },
-    {
-     "en": "Use enough mushroom slices for the pizza.",
-     "zh": "為披薩用足夠的蘑菇片。",
-     "pairs": [
-      {
-       "en": "Use enough mushroom slices",
-       "zh": "用足夠的蘑菇片"
-      }
-     ]
+    "languageFocus": {
+      "sections": [
+        {
+          "title": "1. 烹飪動詞：",
+          "items": [
+            "wash, slice, pour, spread, sprinkle, bake, mix",
+            "pizza base, pizza sauce, cheese, tomato, mushroom, green pepper"
+          ]
+        },
+        {
+          "title": "2. 順序連接詞：",
+          "items": [
+            "First, wash the green pepper and tomato.",
+            "Next, slice the tomato.",
+            "Then, pour enough pizza sauce on the pizza base.",
+            "After that, sprinkle the pizza with a lot of cheese.",
+            "Finally, bake the pizza."
+          ]
+        },
+        {
+          "title": "3. 數量詞：",
+          "items": [
+            "a lot of / plenty of（大量）",
+            "a few（少量可數）、a little（少量不可數）",
+            "enough（足夠的）",
+            "How much ... ? / How many ... ?"
+          ]
+        },
+        {
+          "title": "4. 文本類型：",
+          "items": [
+            "Catalogue（商品目錄）——列出商品、描述和價錢的清單"
+          ]
+        }
+      ]
     }
-   ]
   }
- ],
- "practice": {
-  "intro": "根據 Unit 3（Time to cook）內容完成以下練習題：",
-  "readingComp": {
-   "title": "練習 1：閱讀理解選擇題",
-   "icon": "fa-search",
-   "description": "根據課文內容，選擇最佳答案：",
-   "questions": [
-    {
-     "id": "r1",
-     "text": "1. The TV programme is for ____.",
-     "answer": "b",
-     "options": [
-      {
-       "key": "a",
-       "text": "a. cooks"
-      },
-      {
-       "key": "b",
-       "text": "b. children"
-      },
-      {
-       "key": "c",
-       "text": "c. teachers"
-      },
-      {
-       "key": "d",
-       "text": "d. housewives"
-      }
-     ],
-     "explanation": "節目是 Cook with Kids，主持人稱呼大家 boys and girls，節目是為小朋友而設的，所以選 b。",
-     "zh": "這個電視節目是給誰看的？"
-    },
-    {
-     "id": "r2",
-     "text": "2. What do you need to do with the green pepper and tomato?",
-     "answer": "d",
-     "options": [
-      {
-       "key": "a",
-       "text": "a. cut and mix them together"
-      },
-      {
-       "key": "b",
-       "text": "b. wash and bake them"
-      },
-      {
-       "key": "c",
-       "text": "c. cut and bake them"
-      },
-      {
-       "key": "d",
-       "text": "d. wash and cut them"
-      }
-     ],
-     "explanation": "課文說 First, wash the green pepper and tomato，接著 slice the tomato 和 cut the green pepper，所以是先清洗再切，選 d。",
-     "zh": "你需要對青椒和番茄做什麼？"
-    },
-    {
-     "id": "r3",
-     "text": "3. Why do you need help from an adult?",
-     "answer": "b",
-     "options": [
-      {
-       "key": "a",
-       "text": "a. The pizza base is hard."
-      },
-      {
-       "key": "b",
-       "text": "b. You may get hurt using a knife."
-      },
-      {
-       "key": "c",
-       "text": "c. Knives are very heavy."
-      },
-      {
-       "key": "d",
-       "text": "d. The vegetables are dangerous."
-      }
-     ],
-     "explanation": "課文說 Remember, knives are dangerous! Ask an adult to help you cut，用刀可能受傷，所以需要大人幫忙，選 b。",
-     "zh": "為什麼你需要大人的幫助？"
-    },
-    {
-     "id": "r4",
-     "text": "4. If you want the cheese to melt evenly, you need to ____.",
-     "answer": "c",
-     "options": [
-      {
-       "key": "a",
-       "text": "a. buy plenty of cheese"
-      },
-      {
-       "key": "b",
-       "text": "b. put vegetables on the cheese"
-      },
-      {
-       "key": "c",
-       "text": "c. cut the cheese into small pieces"
-      },
-      {
-       "key": "d",
-       "text": "d. sprinkle the pizza with a lot of cheese"
-      }
-     ],
-     "explanation": "課文說 I like to use small pieces of cheese so that the cheese melts evenly，把芝士切小塊才能均勻融化，選 c。",
-     "zh": "如果你想讓芝士均勻融化，你需要做什麼？"
-    },
-    {
-     "id": "r5",
-     "text": "5. Which of the following is an ingredient of the happy face pizza?",
-     "answer": "a",
-     "options": [
-      {
-       "key": "a",
-       "text": "a. a green pepper"
-      },
-      {
-       "key": "b",
-       "text": "b. a happy face"
-      },
-      {
-       "key": "c",
-       "text": "c. a knife"
-      },
-      {
-       "key": "d",
-       "text": "d. water"
-      }
-     ],
-     "explanation": "食材包括 pizza base、pizza sauce、cheese、tomato、mushroom slices 和 green pepper，所以青椒是食材之一，選 a。",
-     "zh": "以下哪一項是笑臉披薩的食材？"
-    }
-   ]
-  },
-  "readingQA": {
-   "title": "練習 2：閱讀理解問答題",
-   "icon": "fa-question-circle",
-   "description": "根據課文內容，用完整的句子回答下列問題：",
-   "questions": [
-    {
-     "id": 1,
-     "text": "1. Would you like to make a happy face pizza? Why?",
-     "placeholder": "請輸入答案",
-     "answer": "Yes, I would like to make a happy face pizza because it looks fun and delicious.",
-     "variations": [
-      "Yes, because it is fun.",
-      "Yes, I want to try it."
-     ],
-     "explanation": "開放題，自由作答。可以說喜歡，因為做披薩很有趣、看起來很好吃；也可以說不喜歡，並給出理由。",
-     "zh": "你想做一個笑臉披薩嗎？為什麼？"
-    },
-    {
-     "id": 2,
-     "text": "2. What ingredients do you like on your own pizza?",
-     "placeholder": "請輸入答案",
-     "answer": "I like cheese and mushrooms on my pizza.",
-     "variations": [
-      "I like tomatoes and green peppers."
-     ],
-     "explanation": "開放題，自由作答。說出你喜歡的披薩配料（如 cheese、mushroom、tomato、green pepper 等）即可。",
-     "zh": "你自己的披薩上喜歡放什麼食材？"
-    }
-   ]
-  },
-  "wordBank": {
-   "title": "練習 3：詞庫填空（bake / mix / pour / slice）",
-   "icon": "fa-trophy",
-   "description": "從詞庫中選擇正確的詞語，完成製作麵包的步驟：",
-   "bank": [
-    "pour",
-    "mix",
-    "slice",
-    "bake"
-   ],
-   "items": [
-    {
-     "id": "w1",
-     "before": "1. ____ the water into a bowl with flour.",
-     "after": "",
-     "answer": "pour",
-     "explanation": "把水倒入裝有麵粉的碗裡，倒水用 pour（倒入）。"
-    },
-    {
-     "id": "w2",
-     "before": "2. ____ the flour and water to make a dough.",
-     "after": "",
-     "answer": "mix",
-     "explanation": "把麵粉和水拌勻做成麵團，拌勻用 mix（攪拌）。"
-    },
-    {
-     "id": "w3",
-     "before": "3. ____ the dough.",
-     "after": "",
-     "answer": "slice",
-     "explanation": "把麵團切片，用 slice（切片）。"
-    },
-    {
-     "id": "w4",
-     "before": "4. ____ the bread.",
-     "after": "",
-     "answer": "bake",
-     "explanation": "最後把麵包烤熟，用 bake（烘焙）。"
-    }
-   ]
-  },
-  "sentencePattern": {
-   "title": "練習 4：看提示完成句子（How much / How many）",
-   "icon": "fa-image",
-   "description": "根據香蕉煎餅的食材清單（50 g butter、100 g flour、300 ml milk、20 g sugar、3 bananas、6 eggs），回答問題：",
-   "items": [
-    {
-     "id": "sentence1",
-     "before": "1. How much butter do we need? We need ",
-     "after": ".",
-     "placeholder": "輸入數量",
-     "answer": "50 grams of butter",
-     "variations": [
-      "50 g of butter",
-      "50 grams"
-     ],
-     "explanation": "食材清單顯示 50 g butter，所以需要 50 克牛油。"
-    },
-    {
-     "id": "sentence2",
-     "before": "2. How many bananas do we need? We need ",
-     "after": ".",
-     "placeholder": "輸入數量",
-     "answer": "three bananas",
-     "variations": [
-      "3 bananas",
-      "3"
-     ],
-     "explanation": "食材清單顯示 3 bananas，所以需要三根香蕉。"
-    },
-    {
-     "id": "sentence3",
-     "before": "3. How many eggs do we need? We need ",
-     "after": ".",
-     "placeholder": "輸入數量",
-     "answer": "six eggs",
-     "variations": [
-      "6 eggs",
-      "6"
-     ],
-     "explanation": "食材清單顯示 6 eggs，所以需要六隻雞蛋。"
-    },
-    {
-     "id": "sentence4",
-     "before": "4. How much milk do we need? We need ",
-     "after": ".",
-     "placeholder": "輸入數量",
-     "answer": "300 millilitres of milk",
-     "variations": [
-      "300 ml of milk",
-      "300 ml",
-      "300 millilitres"
-     ],
-     "explanation": "食材清單顯示 300 ml milk，所以需要 300 毫升牛奶。"
-    }
-   ]
-  },
-  "discussion": {
-   "title": "練習 5：說一說（烹飪步驟）",
-   "icon": "fa-users",
-   "description": "和同學討論，然後回答問題：",
-   "questions": [
-    {
-     "id": 1,
-     "text": "1. What do Sam and Pam do first to make banana pancakes?",
-     "placeholder": "請輸入答案",
-     "reference": "<strong>參考答案：</strong> First, they beat the eggs.<br><strong>中文翻譯：</strong> 首先，他們打雞蛋。"
-    },
-    {
-     "id": 2,
-     "text": "2. What is your favourite dish? Tell your friend the cooking steps.",
-     "placeholder": "請輸入答案",
-     "reference": "<strong>參考答案：</strong> My favourite dish is fried rice. First, beat the egg. Then, chop the carrot. Finally, stir-fry the egg, carrot, sausages and rice in a wok.<br><strong>中文翻譯：</strong> 我最喜歡的菜是炒飯。首先，打雞蛋。然後，切胡蘿蔔。最後，在鍋裡炒雞蛋、胡蘿蔔、香腸和米飯。"
-    }
-   ]
-  }
- },
- "quiz": {
-  "info": "滿分：15分",
-  "maxScore": 15,
-  "sections": [
-   {
-    "type": "choice",
-    "attr": "quiz",
-    "keyPrefix": "",
-    "title": "文法辨識題（每題 1 分）",
-    "icon": "fa-check-circle",
-    "questions": [
-     {
-      "id": 1,
-      "text": "1. Which sentence is correct?",
-      "options": [
-       {
-        "key": "a",
-        "text": "a. First, wash the tomato. Next, slice it."
-       },
-       {
-        "key": "b",
-        "text": "b. First, wash the tomato. Slice next it."
-       },
-       {
-        "key": "c",
-        "text": "c. First wash the tomato next."
-       },
-       {
-        "key": "d",
-        "text": "d. Next, first wash the tomato."
-       }
-      ],
-      "answer": "a",
-      "explanation": "順序連接詞 First/Next/Then/After that/Finally 放在句首，後接逗號，正確句是 First, wash the tomato. Next, slice it.，所以選 a。"
-     },
-     {
-      "id": 2,
-      "text": "2. How do we ask about the number of bananas?",
-      "options": [
-       {
-        "key": "a",
-        "text": "a. How much bananas do we need?"
-       },
-       {
-        "key": "b",
-        "text": "b. How many bananas do we need?"
-       },
-       {
-        "key": "c",
-        "text": "c. How many banana do we need?"
-       },
-       {
-        "key": "d",
-        "text": "d. How much banana do we need?"
-       }
-      ],
-      "answer": "b",
-      "explanation": "bananas 是可數名詞，詢問可數名詞的數量用 How many + 複數名詞，所以選 b。"
-     }
-    ]
-   },
-   {
-    "type": "choice",
-    "attr": "match",
-    "keyPrefix": "match",
-    "title": "詞彙理解題（每題 1 分）",
-    "icon": "fa-link",
-    "description": "選擇正確答案：",
-    "questions": [
-     {
-      "id": 1,
-      "text": "1. What do you do to bake bread at the end?",
-      "options": [
-       {
-        "key": "a",
-        "text": "a. pour the water"
-       },
-       {
-        "key": "b",
-        "text": "b. mix the flour"
-       },
-       {
-        "key": "c",
-        "text": "c. bake the dough"
-       },
-       {
-        "key": "d",
-        "text": "d. slice the bread"
-       }
-      ],
-      "answer": "c",
-      "explanation": "做麵包的最後一步是把麵團放進爐裡烤（bake），所以選 c。"
-     },
-     {
-      "id": 2,
-      "text": "2. What does ‘a little’ mean?",
-      "options": [
-       {
-        "key": "a",
-        "text": "a. a large amount of countable things"
-       },
-       {
-        "key": "b",
-        "text": "b. a small amount of countable things"
-       },
-       {
-        "key": "c",
-        "text": "c. a small amount of uncountable things"
-       },
-       {
-        "key": "d",
-        "text": "d. a large amount of uncountable things"
-       }
-      ],
-      "answer": "c",
-      "explanation": "a little 用來表示少量不可數的事物，例如 a little pizza sauce，所以選 c。"
-     }
-    ]
-   },
-   {
-    "type": "choice",
-    "attr": "reading",
-    "keyPrefix": "reading",
-    "title": "閱讀理解選擇題（每題 2 分）",
-    "icon": "fa-book-reader",
-    "questions": [
-     {
-      "id": 1,
-      "text": "1. What do you do with the green pepper and tomato first?",
-      "options": [
-       {
-        "key": "a",
-        "text": "a. bake them"
-       },
-       {
-        "key": "b",
-        "text": "b. wash them"
-       },
-       {
-        "key": "c",
-        "text": "c. slice them"
-       },
-       {
-        "key": "d",
-        "text": "d. sprinkle them"
-       }
-      ],
-      "answer": "b",
-      "explanation": "課文說 First, wash the green pepper and tomato，所以第一步是清洗，選 b。"
-     },
-     {
-      "id": 2,
-      "text": "2. Why should you ask an adult for help?",
-      "options": [
-       {
-        "key": "a",
-        "text": "a. The pizza is too hot."
-       },
-       {
-        "key": "b",
-        "text": "b. The vegetables are dangerous."
-       },
-       {
-        "key": "c",
-        "text": "c. Knives are dangerous."
-       },
-       {
-        "key": "d",
-        "text": "d. The oven is broken."
-       }
-      ],
-      "answer": "c",
-      "explanation": "課文說 Remember, knives are dangerous! Ask an adult to help you，因為刀子危險，所以選 c。"
-     }
-    ]
-   },
-   {
-    "type": "blank",
-    "title": "數量詞填空題（每題 2 分）",
-    "icon": "fa-edit",
-    "description": "用 a lot of / plenty of / a few / a little / enough 填空：",
-    "questions": [
-     {
-      "id": 1,
-      "text": "1. We have ____ butter. We don’t need to buy more.",
-      "options": [
-       "enough",
-       "a little",
-       "a few"
-      ],
-      "answer": "enough",
-      "explanation": "不需要再買牛油，表示牛油足夠，用 enough（足夠的）。"
-     },
-     {
-      "id": 2,
-      "text": "2. Add ____ mushroom slices to the pizza.",
-      "options": [
-       "a little",
-       "a few",
-       "plenty of"
-      ],
-      "answer": "a few",
-      "explanation": "mushroom slices 是可數名詞，少量用 a few，所以填 a few。"
-     }
-    ]
-   },
-   {
-    "type": "sentence",
-    "title": "句型運用題（每題 3 分）",
-    "icon": "fa-pen",
-    "prompt": "用 How much / How many 造一個關於製作食物的問句，並寫出回答：",
-    "id": "sentenceAnswer",
-    "placeholder": "請輸入句子",
-    "answer": "How many apples do we need? We need two apples.",
-    "explanation": "示例：How many apples do we need? We need two apples.（我們需要多少個蘋果？我們需要兩個蘋果。）用 How much + 不可數名詞，或 How many + 可數名詞複數提問並回答即可。"
-   }
-  ]
- },
- "sidebar": {
-  "learningPoints": {
-   "title": "Unit 3：Time to cook（煮食時光）",
-   "icon": "fa-utensils",
-   "theme": "烹飪與食譜",
-   "goals": [
-    "能閱讀烹飪食譜並理解製作步驟",
-    "能認識烹飪動詞（wash, slice, pour, spread, sprinkle, bake）",
-    "能用 First / Next / Then / After that / Finally 說出烹飪步驟",
-    "能用 How much / How many、a lot of / plenty of、a few / a little、enough 談論數量",
-    "能聆聽對話並完成填空",
-    "能認識商品目錄（Catalogue）文體"
-   ]
-  },
-  "languageFocus": {
-   "sections": [
-    {
-     "title": "1. 烹飪動詞：",
-     "items": [
-      "wash, slice, pour, spread, sprinkle, bake, mix",
-      "pizza base, pizza sauce, cheese, tomato, mushroom, green pepper"
-     ]
-    },
-    {
-     "title": "2. 順序連接詞：",
-     "items": [
-      "First, wash the green pepper and tomato.",
-      "Next, slice the tomato.",
-      "Then, pour enough pizza sauce on the pizza base.",
-      "After that, sprinkle the pizza with a lot of cheese.",
-      "Finally, bake the pizza."
-     ]
-    },
-    {
-     "title": "3. 數量詞：",
-     "items": [
-      "a lot of / plenty of（大量）",
-      "a few（少量可數）、a little（少量不可數）",
-      "enough（足夠的）",
-      "How much ... ? / How many ... ?"
-     ]
-    },
-    {
-     "title": "4. 文本類型：",
-     "items": [
-      "Catalogue（商品目錄）——列出商品、描述和價錢的清單"
-     ]
-    }
-   ]
-  }
- }
 }

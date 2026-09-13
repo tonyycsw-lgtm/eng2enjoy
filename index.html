@@ -2169,6 +2169,7 @@
             position: fixed;
             min-width: 300px;
             width: 420px;
+            max-height: calc(100vh - 140px);
             background: #fff;
             border-radius: 16px;
             box-shadow: 0 12px 40px rgba(0, 0, 0, 0.25);
@@ -2263,7 +2264,8 @@
             display: flex;
             flex-direction: column;
             gap: 10px;
-            max-height: 60vh;
+            max-height: calc(100vh - 250px);
+            min-height: 120px;
             overflow-y: auto;
             flex: 1;
         }
@@ -4957,6 +4959,10 @@ function resetQuiz() {
                     if (q.explanation) s += q.explanation;
                     const ans = answerLine(q);
                     if (ans) s += '<div style="margin-top:6px;color:#1e7e34;font-weight:600;">✅ 答案：' + ans + '</div>';
+                    if (q.altAnswer) {
+                        s += '<div style="margin-top:8px;color:#8a5a00;font-weight:600;">💬 ' + (q.altLabel || '另一種答案') + '：</div>'
+                           + '<div>' + q.altAnswer + (q.altAnswerZh ? '<br><span style="color:#777;">' + q.altAnswerZh + '</span>' : '') + '</div>';
+                    }
                     post = s;
                 } else {
                     pre = panel.innerHTML;
