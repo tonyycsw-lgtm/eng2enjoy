@@ -1130,7 +1130,7 @@
 
         .song-actions {
             display: flex;
-            gap: 10px;
+            gap: 12px;
             align-items: center;
             margin-left: auto;
         }
@@ -6936,10 +6936,10 @@ function resetQuiz() {
             if (d.song && d.song.title && d.song.lyrics) {
                 const song = d.song;
                 html += '<div class="song-container">';
-                html += '<div class="song-header">';
+                html += '<div class="song-header"><div class="song-title">' + esc(song.title) + '</div>';
+                html += '<div class="song-actions">';
                 html += '<button class="song-play-btn" data-audio="' + esc(song.audio || '') + '" aria-label="播放歌曲"><i class="fas fa-music"></i><span class="audio-loading"></span></button>';
-                html += '<div class="song-title">' + esc(song.title) + '</div>';
-                html += '<button class="lyric-toggle-btn" id="lyricToggleBtn" onclick="toggleLyricExplanation()" aria-label="顯示/隱藏歌詞講解" title="顯示/隱藏歌詞講解"><i class="fas fa-eye"></i></button></div>';
+                html += '<button class="lyric-toggle-btn" id="lyricToggleBtn" onclick="toggleLyricExplanation()" aria-label="顯示/隱藏歌詞講解" title="顯示/隱藏歌詞講解"><i class="fas fa-eye"></i></button></div></div>';
                 html += '<div class="lyrics-container">';
                 song.lyrics.forEach((ly, i) => {
                     html += '<div class="lyric-line" onclick="showLyricExplanation(' + (i + 1) + ')"><strong>' + esc(ly.label) + '</strong><br>' + ly.text + '</div>';
