@@ -746,6 +746,16 @@
             text-align: center;
             transition: all 0.3s;
         }
+        .blank-ok {
+            display: none;
+            margin-left: 6px;
+            color: #1e7e34;
+            font-size: 18px;
+            vertical-align: middle;
+        }
+        .blank-ok i {
+            line-height: 1;
+        }
         
         .blank-input-large {
             width: 200px;
@@ -3008,9 +3018,19 @@
             }
         }
         
+        function markBlankCorrect(input) {
+            markElementCorrect(input);
+            const ok = document.getElementById(input.id + '-ok');
+            const result = document.getElementById(input.id + '-result');
+            if (ok) ok.style.display = 'inline';
+            if (result) result.style.display = 'none';
+        }
+        
         function clearElementMark(element) {
             if (!element) return;
             element.classList.remove('correct-answer', 'incorrect-answer', 'correct-unanswered');
+            const ok = document.getElementById(element.id + '-ok');
+            if (ok) ok.style.display = 'none';
             
             if (element.tagName === 'INPUT' || element.tagName === 'TEXTAREA') {
                 element.style.borderColor = '#ddd';
@@ -4036,9 +4056,7 @@ function submitQuiz() {
             if (!input || !result) return;
             const val = input.value.trim().toLowerCase();
             if (val === String(q.answer).toLowerCase()) {
-                markElementCorrect(input);
-                result.textContent = '✅ 正確！';
-                result.className = 'result correct';
+                markBlankCorrect(input);
                 score += 2;
             } else {
                 if (val !== '') {
@@ -4050,8 +4068,8 @@ function submitQuiz() {
                     result.textContent = '❌ 未回答。正確答案: ' + q.answer;
                 }
                 result.className = 'result incorrect';
+                result.style.display = 'block';
             }
-            result.style.display = 'block';
         });
     }
 
@@ -4120,6 +4138,21 @@ if (existingDetails) {
 // 添加新的詳細結果分析
 const quizDetails = document.createElement('div');
 quizDetails.className = 'quiz-details';
+
+// 填空題答題狀態（數據驅動，兼容數字 id 與 quizBlankN 命名）
+let blankStatusHtml = '';
+const blankSecSt = ((LESSON && LESSON.quiz && LESSON.quiz.sections) || []).find(function (sc) { return sc.type === 'blank'; });
+if (blankSecSt && blankSecSt.questions) {
+    blankSecSt.questions.forEach(function (q) {
+        const qInput = document.getElementById(q.id);
+        const qVal = qInput ? qInput.value.trim() : '';
+        const qOk = qVal !== '' && qVal.toLowerCase() === String(q.answer).toLowerCase();
+        const qText = String(q.text || ((q.before || '') + '____' + (q.after || ''))).replace(/_\s{3,}|_{3,}/g, '____');
+        blankStatusHtml += '<div class="answer-status ' + (qOk ? 'correct' : 'incorrect') + '">' +
+            esc(qText) + '：' + (qOk ? '正確' : '錯誤') + (qVal === '' ? ' (未回答)' : '') + '</div>';
+    });
+}
+
 quizDetails.innerHTML = `
     <h4>📊 測驗詳細結果</h4>
     <h5>✅ 答對題數：${score}/${MAX_QUIZ_SCORE} 分</h5>
@@ -4131,12 +4164,7 @@ quizDetails.innerHTML = `
           '加油！建議重新學習單元內容。'}
     </div>
     <h5>🔍 答題情況：</h5>
-    <div class="answer-status ${quizBlank1 === quizAnswers.quizBlank1 ? 'correct' : 'incorrect'}">
-        比較級填空題1：${quizBlank1 === quizAnswers.quizBlank1 ? '正確' : '錯誤'} ${quizBlank1 === '' ? '(未回答)' : ''}
-    </div>
-    <div class="answer-status ${quizBlank2 === quizAnswers.quizBlank2 ? 'correct' : 'incorrect'}">
-        比較級填空題2：${quizBlank2 === quizAnswers.quizBlank2 ? '正確' : '錯誤'} ${quizBlank2 === '' ? '(未回答)' : ''}
-    </div>
+    ${blankStatusHtml}
     <div class="answer-status ${isValidStructure ? 'correct' : 'incorrect'}">
         句型運用題：${isValidStructure ? '正確' : '需要改進'} ${sentenceAnswer === '' ? '(未回答)' : ''}
     </div>
@@ -4165,17 +4193,24 @@ function resetQuiz() {
         option.style.backgroundColor = '';
     });
     
-    // 重置填空題
-    const blanks = ['quizBlank1', 'quizBlank2', 'sentenceAnswer'];
+    // 重置填空題（數據驅動，覆蓋任意題數）
+    const blankSecQz = ((LESSON && LESSON.quiz && LESSON.quiz.sections) || []).find(s => s.type === 'blank');
+    const blanks = [];
+    if (blankSecQz && blankSecQz.questions) blankSecQz.questions.forEach(q => blanks.push(q.id));
+    blanks.push('sentenceAnswer');
     blanks.forEach(blankId => {
         const input = document.getElementById(blankId);
         if (input) {
             input.value = '';
             input.placeholder = blankId === 'sentenceAnswer' ? ((LESSON && LESSON.quiz) ? ((LESSON.quiz.sections.find(s => s.type === 'sentence') || {}).placeholder || '') : '') : '';
-            input.classList.remove('correct-answer', 'incorrect-answer');
+            clearElementMark(input);
             input.style.borderColor = '#ddd';
             input.style.backgroundColor = 'white';
         }
+        
+        // 隱藏正確圖示
+        const okEl = document.getElementById(blankId + '-ok');
+        if (okEl) okEl.style.display = 'none';
         
         // 重置結果顯示
         const result = document.getElementById(`${blankId}-result`);
@@ -5489,6 +5524,7 @@ function resetQuiz() {
                         }
                         html += '<div class="fill-blank-item"><div class="blank-sentence">';
                         html += esc(qb) + '<input type="text" class="blank-input" id="' + q.id + '" style="width: 90px;">' + esc(qa);
+                        html += '<span class="blank-ok" id="' + q.id + '-ok" aria-hidden="true"><i class="fas fa-check-circle"></i></span>';
                         html += '<div class="result" id="' + q.id + '-result" style="margin-top: 10px;"></div>';
                         html += '</div>' + explainBtnHtml('expl-' + q.id) + explanationDivHtml('expl-' + q.id, q.explanation || '') + '</div>';
                     });
@@ -5920,6 +5956,7 @@ function resetQuiz() {
                         }
                         html += '<div class="fill-blank-item"><div class="blank-sentence">';
                         html += esc(qb) + '<input type="text" class="blank-input" id="' + q.id + '" style="width: 90px;">' + esc(qa);
+                        html += '<span class="blank-ok" id="' + q.id + '-ok" aria-hidden="true"><i class="fas fa-check-circle"></i></span>';
                         html += '<div class="result" id="' + q.id + '-result" style="margin-top: 10px;"></div>';
                         html += '</div>' + explainBtnHtml('expl-' + q.id) + explanationDivHtml('expl-' + q.id, q.explanation || '') + '</div>';
                     });
@@ -6999,6 +7036,7 @@ function resetQuiz() {
                     ls.questions.forEach(q => {
                         html += '<div class="fill-blank-item"><div class="blank-sentence">';
                         html += esc(q.before) + '<input type="text" class="blank-input" id="' + q.id + '" style="width: 140px;">' + esc(q.after || '');
+                        html += '<span class="blank-ok" id="' + q.id + '-ok" aria-hidden="true"><i class="fas fa-check-circle"></i></span>';
                         html += '<div class="result" id="' + q.id + '-result" style="margin-top: 10px;"></div>';
                         html += '</div>' + explainBtnHtml('expl-' + q.id) + explanationDivHtml('expl-' + q.id, q.explanation || '') + '</div>';
                     });
@@ -7695,9 +7733,8 @@ function resetQuiz() {
                     answeredCount++;
                     const correct = (val === String(q.answer).toLowerCase()) || ((q.variations || []).some(v => val === String(v).toLowerCase()));
                     const result = document.getElementById(q.id + '-result');
-                    if (correct) { markElementCorrect(input); correctCount++; if (result) { result.textContent = '✅ 正確！'; result.className = 'result correct'; } }
-                    else { markElementIncorrect(input); if (result) { result.textContent = '❌ 參考答案: ' + q.answer; result.className = 'result incorrect'; } }
-                    if (result) result.style.display = 'block';
+                    if (correct) { markBlankCorrect(input); correctCount++; }
+                    else { markElementIncorrect(input); if (result) { result.textContent = '❌ 參考答案: ' + q.answer; result.className = 'result incorrect'; if (result) result.style.display = 'block'; } }
                 } else {
                     const sel = document.querySelector('.option.selected[data-question="' + q.id + '"]');
                     if (!sel) {
