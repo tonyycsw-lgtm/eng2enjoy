@@ -5014,8 +5014,21 @@ function resetQuiz() {
                 let pre = '', post = '';
                 if (id.indexOf('expl-d') === 0) {
                     // 小組討論：檢查前提示完整句回答；檢查後顯示參考答案＋中文翻譯
-                    pre = '💡 請用英文完整回答問題。' + (q && q.zh ? ' ' + q.zh : '');
-                    post = (q && (q.reference || q.a)) || '';
+                    let discText = '';
+                    if (typeof q === 'string') discText = q;
+                    else if (q) discText = q.text || q.q || '';
+                    pre = '💡 請用英文完整回答問題。';
+                    const zhParts = String(discText).match(/（([^（）]+)）/g);
+                    const zh = zhParts ? zhParts.map(function (m) { return m.slice(1, -1); }).join(' ') : '';
+                    if (zh) pre += ' ' + zh;
+                    if (q && (q.reference || q.a)) {
+                        post = (q.reference || q.a) || '';
+                    } else if (discText) {
+                        const en = String(discText).replace(/（[^（）]*）/g, '').trim();
+                        post = '<div>' + esc(en) + '</div>' + (zh ? '<div style="color:#777;margin-top:4px;">' + esc(zh) + '</div>' : '');
+                    } else {
+                        post = '';
+                    }
                 } else if (q) {
                     pre = q.zh ? '📖 ' + q.zh : '💡 請先完成作答，再按「檢查答案」查看解題與參考答案。';
                     let s = '';
