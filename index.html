@@ -3960,10 +3960,10 @@ function submitQuiz() {
                 score += 1;
             } else {
                 markElementIncorrect(selectedOption);
-                // 顯示正確答案
+                // 顯示正確答案（作答錯誤 → 虛線綠邊）
                 const correctOption = document.querySelector(`.option[data-quiz="${i}"][data-answer="${quizAnswers[i]}"]`);
                 if(correctOption) {
-                    markElementCorrect(correctOption);
+                    correctOption.classList.add('correct-unanswered');
                 }
             }
         } else {
@@ -3985,10 +3985,10 @@ function submitQuiz() {
                 score += 1;
             } else {
                 markElementIncorrect(selectedOption);
-                // 顯示正確答案
+                // 顯示正確答案（作答錯誤 → 虛線綠邊）
                 const correctOption = document.querySelector(`.option[data-match="${i}"][data-answer="${quizAnswers[`match${i}`]}"]`);
                 if(correctOption) {
-                    markElementCorrect(correctOption);
+                    correctOption.classList.add('correct-unanswered');
                 }
             }
         } else {
@@ -4010,10 +4010,10 @@ function submitQuiz() {
                 score += 2;
             } else {
                 markElementIncorrect(selectedOption);
-                // 顯示正確答案
+                // 顯示正確答案（作答錯誤 → 虛線綠邊）
                 const correctOption = document.querySelector(`.option[data-reading="${i}"][data-answer="${quizAnswers[`reading${i}`]}"]`);
                 if(correctOption) {
-                    markElementCorrect(correctOption);
+                    correctOption.classList.add('correct-unanswered');
                 }
             }
         } else {
@@ -7437,7 +7437,11 @@ function resetQuiz() {
                 }
                 answeredCount++;
                 if (sel.getAttribute('data-answer') === q.answer) { markElementCorrect(sel); correctCount++; }
-                else { markElementIncorrect(sel); }
+                else {
+                    markElementIncorrect(sel);
+                    const correctOption = document.querySelector('.option[data-question="' + q.id + '"][data-answer="' + q.answer + '"]');
+                    if (correctOption) correctOption.classList.add('correct-unanswered');
+                }
             });
             feedback.style.display = 'block';
             if (answeredCount === 0) {
@@ -7697,7 +7701,11 @@ function resetQuiz() {
                     }
                     answeredCount++;
                     if (sel.getAttribute('data-answer') === q.answer) { markElementCorrect(sel); correctCount++; }
-                    else { markElementIncorrect(sel); }
+                    else {
+                        markElementIncorrect(sel);
+                        const correctOption = document.querySelector('.option[data-question="' + q.id + '"][data-answer="' + q.answer + '"]');
+                        if (correctOption) correctOption.classList.add('correct-unanswered');
+                    }
                 }
             });
             feedback.style.display = 'block';
@@ -7755,7 +7763,11 @@ function resetQuiz() {
                 }
                 answeredCount++;
                 if (sel.getAttribute('data-answer') === q.answer) { markElementCorrect(sel); correctCount++; }
-                else { markElementIncorrect(sel); }
+                else {
+                    markElementIncorrect(sel);
+                    const correctOption = document.querySelector('.option[data-question="' + q.id + '"][data-answer="' + q.answer + '"]');
+                    if (correctOption) correctOption.classList.add('correct-unanswered');
+                }
             });
             feedback.style.display = 'block';
             if (answeredCount === 0) {
