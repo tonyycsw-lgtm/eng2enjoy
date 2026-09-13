@@ -756,6 +756,50 @@
         .blank-ok i {
             line-height: 1;
         }
+        select.bank-select.correct-answer {
+            border-color: #2ecc71 !important;
+            background-color: #eafaf1 !important;
+        }
+        select.bank-select.incorrect-answer {
+            border-color: #e74c3c !important;
+            background-color: #fdecea !important;
+        }
+        select.bank-select.bank-unanswered {
+            border-color: #ff9800 !important;
+            border-style: dashed !important;
+            background-color: #fff8e1 !important;
+        }
+        .bank-mark {
+            display: none;
+            margin-left: 6px;
+            font-size: 16px;
+            vertical-align: middle;
+        }
+        .bank-mark .mark-ok {
+            display: none;
+            color: #1e7e34;
+        }
+        .bank-mark .mark-err {
+            display: none;
+            color: #e74c3c;
+        }
+        .bank-mark.ok {
+            display: inline;
+        }
+        .bank-mark.ok .mark-ok {
+            display: inline;
+        }
+        .bank-mark.err {
+            display: inline;
+        }
+        .bank-mark.err .mark-err {
+            display: inline;
+        }
+        input.blank-input.bank-unanswered {
+            border-color: #ff9800 !important;
+            border-style: dashed !important;
+            background-color: #fff8e1 !important;
+        }
         
         .blank-input-large {
             width: 200px;
@@ -3032,8 +3076,9 @@
             const ok = document.getElementById(element.id + '-ok');
             if (ok) ok.style.display = 'none';
             
-            if (element.tagName === 'INPUT' || element.tagName === 'TEXTAREA') {
+            if (element.tagName === 'INPUT' || element.tagName === 'TEXTAREA' || element.tagName === 'SELECT') {
                 element.style.borderColor = '#ddd';
+                element.style.borderStyle = '';
                 element.style.backgroundColor = 'white';
             } else {
                 element.style.backgroundColor = '';
@@ -4064,6 +4109,7 @@ function submitQuiz() {
                     result.textContent = '❌ 不正確。正確答案: ' + q.answer;
                 } else {
                     input.style.borderColor = '#ff9800';
+                    input.style.borderStyle = 'dashed';
                     input.style.backgroundColor = '#fff3cd';
                     result.textContent = '❌ 未回答。正確答案: ' + q.answer;
                 }
@@ -7188,6 +7234,7 @@ function resetQuiz() {
                 html += '<option value="">______</option>';
                 (block.bank || []).forEach(w => { html += '<option value="' + esc(w) + '">' + esc(w) + '</option>'; });
                 html += '</select>';
+                html += '<span class="bank-mark" data-mark="' + itId + '" aria-hidden="true"><i class="fas fa-check mark-ok"></i><i class="fas fa-times mark-err"></i></span>';
                 html += esc(it.after || '');
                 const explText = it.explanation || (function () {
                     const zhM = String(it.prompt || '').match(/（([^（）]+)）/g);
@@ -7681,11 +7728,25 @@ function resetQuiz() {
             const feedback = document.getElementById(blockKey + 'Feedback');
             let correctCount = 0, answeredCount = 0;
             block.items.forEach((it, iti) => {
-                const sel = section ? section.querySelector('select[data-item="' + (it.id || (iti + 1)) + '"]') : null;
+                const itId = it.id || (iti + 1);
+                const sel = section ? section.querySelector('select[data-item="' + itId + '"]') : null;
+                const mark = section ? section.querySelector('[data-mark="' + itId + '"]') : null;
                 const val = sel ? sel.value : '';
-                if (val === '') return;
+                if (sel) { sel.classList.remove('correct-answer', 'incorrect-answer', 'bank-unanswered'); }
+                if (mark) { mark.classList.remove('ok', 'err'); }
+                if (val === '') {
+                    if (sel) sel.classList.add('bank-unanswered');
+                    return;
+                }
                 answeredCount++;
-                if (val === it.answer) correctCount++;
+                if (val === it.answer) {
+                    correctCount++;
+                    if (sel) sel.classList.add('correct-answer');
+                    if (mark) mark.classList.add('ok');
+                } else {
+                    if (sel) sel.classList.add('incorrect-answer');
+                    if (mark) mark.classList.add('err');
+                }
             });
             feedback.style.display = 'block';
             if (answeredCount === 0) {
@@ -7709,7 +7770,8 @@ function resetQuiz() {
         function resetBankFill(blockKey) {
             const section = document.querySelector('[data-bank-block="' + blockKey + '"]');
             if (section) {
-                section.querySelectorAll('select.bank-select').forEach(sel => { sel.value = ''; });
+                section.querySelectorAll('select.bank-select').forEach(sel => { sel.value = ''; sel.classList.remove('correct-answer', 'incorrect-answer', 'bank-unanswered'); });
+                section.querySelectorAll('.bank-mark').forEach(mk => mk.classList.remove('ok', 'err'));
             }
             const feedback = document.getElementById(blockKey + 'Feedback');
             if (feedback) feedback.style.display = 'none';
@@ -7729,7 +7791,12 @@ function resetQuiz() {
                     const input = document.getElementById(q.id);
                     if (!input) return;
                     const val = input.value.trim().toLowerCase();
-                    if (val === '') return;
+                    if (val === '') {
+                        input.style.borderColor = '#ff9800';
+                        input.style.borderStyle = 'dashed';
+                        input.style.backgroundColor = '#fff3cd';
+                        return;
+                    }
                     answeredCount++;
                     const correct = (val === String(q.answer).toLowerCase()) || ((q.variations || []).some(v => val === String(v).toLowerCase()));
                     const result = document.getElementById(q.id + '-result');
