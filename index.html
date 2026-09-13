@@ -1139,9 +1139,9 @@
             color: #fff;
             border: none;
             border-radius: 50%;
-            width: 44px;
-            height: 44px;
-            font-size: 1.05rem;
+            width: 50px;
+            height: 50px;
+            font-size: 1.2rem;
             cursor: pointer;
             display: flex;
             align-items: center;
@@ -1436,9 +1436,10 @@
             }
             
             .song-header {
-                flex-direction: column;
-                gap: 15px;
-                align-items: flex-start;
+                flex-direction: row;
+                flex-wrap: wrap;
+                gap: 10px 15px;
+                align-items: center;
             }
         }
         
@@ -2467,6 +2468,10 @@
             }
         }
     
+        /* 手機點擊卡片/按鈕不顯示藍色高亮 */
+        * {
+            -webkit-tap-highlight-color: transparent;
+        }
         /* 防止選中文本（保留點擊發聲/按鈕功能；輸入框與文本域可選可輸入） */
         .app-shell, .flashcard, .flashcard *, button, .btn,
         .sentence, .sentence-zh, .key-term, .paragraph-container,
@@ -6931,10 +6936,10 @@ function resetQuiz() {
             if (d.song && d.song.title && d.song.lyrics) {
                 const song = d.song;
                 html += '<div class="song-container">';
-                html += '<div class="song-header"><div class="song-title">' + esc(song.title) + '</div>';
-                html += '<div class="song-actions">';
+                html += '<div class="song-header">';
                 html += '<button class="song-play-btn" data-audio="' + esc(song.audio || '') + '" aria-label="播放歌曲"><i class="fas fa-music"></i><span class="audio-loading"></span></button>';
-                html += '<button class="lyric-toggle-btn" id="lyricToggleBtn" onclick="toggleLyricExplanation()" aria-label="顯示/隱藏歌詞講解" title="顯示/隱藏歌詞講解"><i class="fas fa-eye"></i></button></div></div>';
+                html += '<div class="song-title">' + esc(song.title) + '</div>';
+                html += '<button class="lyric-toggle-btn" id="lyricToggleBtn" onclick="toggleLyricExplanation()" aria-label="顯示/隱藏歌詞講解" title="顯示/隱藏歌詞講解"><i class="fas fa-eye"></i></button></div>';
                 html += '<div class="lyrics-container">';
                 song.lyrics.forEach((ly, i) => {
                     html += '<div class="lyric-line" onclick="showLyricExplanation(' + (i + 1) + ')"><strong>' + esc(ly.label) + '</strong><br>' + ly.text + '</div>';
