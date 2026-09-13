@@ -1127,6 +1127,31 @@
             font-weight: bold;
         }
         
+
+        .song-actions {
+            display: flex;
+            gap: 10px;
+            align-items: center;
+        }
+        .lyric-toggle-btn {
+            background-color: #2ecc71;
+            color: #fff;
+            border: none;
+            border-radius: 50%;
+            width: 44px;
+            height: 44px;
+            font-size: 1.05rem;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.3s;
+            flex-shrink: 0;
+        }
+        .lyric-toggle-btn:hover {
+            background-color: #27ae60;
+            transform: scale(1.08);
+        }
         .song-play-btn {
             background-color: #e74c3c;
             color: white;
@@ -3796,6 +3821,14 @@ function checkReadingQA() {
         }
         
         // 歌曲理解題
+        function toggleLyricExplanation() {
+            const exps = document.querySelectorAll('.lyric-explanation');
+            const anyShow = Array.prototype.some.call(exps, e => e.classList.contains('show'));
+            exps.forEach(exp => exp.classList.toggle('show', !anyShow));
+            const btn = document.getElementById('lyricToggleBtn');
+            if (btn) btn.innerHTML = anyShow ? '<i class="fas fa-eye"></i>' : '<i class="fas fa-eye-slash"></i>';
+        }
+
         function showLyricExplanation(lineNum) {
             // 隱藏所有解釋
             document.querySelectorAll('.lyric-explanation').forEach(exp => {
@@ -6897,7 +6930,9 @@ function resetQuiz() {
                 const song = d.song;
                 html += '<div class="song-container">';
                 html += '<div class="song-header"><div class="song-title">' + esc(song.title) + '</div>';
-                html += '<button class="song-play-btn" data-audio="' + esc(song.audio || '') + '" aria-label="播放歌曲"><i class="fas fa-music"></i><span class="audio-loading"></span></button></div>';
+                html += '<div class="song-actions">';
+                html += '<button class="song-play-btn" data-audio="' + esc(song.audio || '') + '" aria-label="播放歌曲"><i class="fas fa-music"></i><span class="audio-loading"></span></button>';
+                html += '<button class="lyric-toggle-btn" id="lyricToggleBtn" onclick="toggleLyricExplanation()" aria-label="顯示/隱藏歌詞講解" title="顯示/隱藏歌詞講解"><i class="fas fa-eye"></i></button></div></div>';
                 html += '<div class="lyrics-container">';
                 song.lyrics.forEach((ly, i) => {
                     html += '<div class="lyric-line" onclick="showLyricExplanation(' + (i + 1) + ')"><strong>' + esc(ly.label) + '</strong><br>' + ly.text + '</div>';
@@ -8134,7 +8169,7 @@ function resetQuiz() {
                 '<h4><i class="fas fa-headphones"></i> 聆聽廣播稿</h4>' +
                 '<div class="reader-header-btns">' +
                 '<button id="readerTransBtn" title="中英對照"><i class="fas fa-language"></i></button>' +
-                '<button id="readerMinBtn" title="最小化"><i class="fas fa-minus"></i></button>' +
+                '<button id="readerMinBtn" title="最小化" style="visibility:hidden"><i class="fas fa-minus"></i></button>' +
                 '<button id="readerCloseBtn" title="關閉"><i class="fas fa-times"></i></button>' +
                 '</div>' +
                 '<div class="mini-icon"><i class="fas fa-headphones"></i></div>' +
@@ -8258,7 +8293,7 @@ function resetQuiz() {
                 localStorage.setItem('ete_reader_state', JSON.stringify({
                     left: pop.style.left, top: pop.style.top,
                     width: pop.style.width, height: pop.style.height,
-                    showZh: readerState.showZh, minimized: readerState.minimized
+                    showZh: readerState.showZh
                 }));
             } catch (e) {}
         }
@@ -8271,7 +8306,6 @@ function resetQuiz() {
                     if (st.width) { pop.style.width = st.width; readerState.userWidth = st.width; }
                     if (st.height) { pop.style.height = st.height; readerState.userHeight = st.height; }
                     if (st.showZh !== undefined) readerState.showZh = st.showZh;
-                    if (st.minimized) { readerState.minimized = true; pop.classList.add('minimized'); }
                 }
             } catch (e) {}
         }
