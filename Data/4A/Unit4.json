@@ -1,0 +1,1584 @@
+{
+ "meta": {
+  "pageTitleTag": "Unit 4：At the food court（在美食廣場）- 小學四年級英文互動練習",
+  "headerIcon": "fa-store",
+  "title": "小學四年級英文",
+  "subtitle": "Unit 4：At the food court（在美食廣場）",
+  "storageKey": "p4_ete_4a_unit4_at_the_food_court",
+  "totalPractice": 8,
+  "audioDir": "audio/4A/Unit4"
+ },
+ "flashcards": {
+  "pages": 4,
+  "intro": "點擊卡片查看例句，點擊音頻按鈕聆聽發音：",
+  "cards": [
+   {
+    "page": 1,
+    "word": "attractive",
+    "meaning": "吸引的、好看的",
+    "icon": "fa-star",
+    "audio": "attractive",
+    "example": "The chicken curry looked attractive but it tasted awful.",
+    "translation": "雞肉咖喱看起來很好看，但味道很糟糕。",
+    "exampleAudio": "attractive_example",
+    "pairs": [
+     {
+      "en": "attractive",
+      "zh": "吸引的、好看的"
+     },
+     {
+      "en": "looked attractive",
+      "zh": "看起來很好看"
+     }
+    ]
+   },
+   {
+    "page": 1,
+    "word": "delicious",
+    "meaning": "美味的",
+    "icon": "fa-cookie-bite",
+    "audio": "delicious",
+    "example": "It is the most delicious tiramisu in Hong Kong.",
+    "translation": "它是全香港最美味的提拉米蘇。",
+    "exampleAudio": "delicious_example",
+    "pairs": [
+     {
+      "en": "delicious",
+      "zh": "美味的"
+     },
+     {
+      "en": "the most delicious",
+      "zh": "最美味的"
+     }
+    ]
+   },
+   {
+    "page": 1,
+    "word": "expensive",
+    "meaning": "昂貴的",
+    "icon": "fa-money-bill-wave",
+    "audio": "expensive",
+    "example": "The food tasted wonderful but it was quite expensive.",
+    "translation": "食物味道很好，但相當昂貴。",
+    "exampleAudio": "expensive_example",
+    "pairs": [
+     {
+      "en": "expensive",
+      "zh": "昂貴的"
+     },
+     {
+      "en": "quite expensive",
+      "zh": "相當昂貴"
+     }
+    ]
+   },
+   {
+    "page": 1,
+    "word": "spicy",
+    "meaning": "辛辣的",
+    "icon": "fa-fire",
+    "audio": "spicy",
+    "example": "The spaghetti with meatballs was a little bit spicy.",
+    "translation": "肉丸意大利麵有一點辣。",
+    "exampleAudio": "spicy_example",
+    "pairs": [
+     {
+      "en": "spicy",
+      "zh": "辛辣的"
+     },
+     {
+      "en": "a little bit spicy",
+      "zh": "有一點辣"
+     }
+    ]
+   },
+   {
+    "page": 2,
+    "word": "oily",
+    "meaning": "油膩的",
+    "icon": "fa-oil-can",
+    "audio": "oily",
+    "example": "They were crispy and not too oily.",
+    "translation": "它們很香脆，不太油膩。",
+    "exampleAudio": "oily_example",
+    "pairs": [
+     {
+      "en": "oily",
+      "zh": "油膩的"
+     },
+     {
+      "en": "not too oily",
+      "zh": "不太油膩"
+     }
+    ]
+   },
+   {
+    "page": 2,
+    "word": "popular",
+    "meaning": "受歡迎的",
+    "icon": "fa-fire-flame-curved",
+    "audio": "popular",
+    "example": "Many people like the salmon sushi. It is popular.",
+    "translation": "很多人喜歡三文魚壽司。它很受歡迎。",
+    "exampleAudio": "popular_example",
+    "pairs": [
+     {
+      "en": "popular",
+      "zh": "受歡迎的"
+     }
+    ]
+   },
+   {
+    "page": 2,
+    "word": "reasonable",
+    "meaning": "合理的",
+    "icon": "fa-scale-balanced",
+    "audio": "reasonable",
+    "example": "The prices were the most reasonable at Yummy World.",
+    "translation": "價錢是美食世界裡最合理的。",
+    "exampleAudio": "reasonable_example",
+    "pairs": [
+     {
+      "en": "reasonable",
+      "zh": "合理的"
+     },
+     {
+      "en": "the most reasonable",
+      "zh": "最合理的"
+     }
+    ]
+   },
+   {
+    "page": 2,
+    "word": "taste",
+    "meaning": "味道、品嚐",
+    "icon": "fa-utensils",
+    "audio": "taste",
+    "example": "The goose was tasty but the food was not enough.",
+    "translation": "燒鵝很美味，但食物不夠。",
+    "exampleAudio": "taste_example",
+    "pairs": [
+     {
+      "en": "tasty",
+      "zh": "美味的"
+     },
+     {
+      "en": "not enough",
+      "zh": "不夠的"
+     }
+    ]
+   },
+   {
+    "page": 3,
+    "word": "curry",
+    "meaning": "咖喱",
+    "icon": "fa-bowl-food",
+    "audio": "curry",
+    "example": "I’d like the chicken curry and miso soup, please.",
+    "translation": "我想要雞肉咖喱和味噌湯。",
+    "exampleAudio": "curry_example",
+    "pairs": [
+     {
+      "en": "chicken curry",
+      "zh": "雞肉咖喱"
+     },
+     {
+      "en": "miso soup",
+      "zh": "味噌湯"
+     }
+    ]
+   },
+   {
+    "page": 3,
+    "word": "spring rolls",
+    "meaning": "春卷",
+    "icon": "fa-egg",
+    "audio": "spring_rolls",
+    "example": "I like spring rolls! I’d like to order those!",
+    "translation": "我喜歡春卷！我想點那些！",
+    "exampleAudio": "spring_rolls_example",
+    "pairs": [
+     {
+      "en": "spring rolls",
+      "zh": "春卷"
+     },
+     {
+      "en": "order",
+      "zh": "點餐"
+     }
+    ]
+   },
+   {
+    "page": 3,
+    "word": "tiramisu",
+    "meaning": "提拉米蘇",
+    "icon": "fa-cake-candles",
+    "audio": "tiramisu",
+    "example": "Would you like to try our tiramisu?",
+    "translation": "你想試試我們的提拉米蘇嗎？",
+    "exampleAudio": "tiramisu_example",
+    "pairs": [
+     {
+      "en": "tiramisu",
+      "zh": "提拉米蘇"
+     }
+    ]
+   },
+   {
+    "page": 3,
+    "word": "roasted goose",
+    "meaning": "燒鵝",
+    "icon": "fa-drumstick-bite",
+    "audio": "roasted_goose",
+    "example": "We also had roasted goose with rice.",
+    "translation": "我們還吃了燒鵝配飯。",
+    "exampleAudio": "roasted_goose_example",
+    "pairs": [
+     {
+      "en": "roasted goose",
+      "zh": "燒鵝"
+     }
+    ]
+   },
+   {
+    "page": 4,
+    "word": "order",
+    "meaning": "點餐、訂購",
+    "icon": "fa-clipboard-list",
+    "audio": "order",
+    "example": "I’d like to order some spring rolls, please.",
+    "translation": "我想點一些春卷。",
+    "exampleAudio": "order_example",
+    "pairs": [
+     {
+      "en": "order",
+      "zh": "點餐"
+     },
+     {
+      "en": "order those",
+      "zh": "點那些"
+     }
+    ]
+   },
+   {
+    "page": 4,
+    "word": "menu",
+    "meaning": "菜單",
+    "icon": "fa-book",
+    "audio": "menu",
+    "example": "The children are talking about the food items on the menu.",
+    "translation": "孩子們正在談論菜單上的食物。",
+    "exampleAudio": "menu_example",
+    "pairs": [
+     {
+      "en": "menu",
+      "zh": "菜單"
+     },
+     {
+      "en": "food items",
+      "zh": "食物項目"
+     }
+    ]
+   },
+   {
+    "page": 4,
+    "word": "cashier",
+    "meaning": "收銀員",
+    "icon": "fa-user-tie",
+    "audio": "cashier",
+    "example": "In groups of four, role-play the cashier and the customers.",
+    "translation": "四人一組，扮演收銀員和顧客。",
+    "exampleAudio": "cashier_example",
+    "pairs": [
+     {
+      "en": "cashier",
+      "zh": "收銀員"
+     },
+     {
+      "en": "role-play",
+      "zh": "角色扮演"
+     }
+    ]
+   },
+   {
+    "page": 4,
+    "word": "customer",
+    "meaning": "顧客",
+    "icon": "fa-user",
+    "audio": "customer",
+    "example": "What did the customers order? Tell the class.",
+    "translation": "顧客們點了什麼？告訴全班同學。",
+    "exampleAudio": "customer_example",
+    "pairs": [
+     {
+      "en": "customers",
+      "zh": "顧客們"
+     }
+    ]
+   }
+  ]
+ },
+ "reading": {
+  "title": "Yummy World（美食世界）",
+  "icon": "fa-store",
+  "intro": "李一家人昨天到美食世界（Yummy World）吃午餐。閱讀他們在各餐廳的對話和網上食評，學習點餐和評價食物的表達：",
+  "paragraphs": [
+   {
+    "id": "t1",
+    "text": "The Lee family went to Yummy World for lunch yesterday. There are four fast food shops there: Little Tokyo, Thai Curry, Bravo and Red Dragon.",
+    "translation": "李一家人昨天去美食世界吃午餐。那裡有四間快餐店：Little Tokyo、Thai Curry、Bravo 和 Red Dragon。",
+    "pairs": [
+     {
+      "en": "went to Yummy World",
+      "zh": "去美食世界"
+     },
+     {
+      "en": "fast food shops",
+      "zh": "快餐店"
+     }
+    ],
+    "sentences": [
+     "The Lee family went to Yummy World for lunch yesterday.",
+     "There are four fast food shops there: Little Tokyo, Thai Curry, Bravo and Red Dragon."
+    ],
+    "translation_sentences": [
+     "李一家人昨天去美食世界吃午餐。",
+     "那裡有四間快餐店：Little Tokyo、Thai Curry、Bravo 和 Red Dragon。"
+    ]
+   },
+   {
+    "id": "t2",
+    "text": "“What do you want?” asks the waiter at Little Tokyo. “Umm ... I’d like the chicken curry and miso soup, please,” says Sam. At Thai Curry, the waiter asks, “Would you like to try our spicy beef curry?” “No, thanks. I don’t like spicy food,” says Pam. “I don’t like spicy food, either,” says Sam.",
+    "translation": "「你想吃什麼？」Little Tokyo 的侍應問。「嗯……我想要雞肉咖喱和味噌湯，」Sam 說。在 Thai Curry，侍應問：「你想試試我們的辣牛肉咖喱嗎？」「不了，謝謝。我不喜歡辣的食物，」Pam 說。「我也不喜歡辣的食物，」Sam 說。",
+    "pairs": [
+     {
+      "en": "What do you want?",
+      "zh": "你想吃什麼？"
+     },
+     {
+      "en": "I’d like the chicken curry",
+      "zh": "我想要雞肉咖喱"
+     },
+     {
+      "en": "Would you like to try",
+      "zh": "你想試試嗎"
+     },
+     {
+      "en": "I don’t like spicy food, either",
+      "zh": "我也不喜歡辣的食物"
+     }
+    ],
+    "sentences": [
+     "“What do you want?” asks the waiter at Little Tokyo.",
+     "“Umm ... I’d like the chicken curry and miso soup, please,” says Sam.",
+     "At Thai Curry, the waiter asks, “Would you like to try our spicy beef curry?”",
+     "“No, thanks. I don’t like spicy food,” says Pam.",
+     "“I don’t like spicy food, either,” says Sam."
+    ],
+    "translation_sentences": [
+     "「你想吃什麼？」Little Tokyo 的侍應問。",
+     "「嗯……我想要雞肉咖喱和味噌湯，」Sam 說。",
+     "在 Thai Curry，侍應問：「你想試試我們的辣牛肉咖喱嗎？」",
+     "「不了，謝謝。我不喜歡辣的食物，」Pam 說。",
+     "「我也不喜歡辣的食物，」Sam 說。"
+    ]
+   },
+   {
+    "id": "t3",
+    "text": "At Bravo, the waiter asks, “Would you like to try our tiramisu?” “Yes. I’d like to have one, please,” says Pam. At Red Dragon, Brian says, “I like spring rolls! I’d like to order those!” Clara says, “I like spring rolls, too. Let’s get some!”",
+    "translation": "在 Bravo，侍應問：「你想試試我們的提拉米蘇嗎？」「好的，我想要一個，」Pam 說。在 Red Dragon，Brian 說：「我喜歡春卷！我想點那些！」Clara 說：「我也喜歡春卷。我們點一些吧！」",
+    "pairs": [
+     {
+      "en": "I’d like to have one",
+      "zh": "我想要一個"
+     },
+     {
+      "en": "I’d like to order those",
+      "zh": "我想點那些"
+     },
+     {
+      "en": "I like spring rolls, too",
+      "zh": "我也喜歡春卷"
+     },
+     {
+      "en": "Let’s get some",
+      "zh": "我們點一些吧"
+     }
+    ],
+    "sentences": [
+     "At Bravo, the waiter asks, “Would you like to try our tiramisu?”",
+     "“Yes. I’d like to have one, please,” says Pam.",
+     "At Red Dragon, Brian says, “I like spring rolls! I’d like to order those!”",
+     "Clara says, “I like spring rolls, too. Let’s get some!”"
+    ],
+    "translation_sentences": [
+     "在 Bravo，侍應問：「你想試試我們的提拉米蘇嗎？」",
+     "「好的，我想要一個，」Pam 說。",
+     "在 Red Dragon，Brian 說：「我喜歡春卷！我想點那些！」",
+     "Clara 說：「我也喜歡春卷。我們點一些吧！」"
+    ]
+   },
+   {
+    "id": "t4",
+    "text": "The Lee family wrote reviews on a website about the fast food shops they visited. Sam wrote: “I ordered chicken curry and miso soup at Little Tokyo yesterday. The chicken curry looked attractive but it tasted awful! The food was cold and the spoons were dirty. The staff were not polite or helpful. Next to Little Tokyo is Thai Curry. Their chicken curry and satay looked more attractive than Little Tokyo’s!”",
+    "translation": "李一家人在網站上寫了關於他們光顧的快餐店的食評。Sam 寫道：「我昨天在 Little Tokyo 點了雞肉咖喱和味噌湯。雞肉咖喱看起來很好看，但味道很糟糕！食物是冷的，湯匙很髒。員工不禮貌也不幫忙。Little Tokyo 旁邊是 Thai Curry。他們的雞肉咖喱和沙嗲看起來比 Little Tokyo 的更好看！」",
+    "pairs": [
+     {
+      "en": "wrote reviews",
+      "zh": "寫食評"
+     },
+     {
+      "en": "tasted awful",
+      "zh": "味道很糟糕"
+     },
+     {
+      "en": "The staff were not polite or helpful",
+      "zh": "員工不禮貌也不幫忙"
+     },
+     {
+      "en": "more attractive than",
+      "zh": "比……更好看"
+     }
+    ],
+    "sentences": [
+     "The Lee family wrote reviews on a website about the fast food shops they visited.",
+     "“I ordered chicken curry and miso soup at Little Tokyo yesterday.",
+     "The chicken curry looked attractive but it tasted awful!",
+     "The food was cold and the spoons were dirty.",
+     "The staff were not polite or helpful.",
+     "Next to Little Tokyo is Thai Curry.",
+     "Their chicken curry and satay looked more attractive than Little Tokyo’s!”"
+    ],
+    "translation_sentences": [
+     "李一家人在網站上寫了關於他們光顧的快餐店的食評。",
+     "「我昨天在 Little Tokyo 點了雞肉咖喱和味噌湯。",
+     "雞肉咖喱看起來很好看，但味道很糟糕！",
+     "食物是冷的，湯匙很髒。",
+     "員工不禮貌也不幫忙。",
+     "Little Tokyo 旁邊是 Thai Curry。",
+     "他們的雞肉咖喱和沙嗲看起來比 Little Tokyo 的更好看！」"
+    ]
+   },
+   {
+    "id": "t5",
+    "text": "Pam wrote about Bravo: “Bravo is a new fast food shop at Yummy World. A lot of people queued up at the shop. I waited 30 minutes for my food! The spaghetti with meatballs was a little bit spicy. There was a lot of cheese on the top, but it was not too salty. I also tried the tiramisu. I think it is the most delicious tiramisu in Hong Kong. The food tasted wonderful but it was quite expensive. The service needs improvement.”",
+    "translation": "Pam 寫了關於 Bravo 的食評：「Bravo 是美食世界新開的快餐店。很多人在店前排隊。我等了 30 分鐘才拿到食物！肉丸意大利麵有一點辣。上面有很多芝士，但不會太鹹。我也試了提拉米蘇。我覺得它是全香港最美味的提拉米蘇。食物味道很好，但相當昂貴。服務需要改進。」",
+    "pairs": [
+     {
+      "en": "queued up",
+      "zh": "排隊"
+     },
+     {
+      "en": "waited 30 minutes",
+      "zh": "等了30分鐘"
+     },
+     {
+      "en": "the most delicious tiramisu",
+      "zh": "最美味的提拉米蘇"
+     },
+     {
+      "en": "quite expensive",
+      "zh": "相當昂貴"
+     },
+     {
+      "en": "The service needs improvement",
+      "zh": "服務需要改進"
+     }
+    ],
+    "sentences": [
+     "Pam wrote about Bravo:",
+     "“Bravo is a new fast food shop at Yummy World.",
+     "A lot of people queued up at the shop.",
+     "I waited 30 minutes for my food!",
+     "The spaghetti with meatballs was a little bit spicy.",
+     "There was a lot of cheese on the top, but it was not too salty.",
+     "I also tried the tiramisu.",
+     "I think it is the most delicious tiramisu in Hong Kong.",
+     "The food tasted wonderful but it was quite expensive.",
+     "The service needs improvement.”"
+    ],
+    "translation_sentences": [
+     "Pam 寫了關於 Bravo 的食評：",
+     "「Bravo 是美食世界新開的快餐店。",
+     "很多人在店前排隊。",
+     "我等了 30 分鐘才拿到食物！",
+     "肉丸意大利麵有一點辣。",
+     "上面有很多芝士，但不會太鹹。",
+     "我也試了提拉米蘇。",
+     "我覺得它是全香港最美味的提拉米蘇。",
+     "食物味道很好，但相當昂貴。",
+     "服務需要改進。」"
+    ]
+   },
+   {
+    "id": "t6",
+    "text": "Clara wrote about Red Dragon: “My husband and I ordered some spring rolls at Red Dragon yesterday. They were crispy and not too oily. We also had roasted goose with rice. The goose was tasty but the food was not enough. We were still hungry when we finished. However, the staff were friendly and the prices were the most reasonable at Yummy World.”",
+    "translation": "Clara 寫了關於 Red Dragon 的食評：「我丈夫和我昨天在 Red Dragon 點了一些春卷。它們很香脆，不太油膩。我們還吃了燒鵝配飯。燒鵝很美味，但食物不夠。我們吃完時還是很餓。不過，員工很友善，價錢也是美食世界裡最合理的。」",
+    "pairs": [
+     {
+      "en": "crispy and not too oily",
+      "zh": "香脆不太油膩"
+     },
+     {
+      "en": "the goose was tasty",
+      "zh": "燒鵝很美味"
+     },
+     {
+      "en": "the food was not enough",
+      "zh": "食物不夠"
+     },
+     {
+      "en": "the staff were friendly",
+      "zh": "員工很友善"
+     },
+     {
+      "en": "the most reasonable",
+      "zh": "最合理的"
+     }
+    ],
+    "sentences": [
+     "Clara wrote about Red Dragon:",
+     "“My husband and I ordered some spring rolls at Red Dragon yesterday.",
+     "They were crispy and not too oily.",
+     "We also had roasted goose with rice.",
+     "The goose was tasty but the food was not enough.",
+     "We were still hungry when we finished.",
+     "However, the staff were friendly and the prices were the most reasonable at Yummy World.”"
+    ],
+    "translation_sentences": [
+     "Clara 寫了關於 Red Dragon 的食評：",
+     "「我丈夫和我昨天在 Red Dragon 點了一些春卷。",
+     "它們很香脆，不太油膩。",
+     "我們還吃了燒鵝配飯。",
+     "燒鵝很美味，但食物不夠。",
+     "我們吃完時還是很餓。",
+     "不過，員工很友善，價錢也是美食世界裡最合理的。」"
+    ]
+   }
+  ]
+ },
+ "sayItRight": {
+  "title": "SAY IT RIGHT（-ive 結尾）",
+  "icon": "fa-microphone-alt",
+  "sentences": [
+   {
+    "id": "sir1",
+    "text": "The dishes at Active Café are creative.",
+    "translation": "Active Café 的菜餚很有創意。",
+    "pairs": [
+     {
+      "en": "creative",
+      "zh": "有創意的"
+     }
+    ]
+   },
+   {
+    "id": "sir2",
+    "text": "The drinks at Green Olive are expensive.",
+    "translation": "Green Olive 的飲品很昂貴。",
+    "pairs": [
+     {
+      "en": "expensive",
+      "zh": "昂貴的"
+     }
+    ]
+   },
+   {
+    "id": "sir3",
+    "text": "The desserts at Active Café are attractive.",
+    "translation": "Active Café 的甜品很吸引。",
+    "pairs": [
+     {
+      "en": "attractive",
+      "zh": "吸引的"
+     }
+    ]
+   },
+   {
+    "id": "sir4",
+    "text": "The staff at Green Olive are talkative.",
+    "translation": "Green Olive 的員工很健談。",
+    "pairs": [
+     {
+      "en": "talkative",
+      "zh": "健談的"
+     }
+    ]
+   }
+  ]
+ },
+ "listening": {
+  "title": "聆聽練習：Curry Hut 問卷調查",
+  "icon": "fa-headphones",
+  "description": "Sam 和 Pam 正在 Curry Hut 填寫意見問卷。聆聽對話，完成問卷：",
+  "mode": "blank",
+  "script": {
+   "title": "Sam & Pam：Curry Hut 意見問卷（聆聽稿）",
+   "audio": "listening_u4",
+   "text": "Sam and Pam are filling in a questionnaire at Curry Hut. The waiter asks, “Which dishes did you order?” Sam says, “We ordered the chicken curry and the beef curry.” The waiter asks, “How was the food?” Pam says, “It was very delicious and very hot.” The waiter asks, “How was the price?” Sam says, “I think the price is reasonable.” Pam says, “Yes, the price is reasonable.” The waiter asks, “How were the staff?” Pam says, “The staff were friendly, but the service was slow.” Sam says, “Also, the forks were dirty. We asked for clean ones.”",
+   "segments": [
+    {
+     "en": "Sam and Pam are filling in a questionnaire at Curry Hut.",
+     "zh": "Sam 和 Pam 正在 Curry Hut 填寫意見問卷。"
+    },
+    {
+     "en": "Which dishes did you order?",
+     "zh": "你們點了哪些菜？"
+    },
+    {
+     "en": "We ordered the chicken curry and the beef curry.",
+     "zh": "我們點了雞肉咖喱和牛肉咖喱。"
+    },
+    {
+     "en": "How was the food?",
+     "zh": "食物怎麼樣？"
+    },
+    {
+     "en": "It was very delicious and very hot.",
+     "zh": "非常美味，而且很辣。"
+    },
+    {
+     "en": "How was the price?",
+     "zh": "價錢怎麼樣？"
+    },
+    {
+     "en": "I think the price is reasonable.",
+     "zh": "我覺得價錢合理。"
+    },
+    {
+     "en": "Yes, the price is reasonable.",
+     "zh": "是的，價錢合理。"
+    },
+    {
+     "en": "How were the staff?",
+     "zh": "員工怎麼樣？"
+    },
+    {
+     "en": "The staff were friendly, but the service was slow.",
+     "zh": "員工很友善，但服務很慢。"
+    },
+    {
+     "en": "Also, the forks were dirty.",
+     "zh": "而且，叉子很髒。"
+    },
+    {
+     "en": "We asked for clean ones.",
+     "zh": "我們要了乾淨的。"
+    }
+   ],
+   "zh": "Sam 和 Pam 正在 Curry Hut 填寫意見問卷。侍應問：「你們點了哪些菜？」Sam 說：「我們點了雞肉咖喱和牛肉咖喱。」侍應問：「食物怎麼樣？」Pam 說：「非常美味，而且很辣。」侍應問：「價錢怎麼樣？」Sam 說：「我覺得價錢合理。」Pam 說：「是的，價錢合理。」侍應問：「員工怎麼樣？」Pam 說：「員工很友善，但服務很慢。」Sam 說：「而且，叉子很髒。我們要了乾淨的。」"
+  },
+  "questions": [
+   {
+    "id": "l1",
+    "before": "1. Which dish(es) did you order? curry (a) ",
+    "after": " and curry (b) ",
+    "answer": "chicken",
+    "variations": [
+     "chicken curry"
+    ],
+    "explanation": "Sam 說 We ordered the chicken curry and the beef curry，所以第一個是 chicken。"
+   },
+   {
+    "id": "l2",
+    "before": "2. Which dish(es) did you order? curry (a) chicken and curry (b) ",
+    "after": ".",
+    "answer": "beef",
+    "variations": [
+     "beef curry"
+    ],
+    "explanation": "Sam 說 We ordered the chicken curry and the beef curry，所以第二個是 beef。"
+   },
+   {
+    "id": "l3",
+    "before": "3. How was the food? very ",
+    "after": " and very hot.",
+    "answer": "delicious",
+    "variations": [
+     "tasty",
+     "good"
+    ],
+    "explanation": "Pam 說 It was very delicious and very hot，食物非常美味。"
+   },
+   {
+    "id": "l4",
+    "before": "4. How was the price? (e) ",
+    "after": "",
+    "answer": "reasonable",
+    "variations": [
+     "the price is reasonable"
+    ],
+    "explanation": "Sam 和 Pam 都說 the price is reasonable，價錢合理。"
+   },
+   {
+    "id": "l5",
+    "before": "5. How were the staff? (f) ",
+    "after": " but (g) slow service.",
+    "answer": "friendly",
+    "variations": [
+     "The staff were friendly"
+    ],
+    "explanation": "Pam 說 The staff were friendly, but the service was slow，員工友善但服務慢。"
+   },
+   {
+    "id": "l6",
+    "before": "6. The forks were ",
+    "after": ".",
+    "answer": "dirty",
+    "variations": [
+     "very dirty"
+    ],
+    "explanation": "Sam 說 the forks were dirty，叉子是髒的。"
+   }
+  ]
+ },
+ "textType": {
+  "title": "Text Type: Food Reviews（食評）",
+  "icon": "fa-book",
+  "description": "食評（Food Review）告訴我們一道菜餚的價錢、味道和其他資訊。食評通常包括引言、餐廳名稱、評分、評論和價錢。",
+  "model": {
+   "title": "WHO MAKES THE BEST SPRING ROLLS IN TOWN?（誰是鎮上最好吃的春卷？）",
+   "parts": [
+    {
+     "label": "Source",
+     "text": "Smart Kids Weekly"
+    },
+    {
+     "label": "Writer",
+     "text": "Louise Pang"
+    },
+    {
+     "label": "Rating",
+     "text": "★ ratings"
+    },
+    {
+     "label": "Price",
+     "text": "$14 - $22"
+    }
+   ],
+   "body": "This week, we compared the spring rolls from three Chinese restaurants. Let’s see which one is the best! Red Dragon: They are very crispy and not too oily, but there’s not enough pork. Price: $14. White Star: They are oily and cold! Yuck! Price: $17. Peking Taste: They are crispy and spicy. The sauce tastes wonderful. Price: $22.",
+   "zh": "本週，我們比較了三間中餐館的春卷。看看哪一間最好！Red Dragon：春卷非常香脆，不太油膩，但豬肉不夠。價錢：14美元。White Star：春卷油膩又冷！噁！價錢：17美元。Peking Taste：春卷香脆又辣。醬汁味道很棒。價錢：22美元。",
+   "pairs": [
+    {
+     "en": "food review",
+     "zh": "食評"
+    },
+    {
+     "en": "compared the spring rolls",
+     "zh": "比較春卷"
+    },
+    {
+     "en": "crispy and not too oily",
+     "zh": "香脆不太油膩"
+    },
+    {
+     "en": "there’s not enough pork",
+     "zh": "豬肉不夠"
+    },
+    {
+     "en": "The sauce tastes wonderful",
+     "zh": "醬汁味道很棒"
+    }
+   ],
+   "sentences": [
+    "This week, we compared the spring rolls from three Chinese restaurants.",
+    "Let’s see which one is the best!",
+    "Red Dragon: They are very crispy and not too oily, but there’s not enough pork.",
+    "Price: $14.",
+    "White Star: They are oily and cold! Yuck!",
+    "Price: $17.",
+    "Peking Taste: They are crispy and spicy.",
+    "The sauce tastes wonderful.",
+    "Price: $22."
+   ],
+   "translation_sentences": [
+    "本週，我們比較了三間中餐館的春卷。",
+    "看看哪一間最好！",
+    "Red Dragon：春卷非常香脆，不太油膩，但豬肉不夠。",
+    "價錢：14美元。",
+    "White Star：春卷油膩又冷！噁！",
+    "價錢：17美元。",
+    "Peking Taste：春卷香脆又辣。",
+    "醬汁味道很棒。",
+    "價錢：22美元。"
+   ]
+  },
+  "questions": [
+   {
+    "id": "tt1",
+    "text": "1. What is NOT in the food review?",
+    "answer": "d",
+    "options": [
+     {
+      "key": "a",
+      "text": "a. taste of the food"
+     },
+     {
+      "key": "b",
+      "text": "b. names of the restaurants"
+     },
+     {
+      "key": "c",
+      "text": "c. price of the food"
+     },
+     {
+      "key": "d",
+      "text": "d. opening hours of the restaurants"
+     }
+    ],
+    "explanation": "食評包含味道、餐廳名稱和價錢，但沒有營業時間，所以選 d。"
+   },
+   {
+    "id": "tt2",
+    "text": "2. This food review is from ____.",
+    "answer": "a",
+    "options": [
+     {
+      "key": "a",
+      "text": "a. a magazine"
+     },
+     {
+      "key": "b",
+      "text": "b. a recipe"
+     },
+     {
+      "key": "c",
+      "text": "c. a catalogue"
+     },
+     {
+      "key": "d",
+      "text": "d. a diary"
+     }
+    ],
+    "explanation": "食評來自 Smart Kids Weekly（雜誌），所以選 a。"
+   },
+   {
+    "id": "tt3",
+    "text": "3. Which restaurant’s spring rolls are the most expensive?",
+    "answer": "c",
+    "options": [
+     {
+      "key": "a",
+      "text": "a. Red Dragon"
+     },
+     {
+      "key": "b",
+      "text": "b. White Star"
+     },
+     {
+      "key": "c",
+      "text": "c. Peking Taste"
+     },
+     {
+      "key": "d",
+      "text": "d. Yummy World"
+     }
+    ],
+    "explanation": "Peking Taste 的春卷售價 $22，是三間中最貴的，所以選 c。"
+   },
+   {
+    "id": "tt4",
+    "text": "4. What does the reviewer think of Red Dragon’s spring rolls?",
+    "answer": "a",
+    "options": [
+     {
+      "key": "a",
+      "text": "a. crispy and not too oily"
+     },
+     {
+      "key": "b",
+      "text": "b. oily and cold"
+     },
+     {
+      "key": "c",
+      "text": "c. spicy and cold"
+     },
+     {
+      "key": "d",
+      "text": "d. too salty"
+     }
+    ],
+    "explanation": "食評說 Red Dragon 的春卷 very crispy and not too oily，所以選 a。"
+   }
+  ]
+ },
+ "grammar": [
+  {
+   "title": "Would you like ... ?（提出邀請或建議）",
+   "examples": [
+    {
+     "en": "Would you like to try our tiramisu? Yes, I’d like to have one, please.",
+     "zh": "你想試試我們的提拉米蘇嗎？好的，我想要一個。",
+     "pairs": [
+      {
+       "en": "Would you like to try",
+       "zh": "你想試試嗎"
+      },
+      {
+       "en": "I’d like to have one",
+       "zh": "我想要一個"
+      }
+     ]
+    },
+    {
+     "en": "Would you like something to drink? Yes, I’d like some orange juice, please.",
+     "zh": "你想喝點什麼嗎？好的，我想要一些橙汁。",
+     "pairs": [
+      {
+       "en": "Would you like something to drink",
+       "zh": "你想喝點什麼嗎"
+      },
+      {
+       "en": "I’d like some orange juice",
+       "zh": "我想要一些橙汁"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "I’d like ...（點餐表達）",
+   "examples": [
+    {
+     "en": "I’d like the chicken curry and miso soup, please.",
+     "zh": "我想要雞肉咖喱和味噌湯。",
+     "pairs": [
+      {
+       "en": "I’d like the chicken curry",
+       "zh": "我想要雞肉咖喱"
+      }
+     ]
+    },
+    {
+     "en": "I’d like to order some spring rolls, please.",
+     "zh": "我想點一些春卷。",
+     "pairs": [
+      {
+       "en": "I’d like to order",
+       "zh": "我想點"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "too / not ... either（表示相同意見）",
+   "examples": [
+    {
+     "en": "I like spring rolls. I like spring rolls, too.",
+     "zh": "我喜歡春卷。我也喜歡春卷。",
+     "pairs": [
+      {
+       "en": "I like spring rolls, too",
+       "zh": "我也喜歡春卷"
+      }
+     ]
+    },
+    {
+     "en": "I don’t like spicy food. I don’t like spicy food, either.",
+     "zh": "我不喜歡辣的食物。我也不喜歡辣的食物。",
+     "pairs": [
+      {
+       "en": "I don’t like spicy food, either",
+       "zh": "我也不喜歡辣的食物"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "more ... than / the most（比較級與最高級）",
+   "examples": [
+    {
+     "en": "Their chicken curry looked more attractive than Little Tokyo’s!",
+     "zh": "他們的雞肉咖喱看起來比 Little Tokyo 的更好看！",
+     "pairs": [
+      {
+       "en": "more attractive than",
+       "zh": "比……更好看"
+      }
+     ]
+    },
+    {
+     "en": "I think it is the most delicious tiramisu in Hong Kong.",
+     "zh": "我覺得它是全香港最美味的提拉米蘇。",
+     "pairs": [
+      {
+       "en": "the most delicious",
+       "zh": "最美味的"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "practice": {
+  "intro": "根據 Unit 4（At the food court）內容完成以下練習題：",
+  "readingComp": {
+   "title": "練習 1：閱讀理解選擇題",
+   "icon": "fa-search",
+   "description": "根據課文內容，選擇最佳答案：",
+   "questions": [
+    {
+     "id": "r1",
+     "text": "1. What does Sam think of the staff at Little Tokyo?",
+     "answer": "d",
+     "options": [
+      {
+       "key": "a",
+       "text": "a. They were dirty."
+      },
+      {
+       "key": "b",
+       "text": "b. They were helpful."
+      },
+      {
+       "key": "c",
+       "text": "c. They were attractive."
+      },
+      {
+       "key": "d",
+       "text": "d. They were rude."
+      }
+     ],
+     "explanation": "Sam 說 The staff were not polite or helpful，員工不禮貌（rude），所以選 d。",
+     "zh": "Sam 覺得 Little Tokyo 的員工怎麼樣？"
+    },
+    {
+     "id": "r2",
+     "text": "2. What does Pam think of Bravo?",
+     "answer": "a",
+     "options": [
+      {
+       "key": "a",
+       "text": "a. The food was excellent."
+      },
+      {
+       "key": "b",
+       "text": "b. The service was very good."
+      },
+      {
+       "key": "c",
+       "text": "c. The staff were unfriendly."
+      },
+      {
+       "key": "d",
+       "text": "d. The place was dirty."
+      }
+     ],
+     "explanation": "Pam 說 The food tasted wonderful，食物很好（excellent），所以選 a。",
+     "zh": "Pam 覺得 Bravo 怎麼樣？"
+    },
+    {
+     "id": "r3",
+     "text": "3. Read Mrs Clara Lee’s review again. In line 8, the word ‘reasonable’ means ____.",
+     "answer": "c",
+     "options": [
+      {
+       "key": "a",
+       "text": "a. not tasty"
+      },
+      {
+       "key": "b",
+       "text": "b. not polite"
+      },
+      {
+       "key": "c",
+       "text": "c. not too expensive"
+      },
+      {
+       "key": "d",
+       "text": "d. not attractive"
+      }
+     ],
+     "explanation": "reasonable 意思是合理的、不太貴的，所以選 c（not too expensive）。",
+     "zh": "再讀 Clara Lee 太太的食評。第 8 行中 ‘reasonable’ 是什麼意思？"
+    }
+   ]
+  },
+  "readingQA": {
+   "title": "練習 2：閱讀理解問答題",
+   "icon": "fa-question-circle",
+   "description": "根據課文內容，用完整的句子回答下列問題：",
+   "questions": [
+    {
+     "id": 1,
+     "text": "1. What is the name of the Chinese fast food shop?",
+     "placeholder": "請輸入答案",
+     "answer": "The name of the Chinese fast food shop is Red Dragon.",
+     "variations": [
+      "Red Dragon."
+     ],
+     "explanation": "Red Dragon 售賣春卷和燒鵝等中式食物，是中國快餐店。",
+     "zh": "那間中式快餐店叫什麼名字？"
+    },
+    {
+     "id": 2,
+     "text": "2. What did Mrs Lee NOT like about her food?",
+     "placeholder": "請輸入答案",
+     "answer": "The food was not enough. She was still hungry.",
+     "variations": [
+      "The food was not enough.",
+      "Not enough food."
+     ],
+     "explanation": "Clara 說 The goose was tasty but the food was not enough，她不喜歡食物不夠吃。",
+     "zh": "Lee 太太不喜歡她的食物的哪一點？"
+    },
+    {
+     "id": 3,
+     "text": "3. Does Sam want to eat at Little Tokyo again? Why or why not?",
+     "placeholder": "請輸入答案",
+     "answer": "No, because the food was cold and the staff were rude.",
+     "variations": [
+      "No. The food was cold.",
+      "No, the staff were not polite."
+     ],
+     "explanation": "Sam 說 The food was cold and the staff were not polite，所以不想再去。",
+     "zh": "Sam 想再去 Little Tokyo 吃飯嗎？為什麼？"
+    },
+    {
+     "id": 4,
+     "text": "4. Which fast food shop at Yummy World would you like to go to? Why?",
+     "placeholder": "請輸入答案",
+     "answer": "I would like to go to Thai Curry because the food looks attractive.",
+     "variations": [
+      "I would like to go to Red Dragon because the prices are reasonable."
+     ],
+     "explanation": "開放題，自由作答。說出你想去的餐廳並給出理由即可。",
+     "zh": "你想去美食世界的哪間快餐店？為什麼？"
+    }
+   ]
+  },
+  "wordBank": {
+   "title": "練習 3：詞庫填空（形容詞）",
+   "icon": "fa-trophy",
+   "description": "從詞庫中選擇正確的形容詞，完成男孩對各道菜的想法：",
+   "bank": [
+    "spicy",
+    "oily",
+    "delicious",
+    "popular",
+    "expensive",
+    "attractive"
+   ],
+   "items": [
+    {
+     "id": "w1",
+     "before": "1. I don’t like the beef curry. It’s ",
+     "after": ".",
+     "answer": "spicy",
+     "explanation": "牛肉咖喱很辣（spicy），所以男孩不喜歡。"
+    },
+    {
+     "id": "w2",
+     "before": "2. I don’t like the spring rolls either because it isn’t healthy eating too much ",
+     "after": " food.",
+     "answer": "oily",
+     "explanation": "太多油膩（oily）的食物不健康。"
+    },
+    {
+     "id": "w3",
+     "before": "3. I like the tiramisu. It’s sweet and ",
+     "after": ".",
+     "answer": "delicious",
+     "explanation": "提拉米蘇又甜又美味（delicious）。"
+    },
+    {
+     "id": "w4",
+     "before": "4. Many people like the salmon sushi. It’s ",
+     "after": ".",
+     "answer": "popular",
+     "explanation": "很多人喜歡三文魚壽司，它很受歡迎（popular）。"
+    },
+    {
+     "id": "w5",
+     "before": "5. The satay is too ",
+     "after": ". The price isn’t reasonable.",
+     "answer": "expensive",
+     "explanation": "沙嗲售價 $60 太貴（expensive），價錢不合理。"
+    },
+    {
+     "id": "w6",
+     "before": "6. The spaghetti looks the most ",
+     "after": ". I’m going to try it.",
+     "answer": "attractive",
+     "explanation": "意大利麵看起來最吸引（attractive），他想試試。"
+    }
+   ]
+  },
+  "comparative": {
+   "title": "練習 4：比較級與最高級（Curry Hut）",
+   "icon": "fa-chart-bar",
+   "description": "用括號內形容詞的正確形式填空，比較 Curry Hut 的三道菜：",
+   "items": [
+    {
+     "id": "c1",
+     "before": "1. The curry pizza is more ",
+     "after": " (expensive) than the noodles in curry soup.",
+     "placeholder": "輸入比較級",
+     "answer": "expensive",
+     "variations": [
+      "more expensive"
+     ],
+     "explanation": "比較兩道菜用 more + 形容詞（more expensive than）。"
+    },
+    {
+     "id": "c2",
+     "before": "2. The chicken curry with rice is the most ",
+     "after": " (delicious).",
+     "placeholder": "輸入最高級",
+     "answer": "delicious",
+     "variations": [
+      "most delicious"
+     ],
+     "explanation": "比較三道或以上用 the most + 形容詞（the most delicious）。"
+    },
+    {
+     "id": "c3",
+     "before": "3. The noodles in curry soup are the most ",
+     "after": " (popular).",
+     "placeholder": "輸入最高級",
+     "answer": "popular",
+     "variations": [
+      "most popular"
+     ],
+     "explanation": "咖喱湯麵最受歡迎，用 the most popular。"
+    }
+   ]
+  },
+  "sentencePattern": {
+   "title": "練習 5：點餐句子（Rainbow Juice Bar）",
+   "icon": "fa-image",
+   "description": "完成點餐對話：",
+   "items": [
+    {
+     "id": "s1",
+     "before": "1. Would you like something to ",
+     "after": "?",
+     "placeholder": "輸入 drink 或 eat",
+     "answer": "drink",
+     "variations": [
+      "eat"
+     ],
+     "explanation": "Would you like something to drink/eat?（你想喝/吃點什麼嗎？）是點餐常用句。"
+    },
+    {
+     "id": "s2",
+     "before": "2. Yes, I’d like ",
+     "after": ", please.",
+     "placeholder": "輸入食物",
+     "answer": "some orange juice",
+     "variations": [
+      "some juice",
+      "a fruit salad"
+     ],
+     "explanation": "用 I’d like ... 說出想要的東西，例如 I’d like some orange juice。"
+    },
+    {
+     "id": "s3",
+     "before": "3. How much is the peach jelly? It is ",
+     "after": ".",
+     "placeholder": "輸入價錢",
+     "answer": "$6",
+     "variations": [
+      "six dollars",
+      "6 dollars"
+     ],
+     "explanation": "Rainbow Juice Bar 菜單顯示 Peach jelly 售價 $6。"
+    }
+   ]
+  },
+  "discussion": {
+   "title": "練習 6：討論（Crazy Dish 點子）",
+   "icon": "fa-users",
+   "description": "和組員討論創意菜式，然後回答問題：",
+   "questions": [
+    {
+     "id": 1,
+     "text": "1. We need to give a name to our dish. Any suggestions?",
+     "placeholder": "請輸入答案",
+     "reference": "<strong>參考答案：</strong> How about Peanut Butter Pizza? / Shall we call it Sweet Pizza?<br><strong>中文翻譯：</strong> 花生醬披薩怎麼樣？/ 我們叫它甜披薩好嗎？"
+    },
+    {
+     "id": 2,
+     "text": "2. Do you agree with your group’s idea? Why?",
+     "placeholder": "請輸入答案",
+     "reference": "<strong>參考答案：</strong> Yes, I agree with you. I agree because it is a crazy idea.<br><strong>中文翻譯：</strong> 是的，我同意你。我同意，因為這是一個瘋狂的點子。"
+    },
+    {
+     "id": 3,
+     "text": "3. How much peanut butter do we need for the pizza?",
+     "placeholder": "請輸入答案",
+     "reference": "<strong>參考答案：</strong> We need 200 grams of peanut butter.<br><strong>中文翻譯：</strong> 我們需要 200 克花生醬。"
+    }
+   ]
+  }
+ },
+ "quiz": {
+  "info": "滿分：15分",
+  "maxScore": 15,
+  "sections": [
+   {
+    "type": "choice",
+    "attr": "quiz",
+    "keyPrefix": "",
+    "title": "文法辨識題（每題 1 分）",
+    "icon": "fa-check-circle",
+    "questions": [
+     {
+      "id": 1,
+      "text": "1. Which sentence is correct?",
+      "options": [
+       {
+        "key": "a",
+        "text": "a. Would you like to try our tiramisu?"
+       },
+       {
+        "key": "b",
+        "text": "b. You would like to try our tiramisu?"
+       },
+       {
+        "key": "c",
+        "text": "c. Would like you to try our tiramisu?"
+       },
+       {
+        "key": "d",
+        "text": "d. Would you to try like our tiramisu?"
+       }
+      ],
+      "answer": "a",
+      "explanation": "提出邀請用 Would you like to ...?，所以選 a。"
+     },
+     {
+      "id": 2,
+      "text": "2. I don’t like spicy food. I don’t like it, ____.",
+      "options": [
+       {
+        "key": "a",
+        "text": "a. too"
+       },
+       {
+        "key": "b",
+        "text": "b. either"
+       },
+       {
+        "key": "c",
+        "text": "c. also"
+       },
+       {
+        "key": "d",
+        "text": "d. neither"
+       }
+      ],
+      "answer": "b",
+      "explanation": "否定句表示「也（不）」用 either（not ... either），所以選 b。"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "attr": "match",
+    "keyPrefix": "match",
+    "title": "詞彙理解題（每題 1 分）",
+    "icon": "fa-link",
+    "description": "選擇正確答案：",
+    "questions": [
+     {
+      "id": 1,
+      "text": "1. Which word describes food with too much oil?",
+      "options": [
+       {
+        "key": "a",
+        "text": "a. spicy"
+       },
+       {
+        "key": "b",
+        "text": "b. oily"
+       },
+       {
+        "key": "c",
+        "text": "c. attractive"
+       },
+       {
+        "key": "d",
+        "text": "d. popular"
+       }
+      ],
+      "answer": "b",
+      "explanation": "太多油的食物用 oily（油膩的）形容，所以選 b。"
+     },
+     {
+      "id": 2,
+      "text": "2. What does ‘reasonable’ mean?",
+      "options": [
+       {
+        "key": "a",
+        "text": "a. not too expensive"
+       },
+       {
+        "key": "b",
+        "text": "b. very expensive"
+       },
+       {
+        "key": "c",
+        "text": "c. not tasty"
+       },
+       {
+        "key": "d",
+        "text": "d. very spicy"
+       }
+      ],
+      "answer": "a",
+      "explanation": "reasonable 意思是合理的、不太貴的（not too expensive），所以選 a。"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "attr": "reading",
+    "keyPrefix": "reading",
+    "title": "閱讀理解選擇題（每題 2 分）",
+    "icon": "fa-book-reader",
+    "questions": [
+     {
+      "id": 1,
+      "text": "1. Why did Pam wait 30 minutes at Bravo?",
+      "options": [
+       {
+        "key": "a",
+        "text": "a. The food was cold."
+       },
+       {
+        "key": "b",
+        "text": "b. A lot of people queued up at the shop."
+       },
+       {
+        "key": "c",
+        "text": "c. The staff were not helpful."
+       },
+       {
+        "key": "d",
+        "text": "d. The tiramisu was too expensive."
+       }
+      ],
+      "answer": "b",
+      "explanation": "Pam 說 A lot of people queued up at the shop，很多人排隊，所以等了 30 分鐘，選 b。"
+     },
+     {
+      "id": 2,
+      "text": "2. Which fast food shop did Clara think had the most reasonable prices?",
+      "options": [
+       {
+        "key": "a",
+        "text": "a. Little Tokyo"
+       },
+       {
+        "key": "b",
+        "text": "b. Bravo"
+       },
+       {
+        "key": "c",
+        "text": "c. Red Dragon"
+       },
+       {
+        "key": "d",
+        "text": "d. Thai Curry"
+       }
+      ],
+      "answer": "c",
+      "explanation": "Clara 說 the prices were the most reasonable at Yummy World，她覺得 Red Dragon 價錢最合理，選 c。"
+     }
+    ]
+   },
+   {
+    "type": "blank",
+    "title": "點餐句填空題（每題 2 分）",
+    "icon": "fa-edit",
+    "description": "用 would like / I’d like / too / either 填空：",
+    "questions": [
+     {
+      "id": 1,
+      "text": "1. ____ you like to try our spring rolls?",
+      "options": [
+       "Would",
+       "Do",
+       "Are"
+      ],
+      "answer": "Would",
+      "explanation": "提出邀請用 Would you like to ...?，所以填 Would。"
+     },
+     {
+      "id": 2,
+      "text": "2. I like spring rolls. I like them, ____.",
+      "options": [
+       "either",
+       "too",
+       "also"
+      ],
+      "answer": "too",
+      "explanation": "肯定句表示「也」用 too，所以填 too。"
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "title": "句型運用題（每題 3 分）",
+    "icon": "fa-pen",
+    "prompt": "用 Would you like ...? 寫一句向朋友提議食物的句子：",
+    "id": "sentenceAnswer",
+    "placeholder": "請輸入句子",
+    "answer": "Would you like to try our spring rolls?",
+    "explanation": "示例：Would you like to try our spring rolls?（你想試試我們的春卷嗎？）用 Would you like to + 動詞原形提議即可。"
+   }
+  ]
+ },
+ "sidebar": {
+  "learningPoints": {
+   "title": "Unit 4：At the food court（在美食廣場）",
+   "icon": "fa-store",
+   "theme": "點餐與食物評價",
+   "goals": [
+    "能閱讀餐廳食評並理解評價內容",
+    "能認識描述食物的形容詞（attractive, delicious, expensive, oily, popular, spicy）",
+    "能用 Would you like ...? 提出邀請、I’d like ... 點餐",
+    "能用 too / not ... either 表示相同意見",
+    "能用 more ... than / the most 比較食物",
+    "能聆聽對話並完成問卷",
+    "能認識食評（Food Review）文體"
+   ]
+  },
+  "languageFocus": {
+   "sections": [
+    {
+     "title": "1. 食物形容詞：",
+     "items": [
+      "attractive, delicious, expensive, oily, popular, spicy",
+      "tasty, reasonable, salty, crispy, friendly"
+     ]
+    },
+    {
+     "title": "2. 點餐用語：",
+     "items": [
+      "Would you like to try our tiramisu?",
+      "I’d like the chicken curry, please.",
+      "I like spring rolls, too. / I don’t like spicy food, either."
+     ]
+    },
+    {
+     "title": "3. 比較級與最高級：",
+     "items": [
+      "more attractive than（比……更好看）",
+      "the most delicious（最美味的）",
+      "the most reasonable（最合理的）"
+     ]
+    },
+    {
+     "title": "4. 文本類型：",
+     "items": [
+      "Food Review（食評）——介紹味道、價錢、服務等資訊的文章"
+     ]
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,1366 @@
+{
+ "meta": {
+  "pageTitleTag": "Unit 6：Growing up（成長）- 小學四年級英文互動練習",
+  "headerIcon": "fa-child-reaching",
+  "title": "小學四年級英文",
+  "subtitle": "Unit 6：Growing up（成長）",
+  "storageKey": "p4_ete_4a_unit6_growing_up",
+  "totalPractice": 8,
+  "audioDir": "audio/4A/Unit6"
+ },
+ "flashcards": {
+  "pages": 4,
+  "intro": "點擊卡片查看例句，點擊音頻按鈕聆聽發音：",
+  "cards": [
+   {
+    "page": 1,
+    "word": "tidy up",
+    "meaning": "整理、收拾",
+    "icon": "fa-broom",
+    "audio": "tidy_up",
+    "example": "I will tidy up my bedroom.",
+    "translation": "我會整理我的臥室。",
+    "exampleAudio": "tidy_up_example",
+    "pairs": [
+     {
+      "en": "tidy up",
+      "zh": "整理、收拾"
+     }
+    ]
+   },
+   {
+    "page": 1,
+    "word": "be polite",
+    "meaning": "有禮貌",
+    "icon": "fa-handshake",
+    "audio": "be_polite",
+    "example": "You should be polite.",
+    "translation": "你應該有禮貌。",
+    "exampleAudio": "be_polite_example",
+    "pairs": [
+     {
+      "en": "be polite",
+      "zh": "有禮貌"
+     }
+    ]
+   },
+   {
+    "page": 1,
+    "word": "be honest",
+    "meaning": "誠實",
+    "icon": "fa-face-smile",
+    "audio": "be_honest",
+    "example": "You should be honest.",
+    "translation": "你應該誠實。",
+    "exampleAudio": "be_honest_example",
+    "pairs": [
+     {
+      "en": "be honest",
+      "zh": "誠實"
+     }
+    ]
+   },
+   {
+    "page": 1,
+    "word": "be on time",
+    "meaning": "準時",
+    "icon": "fa-clock",
+    "audio": "be_on_time",
+    "example": "Try to be on time for once.",
+    "translation": "這次試試準時吧。",
+    "exampleAudio": "be_on_time_example",
+    "pairs": [
+     {
+      "en": "be on time",
+      "zh": "準時"
+     }
+    ]
+   },
+   {
+    "page": 2,
+    "word": "work hard",
+    "meaning": "努力學習、努力工作",
+    "icon": "fa-person-running",
+    "audio": "work_hard",
+    "example": "You should work hard.",
+    "translation": "你應該努力。",
+    "exampleAudio": "work_hard_example",
+    "pairs": [
+     {
+      "en": "work hard",
+      "zh": "努力"
+     }
+    ]
+   },
+   {
+    "page": 2,
+    "word": "listen to parents",
+    "meaning": "聽父母的話",
+    "icon": "fa-ear-listen",
+    "audio": "listen_to_parents",
+    "example": "You should always listen to your parents and teachers.",
+    "translation": "你應該常常聽父母和老師的話。",
+    "exampleAudio": "listen_to_parents_example",
+    "pairs": [
+     {
+      "en": "listen to your parents",
+      "zh": "聽父母的話"
+     },
+     {
+      "en": "teachers",
+      "zh": "老師們"
+     }
+    ]
+   },
+   {
+    "page": 2,
+    "word": "be friendly",
+    "meaning": "友善",
+    "icon": "fa-face-smile-beam",
+    "audio": "be_friendly",
+    "example": "Be friendly to your classmates.",
+    "translation": "對同學要友善。",
+    "exampleAudio": "be_friendly_example",
+    "pairs": [
+     {
+      "en": "be friendly",
+      "zh": "友善"
+     }
+    ]
+   },
+   {
+    "page": 2,
+    "word": "dress neatly",
+    "meaning": "衣著整潔",
+    "icon": "fa-shirt",
+    "audio": "dress_neatly",
+    "example": "You should dress neatly for the audition.",
+    "translation": "你應該衣著整潔地去試鏡。",
+    "exampleAudio": "dress_neatly_example",
+    "pairs": [
+     {
+      "en": "dress neatly",
+      "zh": "衣著整潔"
+     },
+     {
+      "en": "audition",
+      "zh": "試鏡"
+     }
+    ]
+   },
+   {
+    "page": 3,
+    "word": "messy",
+    "meaning": "凌亂的",
+    "icon": "fa-shuffle",
+    "audio": "messy",
+    "example": "Your room is so messy.",
+    "translation": "你的房間太亂了。",
+    "exampleAudio": "messy_example",
+    "pairs": [
+     {
+      "en": "messy",
+      "zh": "凌亂的"
+     },
+     {
+      "en": "so messy",
+      "zh": "太亂了"
+     }
+    ]
+   },
+   {
+    "page": 3,
+    "word": "pyjamas",
+    "meaning": "睡衣",
+    "icon": "fa-bed",
+    "audio": "pyjamas",
+    "example": "You’re still in your pyjamas.",
+    "translation": "你還穿著睡衣。",
+    "exampleAudio": "pyjamas_example",
+    "pairs": [
+     {
+      "en": "pyjamas",
+      "zh": "睡衣"
+     }
+    ]
+   },
+   {
+    "page": 3,
+    "word": "idol",
+    "meaning": "偶像",
+    "icon": "fa-star",
+    "audio": "idol",
+    "example": "The football star Joe Lau is my idol.",
+    "translation": "足球明星 Joe Lau 是我的偶像。",
+    "exampleAudio": "idol_example",
+    "pairs": [
+     {
+      "en": "idol",
+      "zh": "偶像"
+     }
+    ]
+   },
+   {
+    "page": 3,
+    "word": "contest",
+    "meaning": "比賽、競賽",
+    "icon": "fa-trophy",
+    "audio": "contest",
+    "example": "I’m trying to enter a contest on this website.",
+    "translation": "我正在這個網站上參加一個比賽。",
+    "exampleAudio": "contest_example",
+    "pairs": [
+     {
+      "en": "contest",
+      "zh": "比賽"
+     },
+     {
+      "en": "enter a contest",
+      "zh": "參加比賽"
+     }
+    ]
+   },
+   {
+    "page": 4,
+    "word": "play",
+    "meaning": "戲劇",
+    "icon": "fa-masks-theater",
+    "audio": "play",
+    "example": "The school is putting on the play Bad Brian.",
+    "translation": "學校正在上演《壞男孩 Brian》這齣戲。",
+    "exampleAudio": "play_example",
+    "pairs": [
+     {
+      "en": "play",
+      "zh": "戲劇"
+     },
+     {
+      "en": "putting on the play",
+      "zh": "上演戲劇"
+     }
+    ]
+   },
+   {
+    "page": 4,
+    "word": "script",
+    "meaning": "劇本",
+    "icon": "fa-scroll",
+    "audio": "script",
+    "example": "The children are reading the script for the play.",
+    "translation": "孩子們正在讀這齣戲的劇本。",
+    "exampleAudio": "script_example",
+    "pairs": [
+     {
+      "en": "script",
+      "zh": "劇本"
+     }
+    ]
+   },
+   {
+    "page": 4,
+    "word": "scene",
+    "meaning": "場景、一幕",
+    "icon": "fa-clapperboard",
+    "audio": "scene",
+    "example": "There are four scenes in the play.",
+    "translation": "這齣戲有四幕。",
+    "exampleAudio": "scene_example",
+    "pairs": [
+     {
+      "en": "scene",
+      "zh": "場景、一幕"
+     }
+    ]
+   },
+   {
+    "page": 4,
+    "word": "narrator",
+    "meaning": "旁白",
+    "icon": "fa-microphone",
+    "audio": "narrator",
+    "example": "The narrator tells the story of the play.",
+    "translation": "旁白講述這齣戲的故事。",
+    "exampleAudio": "narrator_example",
+    "pairs": [
+     {
+      "en": "narrator",
+      "zh": "旁白"
+     }
+    ]
+   }
+  ]
+ },
+ "reading": {
+  "title": "Bad Brian（壞男孩 Brian）",
+  "icon": "fa-masks-theater",
+  "intro": "學校正在上演戲劇《Bad Brian》。孩子們正在讀劇本。閱讀 Scene 1 和 Scene 2，學習 will / should / shouldn’t 的用法：",
+  "paragraphs": [
+   {
+    "id": "t1",
+    "text": "Scene 1. Setting: Monday morning, at Brian’s home. Characters: Brian, Mum, Dad. Narrator: It’s Monday morning. Brian is surfing the Internet in his bedroom. Mum: Brian, have you finished your homework? Brian: Yes, Mum. Of course, I have. Mum: It’s time to go to school. You shouldn’t be late. Try to be on time for once.",
+    "translation": "第一幕。場景：星期一早上，在 Brian 的家。角色：Brian、媽媽、爸爸。旁白：星期一早上。Brian 正在臥室上網。媽媽：Brian，你做完功課了嗎？Brian：是的，媽媽。我當然做完了。媽媽：該上學了。你不應該遲到。這次試試準時吧。",
+    "pairs": [
+     {
+      "en": "Scene 1",
+      "zh": "第一幕"
+     },
+     {
+      "en": "surfing the Internet",
+      "zh": "上網"
+     },
+     {
+      "en": "You shouldn’t be late",
+      "zh": "你不應該遲到"
+     },
+     {
+      "en": "be on time",
+      "zh": "準時"
+     }
+    ],
+    "sentences": [
+     "Scene 1. Setting: Monday morning, at Brian’s home.",
+     "Characters: Brian, Mum, Dad.",
+     "Narrator: It’s Monday morning. Brian is surfing the Internet in his bedroom.",
+     "Mum: Brian, have you finished your homework?",
+     "Brian: Yes, Mum. Of course, I have.",
+     "Mum: It’s time to go to school. You shouldn’t be late.",
+     "Try to be on time for once."
+    ],
+    "translation_sentences": [
+     "第一幕。場景：星期一早上，在 Brian 的家。",
+     "角色：Brian、媽媽、爸爸。",
+     "旁白：星期一早上。Brian 正在臥室上網。",
+     "媽媽：Brian，你做完功課了嗎？",
+     "Brian：是的，媽媽。我當然做完了。",
+     "媽媽：該上學了。你不應該遲到。",
+     "這次試試準時吧。"
+    ]
+   },
+   {
+    "id": "t2",
+    "text": "Brian: [impatiently] All right, Mum. Dad: [holding Brian’s workbook] You still haven’t finished your homework, Brian. Mum: [angrily] What? You still have homework to do! You lied to me, Brian. You really should work hard and stop wasting your time surfing the Internet.",
+    "translation": "Brian：（不耐煩地）好吧，媽媽。爸爸：（拿著 Brian 的練習冊）你還是沒做完功課，Brian。媽媽：（生氣地）什麼？你還有功課要做！你騙了我，Brian。你真的應該努力學習，不要再浪費時間上網了。",
+    "pairs": [
+     {
+      "en": "impatiently",
+      "zh": "不耐煩地"
+     },
+     {
+      "en": "You still haven’t finished",
+      "zh": "你還是沒做完"
+     },
+     {
+      "en": "You lied to me",
+      "zh": "你騙了我"
+     },
+     {
+      "en": "should work hard",
+      "zh": "應該努力"
+     },
+     {
+      "en": "stop wasting your time",
+      "zh": "停止浪費時間"
+     }
+    ],
+    "sentences": [
+     "Brian: [impatiently] All right, Mum.",
+     "Dad: [holding Brian’s workbook] You still haven’t finished your homework, Brian.",
+     "Mum: [angrily] What? You still have homework to do!",
+     "You lied to me, Brian.",
+     "You really should work hard and stop wasting your time surfing the Internet."
+    ],
+    "translation_sentences": [
+     "Brian：（不耐煩地）好吧，媽媽。",
+     "爸爸：（拿著 Brian 的練習冊）你還是沒做完功課，Brian。",
+     "媽媽：（生氣地）什麼？你還有功課要做！",
+     "你騙了我，Brian。",
+     "你真的應該努力學習，不要再浪費時間上網了。"
+    ]
+   },
+   {
+    "id": "t3",
+    "text": "Brian: I’m working hard. I’m trying to enter a contest on this website. The winner will get a surprise visit from the football star, Joe Lau! He’s my idol. Mum: [hands on hips] Look! You’re still in your pyjamas. Hurry up. Get dressed for school now. Brian: OK, Mum ...",
+    "translation": "Brian：我在努力。我正在這個網站上參加比賽。獲勝者會得到足球明星 Joe Lau 的驚喜到訪！他是我的偶像。媽媽：（雙手叉腰）看！你還穿著睡衣。快點。現在換衣服上學去。Brian：好的，媽媽……",
+    "pairs": [
+     {
+      "en": "enter a contest",
+      "zh": "參加比賽"
+     },
+     {
+      "en": "a surprise visit",
+      "zh": "驚喜到訪"
+     },
+     {
+      "en": "He’s my idol",
+      "zh": "他是我的偶像"
+     },
+     {
+      "en": "in your pyjamas",
+      "zh": "穿著睡衣"
+     },
+     {
+      "en": "Get dressed",
+      "zh": "換衣服"
+     }
+    ],
+    "sentences": [
+     "Brian: I’m working hard.",
+     "I’m trying to enter a contest on this website.",
+     "The winner will get a surprise visit from the football star, Joe Lau!",
+     "He’s my idol.",
+     "Mum: [hands on hips] Look! You’re still in your pyjamas.",
+     "Hurry up. Get dressed for school now.",
+     "Brian: OK, Mum ..."
+    ],
+    "translation_sentences": [
+     "Brian：我在努力。",
+     "我正在這個網站上參加比賽。",
+     "獲勝者會得到足球明星 Joe Lau 的驚喜到訪！",
+     "他是我的偶像。",
+     "媽媽：（雙手叉腰）看！你還穿著睡衣。",
+     "快點。現在換衣服上學去。",
+     "Brian：好的，媽媽……"
+    ]
+   },
+   {
+    "id": "t4",
+    "text": "Scene 2. Setting: Saturday afternoon, at Brian’s home. Characters: Brian, Joe Lau. Narrator: It’s Saturday afternoon. Brian is watching TV in the living room. The doorbell rings and Brian opens the door. Joe: Surprise! Brian: [excitedly] Wow! It’s you, Joe Lau! I can’t believe it! Please come in!",
+    "translation": "第二幕。場景：星期六下午，在 Brian 的家。角色：Brian、Joe Lau。旁白：星期六下午。Brian 正在客廳看電視。門鈴響了，Brian 打開門。Joe：驚喜！Brian：（興奮地）哇！是你，Joe Lau！我不敢相信！請進！",
+    "pairs": [
+     {
+      "en": "Scene 2",
+      "zh": "第二幕"
+     },
+     {
+      "en": "watching TV in the living room",
+      "zh": "在客廳看電視"
+     },
+     {
+      "en": "The doorbell rings",
+      "zh": "門鈴響了"
+     },
+     {
+      "en": "I can’t believe it",
+      "zh": "我不敢相信"
+     }
+    ],
+    "sentences": [
+     "Scene 2. Setting: Saturday afternoon, at Brian’s home.",
+     "Characters: Brian, Joe Lau.",
+     "Narrator: It’s Saturday afternoon. Brian is watching TV in the living room.",
+     "The doorbell rings and Brian opens the door.",
+     "Joe: Surprise!",
+     "Brian: [excitedly] Wow! It’s you, Joe Lau!",
+     "I can’t believe it! Please come in!"
+    ],
+    "translation_sentences": [
+     "第二幕。場景：星期六下午，在 Brian 的家。",
+     "角色：Brian、Joe Lau。",
+     "旁白：星期六下午。Brian 正在客廳看電視。",
+     "門鈴響了，Brian 打開門。",
+     "Joe：驚喜！",
+     "Brian：（興奮地）哇！是你，Joe Lau！",
+     "我不敢相信！請進！"
+    ]
+   },
+   {
+    "id": "t5",
+    "text": "Narrator: Brian shows Joe the way to his bedroom. Joe: Oh, my goodness. Your room is so messy. You should tidy it up. Well, Brian, I’m not happy that my number one fan is a messy boy. Brian: [embarrassed] Umm ... I’m sorry.",
+    "translation": "旁白：Brian 帶 Joe 去他的臥室。Joe：噢，天哪。你的房間太亂了。你應該收拾一下。Brian，我的頭號粉絲居然是個邋遢的男孩，我很不高興。Brian：（尷尬地）嗯……對不起。",
+    "pairs": [
+     {
+      "en": "shows Joe the way",
+      "zh": "帶 Joe 去"
+     },
+     {
+      "en": "Your room is so messy",
+      "zh": "你的房間太亂了"
+     },
+     {
+      "en": "You should tidy it up",
+      "zh": "你應該收拾一下"
+     },
+     {
+      "en": "my number one fan",
+      "zh": "我的頭號粉絲"
+     },
+     {
+      "en": "embarrassed",
+      "zh": "尷尬的"
+     }
+    ],
+    "sentences": [
+     "Narrator: Brian shows Joe the way to his bedroom.",
+     "Joe: Oh, my goodness. Your room is so messy.",
+     "You should tidy it up.",
+     "Well, Brian, I’m not happy that my number one fan is a messy boy.",
+     "Brian: [embarrassed] Umm ... I’m sorry."
+    ],
+    "translation_sentences": [
+     "旁白：Brian 帶 Joe 去他的臥室。",
+     "Joe：噢，天哪。你的房間太亂了。",
+     "你應該收拾一下。",
+     "Brian，我的頭號粉絲居然是個邋遢的男孩，我很不高興。",
+     "Brian：（尷尬地）嗯……對不起。"
+    ]
+   },
+   {
+    "id": "t6",
+    "text": "Joe: Let me tell you something. I came here today because your mother wrote me an e-mail. She’s really worried about you. Brian: [surprised] Oh dear! Mum wrote to you?",
+    "translation": "Joe：讓我告訴你一些事。我今天來這裡是因為你媽媽給我寫了一封電郵。她真的很擔心你。Brian：（驚訝地）哎呀！媽媽寫信給你了？",
+    "pairs": [
+     {
+      "en": "wrote me an e-mail",
+      "zh": "給我寫了一封電郵"
+     },
+     {
+      "en": "worried about you",
+      "zh": "擔心你"
+     },
+     {
+      "en": "surprised",
+      "zh": "驚訝的"
+     }
+    ],
+    "sentences": [
+     "Joe: Let me tell you something.",
+     "I came here today because your mother wrote me an e-mail.",
+     "She’s really worried about you.",
+     "Brian: [surprised] Oh dear! Mum wrote to you?"
+    ],
+    "translation_sentences": [
+     "Joe：讓我告訴你一些事。",
+     "我今天來這裡是因為你媽媽給我寫了一封電郵。",
+     "她真的很擔心你。",
+     "Brian：（驚訝地）哎呀！媽媽寫信給你了？"
+    ]
+   },
+   {
+    "id": "t7",
+    "text": "Joe: Yes. And I have a few important things to tell you. First of all, you should be polite. Secondly, you should be honest. You shouldn’t lie about doing your homework. Thirdly, you should always listen to your parents and teachers.",
+    "translation": "Joe：是的。我有幾件重要的事情要告訴你。首先，你應該有禮貌。其次，你應該誠實。你不應該謊稱自己做了功課。第三，你應該常常聽父母和老師的話。",
+    "pairs": [
+     {
+      "en": "First of all",
+      "zh": "首先"
+     },
+     {
+      "en": "you should be polite",
+      "zh": "你應該有禮貌"
+     },
+     {
+      "en": "Secondly",
+      "zh": "其次"
+     },
+     {
+      "en": "you should be honest",
+      "zh": "你應該誠實"
+     },
+     {
+      "en": "You shouldn’t lie",
+      "zh": "你不應該撒謊"
+     },
+     {
+      "en": "Thirdly",
+      "zh": "第三"
+     }
+    ],
+    "sentences": [
+     "Joe: Yes. And I have a few important things to tell you.",
+     "First of all, you should be polite.",
+     "Secondly, you should be honest.",
+     "You shouldn’t lie about doing your homework.",
+     "Thirdly, you should always listen to your parents and teachers."
+    ],
+    "translation_sentences": [
+     "Joe：是的。我有幾件重要的事情要告訴你。",
+     "首先，你應該有禮貌。",
+     "其次，你應該誠實。",
+     "你不應該謊稱自己做了功課。",
+     "第三，你應該常常聽父母和老師的話。"
+    ]
+   },
+   {
+    "id": "t8",
+    "text": "Brian: I want to be good. I just don’t know where to start. Joe: You should listen to your parents and work hard. That’s the best place to start. Brian: I will tidy up my bedroom. Then, I will do my homework. Thanks, Mr Lau. Joe: [smiling] Hey, my friends call me Joe.",
+    "translation": "Brian：我想變好。我只是不知道從哪裡開始。Joe：你應該聽父母的話，努力學習。那是最好的開始。Brian：我會整理我的臥室。然後，我會做功課。謝謝你，Lau 先生。Joe：（微笑著）嘿，我的朋友們都叫我 Joe。",
+    "pairs": [
+     {
+      "en": "where to start",
+      "zh": "從哪裡開始"
+     },
+     {
+      "en": "the best place to start",
+      "zh": "最好的開始"
+     },
+     {
+      "en": "I will tidy up my bedroom",
+      "zh": "我會整理我的臥室"
+     },
+     {
+      "en": "my friends call me Joe",
+      "zh": "我的朋友們叫我 Joe"
+     }
+    ],
+    "sentences": [
+     "Brian: I want to be good.",
+     "I just don’t know where to start.",
+     "Joe: You should listen to your parents and work hard.",
+     "That’s the best place to start.",
+     "Brian: I will tidy up my bedroom.",
+     "Then, I will do my homework.",
+     "Thanks, Mr Lau.",
+     "Joe: [smiling] Hey, my friends call me Joe."
+    ],
+    "translation_sentences": [
+     "Brian：我想變好。",
+     "我只是不知道從哪裡開始。",
+     "Joe：你應該聽父母的話，努力學習。",
+     "那是最好的開始。",
+     "Brian：我會整理我的臥室。",
+     "然後，我會做功課。",
+     "謝謝你，Lau 先生。",
+     "Joe：（微笑著）嘿，我的朋友們都叫我 Joe。"
+    ]
+   }
+  ]
+ },
+ "sayItRight": {
+  "title": "SAY IT RIGHT（short “e” 短音 e）",
+  "icon": "fa-microphone-alt",
+  "sentences": [
+   {
+    "id": "sir1",
+    "text": "Ben has a red pen on his desk.",
+    "translation": "Ben 的書桌上有一枝紅色原子筆。",
+    "pairs": [
+     {
+      "en": "red pen",
+      "zh": "紅色原子筆"
+     },
+     {
+      "en": "desk",
+      "zh": "書桌"
+     }
+    ]
+   },
+   {
+    "id": "sir2",
+    "text": "I eat an egg for breakfast every day.",
+    "translation": "我每天早餐吃一隻雞蛋。",
+    "pairs": [
+     {
+      "en": "an egg",
+      "zh": "一隻雞蛋"
+     }
+    ]
+   },
+   {
+    "id": "sir3",
+    "text": "The hen is in the pen.",
+    "translation": "母雞在圍欄裡。",
+    "pairs": [
+     {
+      "en": "hen",
+      "zh": "母雞"
+     },
+     {
+      "en": "pen",
+      "zh": "圍欄"
+     }
+    ]
+   },
+   {
+    "id": "sir4",
+    "text": "Ten boys get wet in the red bed.",
+    "translation": "十個男孩在紅色床上弄濕了。",
+    "pairs": [
+     {
+      "en": "Ten boys",
+      "zh": "十個男孩"
+     },
+     {
+      "en": "wet",
+      "zh": "濕的"
+     }
+    ]
+   }
+  ]
+ },
+ "grammar": [
+  {
+   "title": "will（一般將來式：表達將來的行動）",
+   "examples": [
+    {
+     "en": "I will tidy up my bedroom. Then, I will do my homework.",
+     "zh": "我會整理我的臥室。然後，我會做功課。",
+     "pairs": [
+      {
+       "en": "I will tidy up",
+       "zh": "我會整理"
+      },
+      {
+       "en": "I will do my homework",
+       "zh": "我會做功課"
+      }
+     ]
+    },
+    {
+     "en": "Brian will receive the Best Student Award next month.",
+     "zh": "Brian 下個月會獲得最佳學生獎。",
+     "pairs": [
+      {
+       "en": "will receive",
+       "zh": "將會獲得"
+      },
+      {
+       "en": "the Best Student Award",
+       "zh": "最佳學生獎"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "should（應該：表達規則和建議）",
+   "examples": [
+    {
+     "en": "You should work hard.",
+     "zh": "你應該努力學習。",
+     "pairs": [
+      {
+       "en": "should work hard",
+       "zh": "應該努力"
+      }
+     ]
+    },
+    {
+     "en": "You should be polite and honest.",
+     "zh": "你應該有禮貌和誠實。",
+     "pairs": [
+      {
+       "en": "should be polite",
+       "zh": "應該有禮貌"
+      },
+      {
+       "en": "honest",
+       "zh": "誠實的"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "shouldn’t（不應該）",
+   "examples": [
+    {
+     "en": "You shouldn’t be late.",
+     "zh": "你不應該遲到。",
+     "pairs": [
+      {
+       "en": "shouldn’t be late",
+       "zh": "不應該遲到"
+      }
+     ]
+    },
+    {
+     "en": "You shouldn’t lie about doing your homework.",
+     "zh": "你不應該謊稱自己做了功課。",
+     "pairs": [
+      {
+       "en": "shouldn’t lie",
+       "zh": "不應該撒謊"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "First of all / Secondly / Thirdly（列舉）",
+   "examples": [
+    {
+     "en": "First of all, you should be polite. Secondly, you should be honest.",
+     "zh": "首先，你應該有禮貌。其次，你應該誠實。",
+     "pairs": [
+      {
+       "en": "First of all",
+       "zh": "首先"
+      },
+      {
+       "en": "Secondly",
+       "zh": "其次"
+      }
+     ]
+    },
+    {
+     "en": "Thirdly, you should always listen to your parents and teachers.",
+     "zh": "第三，你應該常常聽父母和老師的話。",
+     "pairs": [
+      {
+       "en": "Thirdly",
+       "zh": "第三"
+      },
+      {
+       "en": "listen to your parents and teachers",
+       "zh": "聽父母和老師的話"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "practice": {
+  "intro": "根據 Unit 6（Growing up）內容完成以下練習題：",
+  "readingComp": {
+   "title": "練習 1：閱讀理解選擇題",
+   "icon": "fa-search",
+   "description": "根據課文內容，選擇最佳答案：",
+   "questions": [
+    {
+     "id": "r1",
+     "text": "1. How many characters are in Scene 1?",
+     "answer": "c",
+     "options": [
+      {
+       "key": "a",
+       "text": "a. 1"
+      },
+      {
+       "key": "b",
+       "text": "b. 2"
+      },
+      {
+       "key": "c",
+       "text": "c. 3"
+      },
+      {
+       "key": "d",
+       "text": "d. 4"
+      }
+     ],
+     "explanation": "Scene 1 的角色是 Brian、Mum、Dad 共 3 個（旁白 Narrator 不算角色），所以選 c。",
+     "zh": "第一幕有多少個角色？"
+    },
+    {
+     "id": "r2",
+     "text": "2. Which sentence is NOT true about Scene 1?",
+     "answer": "d",
+     "options": [
+      {
+       "key": "a",
+       "text": "a. Brian is surfing the Internet."
+      },
+      {
+       "key": "b",
+       "text": "b. Brian’s bedroom is untidy."
+      },
+      {
+       "key": "c",
+       "text": "c. Brian’s mother is mad at Brian."
+      },
+      {
+       "key": "d",
+       "text": "d. Brian has no homework."
+      }
+     ],
+     "explanation": "Dad 說 You still haven’t finished your homework，Brian 其實有未完成的功課，所以 d 是錯的，選 d。",
+     "zh": "關於第一幕，哪一句是錯誤的？"
+    },
+    {
+     "id": "r3",
+     "text": "3. Read Scene 2 again. In line 8, Brian is ‘embarrassed’. What does that mean?",
+     "answer": "a",
+     "options": [
+      {
+       "key": "a",
+       "text": "a. Brian feels bad about what he did."
+      },
+      {
+       "key": "b",
+       "text": "b. Brian is angry about what Joe said."
+      },
+      {
+       "key": "c",
+       "text": "c. Brian is happy about Joe’s visit."
+      },
+      {
+       "key": "d",
+       "text": "d. Brian is proud to be Joe’s number one fan."
+      }
+     ],
+     "explanation": "embarrassed 意思是尷尬的、羞愧的。Brian 的房間太亂被偶像發現，覺得難為情，所以選 a。",
+     "zh": "再讀第二幕。第 8 行 Brian 感到 ‘embarrassed’。那是什麼意思？"
+    },
+    {
+     "id": "r4",
+     "text": "4. Which three words best describe Brian?",
+     "answer": "d",
+     "options": [
+      {
+       "key": "a",
+       "text": "a. polite, messy, smart"
+      },
+      {
+       "key": "b",
+       "text": "b. lazy, rude, messy"
+      },
+      {
+       "key": "c",
+       "text": "c. careful, untidy, lazy"
+      },
+      {
+       "key": "d",
+       "text": "d. honest, polite, messy"
+      }
+     ],
+     "explanation": "Brian 最後說 I want to be good、道歉、承認自己的房間亂，且對 Joe 有禮貌，所以用 honest（誠實）、polite（有禮貌）、messy（凌亂）描述最合適，選 d。",
+     "zh": "哪三個詞最能形容 Brian？"
+    }
+   ]
+  },
+  "readingQA": {
+   "title": "練習 2：閱讀理解問答題",
+   "icon": "fa-question-circle",
+   "description": "根據課文內容，用完整的句子回答下列問題：",
+   "questions": [
+    {
+     "id": 1,
+     "text": "1. Joe wants to be Brian’s friend. What does he say in Scene 2?",
+     "placeholder": "請輸入答案",
+     "answer": "He says, “Hey, my friends call me Joe.”",
+     "variations": [
+      "Hey, my friends call me Joe.",
+      "My friends call me Joe."
+     ],
+     "explanation": "Joe 在結尾微笑說 Hey, my friends call me Joe，表示把 Brian 當朋友，選這句。",
+     "zh": "Joe 想和 Brian 做朋友。他在第二幕說了什麼？"
+    },
+    {
+     "id": 2,
+     "text": "2. Are you a good child? What do you think you can do better?",
+     "placeholder": "請輸入答案",
+     "answer": "Yes, I am a good child. I can listen to my parents more.",
+     "variations": [
+      "I think I can tidy up my bedroom more often."
+     ],
+     "explanation": "開放題，自由作答。用 should / shouldn’t 說出你想改進的地方即可。",
+     "zh": "你是個好孩子嗎？你覺得自己可以在哪些方面做得更好？"
+    }
+   ]
+  },
+  "wordBank": {
+   "title": "練習 3：詞庫填空（好習慣）",
+   "icon": "fa-trophy",
+   "description": "從詞庫中選擇正確的詞語，完成 Brian 應該做什麼：",
+   "bank": [
+    "be friendly",
+    "be honest",
+    "be on time",
+    "be polite",
+    "clean his room",
+    "dress neatly",
+    "listen to his parents",
+    "work hard"
+   ],
+   "items": [
+    {
+     "id": "w1",
+     "before": "1. Brian should ",
+     "after": " and say sorry to his mum.",
+     "answer": "be polite",
+     "explanation": "Brian 應該對媽媽有禮貌（be polite）。"
+    },
+    {
+     "id": "w2",
+     "before": "2. Brian should ",
+     "after": " and not lie.",
+     "answer": "be honest",
+     "explanation": "Brian 應該誠實（be honest），不要說謊。"
+    },
+    {
+     "id": "w3",
+     "before": "3. Brian should ",
+     "after": " and not be late for school.",
+     "answer": "be on time",
+     "explanation": "Brian 應該準時（be on time）上學。"
+    },
+    {
+     "id": "w4",
+     "before": "4. Brian should ",
+     "after": " and get good marks.",
+     "answer": "work hard",
+     "explanation": "Brian 應該努力學習（work hard）。"
+    },
+    {
+     "id": "w5",
+     "before": "5. Brian should ",
+     "after": " because his room is messy.",
+     "answer": "clean his room",
+     "explanation": "Brian 的房間很亂，所以他應該打掃房間（clean his room）。"
+    },
+    {
+     "id": "w6",
+     "before": "6. Brian should ",
+     "after": " and look smart.",
+     "answer": "dress neatly",
+     "explanation": "Brian 應該衣著整潔（dress neatly）。"
+    },
+    {
+     "id": "w7",
+     "before": "7. Brian should ",
+     "after": " because they care about him.",
+     "answer": "listen to his parents",
+     "explanation": "父母關心 Brian，所以他應該聽父母的話（listen to his parents）。"
+    },
+    {
+     "id": "w8",
+     "before": "8. Brian should ",
+     "after": " to his classmates.",
+     "answer": "be friendly",
+     "explanation": "Brian 應該對同學友善（be friendly）。"
+    }
+   ]
+  },
+  "sentencePattern": {
+   "title": "練習 4：劇本填空（will）",
+   "icon": "fa-image",
+   "description": "根據 Brian 的新年計劃（Go to the library every weekend / Wash my football uniform / Tidy up my bedroom / Listen to my parents），完成 Scene 3 的劇本：",
+   "items": [
+    {
+     "id": "s1",
+     "before": "1. First, I want to read more books, so I will ",
+     "after": ".",
+     "placeholder": "輸入計劃",
+     "answer": "go to the library every weekend",
+     "variations": [
+      "go to the library"
+     ],
+     "explanation": "Brian 的計劃之一是 Go to the library every weekend，所以填 go to the library every weekend。"
+    },
+    {
+     "id": "s2",
+     "before": "2. I also want to be a neat and clean boy. I will ",
+     "after": " after use.",
+     "placeholder": "輸入計劃",
+     "answer": "wash my football uniform",
+     "variations": [
+      "wash my uniform"
+     ],
+     "explanation": "計劃中有 Wash my football uniform，用完後清洗，所以填 wash my football uniform。"
+    },
+    {
+     "id": "s3",
+     "before": "3. ",
+     "after": " I don’t want it to be messy any more.",
+     "placeholder": "輸入句子",
+     "answer": "I will tidy up my bedroom",
+     "variations": [
+      "Tidy up my bedroom"
+     ],
+     "explanation": "計劃中有 Tidy up my bedroom，表示不想房間再亂，所以填 I will tidy up my bedroom。"
+    },
+    {
+     "id": "s4",
+     "before": "4. Finally, ",
+     "after": " because they care a lot about me.",
+     "placeholder": "輸入句子",
+     "answer": "I will listen to my parents",
+     "variations": [
+      "I will listen to them"
+     ],
+     "explanation": "計劃中有 Listen to my parents，因為父母很關心他，所以填 I will listen to my parents。"
+    }
+   ]
+  },
+  "discussion": {
+   "title": "練習 5：討論與口語",
+   "icon": "fa-users",
+   "description": "和同學討論，然後回答問題：",
+   "questions": [
+    {
+     "id": 1,
+     "text": "1. What should Brian do and not do to win the Best Student Award?",
+     "placeholder": "請輸入答案",
+     "reference": "<strong>參考答案：</strong> He should work hard and be honest. He shouldn’t be late or lie.<br><strong>中文翻譯：</strong> 他應該努力和誠實。他不應該遲到或說謊。"
+    },
+    {
+     "id": 2,
+     "text": "2. What will you do to become a good boy or girl?",
+     "placeholder": "請輸入答案",
+     "reference": "<strong>參考答案：</strong> I will tidy up my bedroom. I will listen to my parents.<br><strong>中文翻譯：</strong> 我會整理我的臥室。我會聽父母的話。"
+    },
+    {
+     "id": 3,
+     "text": "3. What should you and shouldn’t you do in a play audition?",
+     "placeholder": "請輸入答案",
+     "reference": "<strong>參考答案：</strong> We should be polite and speak clearly. We shouldn’t be late or be naughty.<br><strong>中文翻譯：</strong> 我們應該有禮貌、說話清晰。我們不應該遲到或頑皮。"
+    }
+   ]
+  }
+ },
+ "quiz": {
+  "info": "滿分：15分",
+  "maxScore": 15,
+  "sections": [
+   {
+    "type": "choice",
+    "attr": "quiz",
+    "keyPrefix": "",
+    "title": "文法辨識題（每題 1 分）",
+    "icon": "fa-check-circle",
+    "questions": [
+     {
+      "id": 1,
+      "text": "1. Which sentence is correct?",
+      "options": [
+       {
+        "key": "a",
+        "text": "a. I will tidy up my bedroom tomorrow."
+       },
+       {
+        "key": "b",
+        "text": "b. I tidy will up my bedroom tomorrow."
+       },
+       {
+        "key": "c",
+        "text": "c. I will up tidy my bedroom tomorrow."
+       },
+       {
+        "key": "d",
+        "text": "d. Will I tidy up my bedroom tomorrow."
+       }
+      ],
+      "answer": "a",
+      "explanation": "will 後面接動詞原形，正確句是 I will tidy up my bedroom tomorrow.，所以選 a。"
+     },
+     {
+      "id": 2,
+      "text": "2. Which sentence means ‘You must not be late’?",
+      "options": [
+       {
+        "key": "a",
+        "text": "a. You should be late."
+       },
+       {
+        "key": "b",
+        "text": "b. You shouldn’t be late."
+       },
+       {
+        "key": "c",
+        "text": "c. You will be late."
+       },
+       {
+        "key": "d",
+        "text": "d. You are late."
+       }
+      ],
+      "answer": "b",
+      "explanation": "shouldn’t 表示「不應該」，You shouldn’t be late 即「你不應該遲到」，選 b。"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "attr": "match",
+    "keyPrefix": "match",
+    "title": "詞彙理解題（每題 1 分）",
+    "icon": "fa-link",
+    "description": "選擇正確答案：",
+    "questions": [
+     {
+      "id": 1,
+      "text": "1. What does ‘messy’ mean?",
+      "options": [
+       {
+        "key": "a",
+        "text": "a. clean and tidy"
+       },
+       {
+        "key": "b",
+        "text": "b. untidy and dirty"
+       },
+       {
+        "key": "c",
+        "text": "c. new and modern"
+       },
+       {
+        "key": "d",
+        "text": "d. big and bright"
+       }
+      ],
+      "answer": "b",
+      "explanation": "messy 意思是凌亂的、不整潔的（untidy），所以選 b。"
+     },
+     {
+      "id": 2,
+      "text": "2. Who reads the story in a play?",
+      "options": [
+       {
+        "key": "a",
+        "text": "a. the narrator"
+       },
+       {
+        "key": "b",
+        "text": "b. the idol"
+       },
+       {
+        "key": "c",
+        "text": "c. the customer"
+       },
+       {
+        "key": "d",
+        "text": "d. the cashier"
+       }
+      ],
+      "answer": "a",
+      "explanation": "在戲劇中講述故事的是旁白（narrator），所以選 a。"
+     }
+    ]
+   },
+   {
+    "type": "choice",
+    "attr": "reading",
+    "keyPrefix": "reading",
+    "title": "閱讀理解選擇題（每題 2 分）",
+    "icon": "fa-book-reader",
+    "questions": [
+     {
+      "id": 1,
+      "text": "1. Why was Mum angry with Brian?",
+      "options": [
+       {
+        "key": "a",
+        "text": "a. He was late for school."
+       },
+       {
+        "key": "b",
+        "text": "b. He lied about his homework."
+       },
+       {
+        "key": "c",
+        "text": "c. He was watching TV."
+       },
+       {
+        "key": "d",
+        "text": "d. He ate the eggs."
+       }
+      ],
+      "answer": "b",
+      "explanation": "Mum 說 You lied to me, Brian，Brian 謊稱做完功課，所以媽媽生氣，選 b。"
+     },
+     {
+      "id": 2,
+      "text": "2. What did Joe tell Brian to do first?",
+      "options": [
+       {
+        "key": "a",
+        "text": "a. be polite"
+       },
+       {
+        "key": "b",
+        "text": "b. be honest"
+       },
+       {
+        "key": "c",
+        "text": "c. listen to his parents"
+       },
+       {
+        "key": "d",
+        "text": "d. tidy up his room"
+       }
+      ],
+      "answer": "a",
+      "explanation": "Joe 說 First of all, you should be polite，首先要有禮貌，選 a。"
+     }
+    ]
+   },
+   {
+    "type": "blank",
+    "title": "will / should 填空題（每題 2 分）",
+    "icon": "fa-edit",
+    "description": "用 will / should / shouldn’t 填空：",
+    "questions": [
+     {
+      "id": 1,
+      "text": "1. You ____ work hard to get good marks.",
+      "options": [
+       "should",
+       "shouldn’t",
+       "will"
+      ],
+      "answer": "should",
+      "explanation": "給建議用 should：You should work hard（你應該努力）。"
+     },
+     {
+      "id": 2,
+      "text": "2. I ____ tidy up my bedroom tomorrow.",
+      "options": [
+       "shouldn’t",
+       "will",
+       "should"
+      ],
+      "answer": "will",
+      "explanation": "表示將來要做的事用 will：I will tidy up my bedroom。"
+     }
+    ]
+   },
+   {
+    "type": "sentence",
+    "title": "句型運用題（每題 3 分）",
+    "icon": "fa-pen",
+    "prompt": "用 should 或 shouldn’t 寫一句給同學的建議：",
+    "id": "sentenceAnswer",
+    "placeholder": "請輸入句子",
+    "answer": "You should listen to your parents.",
+    "explanation": "示例：You should listen to your parents.（你應該聽父母的話。）或 You shouldn’t be late.（你不應該遲到。）用 should/shouldn’t + 動詞原形即可。"
+   }
+  ]
+ },
+ "sidebar": {
+  "learningPoints": {
+   "title": "Unit 6：Growing up（成長）",
+   "icon": "fa-child-reaching",
+   "theme": "好習慣與規則",
+   "goals": [
+    "能閱讀戲劇（Play）劇本並理解內容",
+    "能認識好習慣詞彙（tidy up, be polite, be honest 等）",
+    "能用 will 表達將來的行動",
+    "能用 should / shouldn’t 談論規則",
+    "能用 First of all / Secondly / Thirdly 列舉",
+    "能讀短音 e（short “e”）的單詞"
+   ]
+  },
+  "languageFocus": {
+   "sections": [
+    {
+     "title": "1. 好習慣詞彙：",
+     "items": [
+      "be friendly, be honest, be on time, be polite",
+      "clean his room, dress neatly, listen to his parents, work hard"
+     ]
+    },
+    {
+     "title": "2. 一般將來式 will：",
+     "items": [
+      "I will tidy up my bedroom.",
+      "I will do my homework.",
+      "Brian will receive the Best Student Award next month."
+     ]
+    },
+    {
+     "title": "3. 規則 should / shouldn’t：",
+     "items": [
+      "You should work hard. / You should be honest.",
+      "You shouldn’t lie about doing your homework. / You shouldn’t be late."
+     ]
+    },
+    {
+     "title": "4. 文本類型：",
+     "items": [
+      "Play（戲劇）——有場景、角色、旁白和台詞；Text types: plays, notes, e-mails, rhymes"
+     ]
+    }
+   ]
+  }
+ }
+}
