@@ -4027,52 +4027,34 @@ function submitQuiz() {
         }
     }
     
-    // 4. 檢查比較級填空題 (2題，每題2分) - 更新部分
-    const quizBlank1 = document.getElementById('quizBlank1').value.trim().toLowerCase();
-    const quizBlank2 = document.getElementById('quizBlank2').value.trim().toLowerCase();
-    const result1 = document.getElementById('quizBlank1-result');
-    const result2 = document.getElementById('quizBlank2-result');
-    
-    // 第一題
-    if(quizBlank1 === quizAnswers.quizBlank1) {
-        markElementCorrect(document.getElementById('quizBlank1'));
-        result1.textContent = "✅ 正確！";
-        result1.className = "result correct";
-        result1.style.display = "block";
-        score += 2;
-    } else {
-        if(quizBlank1 !== '') {
-            markElementIncorrect(document.getElementById('quizBlank1'));
-            result1.textContent = `❌ 不正確。正確答案: ${quizAnswers.quizBlank1}`;
-        } else {
-            result1.textContent = `❌ 未回答。正確答案: ${quizAnswers.quizBlank1}`;
-            document.getElementById('quizBlank1').style.borderColor = '#ff9800';
-            document.getElementById('quizBlank1').style.backgroundColor = '#fff3cd';
-        }
-        result1.className = "result incorrect";
-        result1.style.display = "block";
+    // 4. 檢查數量詞/填空題（每題 2 分；資料驅動，支援任意題數）
+    const blankSec = ((LESSON && LESSON.quiz && LESSON.quiz.sections) || []).find(function (sc) { return sc.type === 'blank'; });
+    if (blankSec && blankSec.questions) {
+        blankSec.questions.forEach(function (q) {
+            const input = document.getElementById(q.id);
+            const result = document.getElementById(q.id + '-result');
+            if (!input || !result) return;
+            const val = input.value.trim().toLowerCase();
+            if (val === String(q.answer).toLowerCase()) {
+                markElementCorrect(input);
+                result.textContent = '✅ 正確！';
+                result.className = 'result correct';
+                score += 2;
+            } else {
+                if (val !== '') {
+                    markElementIncorrect(input);
+                    result.textContent = '❌ 不正確。正確答案: ' + q.answer;
+                } else {
+                    input.style.borderColor = '#ff9800';
+                    input.style.backgroundColor = '#fff3cd';
+                    result.textContent = '❌ 未回答。正確答案: ' + q.answer;
+                }
+                result.className = 'result incorrect';
+            }
+            result.style.display = 'block';
+        });
     }
-    
-    // 第二題
-    if(quizBlank2 === quizAnswers.quizBlank2) {
-        markElementCorrect(document.getElementById('quizBlank2'));
-        result2.textContent = "✅ 正確！";
-        result2.className = "result correct";
-        result2.style.display = "block";
-        score += 2;
-    } else {
-        if(quizBlank2 !== '') {
-            markElementIncorrect(document.getElementById('quizBlank2'));
-            result2.textContent = `❌ 不正確。正確答案: ${quizAnswers.quizBlank2}`;
-        } else {
-            result2.textContent = `❌ 未回答。正確答案: ${quizAnswers.quizBlank2}`;
-            document.getElementById('quizBlank2').style.borderColor = '#ff9800';
-            document.getElementById('quizBlank2').style.backgroundColor = '#fff3cd';
-        }
-        result2.className = "result incorrect";
-        result2.style.display = "block";
-    }
-    
+
     // 5. 檢查造句題 (1題，3分) - 更新部分
     const sentenceAnswer = document.getElementById('sentenceAnswer').value.trim();
     const sentenceResult = document.getElementById('sentenceAnswer-result');
@@ -5496,8 +5478,17 @@ function resetQuiz() {
                 } else if (sec.type === 'blank') {
                     html += '<div class="fill-blank-container">';
                     sec.questions.forEach(q => {
+                        let qb = '', qa = '';
+                        if (q.before !== undefined || q.after !== undefined) {
+                            qb = q.before || '';
+                            qa = q.after || '';
+                        } else if (q.text) {
+                            const parts = String(q.text).split(/_\s{3,}|_{3,}/);
+                            qb = parts[0] || '';
+                            qa = parts.slice(1).join('____') || '';
+                        }
                         html += '<div class="fill-blank-item"><div class="blank-sentence">';
-                        html += esc(q.before) + '<input type="text" class="blank-input" id="' + q.id + '" style="width: 80px;">' + esc(q.after);
+                        html += esc(qb) + '<input type="text" class="blank-input" id="' + q.id + '" style="width: 90px;">' + esc(qa);
                         html += '<div class="result" id="' + q.id + '-result" style="margin-top: 10px;"></div>';
                         html += '</div>' + explainBtnHtml('expl-' + q.id) + explanationDivHtml('expl-' + q.id, q.explanation || '') + '</div>';
                     });
@@ -5918,8 +5909,17 @@ function resetQuiz() {
                 } else if (sec.type === 'blank') {
                     html += '<div class="fill-blank-container">';
                     sec.questions.forEach(q => {
+                        let qb = '', qa = '';
+                        if (q.before !== undefined || q.after !== undefined) {
+                            qb = q.before || '';
+                            qa = q.after || '';
+                        } else if (q.text) {
+                            const parts = String(q.text).split(/_\s{3,}|_{3,}/);
+                            qb = parts[0] || '';
+                            qa = parts.slice(1).join('____') || '';
+                        }
                         html += '<div class="fill-blank-item"><div class="blank-sentence">';
-                        html += esc(q.before) + '<input type="text" class="blank-input" id="' + q.id + '" style="width: 80px;">' + esc(q.after);
+                        html += esc(qb) + '<input type="text" class="blank-input" id="' + q.id + '" style="width: 90px;">' + esc(qa);
                         html += '<div class="result" id="' + q.id + '-result" style="margin-top: 10px;"></div>';
                         html += '</div>' + explainBtnHtml('expl-' + q.id) + explanationDivHtml('expl-' + q.id, q.explanation || '') + '</div>';
                     });
