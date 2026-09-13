@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>小學英文練習</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
     <style>
         * {
             box-sizing: border-box;
@@ -2439,8 +2439,27 @@
                 max-width: 100%;
             }
         }
+    
+        /* 防止選中文本（保留點擊發聲/按鈕功能；輸入框與文本域可選可輸入） */
+        .app-shell, .flashcard, .flashcard *, button, .btn,
+        .sentence, .sentence-zh, .key-term, .paragraph-container,
+        .reader-sentence, .reader-script, .lyrics-container, .song-title,
+        .match-item, .drag-item, .fact-opinion-table, .grammar-item,
+        .grammar-rule, .text-type-box, .option, .tab, .flashcard-word,
+        .flashcard-meaning, .activity-title, .question h4, .blank-sentence,
+        .example-english, .example-chinese, .card, .nav-item, label {
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
         }
-    </style>
+        input, textarea, [contenteditable="true"] {
+            -webkit-user-select: text;
+            -moz-user-select: text;
+            -ms-user-select: text;
+            user-select: text;
+        }
+</style>
 <body>
     <div id="loadError" style="display:none; position:fixed; top:0; left:0; right:0; background:#c0392b; color:#fff; padding:16px 20px; text-align:center; z-index:2000; font-size:1.05rem; line-height:1.5;">
         無法載入單元資料檔案（Data/4A/Unit1.json 等）。此頁需透過網頁伺服器開啟（例如 GitHub Pages，或在本資料夾執行 python -m http.server），請勿直接雙擊檔案開啟。
@@ -8045,7 +8064,7 @@ function resetQuiz() {
             tryNext();
         }
 
-        // 逐句播放（TTS）
+        // 逐句播放：先試本地逐句 mp3（{audio}-sN.mp3），缺檔才 TTS
         function playSegmentTTS(idx) {
             if (!readerState.segments.length || idx < 0 || idx >= readerState.segments.length) return;
             stopCurrentAudio();
@@ -8056,9 +8075,28 @@ function resetQuiz() {
             if (main) { main.classList.add('playing'); main.innerHTML = '<i class="fas fa-pause"></i>'; }
             updateHighlight(idx);
             const seg = readerState.segments[idx];
-            speakEnglish(seg.en, function() {
-                if (readerState.playing && !readerState.audio) stopReadingPlayback();
-            });
+            const script = (LESSON.listening && LESSON.listening.script) || {};
+            const key = script.audio ? audioBase() + '/' + script.audio + '-s' + (idx + 1) + '.mp3' : '';
+            if (key) {
+                const a = new Audio(key);
+                let fellBack = false;
+                a.addEventListener('error', function() {
+                    if (fellBack || !readerState.playing) return;
+                    fellBack = true;
+                    speakEnglish(seg.en, function() {
+                        if (readerState.playing && !readerState.audio) stopReadingPlayback();
+                    });
+                }, { once: true });
+                a.addEventListener('canplaythrough', function() {
+                    if (fellBack) return;
+                    startLocalPlayback(a);
+                }, { once: true });
+                a.load();
+            } else {
+                speakEnglish(seg.en, function() {
+                    if (readerState.playing && !readerState.audio) stopReadingPlayback();
+                });
+            }
         }
 
         function listeningPlayToggle() {
