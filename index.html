@@ -7977,7 +7977,14 @@ function resetQuiz() {
                 const i = parseInt(s.getAttribute('data-idx'), 10);
                 s.classList.toggle('playing', i === idx);
                 if (i === idx && idx >= 0) {
-                    try { s.scrollIntoView({ block: 'nearest', behavior: 'smooth' }); } catch (e) {}
+                    const cont = document.querySelector('.reader-content');
+                    if (cont) {
+                        const top = s.offsetTop - cont.offsetTop - 10;
+                        if (top < cont.scrollTop) { cont.scrollTop = Math.max(0, top); }
+                        else if (top + s.offsetHeight + 10 > cont.scrollTop + cont.clientHeight) {
+                            cont.scrollTop = Math.max(0, top + s.offsetHeight + 10 - cont.clientHeight);
+                        }
+                    }
                 }
             });
         }
@@ -8089,7 +8096,17 @@ function resetQuiz() {
                 }, { once: true });
                 a.addEventListener('canplaythrough', function() {
                     if (fellBack) return;
-                    startLocalPlayback(a);
+                    stopReadingPlayback();
+                    readerState.audio = a;
+                    readerState.playing = true;
+                    setWaveOn(true);
+                    updateReaderPlayBtn();
+                    const main = document.querySelector('.listening-play-btn');
+                    if (main) { main.classList.add('playing'); main.innerHTML = '<i class="fas fa-pause"></i>'; }
+                    updateHighlight(idx);
+                    a.play().catch(function() { stopReadingPlayback(); });
+                    a.addEventListener('ended', function() { if (readerState.audio === a) stopReadingPlayback(); }, { once: true });
+                    a.addEventListener('error', function() { if (readerState.audio === a) stopReadingPlayback(); }, { once: true });
                 }, { once: true });
                 a.load();
             } else {
