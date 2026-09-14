@@ -48,6 +48,19 @@
             opacity: 0.9;
             margin-bottom: 10px;
         }
+        .hdr-zh {
+            display: block;
+            font-size: 1.7rem;
+            font-weight: 600;
+            margin: 6px 0 2px;
+            letter-spacing: 1px;
+        }
+        .hdr-tag {
+            display: block;
+            font-size: 1.1rem;
+            opacity: 0.85;
+            margin-bottom: 8px;
+        }
         
         .main-content {
             display: flex;
@@ -1843,6 +1856,12 @@
             .subtitle {
                 font-size: 1rem;
                 margin-bottom: 6px;
+            }
+            .hdr-zh {
+                font-size: 1.35rem;
+            }
+            .hdr-tag {
+                font-size: 0.95rem;
             }
             .main-content {
                 padding: 10px;
@@ -5201,11 +5220,31 @@ function resetQuiz() {
             return '<div class="question-explanation" id="' + id + '">' + text + '</div>';
         }
 
+        function parseHeader(m) {
+            const st = (m.subtitle || '').trim();
+            const mm = st.match(/^(4A|4B)\s+(.*)$/);
+            if (!mm) return { head: m.title || '', zh: '', tag: st };
+            const book = mm[1];
+            let rest = mm[2].trim();
+            let tag = book;
+            const um = rest.match(/^(Unit\s*\d+|單元\s*\d+|Consolidate)\s*[:：]?\s*(.*)$/i);
+            if (um) { tag = book + ' ' + um[1]; rest = um[2].trim(); }
+            let head = rest, zh = '';
+            const zm = rest.match(/^(.*?)[（(]([^（）()]*)[）)](.*)$/);
+            if (zm) {
+                head = (zm[1] || '').trim();
+                zh = (zm[2] || '').trim();
+            }
+            if (!head) head = rest;
+            return { head: head || st, zh: zh, tag: tag };
+        }
+
         function applyMeta() {
             const m = LESSON.meta;
             document.title = m.pageTitleTag;
-            document.getElementById('pageHeader').innerHTML = '<i class="fas ' + m.headerIcon + '"></i> ' + esc(m.title);
-            document.getElementById('pageSubtitle').textContent = m.subtitle;
+            const hd = parseHeader(m);
+            document.getElementById('pageHeader').innerHTML = '<i class="fas ' + m.headerIcon + '"></i> ' + esc(hd.head);
+            document.getElementById('pageSubtitle').innerHTML = (hd.zh ? '<span class="hdr-zh">' + esc(hd.zh) + '</span>' : '') + '<span class="hdr-tag">' + esc(hd.tag) + '</span>';
             STORAGE_KEY = m.storageKey;
             totalPracticeQuestions = m.totalPractice || 8;
             MAX_QUIZ_SCORE = (LESSON.quiz && LESSON.quiz.maxScore) || 15;
